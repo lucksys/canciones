@@ -7,7 +7,7 @@
 <title>Composiciones Musicales para el Alma</title>
 
 <!-- ========================= -->
-<!-- 🔥 OPEN GRAPH (PREVIEW) -->
+<!-- 🔥 OPEN GRAPH -->
 <!-- ========================= -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Composiciones Musicales para el Alma">
@@ -20,7 +20,7 @@
 <meta property="og:url" content="https://lucksys.github.io/canciones/">
 
 <!-- ========================= -->
-<!-- 🔥 TWITTER CARD -->
+<!-- 🔥 TWITTER -->
 <!-- ========================= -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Composiciones Musicales para el Alma">
@@ -37,17 +37,17 @@ body {
 }
 
 .overlay {
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.92);
     min-height: 100vh;
     padding: 20px;
 }
 
 h1 {
     text-align: center;
-    font-size: 2.5em;
+    font-size: 2.6em;
     letter-spacing: 2px;
     margin-bottom: 30px;
-    text-shadow: 0 0 12px #d4af37;
+    text-shadow: 0 0 15px #d4af37;
 }
 
 .container {
@@ -72,36 +72,37 @@ h1 {
     padding-bottom: 10px;
 }
 
+/* 🔥 UNA SOLA COLUMNA */
 .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 15px;
+    grid-template-columns: 1fr;
+    gap: 25px;
 }
 
 .card {
     background: #111;
     border: 1px solid #d4af37;
-    border-radius: 10px;
+    border-radius: 12px;
     overflow: hidden;
     transition: 0.3s;
     text-align: center;
 }
 
 .card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 15px #d4af37;
+    transform: scale(1.02);
+    box-shadow: 0 0 20px #d4af37;
 }
 
 .card img {
     width: 100%;
-    height: 140px;
+    height: 260px;
     object-fit: cover;
     background: #000;
 }
 
 .card-title {
-    padding: 10px;
-    font-size: 0.9em;
+    padding: 12px;
+    font-size: 1em;
 }
 
 a {
@@ -125,7 +126,7 @@ a {
 
 <div class="container">
 
-    <!-- 🔹 VIDEOS -->
+    <!-- VIDEOS -->
     <div class="column">
         <h2>Videos Karaoke</h2>
         <div id="videos" class="grid">
@@ -133,7 +134,7 @@ a {
         </div>
     </div>
 
-    <!-- 🔹 CANCIONES -->
+    <!-- CANCIONES -->
     <div class="column">
         <h2>Canciones</h2>
         <div class="grid">
@@ -151,11 +152,9 @@ async function cargarVideos() {
 
     try {
         const res = await fetch("Lista_de_Enlaces_de_Videos.txt");
-
         if (!res.ok) throw new Error("No se pudo leer el archivo");
 
         const texto = await res.text();
-
         const bloques = texto.split("------------------------------------------------------------------------------");
 
         let total = 0;
@@ -171,15 +170,22 @@ async function cargarVideos() {
 
             if (lineas.length < 3) continue;
 
-            // 🎵 TÍTULO DINÁMICO
+            // 🔢 EXTRAER ÍNDICE Y TÍTULO
+            let indice = null;
             let titulo = "Sin título";
+
             if (lineas[0].includes("-")) {
-                titulo = lineas[0].split("-")[1].trim().replaceAll("_", " ");
+                const partes = lineas[0].split("-");
+                indice = parseInt(partes[0].trim());
+                titulo = partes[1]?.trim().replaceAll("_", " ");
             }
+
+            // ❌ IGNORAR índice 0 o inválido
+            if (!indice || indice <= 0) continue;
 
             const urlPagina = lineas[lineas.length - 1];
 
-            // 🔹 Crear tarjeta base
+            // Crear tarjeta
             const link = document.createElement("a");
             link.href = urlPagina;
             link.target = "_blank";
@@ -188,12 +194,12 @@ async function cargarVideos() {
             card.className = "card";
 
             const img = document.createElement("img");
-            img.src = "https://via.placeholder.com/300x140?text=Cargando...";
+            img.src = "https://via.placeholder.com/600x260?text=Cargando...";
             img.alt = titulo;
 
             const titleDiv = document.createElement("div");
             titleDiv.className = "card-title";
-            titleDiv.textContent = titulo;
+            titleDiv.textContent = indice + " - " + titulo;
 
             card.appendChild(img);
             card.appendChild(titleDiv);
@@ -202,10 +208,9 @@ async function cargarVideos() {
 
             total++;
 
-            // 🔍 Intentar extraer imagen del HTML
+            // 🔍 Buscar imagen dentro del HTML
             try {
                 const htmlRes = await fetch(urlPagina);
-
                 if (!htmlRes.ok) throw new Error();
 
                 const html = await htmlRes.text();
@@ -218,17 +223,17 @@ async function cargarVideos() {
                 if (metaImg && metaImg.getAttribute("content")) {
                     img.src = metaImg.getAttribute("content");
                 } else {
-                    img.src = "https://via.placeholder.com/300x140?text=Sin+Imagen";
+                    img.src = "https://via.placeholder.com/600x260?text=Sin+Imagen";
                 }
 
             } catch (e) {
                 console.warn("Error en:", urlPagina);
-                img.src = "https://via.placeholder.com/300x140?text=Error";
+                img.src = "https://via.placeholder.com/600x260?text=Error";
             }
         }
 
         if (total === 0) {
-            contenedor.innerHTML = '<div class="error">No se encontraron obras</div>';
+            contenedor.innerHTML = '<div class="error">No se encontraron obras válidas</div>';
         }
 
     } catch (err) {
