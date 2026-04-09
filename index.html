@@ -6,9 +6,7 @@
 
 <title>Composiciones Musicales para el Alma</title>
 
-<!-- ========================= -->
-<!-- 🔥 OPEN GRAPH -->
-<!-- ========================= -->
+<!-- OPEN GRAPH -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Composiciones Musicales para el Alma">
 <meta property="og:description" content="Una colección iniciática de obras musicales. Explora los Videos Karaoke y Canciones.">
@@ -19,9 +17,7 @@
 <meta property="og:image:height" content="784">
 <meta property="og:url" content="https://lucksys.github.io/canciones/">
 
-<!-- ========================= -->
-<!-- 🔥 TWITTER -->
-<!-- ========================= -->
+<!-- TWITTER -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Composiciones Musicales para el Alma">
 <meta name="twitter:description" content="Un viaje musical iniciático hacia la luz interior.">
@@ -72,7 +68,7 @@ h1 {
     padding-bottom: 10px;
 }
 
-/* 🔥 UNA SOLA COLUMNA */
+/* UNA SOLA COLUMNA */
 .grid {
     display: grid;
     grid-template-columns: 1fr;
@@ -93,10 +89,11 @@ h1 {
     box-shadow: 0 0 20px #d4af37;
 }
 
+/* 🔥 CORRECCIÓN APLICADA AQUÍ */
 .card img {
     width: 100%;
-    height: 260px;
-    object-fit: cover;
+    height: auto;
+    object-fit: contain;
     background: #000;
 }
 
@@ -170,7 +167,6 @@ async function cargarVideos() {
 
             if (lineas.length < 3) continue;
 
-            // 🔢 EXTRAER ÍNDICE Y TÍTULO
             let indice = null;
             let titulo = "Sin título";
 
@@ -180,35 +176,10 @@ async function cargarVideos() {
                 titulo = partes[1]?.trim().replaceAll("_", " ");
             }
 
-            // ❌ IGNORAR índice 0 o inválido
             if (!indice || indice <= 0) continue;
 
             const urlPagina = lineas[lineas.length - 1];
 
-            // Crear tarjeta
-            const link = document.createElement("a");
-            link.href = urlPagina;
-            link.target = "_blank";
-
-            const card = document.createElement("div");
-            card.className = "card";
-
-            const img = document.createElement("img");
-            img.src = "https://via.placeholder.com/600x260?text=Cargando...";
-            img.alt = titulo;
-
-            const titleDiv = document.createElement("div");
-            titleDiv.className = "card-title";
-            titleDiv.textContent = indice + " - " + titulo;
-
-            card.appendChild(img);
-            card.appendChild(titleDiv);
-            link.appendChild(card);
-            contenedor.appendChild(link);
-
-            total++;
-
-            // 🔍 Buscar imagen dentro del HTML
             try {
                 const htmlRes = await fetch(urlPagina);
                 if (!htmlRes.ok) throw new Error();
@@ -220,20 +191,47 @@ async function cargarVideos() {
 
                 const metaImg = doc.querySelector('meta[name="twitter:image"]');
 
-                if (metaImg && metaImg.getAttribute("content")) {
-                    img.src = metaImg.getAttribute("content");
-                } else {
-                    img.src = "https://via.placeholder.com/600x260?text=Sin+Imagen";
+                if (!metaImg) continue;
+
+                const imgUrl = metaImg.getAttribute("content");
+                if (!imgUrl) continue;
+
+                const imgLower = imgUrl.toLowerCase();
+
+                if (!(imgLower.endsWith(".jpg") || imgLower.endsWith(".jpeg") || imgLower.endsWith(".png"))) {
+                    continue;
                 }
 
+                const link = document.createElement("a");
+                link.href = urlPagina;
+                link.target = "_blank";
+
+                const card = document.createElement("div");
+                card.className = "card";
+
+                const img = document.createElement("img");
+                img.src = imgUrl;
+                img.alt = titulo;
+
+                const titleDiv = document.createElement("div");
+                titleDiv.className = "card-title";
+                titleDiv.textContent = indice + " - " + titulo;
+
+                card.appendChild(img);
+                card.appendChild(titleDiv);
+                link.appendChild(card);
+                contenedor.appendChild(link);
+
+                total++;
+
             } catch (e) {
-                console.warn("Error en:", urlPagina);
-                img.src = "https://via.placeholder.com/600x260?text=Error";
+                console.warn("Descartado:", urlPagina);
+                continue;
             }
         }
 
         if (total === 0) {
-            contenedor.innerHTML = '<div class="error">No se encontraron obras válidas</div>';
+            contenedor.innerHTML = '<div class="error">No se encontraron obras con imagen válida</div>';
         }
 
     } catch (err) {
