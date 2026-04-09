@@ -1,27 +1,244 @@
-Generate a cinematic, symbolic, gnostic-masonic style image.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-Resolution: 1168x784 pixels
-Format: JPG
-File size: less than 60 KB
+<title>Composiciones Musicales para el Alma</title>
 
-Scene:
-A dark sacred temple interior, mystical and initiatic atmosphere. 
-Ancient stone columns fade into shadow. 
-At the center, a subtle glowing geometric symbol combining a compass, square, and a radiant point of light (gnostic illumination). 
-Soft golden light rays emerge from the center, illuminating floating dust particles.
+<!-- ========================= -->
+<!-- 🔥 OPEN GRAPH (PREVIEW) -->
+<!-- ========================= -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Composiciones Musicales para el Alma">
+<meta property="og:description" content="Una colección iniciática de obras musicales. Explora los Videos Karaoke y Canciones.">
+<meta property="og:image" content="https://lucksys.github.io/canciones/portada.jpg">
+<meta property="og:image:secure_url" content="https://lucksys.github.io/canciones/portada.jpg">
+<meta property="og:image:type" content="image/jpg">
+<meta property="og:image:width" content="1168">
+<meta property="og:image:height" content="784">
+<meta property="og:url" content="https://lucksys.github.io/canciones/">
 
-Color palette:
-Deep blacks, dark blues, and subtle shadows with strong golden highlights.
+<!-- ========================= -->
+<!-- 🔥 TWITTER CARD -->
+<!-- ========================= -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Composiciones Musicales para el Alma">
+<meta name="twitter:description" content="Un viaje musical iniciático hacia la luz interior.">
+<meta name="twitter:image" content="https://lucksys.github.io/canciones/portada.jpg">
 
-Mood:
-Sacred, mysterious, esoteric, solemn, transcendental.
+<style>
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background: url("portada.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #d4af37;
+}
 
-Composition:
-Leave central and lower areas slightly darker to allow gold text readability.
-Ensure strong contrast between background and golden tones.
+.overlay {
+    background: rgba(0, 0, 0, 0.9);
+    min-height: 100vh;
+    padding: 20px;
+}
 
-Style:
-Cinematic, high detail, soft glow, volumetric lighting, no modern elements.
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    text-shadow: 0 0 12px #d4af37;
+}
 
-Compression:
-Optimize JPG to be under 60KB while maintaining clarity.
+.container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex: 1;
+    min-width: 320px;
+    border: 1px solid #d4af37;
+    padding: 15px;
+    border-radius: 12px;
+    background: rgba(10,10,10,0.75);
+}
+
+.column h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #d4af37;
+    padding-bottom: 10px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 15px;
+}
+
+.card {
+    background: #111;
+    border: 1px solid #d4af37;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px #d4af37;
+}
+
+.card img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    background: #000;
+}
+
+.card-title {
+    padding: 10px;
+    font-size: 0.9em;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.loading, .error {
+    text-align: center;
+    opacity: 0.7;
+    padding: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="overlay">
+
+<h1>Composiciones Musicales para el Alma</h1>
+
+<div class="container">
+
+    <!-- 🔹 VIDEOS -->
+    <div class="column">
+        <h2>Videos Karaoke</h2>
+        <div id="videos" class="grid">
+            <div class="loading">Cargando obras iniciáticas...</div>
+        </div>
+    </div>
+
+    <!-- 🔹 CANCIONES -->
+    <div class="column">
+        <h2>Canciones</h2>
+        <div class="grid">
+            <p class="loading">Próximamente...</p>
+        </div>
+    </div>
+
+</div>
+</div>
+
+<script>
+async function cargarVideos() {
+    const contenedor = document.getElementById("videos");
+    contenedor.innerHTML = "";
+
+    try {
+        const res = await fetch("Lista_de_Enlaces_de_Videos.txt");
+
+        if (!res.ok) throw new Error("No se pudo leer el archivo");
+
+        const texto = await res.text();
+
+        const bloques = texto.split("------------------------------------------------------------------------------");
+
+        let total = 0;
+
+        for (let bloque of bloques) {
+
+            bloque = bloque.trim();
+            if (!bloque) continue;
+
+            const lineas = bloque.split("\n")
+                .map(l => l.trim())
+                .filter(l => l.length > 0);
+
+            if (lineas.length < 3) continue;
+
+            // 🎵 TÍTULO DINÁMICO
+            let titulo = "Sin título";
+            if (lineas[0].includes("-")) {
+                titulo = lineas[0].split("-")[1].trim().replaceAll("_", " ");
+            }
+
+            const urlPagina = lineas[lineas.length - 1];
+
+            // 🔹 Crear tarjeta base
+            const link = document.createElement("a");
+            link.href = urlPagina;
+            link.target = "_blank";
+
+            const card = document.createElement("div");
+            card.className = "card";
+
+            const img = document.createElement("img");
+            img.src = "https://via.placeholder.com/300x140?text=Cargando...";
+            img.alt = titulo;
+
+            const titleDiv = document.createElement("div");
+            titleDiv.className = "card-title";
+            titleDiv.textContent = titulo;
+
+            card.appendChild(img);
+            card.appendChild(titleDiv);
+            link.appendChild(card);
+            contenedor.appendChild(link);
+
+            total++;
+
+            // 🔍 Intentar extraer imagen del HTML
+            try {
+                const htmlRes = await fetch(urlPagina);
+
+                if (!htmlRes.ok) throw new Error();
+
+                const html = await htmlRes.text();
+
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, "text/html");
+
+                const metaImg = doc.querySelector('meta[name="twitter:image"]');
+
+                if (metaImg && metaImg.getAttribute("content")) {
+                    img.src = metaImg.getAttribute("content");
+                } else {
+                    img.src = "https://via.placeholder.com/300x140?text=Sin+Imagen";
+                }
+
+            } catch (e) {
+                console.warn("Error en:", urlPagina);
+                img.src = "https://via.placeholder.com/300x140?text=Error";
+            }
+        }
+
+        if (total === 0) {
+            contenedor.innerHTML = '<div class="error">No se encontraron obras</div>';
+        }
+
+    } catch (err) {
+        contenedor.innerHTML = '<div class="error">Error cargando la lista</div>';
+        console.error(err);
+    }
+}
+
+cargarVideos();
+</script>
+
+</body>
+</html>
