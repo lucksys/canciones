@@ -132,7 +132,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/el_misterio_de_sophia/portada.jpg"
 video: "https://drive.google.com/file/d/1i5bTB5nIG4Zu3AdmQbrPxv7uHRJr6znW/preview"
-cancion: "https://drive.google.com/file/d/1i5bTB5nIG4Zu3AdmQbrPxv7uHRJr6znW/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/18UeKPp5KXzvHG7cOj9rAg_7u5cZ2mtan/view"
 web: "https://lucksys.github.io/canciones/el_misterio_de_sophia/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -143,7 +143,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/canciones/el_grito_rosacruz/portada.jpg"
 video: "https://drive.google.com/file/d/1prjwXopi8b6653KF3DAg2YNfaFG-yJ7V/preview"
-cancion: "https://drive.google.com/file/d/1prjwXopi8b6653KF3DAg2YNfaFG-yJ7V/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/18XHjFhxTqG4ZCr2oam1Sm6n2D_eQPNAE/view"
 web: "https://lucksys.github.io/canciones/el_grito_rosacruz/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -154,7 +154,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/portada.jpg"
 video: "https://drive.google.com/file/d/1dc-sMPmn97R0ve_XTH5e5GghLS99A2SU/preview"
-cancion: "https://drive.google.com/file/d/1dc-sMPmn97R0ve_XTH5e5GghLS99A2SU/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/12Tw0rGYVOU58ZkRIjVRQV37bTlrb2fvY/view"
 web: "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -165,7 +165,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/camino_de_la_unidad/portada.jpg"
 video: "https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/preview"
-cancion: "https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1QGWUz05KvkxOfedMUii15vvHp2M36Xua/view"
 web: "https://lucksys.github.io/canciones/camino_de_la_unidad/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -176,7 +176,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/gnosis_cristica/Portada_Himno.jpeg"
 video: "https://drive.google.com/file/d/1jAHJ7haYoqU0yAtBPh2S5VL6hHTSrwnV/preview"
-cancion: "https://drive.google.com/file/d/1jAHJ7haYoqU0yAtBPh2S5VL6hHTSrwnV/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1Rpy0aBC4KsbEkGAvUnX5oU7BYhq7UJgH/view"
 web: "https://lucksys.github.io/canciones/gnosis_cristica/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -187,7 +187,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/canciones/gnosis_cristica/Portada._Rock.jpeg"
 video: "https://drive.google.com/file/d/1f6zI4zC4ozeFOJ2mXqHUSTHTiK9wK8bB/preview"
-cancion: "https://drive.google.com/file/d/1f6zI4zC4ozeFOJ2mXqHUSTHTiK9wK8bB/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1VtX5KtKs6fxdR3oZbDaDs6gf8Pwu7l46/view"
 web: "https://lucksys.github.io/canciones/gnosis_cristica/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
