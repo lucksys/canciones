@@ -285,10 +285,10 @@ N.A."
 25- ne_plus_ultra
 -----------------
 
-imagen: "https://lucksys.github.io/canciones/ne_plus_ultra/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/ne_plus_ultra/portada1.jpg"
 video: "https://drive.google.com/file/d/1ss6CrHmyT_jwVuDVzBU8OI7Cwo9YcTwq/preview"
 cancion: "https://drive.google.com/file/d/1Ov0EZ19-MEevzAHD35Q-f4DVser7VDZT/view"
-web: "https://lucksys.github.io/canciones/ne_plus_ultra/index"
+web: "https://lucksys.github.io/canciones/ne_plus_ultra/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
 
@@ -296,10 +296,10 @@ N.A."
 25- ne_plus_ultra (EPIC)
 ------------------------
 
-imagen: "https://lucksys.github.io/canciones/ne_plus_ultra/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/ne_plus_ultra/portada2.jpg"
 video: "https://drive.google.com/file/d/1mNg3BEdOJ1be3C1To_wPopgOsxAHRjgC/view"
 cancion: "https://drive.google.com/file/d/1mNg3BEdOJ1be3C1To_wPopgOsxAHRjgC/view"
-web: "https://lucksys.github.io/canciones/ne_plus_ultra/index"
+web: "https://lucksys.github.io/canciones/ne_plus_ultra/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
 
@@ -310,7 +310,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada.jpg"
 video: "https://drive.google.com/file/d/19UFKaAr4KEM4vdxcSBNtoy4yzJo0N6yW/preview"
-cancion: "https://drive.google.com/file/d/19UFKaAr4KEM4vdxcSBNtoy4yzJo0N6yW/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/10pvYubqPfUy8FHEbMZh-4iSsDYH2YSH5/view"
 web: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -321,7 +321,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada.jpg"
 video: "https://drive.google.com/file/d/1xuzqtjdkb_8u2BoZxDGivLh2QQ_MiMAX/preview"
-cancion: "https://drive.google.com/file/d/1xuzqtjdkb_8u2BoZxDGivLh2QQ_MiMAX/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1JXyMZcxx_qHw8gsWUE7zpBecLJKve9py/view"
 web: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -332,7 +332,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/portada.jpg"
 video: "https://drive.google.com/file/d/1czU6AVL8c3HYC7qVDg9aFGI4KxIUvijd/preview"
-cancion: "https://drive.google.com/file/d/1czU6AVL8c3HYC7qVDg9aFGI4KxIUvijd/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1ozX6jfwnaFkb_xiAoffGFG1uTMhUeyuO/view"
 web: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index"
 info: "Compósición en idioma: español neutro y Frases en Latín .
 N.A."
@@ -343,7 +343,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/la_trascendencia/portada.jpg"
 video: "https://drive.google.com/file/d/1SUc6FVxZDisg4W5hOQFyMynzBSW_KojB/preview"
-cancion: "https://drive.google.com/file/d/1SUc6FVxZDisg4W5hOQFyMynzBSW_KojB/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1zkeDe_ArafpjJO1uH4YctE0e0QRLhu1v/view"
 web: "https://lucksys.github.io/canciones/la_trascendencia/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -354,7 +354,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/portada.jpg"
 video: "https://drive.google.com/file/d/1prER_ebzSWBj-7Xqj2ePfXJFALL1F25Z/preview"
-cancion: "https://drive.google.com/file/d/1prER_ebzSWBj-7Xqj2ePfXJFALL1F25Z/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1i2hOuwEelHy6_EYlyyS701gSUbQhv_z4/view"
 web: "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/index"
 info: "Compósición en idioma: español neutro.
 N.A."
