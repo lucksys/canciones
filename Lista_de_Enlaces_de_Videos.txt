@@ -72,7 +72,6 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-------------------------------------------------------------------------------
 6- la_voluntad_entre_el_ego_y_la_voz_del_alma_(EPIC)
 ----------------------------------------------------
 
@@ -82,7 +81,9 @@ cancion: "https://drive.google.com/file/d/1_PvME2wH37AkqzXVwoD2LPB6LgJ1-ZME/view
 web: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index"
 info: "Compósición en idioma: español neutro.
 N.A."
-6- inmanencia_vs_diseno_un_legado_filosofico
+
+------------------------------------------------------------------------------
+7- inmanencia_vs_diseno_un_legado_filosofico
 --------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/portada.jpg"
@@ -93,7 +94,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-7- fiat_lux_desde_el_kairos_a_la_palabra
+8- fiat_lux_desde_el_kairos_a_la_palabra
 -----------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/fiat-lux,_desde_el_kairos_a_la_palabra/portada.jpg"
@@ -104,7 +105,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-8- el_silencio_del_alma Jazz
+9- el_silencio_del_alma Jazz
 ----------------------------
 
 imagen: "https://lucksys.github.io/canciones/canciones/el_silencio_del_alma/portada.jpg"
@@ -115,7 +116,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-9- el_silencio_del_alma (Soul)
+10- el_silencio_del_alma (Soul)
 ------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_silencio_del_alma/portada.jpg"
@@ -126,7 +127,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-10- el_misterio_de_sophia
+11- el_misterio_de_sophia
 ------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_misterio_de_sophia/portada.jpg"
@@ -137,7 +138,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-11- el_grito_rosacruz
+12- el_grito_rosacruz
 ----------------------
 
 imagen: "https://lucksys.github.io/canciones/canciones/el_grito_rosacruz/portada.jpg"
@@ -148,7 +149,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-12- el_arquetipo_sagrado_del_orden
+13- el_arquetipo_sagrado_del_orden
 ----------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/portada.jpg"
@@ -159,7 +160,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-13- camino_de_la_unidad
+14- camino_de_la_unidad
 ------------------------
 
 imagen: "https://lucksys.github.io/canciones/camino_de_la_unidad/portada.jpg"
@@ -170,7 +171,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-14- gnosis_cristica (Himno)
+15- gnosis_cristica (Himno)
 ---------------------------
 
 imagen: "https://lucksys.github.io/canciones/gnosis_cristica/Portada_Himno.jpeg"
@@ -181,7 +182,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-15- gnosis_cristica (Gnostic Rock)
+16- gnosis_cristica (Gnostic Rock)
 ----------------------------------
 
 imagen: "https://lucksys.github.io/canciones/canciones/gnosis_cristica/Portada._Rock.jpeg"
@@ -192,7 +193,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-16- 1717,_una_conspiración_del_alma
+17- 1717,_una_conspiración_del_alma
 -----------------------------------
 
 imagen: "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/portada.jpg"
@@ -203,7 +204,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-17- ante_las_puertas_de_un_nuevo_ciclo_de_despertares (Solsticio)
+18- ante_las_puertas_de_un_nuevo_ciclo_de_despertares (Solsticio)
 -----------------------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada.jpg"
@@ -214,7 +215,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-18- cinco_viajes_y_una_estrella_como_brujula
+19- cinco_viajes_y_una_estrella_como_brujula
 --------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/portada.jpg"
@@ -225,7 +226,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-19- dharma_y_karma
+20- dharma_y_karma
 ------------------
 
 imagen: "https://lucksys.github.io/canciones/dharma_y_karma/portada.jpg"
@@ -236,7 +237,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-20- el_camino_del_grado_interior (Himno)
+21- el_camino_del_grado_interior (Himno)
 ----------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/portada.jpg"
@@ -247,7 +248,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-21- el_camino_del_grado_interior (Rock)
+22- el_camino_del_grado_interior (Rock)
 ---------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/portada.jpg"
@@ -258,7 +259,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-22- El_eco_de_un_secreto
+23- El_eco_de_un_secreto
 ------------------------
 
 imagen: "https://lucksys.github.io/canciones/El_eco_de_un_secreto/portada.jpg"
@@ -269,7 +270,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-23- el_viaje_alquimico_del_ser_a_la_iluminacion
+24- el_viaje_alquimico_del_ser_a_la_iluminacion
 ------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/portada.jpg"
@@ -280,7 +281,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-24- el_aguila_bicefala
+25- el_aguila_bicefala
 -----------------------
 
 imagen: "https://lucksys.github.io/canciones/el_aguila_bicefala/ortada.jpg"
@@ -291,7 +292,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-25- ne_plus_ultra
+26- ne_plus_ultra
 -----------------
 
 imagen: "https://lucksys.github.io/canciones/ne_plus_ultra/portada.jpg"
@@ -302,7 +303,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-26- himno_de_la_luz_velada
+27- himno_de_la_luz_velada
 --------------------------
 
 imagen: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada.jpg"
@@ -313,7 +314,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-27- himno_de_la_luz_velada (Versión Epica)
+28- himno_de_la_luz_velada (Versión Epica)
 ------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada.jpg"
@@ -324,7 +325,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-28- xiii_maximas_y_un_grito_inciatico_por_el_alma
+29- xiii_maximas_y_un_grito_inciatico_por_el_alma
 -------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/portada.jpg"
@@ -335,7 +336,7 @@ info: "Compósición en idioma: español neutro y Frases en Latín .
 N.A."
 
 ------------------------------------------------------------------------------
-29- la_trascendencia
+30- la_trascendencia
 ---------------------
 
 imagen: "https://lucksys.github.io/canciones/la_trascendencia/portada.jpg"
@@ -346,7 +347,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-30- la_elección_y_la_perseverancia
+31- la_elección_y_la_perseverancia
 ----------------------------------
 
 imagen: "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/portada.jpg"
@@ -358,7 +359,7 @@ N.A."
 
 ------------------------------------------------------------------------------
 
-31- la_piedra_en_bruto_y_la_piedra_cubica
+32- la_piedra_en_bruto_y_la_piedra_cubica
 -----------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/portada.jpg"
@@ -369,7 +370,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-32- quedate_a_mi_Lado
+33- quedate_a_mi_Lado
 ---------------------
 
 imagen: "https://lucksys.github.io/canciones/quedate_a_mi_Lado/portada.jpg"
@@ -381,7 +382,7 @@ N.A."
 
 ------------------------------------------------------------------------------
 
-33- escalera_caracol
+34- escalera_caracol
 --------------------
 
 imagen: "https://lucksys.github.io/canciones/escalera_caracol/portada.jpg"
@@ -392,7 +393,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-34- no_fue_la_luz_lo_que_dolio
+35- no_fue_la_luz_lo_que_dolio
 -------------------------------
 
 imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada.jpg"
@@ -403,7 +404,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-35- resurreccion_de_la_palabra
+36- resurreccion_de_la_palabra
 ------------------------------
 
 imagen: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada.jpg"
@@ -414,7 +415,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-36- resurreccion_de_la_palabra (acoustc-epyc))
+37- resurreccion_de_la_palabra (acoustc-epyc))
 ----------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg"
@@ -425,7 +426,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-37- Throne_of_the_Pleroma
+38- Throne_of_the_Pleroma
 -------------------------
 
 imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada.jpg"
@@ -436,7 +437,7 @@ info: "Compósición en idioma: ingles, con subtitulos en español
 N.A."
 
 ------------------------------------------------------------------------------
-38- la_lámpara_interior
+39- la_lámpara_interior
 -----------------------
 
 imagen: "https://lucksys.github.io/canciones/la_lampara_interior/portada.jpg"
@@ -447,7 +448,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-39- El_Camino_la_Virtud_y_el_Cayado
+40- El_Camino_la_Virtud_y_el_Cayado
 ------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada.jpg"
@@ -458,7 +459,7 @@ info: "Compósición en idioma: Italiano, con subtitulos e español.
 N.A."
 
 ------------------------------------------------------------------------------
-40- Bajo_la_Ley_de_la_Luz
+41- Bajo_la_Ley_de_la_Luz
 --------------------------
 
 imagen: "https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/portada.jpg"
