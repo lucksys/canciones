@@ -366,7 +366,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/portada.jpg"
 video: "https://drive.google.com/file/d/1gJnmEaCuxYQ-j47oi9NKMjGneJncvdKy/preview"
-cancion: "https://drive.google.com/file/d/1gJnmEaCuxYQ-j47oi9NKMjGneJncvdKy/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1kGYV76bLAFdn1VDwwC5ju2qzARD4EAGo/view"
 web: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -377,7 +377,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/quedate_a_mi_Lado/portada.jpg"
 video: "https://drive.google.com/file/d/19Y6ANwHB8OqRVwYcfrejptUoi9YUC-Fi/preview"
-cancion: "https://drive.google.com/file/d/19Y6ANwHB8OqRVwYcfrejptUoi9YUC-Fi/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/14UoiMZdtVWbHzQET2jfjMrBKJulXYqPA/view"
 web: "https://lucksys.github.io/canciones/quedate_a_mi_Lado/index"
 info: "Compósición en idioma: ingles con subtituulos en español.
 N.A."
@@ -389,7 +389,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/escalera_caracol/portada.jpg"
 video: "https://drive.google.com/file/d/1BVk6XzD4qBzNZjcW6WyphifH7GgcTlzx/preview"
-cancion: "https://drive.google.com/file/d/1BVk6XzD4qBzNZjcW6WyphifH7GgcTlzx/preview?usp=sharing
+cancion: "https://drive.google.com/file/d/1R9Tq96i0I1jSyWKfcHTIzxouuzMjv2e4/view"
 web: "https://lucksys.github.io/canciones/escalera_caracol/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -400,7 +400,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada.jpg"
 video: "https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/preview"
-cancion: "https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1tQ1Y7XoYMyRgBuinj3eoPUAxOvLMRuUN/view"
 web: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index"
 info: "Compósición en idioma: español neutro.
 N.A."
