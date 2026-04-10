@@ -2,406 +2,407 @@
 0- Listado de Video-karaoe
 ------------------------
 
-https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD
-https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD?usp=sharing
-https://lucksys.github.io/canciones/index
-info: N.A.
+video: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD"
+cancion: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD?usp=sharing"
+web: "https://lucksys.github.io/canciones/index"
+info: "Indice Geberal de Composicines Musicales
+N.A."
 
 ------------------------------------------------------------------------------
 1- Vinculo_Sagrado 
 -------------------
 
-https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/preview
-https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/preview?usp=sharing
-https://lucksys.github.io/canciones/vinculo_sagrado/index
-info: Compósición en idioma: Español neutro
-Matrimonio alquimico entre La Razon y el Alma. Tradición Primordial y Rosacruz.  
+video: "https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/preview"
+cancion: "https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/vinculo_sagrado/index"
+info: "Compósición en idioma: Español neutro
+Matrimonio alquimico entre La Razon y el Alma. Tradición Primordial y Rosacruz."  
 
 ------------------------------------------------------------------------------
 2- Personalidad_y_Esencia
 -------------------------
 
-https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/preview
-https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/preview?usp=sharing
-https://lucksys.github.io/canciones/personalidad_y_esencia/index
-info: Compósición en idioma: español neutro.
+video: "https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/preview"
+cancion: "https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/personalidad_y_esencia/index"
+info: "Compósición en idioma: español neutro.
 En el taller del alma forjo mi verdad y disipo la oscuridad.
 Mi pensamiento despierta y mi palabra nace del corazón.
 Cada acción traza el rumbo y revela lo que soy.
 Entre símbolos y silencio, mi esencia busca la luz.
-Y en ese fuego interior, renazco siendo fiel a mí.
+Y en ese fuego interior, renazco siendo fiel a mí."
 
 ------------------------------------------------------------------------------
 3- parastatai_-_phratriai_e_hybridi
 -----------------------------------
 
-https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/preview
-https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/preview?usp=sharing
-https://lucksys.github.io/canciones/parastatai_-_phratriai_e_hybridi/index
-info: Compósición en idioma: Español neutro y vocablos en Latín.
-N.A.
+video: "https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/preview"
+cancion: "https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/parastatai_-_phratriai_e_hybridi/index"
+info: "Compósición en idioma: Español neutro y vocablos en Latín.
+N.A."
 
 ------------------------------------------------------------------------------
 4- la_voluntad_entre_el_ego_y_la_voz_del_alma
 ---------------------------------------------
 
-https://drive.google.com/file/d/1jX0j4ZPNxvjtmsVJMf6x6DvipGfGb1EZ/preview
-https://drive.google.com/file/d/1jX0j4ZPNxvjtmsVJMf6x6DvipGfGb1EZ/preview?usp=sharing
-https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1jX0j4ZPNxvjtmsVJMf6x6DvipGfGb1EZ/preview"
+cancion: "https://drive.google.com/file/d/1jX0j4ZPNxvjtmsVJMf6x6DvipGfGb1EZ/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 5- inmanencia_vs_diseno_un_legado_filosofico
 --------------------------------------------
 
-https://drive.google.com/file/d/1-6jQBzsDeHcV6ncCVUyaTbbcu8lwJCtF/preview
-https://drive.google.com/file/d/1-6jQBzsDeHcV6ncCVUyaTbbcu8lwJCtF/preview?usp=sharing
-https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1-6jQBzsDeHcV6ncCVUyaTbbcu8lwJCtF/preview"
+cancion: "https://drive.google.com/file/d/1-6jQBzsDeHcV6ncCVUyaTbbcu8lwJCtF/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 6- fiat_lux_desde_el_kairos_a_la_palabra
 -----------------------------------------
 
-https://drive.google.com/file/d/1KnyBIiWuapKsxnadaelv--wQsu6oKxzP/preview
-https://drive.google.com/file/d/1KnyBIiWuapKsxnadaelv--wQsu6oKxzP/preview?usp=sharing
-https://lucksys.github.io/canciones/fiat-lux,_desde_el_kairos_a_la_palabra/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1KnyBIiWuapKsxnadaelv--wQsu6oKxzP/preview"
+cancion: "https://drive.google.com/file/d/1KnyBIiWuapKsxnadaelv--wQsu6oKxzP/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/fiat-lux,_desde_el_kairos_a_la_palabra/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 7- el_silencio_del_alma Jazz
 ----------------------------
 
-https://drive.google.com/file/d/1mPkpIWjYqMRe5Rih4AfCMIgPhiKnndw3/preview
-https://drive.google.com/file/d/1mPkpIWjYqMRe5Rih4AfCMIgPhiKnndw3/preview?usp=sharing
-https://lucksys.github.io/canciones/el_silencio_del_alma/index1
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1mPkpIWjYqMRe5Rih4AfCMIgPhiKnndw3/preview"
+cancion: "https://drive.google.com/file/d/1mPkpIWjYqMRe5Rih4AfCMIgPhiKnndw3/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_silencio_del_alma/index1"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 8- el_silencio_del_alma (Soul)
 ------------------------------
 
-https://drive.google.com/file/d/14CokAz7kNvZ3aMTNYdZOcKtvgmkL6peE/preview
-https://drive.google.com/file/d/14CokAz7kNvZ3aMTNYdZOcKtvgmkL6peE/preview?usp=sharing
-https://lucksys.github.io/canciones/el_silencio_del_alma/index2
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/14CokAz7kNvZ3aMTNYdZOcKtvgmkL6peE/preview"
+cancion: "https://drive.google.com/file/d/14CokAz7kNvZ3aMTNYdZOcKtvgmkL6peE/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_silencio_del_alma/index2"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 9- el_misterio_de_sophia
 ------------------------
 
-https://drive.google.com/file/d/1i5bTB5nIG4Zu3AdmQbrPxv7uHRJr6znW/preview
-https://drive.google.com/file/d/1i5bTB5nIG4Zu3AdmQbrPxv7uHRJr6znW/preview?usp=sharing
-https://lucksys.github.io/canciones/el_misterio_de_sophia/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1i5bTB5nIG4Zu3AdmQbrPxv7uHRJr6znW/preview"
+cancion: "https://drive.google.com/file/d/1i5bTB5nIG4Zu3AdmQbrPxv7uHRJr6znW/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_misterio_de_sophia/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 10- el_grito_rosacruz
 ----------------------
 
-https://drive.google.com/file/d/1prjwXopi8b6653KF3DAg2YNfaFG-yJ7V/preview
-https://drive.google.com/file/d/1prjwXopi8b6653KF3DAg2YNfaFG-yJ7V/preview?usp=sharing
-https://lucksys.github.io/canciones/el_grito_rosacruz/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1prjwXopi8b6653KF3DAg2YNfaFG-yJ7V/preview"
+cancion: "https://drive.google.com/file/d/1prjwXopi8b6653KF3DAg2YNfaFG-yJ7V/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_grito_rosacruz/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 11- el_arquetipo_sagrado_del_orden
 ----------------------------------
 
-https://drive.google.com/file/d/1dc-sMPmn97R0ve_XTH5e5GghLS99A2SU/preview
-https://drive.google.com/file/d/1dc-sMPmn97R0ve_XTH5e5GghLS99A2SU/preview?usp=sharing
-https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1dc-sMPmn97R0ve_XTH5e5GghLS99A2SU/preview"
+cancion: "https://drive.google.com/file/d/1dc-sMPmn97R0ve_XTH5e5GghLS99A2SU/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 12- camino_de_la_unidad
 ------------------------
 
-https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/preview
-https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/preview?usp=sharing
-https://lucksys.github.io/canciones/camino_de_la_unidad/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/preview"
+cancion: "https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/camino_de_la_unidad/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 13- gnosis_cristica (Himno)
 ---------------------------
 
-https://drive.google.com/file/d/1jAHJ7haYoqU0yAtBPh2S5VL6hHTSrwnV/preview
-https://drive.google.com/file/d/1jAHJ7haYoqU0yAtBPh2S5VL6hHTSrwnV/preview?usp=sharing
-https://lucksys.github.io/canciones/gnosis_cristica/index1
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1jAHJ7haYoqU0yAtBPh2S5VL6hHTSrwnV/preview"
+cancion: "https://drive.google.com/file/d/1jAHJ7haYoqU0yAtBPh2S5VL6hHTSrwnV/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/gnosis_cristica/index1"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 14- gnosis_cristica (Gnostic Rock)
 ----------------------------------
 
-https://drive.google.com/file/d/1f6zI4zC4ozeFOJ2mXqHUSTHTiK9wK8bB/preview
-https://drive.google.com/file/d/1f6zI4zC4ozeFOJ2mXqHUSTHTiK9wK8bB/preview?usp=sharing
-https://lucksys.github.io/canciones/gnosis_cristica/index2
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1f6zI4zC4ozeFOJ2mXqHUSTHTiK9wK8bB/preview"
+cancion: "https://drive.google.com/file/d/1f6zI4zC4ozeFOJ2mXqHUSTHTiK9wK8bB/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/gnosis_cristica/index2"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 15- 1717,_una_conspiración_del_alma
 -----------------------------------
 
-https://drive.google.com/file/d/12hBmzDA0EWH1mVP565gFmr2m97-BBULn/preview
-https://drive.google.com/file/d/12hBmzDA0EWH1mVP565gFmr2m97-BBULn/preview?usp=sharing
-https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/12hBmzDA0EWH1mVP565gFmr2m97-BBULn/preview"
+cancion: "https://drive.google.com/file/d/12hBmzDA0EWH1mVP565gFmr2m97-BBULn/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 16- ante_las_puertas_de_un_nuevo_ciclo_de_despertares (Solsticio)
 -----------------------------------------------------------------
 
-https://drive.google.com/file/d/1BmdmRvnPcErGMw6I8k-uf46Fe3BPS7IT/preview
-https://drive.google.com/file/d/1BmdmRvnPcErGMw6I8k-uf46Fe3BPS7IT/preview?usp=sharing
-https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1BmdmRvnPcErGMw6I8k-uf46Fe3BPS7IT/preview"
+cancion: "https://drive.google.com/file/d/1BmdmRvnPcErGMw6I8k-uf46Fe3BPS7IT/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 17- cinco_viajes_y_una_estrella_como_brujula
 --------------------------------------------
 
-https://drive.google.com/file/d/10DOFd6ITUDuYxUfZp68_oi1X7noLXu4O/preview
-https://drive.google.com/file/d/10DOFd6ITUDuYxUfZp68_oi1X7noLXu4O/preview?usp=sharing
-https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/10DOFd6ITUDuYxUfZp68_oi1X7noLXu4O/preview"
+cancion: "https://drive.google.com/file/d/10DOFd6ITUDuYxUfZp68_oi1X7noLXu4O/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 18- dharma_y_karma
 ------------------
 
-https://drive.google.com/file/d/1mwz4n4r4iAHkWRMq8BFRAUT-0-i1q1xt/preview
-https://drive.google.com/file/d/1mwz4n4r4iAHkWRMq8BFRAUT-0-i1q1xt/preview?usp=sharing
-https://lucksys.github.io/canciones/dharma_y_karma/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1mwz4n4r4iAHkWRMq8BFRAUT-0-i1q1xt/preview"
+cancion: "https://drive.google.com/file/d/1mwz4n4r4iAHkWRMq8BFRAUT-0-i1q1xt/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/dharma_y_karma/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 19- el_camino_del_grado_interior (Himno)
 ----------------------------------------
 
-https://drive.google.com/file/d/1gfjCw8RgrzyxvjDzWcQako9A8AlBqv9L/preview
-https://drive.google.com/file/d/1gfjCw8RgrzyxvjDzWcQako9A8AlBqv9L/preview?usp=sharing
-https://lucksys.github.io/canciones/el_camino_del_grado_interior/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1gfjCw8RgrzyxvjDzWcQako9A8AlBqv9L/preview"
+cancion: "https://drive.google.com/file/d/1gfjCw8RgrzyxvjDzWcQako9A8AlBqv9L/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 20- el_camino_del_grado_interior (Rock)
 ---------------------------------------
 
-https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview
-https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview?usp=sharing
-https://lucksys.github.io/canciones/el_camino_del_grado_interior/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview"
+cancion: "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 21- El_eco_de_un_secreto
 ------------------------
 
-https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview
-https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview?usp=sharing
-https://lucksys.github.io/canciones/El_eco_de_un_secreto/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview"
+cancion: "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/El_eco_de_un_secreto/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 22- el_viaje_alquimico_del_ser_a_la_iluminacion
 ------------------------------------------------
 
-https://drive.google.com/file/d/1fEjXuivBAoxe_j8Nn5HET6q0OJ1zcORy/preview
-https://drive.google.com/file/d/1fEjXuivBAoxe_j8Nn5HET6q0OJ1zcORy/preview?usp=sharing
-https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1fEjXuivBAoxe_j8Nn5HET6q0OJ1zcORy/preview"
+cancion: "https://drive.google.com/file/d/1fEjXuivBAoxe_j8Nn5HET6q0OJ1zcORy/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 23- el_aguila_bicefala
 -----------------------
 
-https://drive.google.com/file/d/1u2aNbuDXjKhpDo5ANZbHEEW4rDPWv06f/preview
-https://drive.google.com/file/d/1u2aNbuDXjKhpDo5ANZbHEEW4rDPWv06f/preview?usp=sharing
-https://lucksys.github.io/canciones/el_aguila_bicefala/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1u2aNbuDXjKhpDo5ANZbHEEW4rDPWv06f/preview"
+cancion: "https://drive.google.com/file/d/1u2aNbuDXjKhpDo5ANZbHEEW4rDPWv06f/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_aguila_bicefala/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 24- ne_plus_ultra
 -----------------
 
-https://drive.google.com/file/d/1ss6CrHmyT_jwVuDVzBU8OI7Cwo9YcTwq/preview
-https://drive.google.com/file/d/1ss6CrHmyT_jwVuDVzBU8OI7Cwo9YcTwq/preview?usp=sharing
-https://lucksys.github.io/canciones/ne_plus_ultra/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1ss6CrHmyT_jwVuDVzBU8OI7Cwo9YcTwq/preview"
+cancion: "https://drive.google.com/file/d/1ss6CrHmyT_jwVuDVzBU8OI7Cwo9YcTwq/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/ne_plus_ultra/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 25- himno_de_la_luz_velada
 --------------------------
 
-https://drive.google.com/file/d/19UFKaAr4KEM4vdxcSBNtoy4yzJo0N6yW/preview
-https://drive.google.com/file/d/19UFKaAr4KEM4vdxcSBNtoy4yzJo0N6yW/preview?usp=sharing
-https://lucksys.github.io/canciones/himno_de_la_luz_velada/index1
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/19UFKaAr4KEM4vdxcSBNtoy4yzJo0N6yW/preview"
+cancion: "https://drive.google.com/file/d/19UFKaAr4KEM4vdxcSBNtoy4yzJo0N6yW/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index1"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 26- himno_de_la_luz_velada (Versión Epica)
 ------------------------------------------
 
-https://drive.google.com/file/d/1xuzqtjdkb_8u2BoZxDGivLh2QQ_MiMAX/preview
-https://drive.google.com/file/d/1xuzqtjdkb_8u2BoZxDGivLh2QQ_MiMAX/preview?usp=sharing
-https://lucksys.github.io/canciones/himno_de_la_luz_velada/index2
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1xuzqtjdkb_8u2BoZxDGivLh2QQ_MiMAX/preview"
+cancion: "https://drive.google.com/file/d/1xuzqtjdkb_8u2BoZxDGivLh2QQ_MiMAX/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index2"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 27- xiii_maximas_y_un_grito_inciatico_por_el_alma
 -------------------------------------------------
 
-https://drive.google.com/file/d/1czU6AVL8c3HYC7qVDg9aFGI4KxIUvijd/preview
-https://drive.google.com/file/d/1czU6AVL8c3HYC7qVDg9aFGI4KxIUvijd/preview?usp=sharing
-https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index
-info: Compósición en idioma: español neutro y Frases en Latín .
-N.A.
+video: "https://drive.google.com/file/d/1czU6AVL8c3HYC7qVDg9aFGI4KxIUvijd/preview"
+cancion: "https://drive.google.com/file/d/1czU6AVL8c3HYC7qVDg9aFGI4KxIUvijd/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index"
+info: "Compósición en idioma: español neutro y Frases en Latín .
+N.A."
 
 ------------------------------------------------------------------------------
 28- la_trascendencia
 ---------------------
 
-https://drive.google.com/file/d/1SUc6FVxZDisg4W5hOQFyMynzBSW_KojB/preview
-https://drive.google.com/file/d/1SUc6FVxZDisg4W5hOQFyMynzBSW_KojB/preview?usp=sharing
-https://lucksys.github.io/canciones/la_trascendencia/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1SUc6FVxZDisg4W5hOQFyMynzBSW_KojB/preview"
+cancion: "https://drive.google.com/file/d/1SUc6FVxZDisg4W5hOQFyMynzBSW_KojB/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/la_trascendencia/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 29- la_elección_y_la_perseverancia
 ----------------------------------
 
-https://drive.google.com/file/d/1prER_ebzSWBj-7Xqj2ePfXJFALL1F25Z/preview
-https://drive.google.com/file/d/1prER_ebzSWBj-7Xqj2ePfXJFALL1F25Z/preview?usp=sharing
-https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1prER_ebzSWBj-7Xqj2ePfXJFALL1F25Z/preview"
+cancion: "https://drive.google.com/file/d/1prER_ebzSWBj-7Xqj2ePfXJFALL1F25Z/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 
 30- la_piedra_en_bruto_y_la_piedra_cubica
 -----------------------------------------
 
-https://drive.google.com/file/d/1gJnmEaCuxYQ-j47oi9NKMjGneJncvdKy/preview
-https://drive.google.com/file/d/1gJnmEaCuxYQ-j47oi9NKMjGneJncvdKy/preview?usp=sharing
-https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1gJnmEaCuxYQ-j47oi9NKMjGneJncvdKy/preview"
+cancion: "https://drive.google.com/file/d/1gJnmEaCuxYQ-j47oi9NKMjGneJncvdKy/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 31- quedate_a_mi_Lado
 ---------------------
 
-https://drive.google.com/file/d/19Y6ANwHB8OqRVwYcfrejptUoi9YUC-Fi/preview
-https://drive.google.com/file/d/19Y6ANwHB8OqRVwYcfrejptUoi9YUC-Fi/preview?usp=sharing
-https://lucksys.github.io/canciones/quedate_a_mi_Lado/index
-info: Compósición en idioma: ingles con subtituulos en español.
-N.A.
+video: "https://drive.google.com/file/d/19Y6ANwHB8OqRVwYcfrejptUoi9YUC-Fi/preview"
+cancion: "https://drive.google.com/file/d/19Y6ANwHB8OqRVwYcfrejptUoi9YUC-Fi/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/quedate_a_mi_Lado/index"
+info: "Compósición en idioma: ingles con subtituulos en español.
+N.A."
 
 ------------------------------------------------------------------------------
 
 32- escalera_caracol
 --------------------
 
-https://drive.google.com/file/d/1BVk6XzD4qBzNZjcW6WyphifH7GgcTlzx/preview
-https://drive.google.com/file/d/1BVk6XzD4qBzNZjcW6WyphifH7GgcTlzx/preview?usp=sharing
-https://lucksys.github.io/canciones/escalera_caracol/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1BVk6XzD4qBzNZjcW6WyphifH7GgcTlzx/preview"
+cancion: "https://drive.google.com/file/d/1BVk6XzD4qBzNZjcW6WyphifH7GgcTlzx/preview?usp=sharing
+web: "https://lucksys.github.io/canciones/escalera_caracol/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 33- no_fue_la_luz_lo_que_dolio
 -------------------------------
 
-https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/preview
-https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/preview?usp=sharing
-https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/preview"
+cancion: "https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 34- resurreccion_de_la_palabra
 ------------------------------
 
-https://drive.google.com/file/d/1oyQLfchXGPi-TF-XcAbsd3iTWz5iamv3/preview
-https://drive.google.com/file/d/1oyQLfchXGPi-TF-XcAbsd3iTWz5iamv3/preview?usp=sharing
-https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1oyQLfchXGPi-TF-XcAbsd3iTWz5iamv3/preview" 
+cancion: "https://drive.google.com/file/d/1oyQLfchXGPi-TF-XcAbsd3iTWz5iamv3/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 35- resurreccion_de_la_palabra (acoustc-epyc))
 ----------------------------------------------
 
-https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/preview
-https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/preview?usp=sharing
-https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index2
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/preview"
+cancion: "https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index2"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 36- Throne_of_the_Pleroma
 -------------------------
 
-https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/preview
-https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/preview?usp=sharing
-https://lucksys.github.io/canciones/throne_of_the_pleroma/index
-info: Compósición en idioma: ingles, con subtitulos en español
-N.A.
+video: "https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/preview"
+cancion: "https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index"
+info: "Compósición en idioma: ingles, con subtitulos en español
+N.A."
 
 ------------------------------------------------------------------------------
 37- la_lámpara_interior
 -----------------------
 
-https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/preview
-https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/preview?usp=sharing
-https://lucksys.github.io/canciones/la_lampara_interior/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/preview"
+cancion: "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/la_lampara_interior/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 38- El_Camino_la_Virtud_y_el_Cayado
 ------------------------------------
 
-https://drive.google.com/file/d/1b0pJcO87JP9Hj5ciiaPTt3YtjvqECIwp/preview
-https://drive.google.com/file/d/1b0pJcO87JP9Hj5ciiaPTt3YtjvqECIwp/preview?usp=sharing
-https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/index
-info: Compósición en idioma: Itaiano, con subtitulos e español.
-N.A.
+video: "https://drive.google.com/file/d/1b0pJcO87JP9Hj5ciiaPTt3YtjvqECIwp/preview"
+cancion: "https://drive.google.com/file/d/1b0pJcO87JP9Hj5ciiaPTt3YtjvqECIwp/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/index"
+info: "Compósición en idioma: Italiano, con subtitulos e español.
+N.A."
 
 ------------------------------------------------------------------------------
 39- Bajo_la_Ley_de_la_Luz
 --------------------------
 
-https://drive.google.com/file/d/1mNHW1VY8Nz1pygf-ClwO9DVzAebuOITb/preview
-https://drive.google.com/file/d/1mNHW1VY8Nz1pygf-ClwO9DVzAebuOITb/preview?usp=sharing
-https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/index
-info: Compósición en idioma: español neutro.
-N.A.
+video: "https://drive.google.com/file/d/1mNHW1VY8Nz1pygf-ClwO9DVzAebuOITb/preview"
+cancion: "https://drive.google.com/file/d/1mNHW1VY8Nz1pygf-ClwO9DVzAebuOITb/preview?usp=sharing"
+web: "https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 
 ------------------------------------------------------------------------------
 
