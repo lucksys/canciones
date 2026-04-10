@@ -181,11 +181,14 @@ if(/^video/i.test(l)) video=getValue(l);
 if(/^cancion/i.test(l)) cancion=getValue(l);
 
 if(/^info/i.test(l)){
-let txt = l.replace(/^info\s*:/i,"").replace(/^"+|"+$/g,"");
+let txt = l.replace(/^info\s*:/i,"")
+           .replace(/^\s*"+/, "")  // 👈 elimina SOLO comilla inicial
+           .trim();
+
 info.push(txt);
 
 for(let j=i+1;j<lineas.length;j++){
-info.push(lineas[j].replace(/^"+|"+$/g,""));
+info.push(lineas[j]);
 }
 break;
 }
