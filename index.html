@@ -6,7 +6,6 @@
 
 <title>Composiciones Musicales para el Alma</title>
 
-<!-- OPEN GRAPH -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Composiciones Musicales para el Alma">
 <meta property="og:description" content="Una colección iniciática de obras musicales. Explora los Videos Karaoke y Cancioe.">
@@ -17,14 +16,17 @@
 <meta property="og:image:height" content="784">
 <meta property="og:url" content="https://lucksys.github.io/canciones/">
 
-<!-- TWITTER -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Composiciones Musicales para el Alma">
 <meta name="twitter:description" content="Un viaje musical iniciático hacia la luz interior.">
 <meta name="twitter:image" content="https://lucksys.github.io/canciones/portada.jpg">
 
 <style>
-/* TODO TU CSS ORIGINAL SIN CAMBIOS */
+
+/* ========================= */
+/* === TODO TU CSS ORIGINAL === */
+/* ========================= */
+
 :root {
     --gold: #d4af37;
     --bg: rgba(0, 0, 0, 0.92);
@@ -32,7 +34,10 @@
     --card: #111;
     --text: #f3e7b3;
 }
-* { box-sizing: border-box; }
+
+* {
+    box-sizing: border-box;
+}
 
 body {
     margin: 0;
@@ -42,7 +47,11 @@ body {
     color: var(--gold);
 }
 
-.overlay { background: var(--bg); min-height: 100vh; padding: 20px; }
+.overlay {
+    background: var(--bg);
+    min-height: 100vh;
+    padding: 20px;
+}
 
 h1 {
     margin: 0 0 30px;
@@ -52,69 +61,101 @@ h1 {
     text-shadow: 0 0 15px var(--gold);
 }
 
-.container { display:flex; gap:20px; flex-wrap:wrap; }
+.container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
 
 .column {
-    flex:1;
-    min-width:320px;
-    border:1px solid var(--gold);
-    padding:15px;
-    border-radius:12px;
-    background:var(--panel);
+    flex: 1;
+    min-width: 320px;
+    border: 1px solid var(--gold);
+    padding: 15px;
+    border-radius: 12px;
+    background: var(--panel);
 }
 
-.grid { display:grid; gap:25px; }
+.column h2 {
+    margin: 0 0 20px;
+    text-align: center;
+    border-bottom: 1px solid var(--gold);
+    padding-bottom: 10px;
+    font-size: 1.4rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 25px;
+}
 
 .card {
-    position:relative;
-    background:var(--card);
-    border:1px solid var(--gold);
-    border-radius:12px;
-    overflow:hidden;
+    position: relative;
+    background: var(--card);
+    border: 1px solid var(--gold);
+    border-radius: 12px;
+    overflow: hidden;
 }
 
-.card img { width:100%; display:block; }
+.card img {
+    width: 100%;
+    display: block;
+}
 
 .card-title {
-    padding:12px;
-    text-align:center;
-    color:var(--text);
+    padding: 12px;
+    text-align: center;
+    color: var(--text);
 }
 
 /* BOTONES */
 .info-btn, .song-btn {
-    position:absolute;
-    top:8px;
-    height:40px;
-    border:1px solid var(--gold);
-    border-radius:8px;
-    background:rgba(0,0,0,0.7);
-    color:var(--gold);
-    cursor:pointer;
-    z-index:5;
+    position: absolute;
+    top: 8px;
+    height: 42px;
+    border: 1px solid var(--gold);
+    border-radius: 8px;
+    background: rgba(0,0,0,0.75);
+    color: var(--gold);
+    cursor: pointer;
+    z-index: 5;
 }
 
-.info-btn { right:8px; width:50px; }
-.song-btn { right:65px; padding:0 8px; }
+.info-btn {
+    right: 8px;
+    width: 50px;
+}
+
+.song-btn {
+    right: 65px;
+    padding: 0 10px;
+}
 
 /* POPUP */
 .info-overlay {
-    position:fixed;
-    inset:0;
-    background:rgba(0,0,0,0.7);
-    display:none;
-    align-items:center;
-    justify-content:center;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.7);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
 }
 
-.info-overlay.active { display:flex; }
+.info-overlay.active {
+    display: flex;
+}
 
 .info-popup {
-    background:#111;
-    padding:20px;
-    border:1px solid var(--gold);
-    border-radius:12px;
-    max-width:600px;
+    background: #111;
+    border: 1px solid var(--gold);
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 700px;
+    width: 95%;
+    color: var(--text);
 }
 
 </style>
@@ -123,22 +164,29 @@ h1 {
 <body>
 
 <div class="overlay">
-<h1>Composiciones Musicales para el Alma</h1>
+    <h1>Composiciones Musicales para el Alma</h1>
 
-<div class="container">
-<div class="column">
-<h2>Videos Karaoke</h2>
-<div id="videos" class="grid"></div>
-</div>
-</div>
+    <div class="container">
+        <div class="column">
+            <h2>Videos Karaoke</h2>
+            <div id="videos" class="grid"></div>
+        </div>
+
+        <div class="column">
+            <h2>Video-Presentaciones</h2>
+            <div class="grid">
+                <p class="loading">Próximamente...</p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div id="infoOverlay" class="info-overlay">
-<div class="info-popup">
-<button id="infoClose">Cerrar</button>
-<h3 id="infoTitulo"></h3>
-<p id="infoTexto"></p>
-</div>
+    <div class="info-popup">
+        <button id="infoClose">Cerrar</button>
+        <h3 id="infoTitulo"></h3>
+        <p id="infoTexto"></p>
+    </div>
 </div>
 
 <script>
@@ -147,99 +195,131 @@ h1 {
 const contenedor = document.getElementById("videos");
 
 function abrirInfo(titulo,texto){
-    document.getElementById("infoTitulo").textContent=titulo;
-    document.getElementById("infoTexto").textContent=texto;
+    document.getElementById("infoTitulo").textContent = titulo;
+    document.getElementById("infoTexto").textContent = texto || "Sin información";
     document.getElementById("infoOverlay").classList.add("active");
 }
 
-document.getElementById("infoClose").onclick=()=>{
+function cerrarInfo(){
     document.getElementById("infoOverlay").classList.remove("active");
-};
-
-function limpiarTitulo(t){
-    return t.replaceAll("_"," ").trim();
 }
 
-function getValor(lineas,clave){
-    const l = lineas.find(x=>x.toLowerCase().startsWith(clave));
-    if(!l) return "";
-    const m = l.match(/"(.*?)"/);
-    return m ? m[1] : "";
+document.getElementById("infoClose").onclick = cerrarInfo;
+
+function limpiarTextoTitulo(texto){
+    return texto.replaceAll("_"," ").trim();
 }
 
-function extraer(lineas){
+function getValor(lineas, clave){
+    const linea = lineas.find(l => l.toLowerCase().startsWith(clave));
+    if(!linea) return "";
+    const match = linea.match(/"(.*?)"/);
+    return match ? match[1] : "";
+}
+
+function extraerDatosBloque(lineas){
+
+    if(lineas.length < 2) return null;
 
     const match = lineas[0].match(/^(\d+)\s*-\s*(.+)$/);
     if(!match) return null;
 
-    return {
-        indice: match[1],
-        titulo: limpiarTitulo(match[2]),
-        video: getValor(lineas,"video:"),
-        cancion: getValor(lineas,"cancion:"),
-        imagen: getValor(lineas,"imagen:"),
-        info: getValor(lineas,"info:")
-    };
+    const indice = match[1];
+    const titulo = limpiarTextoTitulo(match[2]);
+
+    const video = getValor(lineas,"video:");
+    const cancion = getValor(lineas,"cancion:");
+    const imagen = getValor(lineas,"imagen:");
+    const info = getValor(lineas,"info:");
+
+    if(!imagen) return null;
+
+    return { indice, titulo, video, cancion, imagen, info };
 }
 
-async function cargar(){
+async function cargarVideos(){
 
-    const res = await fetch("Lista_de_Enlaces_de_Videos.txt",{cache:"no-store"});
-    const texto = await res.text();
+    contenedor.innerHTML = '<div class="loading">Cargando obras iniciáticas...</div>';
 
-    // 🔥 FIX IMPORTANTE: separador flexible
-    const bloques = texto.split(/-{5,}/);
+    try {
 
-    contenedor.innerHTML="";
+        const res = await fetch("Lista_de_Enlaces_de_Videos.txt",{cache:"no-store"});
+        const texto = await res.text();
 
-    bloques.forEach(b=>{
-        const lineas = b.split("\n").map(x=>x.trim()).filter(Boolean);
-        const d = extraer(lineas);
+        // 🔥 FIX REAL
+        const bloques = texto.split(/-{5,}/);
 
-        if(!d || !d.imagen) return;
+        contenedor.innerHTML = "";
 
-        const card = document.createElement("div");
-        card.className="card";
+        let total = 0;
 
-        const link = document.createElement("a");
-        link.href=d.video;
-        link.target="_blank";
+        for(const bloque of bloques){
 
-        const img = document.createElement("img");
-        img.src=d.imagen;
+            const lineas = bloque
+                .split("\n")
+                .map(l => l.trim())
+                .filter(Boolean);
 
-        const title = document.createElement("div");
-        title.className="card-title";
-        title.textContent = d.indice+" - "+d.titulo;
+            const datos = extraerDatosBloque(lineas);
+            if(!datos) continue;
 
-        link.appendChild(img);
-        link.appendChild(title);
+            const { indice, titulo, video, cancion, imagen, info } = datos;
 
-        const btnInfo = document.createElement("button");
-        btnInfo.className="info-btn";
-        btnInfo.textContent="Info";
-        btnInfo.onclick=(e)=>{
-            e.stopPropagation();
-            abrirInfo(d.indice+" - "+d.titulo,d.info);
-        };
+            const card = document.createElement("div");
+            card.className = "card";
 
-        const btnSong = document.createElement("button");
-        btnSong.className="song-btn";
-        btnSong.textContent="Solo Canción";
-        btnSong.onclick=(e)=>{
-            e.stopPropagation();
-            window.open(d.cancion,"_blank");
-        };
+            const link = document.createElement("a");
+            link.href = video;
+            link.target = "_blank";
 
-        card.appendChild(btnSong);
-        card.appendChild(btnInfo);
-        card.appendChild(link);
+            const img = document.createElement("img");
+            img.src = imagen;
+            img.alt = titulo;
 
-        contenedor.appendChild(card);
-    });
+            const titleDiv = document.createElement("div");
+            titleDiv.className = "card-title";
+            titleDiv.textContent = `${indice} - ${titulo}`;
+
+            link.appendChild(img);
+            link.appendChild(titleDiv);
+
+            const btnInfo = document.createElement("button");
+            btnInfo.className = "info-btn";
+            btnInfo.textContent = "Info";
+
+            btnInfo.onclick = (e)=>{
+                e.stopPropagation();
+                abrirInfo(`${indice} - ${titulo}`, info);
+            };
+
+            const btnSong = document.createElement("button");
+            btnSong.className = "song-btn";
+            btnSong.textContent = "Solo Canción";
+
+            btnSong.onclick = (e)=>{
+                e.stopPropagation();
+                window.open(cancion,"_blank");
+            };
+
+            card.appendChild(btnSong);
+            card.appendChild(btnInfo);
+            card.appendChild(link);
+
+            contenedor.appendChild(card);
+            total++;
+        }
+
+        if(total === 0){
+            contenedor.innerHTML = '<div class="error">No se encontraron obras con imagen válida</div>';
+        }
+
+    } catch(e){
+        contenedor.innerHTML = '<div class="error">Error cargando la lista</div>';
+        console.error(e);
+    }
 }
 
-cargar();
+cargarVideos();
 
 })();
 </script>
