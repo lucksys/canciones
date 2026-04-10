@@ -88,7 +88,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/portada.jpg"
 video: "https://drive.google.com/file/d/1-6jQBzsDeHcV6ncCVUyaTbbcu8lwJCtF/preview"
-cancion: "https://drive.google.com/file/d/1-6jQBzsDeHcV6ncCVUyaTbbcu8lwJCtF/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1CMtyOizKiEvqzE6Fcf5RQQYG_xBPDwvc/view"
 web: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -99,29 +99,29 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/fiat-lux,_desde_el_kairos_a_la_palabra/portada.jpg"
 video: "https://drive.google.com/file/d/1KnyBIiWuapKsxnadaelv--wQsu6oKxzP/preview"
-cancion: "https://drive.google.com/file/d/1KnyBIiWuapKsxnadaelv--wQsu6oKxzP/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1eboZCsyOpLAh_GmDk9T-v3H1wt1l5dfR/view"
 web: "https://lucksys.github.io/canciones/fiat-lux,_desde_el_kairos_a_la_palabra/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-9- el_silencio_del_alma Jazz
-----------------------------
+9- el_silencio_del_alma_(Jazz)
+-------------------------------
 
-imagen: "https://lucksys.github.io/canciones/canciones/el_silencio_del_alma/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/canciones/el_silencio_del_alma/portada1.jpg"
 video: "https://drive.google.com/file/d/1mPkpIWjYqMRe5Rih4AfCMIgPhiKnndw3/preview"
-cancion: "https://drive.google.com/file/d/1mPkpIWjYqMRe5Rih4AfCMIgPhiKnndw3/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1TpCFAU2PP6EqxgmNbLevtlos07N2qD99/view"
 web: "https://lucksys.github.io/canciones/el_silencio_del_alma/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
 10- el_silencio_del_alma (Soul)
-------------------------------
+-------------------------------
 
-imagen: "https://lucksys.github.io/canciones/el_silencio_del_alma/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/el_silencio_del_alma/portada2.jpg"
 video: "https://drive.google.com/file/d/14CokAz7kNvZ3aMTNYdZOcKtvgmkL6peE/preview"
-cancion: "https://drive.google.com/file/d/14CokAz7kNvZ3aMTNYdZOcKtvgmkL6peE/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/16nJ7Z_eg7cg7zoMZKALfDmT5RePogu6L/view"
 web: "https://lucksys.github.io/canciones/el_silencio_del_alma/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
