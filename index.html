@@ -39,7 +39,15 @@ h1{text-align:center;text-shadow:0 0 15px var(--gold);}
 .card{position:relative;background:var(--card);border:1px solid var(--gold);border-radius:12px;overflow:hidden;}
 .card:hover{box-shadow:0 0 20px var(--gold);}
 .card img{width:100%;background:#000;}
-.card-title{padding:10px;text-align:center;color:var(--text);}
+
+/* 🔧 AJUSTE DE LEGIBILIDAD */
+.card-title{
+padding:10px 90px 10px 12px;
+text-align:left;
+color:var(--text);
+line-height:1.2;
+word-break:break-word;
+}
 
 /* BOTONES AJUSTADOS */
 .info-btn{
@@ -56,7 +64,7 @@ font-size:13px;
 
 .song-btn{
 position:absolute;
-top:44px; /* DEBAJO DE INFO */
+top:44px;
 right:8px;
 height:32px;
 background:#000;
@@ -67,7 +75,6 @@ font-size:13px;
 cursor:pointer;
 }
 
-/* POPUP */
 .info-overlay{
 position:fixed;
 inset:0;
