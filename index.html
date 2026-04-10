@@ -181,10 +181,11 @@ if(/^video/i.test(l)) video=getValue(l);
 if(/^cancion/i.test(l)) cancion=getValue(l);
 
 if(/^info/i.test(l)){
-let txt=l.replace(/^info\s*:/i,"");
+let txt = l.replace(/^info\s*:/i,"").replace(/^"+|"+$/g,"");
 info.push(txt);
+
 for(let j=i+1;j<lineas.length;j++){
-info.push(lineas[j]);
+info.push(lineas[j].replace(/^"+|"+$/g,""));
 }
 break;
 }
@@ -199,9 +200,7 @@ titulo,
 imagen,
 video,
 cancion,
-info:info
-.map(l => l.replace(/^"+|"+$/g,""))
-.join("\n")
+info:info.join("\n")
 .replace(/-{3,}/g,"")
 .trim()
 };
