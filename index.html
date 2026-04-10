@@ -225,10 +225,13 @@ const lineas=b.split("\n").map(l=>l.trim()).filter(Boolean);
 const d=parseBloque(lineas);
 if(!d) continue;
 
+/* 🚫 FILTRO: NO MOSTRAR INDICE 0 */
+if(d.indice === 0) continue;
+
 const card=document.createElement("div");
 card.className="card";
 
-/* TITULO ARRIBA (FIX DEL BUG) */
+/* TITULO ARRIBA */
 const titulo=document.createElement("div");
 titulo.className="card-title";
 titulo.textContent=d.indice+" - "+d.titulo;
@@ -254,10 +257,10 @@ e.stopPropagation();
 window.open(d.cancion,"_blank");
 };
 
-/* ORDEN CORREGIDO */
+/* ORDEN FINAL */
 card.appendChild(btnCancion);
 card.appendChild(infoBtn);
-card.appendChild(titulo);  // 👈 ahora arriba
+card.appendChild(titulo);
 card.appendChild(img);
 
 contenedor.appendChild(card);
