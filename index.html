@@ -6,13 +6,11 @@
 
 <title>Composiciones Musicales para el Alma</title>
 
-<!-- OPEN GRAPH -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Composiciones Musicales para el Alma">
 <meta property="og:description" content="Una colección iniciática de obras musicales.">
 <meta property="og:image" content="https://lucksys.github.io/canciones/portada.jpg">
 
-<!-- TWITTER -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Composiciones Musicales para el Alma">
 <meta name="twitter:image" content="https://lucksys.github.io/canciones/portada.jpg">
@@ -43,31 +41,32 @@ h1{text-align:center;text-shadow:0 0 15px var(--gold);}
 .card img{width:100%;background:#000;}
 .card-title{padding:10px;text-align:center;color:var(--text);}
 
-/* BOTONES */
+/* BOTONES MÁS CHICOS */
 .info-btn{
 position:absolute;
 top:8px;
 right:8px;
-width:48px;
-height:48px;
+width:40px;
+height:36px;
 background:#000;
 color:var(--gold);
 border:1px solid var(--gold);
+font-size:12px;
 }
 
 .song-btn{
 position:absolute;
 top:8px;
-right:64px;
-height:48px;
+right:52px;
+height:36px;
 background:#000;
 color:var(--gold);
 border:1px solid var(--gold);
-padding:0 10px;
+padding:0 8px;
+font-size:12px;
 cursor:pointer;
 }
 
-/* POPUP */
 .info-overlay{
 position:fixed;
 inset:0;
@@ -145,8 +144,6 @@ infoTexto.textContent=texto;
 infoOverlay.classList.add("active");
 }
 
-/* ===== PARSER ROBUSTO ===== */
-
 function getValue(line){
 const m=line.match(/:\s*"?([^"]+)/);
 return m?m[1].trim():null;
@@ -196,12 +193,13 @@ titulo,
 imagen,
 video,
 cancion,
-info:info.join("\n").replace(/^"|"$/g,"")
+info:info.join("\n")
+.replace(/^"|"$/g,"")
+.replace(/-{3,}/g,"")
+.trim()
 };
 
 }
-
-/* ===== CARGA ===== */
 
 async function cargar(){
 
@@ -212,7 +210,6 @@ if(!res.ok) throw new Error("TXT no encontrado");
 
 const txt=await res.text();
 
-/* 🔥 FIX DEFINITIVO */
 const bloques = txt.split(/\n(?=\s*\d+\s*-\s*)/);
 
 contenedor.innerHTML="";
@@ -225,46 +222,30 @@ const lineas=b.split("\n").map(l=>l.trim()).filter(Boolean);
 
 const d=parseBloque(lineas);
 
-/* FILTRO FINAL */
 if(!d || d.indice === null || d.indice === 0) continue;
 
 const card=document.createElement("div");
 card.className="card";
 
-/* TITULO */
 const titulo=document.createElement("div");
 titulo.className="card-title";
 titulo.textContent=d.indice+" - "+d.titulo;
 
 const img=document.createElement("img");
 img.src=d.imagen;
-
-/* ERROR IMAGEN */
-img.onerror=function(){
-this.onerror=null;
-this.src="portada.jpg";
-};
-
+img.onerror=function(){this.onerror=null;this.src="portada.jpg";};
 img.onclick=()=>window.open(d.video,"_blank");
 
-/* BOTONES */
 const infoBtn=document.createElement("button");
 infoBtn.className="info-btn";
 infoBtn.textContent="Info";
-infoBtn.onclick=(e)=>{
-e.stopPropagation();
-abrirInfo(d.titulo,d.info);
-};
+infoBtn.onclick=(e)=>{e.stopPropagation();abrirInfo(d.titulo,d.info);};
 
 const btnCancion=document.createElement("button");
 btnCancion.className="song-btn";
 btnCancion.textContent="Solo canción";
-btnCancion.onclick=(e)=>{
-e.stopPropagation();
-window.open(d.cancion,"_blank");
-};
+btnCancion.onclick=(e)=>{e.stopPropagation();window.open(d.cancion,"_blank");};
 
-/* ORDEN */
 card.appendChild(btnCancion);
 card.appendChild(infoBtn);
 card.appendChild(titulo);
