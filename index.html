@@ -40,7 +40,6 @@ h1{text-align:center;text-shadow:0 0 15px var(--gold);}
 .card:hover{box-shadow:0 0 20px var(--gold);}
 .card img{width:100%;background:#000;}
 
-/* LEGIBILIDAD */
 .card-title{
 padding:10px 90px 10px 12px;
 text-align:left;
@@ -49,7 +48,6 @@ line-height:1.2;
 word-break:break-word;
 }
 
-/* BOTONES */
 .info-btn{
 position:absolute;
 top:8px;
@@ -201,9 +199,9 @@ titulo,
 imagen,
 video,
 cancion,
-info:info.join("\n")
-.replace(/^"+|"+$/g,"")
-.replace(/"{2,}/g,"")
+info:info
+.map(l => l.replace(/^"+|"+$/g,""))
+.join("\n")
 .replace(/-{3,}/g,"")
 .trim()
 };
