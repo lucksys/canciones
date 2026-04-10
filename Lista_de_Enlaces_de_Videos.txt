@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 0- Listado de Video-karaoe
 ------------------------
-imagen: "https://lucksys.github.io/canciones/portada.jpg
+imagen: "https://lucksys.github.io/canciones/portada.jpg"
 video: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD"
 cancion: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD?usp=sharing"
 web: "https://lucksys.github.io/canciones/index"
