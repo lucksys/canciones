@@ -38,7 +38,7 @@ Y en ese fuego interior, renazco siendo fiel a mí."
 3- Personalidad_y_Esencia_(EPIC)
 --------------------------------
 
-imagen: "https://lucksys.github.io/canciones/personalidad_y_esencia/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/personalidad_y_esencia/portada2.jpg"
 video: "https://drive.google.com/file/d/1RPGLJJ_CLr9qw-fyoX9nm0Uj3tsjYKpZ/view"
 cancion: "https://drive.google.com/file/d/1RPGLJJ_CLr9qw-fyoX9nm0Uj3tsjYKpZ/view"
 web: "https://lucksys.github.io/canciones/personalidad_y_esencia/index"
