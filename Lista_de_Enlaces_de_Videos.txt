@@ -108,7 +108,7 @@ N.A."
 9- el_silencio_del_alma_(Jazz)
 -------------------------------
 
-imagen: "https://lucksys.github.io/canciones/canciones/el_silencio_del_alma/portada1.jpg"
+imagen: "https://lucksys.github.io/canciones/el_silencio_del_alma/portada1.jpg"
 video: "https://drive.google.com/file/d/1mPkpIWjYqMRe5Rih4AfCMIgPhiKnndw3/preview"
 cancion: "https://drive.google.com/file/d/1TpCFAU2PP6EqxgmNbLevtlos07N2qD99/view"
 web: "https://lucksys.github.io/canciones/el_silencio_del_alma/index1"
