@@ -58,7 +58,7 @@ border:1px solid var(--gold);
 .song-btn{
 position:absolute;
 top:8px;
-right:64px; /* A LA IZQUIERDA DEL BOTON INFO */
+right:64px;
 height:48px;
 background:#000;
 color:var(--gold);
@@ -76,7 +76,6 @@ display:none;
 align-items:center;
 justify-content:center;
 }
-
 .info-overlay.active{display:flex;}
 
 .info-popup{
@@ -88,7 +87,6 @@ max-width:500px;
 width:90%;
 }
 
-/* BOTON CERRAR CORREGIDO */
 .info-close{
 position:absolute;
 top:10px;
@@ -230,16 +228,16 @@ if(!d) continue;
 const card=document.createElement("div");
 card.className="card";
 
-const img=document.createElement("img");
-img.src=d.imagen;
-
-img.onclick=()=>window.open(d.video,"_blank");
-
+/* TITULO ARRIBA (FIX DEL BUG) */
 const titulo=document.createElement("div");
 titulo.className="card-title";
 titulo.textContent=d.indice+" - "+d.titulo;
 
-/* BOTON INFO */
+const img=document.createElement("img");
+img.src=d.imagen;
+img.onclick=()=>window.open(d.video,"_blank");
+
+/* BOTONES */
 const infoBtn=document.createElement("button");
 infoBtn.className="info-btn";
 infoBtn.textContent="Info";
@@ -248,7 +246,6 @@ e.stopPropagation();
 abrirInfo(d.titulo,d.info);
 };
 
-/* BOTON SOLO CANCION (AHORA A LA IZQUIERDA) */
 const btnCancion=document.createElement("button");
 btnCancion.className="song-btn";
 btnCancion.textContent="Solo canción";
@@ -257,10 +254,11 @@ e.stopPropagation();
 window.open(d.cancion,"_blank");
 };
 
+/* ORDEN CORREGIDO */
 card.appendChild(btnCancion);
 card.appendChild(infoBtn);
+card.appendChild(titulo);  // 👈 ahora arriba
 card.appendChild(img);
-card.appendChild(titulo);
 
 contenedor.appendChild(card);
 
