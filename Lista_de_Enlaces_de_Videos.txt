@@ -55,7 +55,7 @@ Y en ese fuego interior, renazco siendo fiel a mí."
 
 imagen: "https://lucksys.github.io/canciones/parastatai_-_phratriai_e_hybridi/portada.jpg"
 video: "https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/preview"
-cancion: "https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1R8oDuxV7DJK4Ma5drh36gwZ4hpfMgjmJ/view"
 web: "https://lucksys.github.io/canciones/parastatai_-_phratriai_e_hybridi/index"
 info: "Compósición en idioma: Español neutro y vocablos en Latín.
 N.A."
@@ -66,12 +66,22 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/portada.jpg"
 video: "https://drive.google.com/file/d/1jX0j4ZPNxvjtmsVJMf6x6DvipGfGb1EZ/preview"
-cancion: "https://drive.google.com/file/d/1jX0j4ZPNxvjtmsVJMf6x6DvipGfGb1EZ/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1ZBWDJPnZgz9HTPhanRmtupXfiBkjCYaT/view"
 web: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+6- la_voluntad_entre_el_ego_y_la_voz_del_alma_(EPIC)
+----------------------------------------------------
+
+imagen: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/portada2.jpg"
+video: "https://drive.google.com/file/d/1_PvME2wH37AkqzXVwoD2LPB6LgJ1-ZME/view"
+cancion: "https://drive.google.com/file/d/1_PvME2wH37AkqzXVwoD2LPB6LgJ1-ZME/view"
+web: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index"
+info: "Compósición en idioma: español neutro.
+N.A."
 6- inmanencia_vs_diseno_un_legado_filosofico
 --------------------------------------------
 
