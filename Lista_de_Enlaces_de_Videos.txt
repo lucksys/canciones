@@ -198,7 +198,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/portada.jpg"
 video: "https://drive.google.com/file/d/12hBmzDA0EWH1mVP565gFmr2m97-BBULn/preview"
-cancion: "https://drive.google.com/file/d/12hBmzDA0EWH1mVP565gFmr2m97-BBULn/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1oATOSxE0PmciDPJO7vzaQ0PHBqnrgDPd/view"
 web: "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -209,7 +209,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada.jpg"
 video: "https://drive.google.com/file/d/1BmdmRvnPcErGMw6I8k-uf46Fe3BPS7IT/preview"
-cancion: "https://drive.google.com/file/d/1BmdmRvnPcErGMw6I8k-uf46Fe3BPS7IT/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/19j-hG2lF956V-rtnwglYGMR99lC3YCwh/view"
 web: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -220,7 +220,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/portada.jpg"
 video: "https://drive.google.com/file/d/10DOFd6ITUDuYxUfZp68_oi1X7noLXu4O/preview"
-cancion: "https://drive.google.com/file/d/10DOFd6ITUDuYxUfZp68_oi1X7noLXu4O/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1DK1B3GD0s6mmlN0FNTUi3lDSIeQLLre2/view"
 web: "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -231,79 +231,81 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/dharma_y_karma/portada.jpg"
 video: "https://drive.google.com/file/d/1mwz4n4r4iAHkWRMq8BFRAUT-0-i1q1xt/preview"
-cancion: "https://drive.google.com/file/d/1mwz4n4r4iAHkWRMq8BFRAUT-0-i1q1xt/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1CM8QCAlxFIKkRzF4B6cN7IvtZG6DCKvQ/view"
 web: "https://lucksys.github.io/canciones/dharma_y_karma/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-21- el_camino_del_grado_interior (Himno)
-----------------------------------------
+21- el_camino_del_grado_interior
+--------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/portada.jpg"
 video: "https://drive.google.com/file/d/1gfjCw8RgrzyxvjDzWcQako9A8AlBqv9L/preview"
-cancion: "https://drive.google.com/file/d/1gfjCw8RgrzyxvjDzWcQako9A8AlBqv9L/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1a_702FUzs92EDP8hCkW_YWT0nidHOjgS/view"
 web: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-22- el_camino_del_grado_interior (Rock)
----------------------------------------
 
-imagen: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/portada.jpg"
-video: "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview"
-cancion: "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview?usp=sharing"
-web: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/index"
-info: "Compósición en idioma: español neutro.
-N.A."
-
-------------------------------------------------------------------------------
-23- El_eco_de_un_secreto
+22- El_eco_de_un_secreto
 ------------------------
 
 imagen: "https://lucksys.github.io/canciones/El_eco_de_un_secreto/portada.jpg"
 video: "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview"
-cancion: "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1GkUkbMRd1X3ihICC-LaFQRNGioDSId_Q/view"
 web: "https://lucksys.github.io/canciones/El_eco_de_un_secreto/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-24- el_viaje_alquimico_del_ser_a_la_iluminacion
+23- el_viaje_alquimico_del_ser_a_la_iluminacion
 ------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/portada.jpg"
 video: "https://drive.google.com/file/d/1fEjXuivBAoxe_j8Nn5HET6q0OJ1zcORy/preview"
-cancion: "https://drive.google.com/file/d/1fEjXuivBAoxe_j8Nn5HET6q0OJ1zcORy/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/15XmaEt2T3-e9AJahZhkCmsdIjuuD4ku"
 web: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-25- el_aguila_bicefala
+24- el_aguila_bicefala
 -----------------------
 
 imagen: "https://lucksys.github.io/canciones/el_aguila_bicefala/ortada.jpg"
 video: "https://drive.google.com/file/d/1u2aNbuDXjKhpDo5ANZbHEEW4rDPWv06f/preview"
-cancion: "https://drive.google.com/file/d/1u2aNbuDXjKhpDo5ANZbHEEW4rDPWv06f/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1QWvq28PI3tMcizYbn6UU4euNXIezTB1N/view"
 web: "https://lucksys.github.io/canciones/el_aguila_bicefala/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-26- ne_plus_ultra
+25- ne_plus_ultra
 -----------------
 
 imagen: "https://lucksys.github.io/canciones/ne_plus_ultra/portada.jpg"
 video: "https://drive.google.com/file/d/1ss6CrHmyT_jwVuDVzBU8OI7Cwo9YcTwq/preview"
-cancion: "https://drive.google.com/file/d/1ss6CrHmyT_jwVuDVzBU8OI7Cwo9YcTwq/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1Ov0EZ19-MEevzAHD35Q-f4DVser7VDZT/view"
 web: "https://lucksys.github.io/canciones/ne_plus_ultra/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-27- himno_de_la_luz_velada
+25- ne_plus_ultra (EPIC)
+------------------------
+
+imagen: "https://lucksys.github.io/canciones/ne_plus_ultra/portada.jpg"
+video: "https://drive.google.com/file/d/1mNg3BEdOJ1be3C1To_wPopgOsxAHRjgC/view"
+cancion: "https://drive.google.com/file/d/1mNg3BEdOJ1be3C1To_wPopgOsxAHRjgC/view"
+web: "https://lucksys.github.io/canciones/ne_plus_ultra/index"
+info: "Compósición en idioma: español neutro.
+N.A."
+
+
+------------------------------------------------------------------------------
+26- himno_de_la_luz_velada
 --------------------------
 
 imagen: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada.jpg"
@@ -314,7 +316,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-28- himno_de_la_luz_velada (Versión Epica)
+27- himno_de_la_luz_velada (Versión Epica)
 ------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada.jpg"
@@ -325,7 +327,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-29- xiii_maximas_y_un_grito_inciatico_por_el_alma
+28- xiii_maximas_y_un_grito_inciatico_por_el_alma
 -------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/portada.jpg"
@@ -336,7 +338,7 @@ info: "Compósición en idioma: español neutro y Frases en Latín .
 N.A."
 
 ------------------------------------------------------------------------------
-30- la_trascendencia
+29- la_trascendencia
 ---------------------
 
 imagen: "https://lucksys.github.io/canciones/la_trascendencia/portada.jpg"
@@ -347,7 +349,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-31- la_elección_y_la_perseverancia
+30- la_elección_y_la_perseverancia
 ----------------------------------
 
 imagen: "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/portada.jpg"
@@ -359,7 +361,7 @@ N.A."
 
 ------------------------------------------------------------------------------
 
-32- la_piedra_en_bruto_y_la_piedra_cubica
+31- la_piedra_en_bruto_y_la_piedra_cubica
 -----------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/portada.jpg"
@@ -370,7 +372,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-33- quedate_a_mi_Lado
+32- quedate_a_mi_Lado
 ---------------------
 
 imagen: "https://lucksys.github.io/canciones/quedate_a_mi_Lado/portada.jpg"
@@ -382,7 +384,7 @@ N.A."
 
 ------------------------------------------------------------------------------
 
-34- escalera_caracol
+33- escalera_caracol
 --------------------
 
 imagen: "https://lucksys.github.io/canciones/escalera_caracol/portada.jpg"
@@ -393,7 +395,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-35- no_fue_la_luz_lo_que_dolio
+34- no_fue_la_luz_lo_que_dolio
 -------------------------------
 
 imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada.jpg"
@@ -404,7 +406,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-36- resurreccion_de_la_palabra
+35- resurreccion_de_la_palabra
 ------------------------------
 
 imagen: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada.jpg"
@@ -415,7 +417,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-37- resurreccion_de_la_palabra (acoustc-epyc))
+36- resurreccion_de_la_palabra (acoustc-epyc))
 ----------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg"
@@ -426,7 +428,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-38- Throne_of_the_Pleroma
+37- Throne_of_the_Pleroma
 -------------------------
 
 imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada.jpg"
@@ -437,7 +439,7 @@ info: "Compósición en idioma: ingles, con subtitulos en español
 N.A."
 
 ------------------------------------------------------------------------------
-39- la_lámpara_interior
+38- la_lámpara_interior
 -----------------------
 
 imagen: "https://lucksys.github.io/canciones/la_lampara_interior/portada.jpg"
@@ -448,7 +450,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-40- El_Camino_la_Virtud_y_el_Cayado
+39- El_Camino_la_Virtud_y_el_Cayado
 ------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada.jpg"
@@ -459,7 +461,7 @@ info: "Compósición en idioma: Italiano, con subtitulos e español.
 N.A."
 
 ------------------------------------------------------------------------------
-41- Bajo_la_Ley_de_la_Luz
+40- Bajo_la_Ley_de_la_Luz
 --------------------------
 
 imagen: "https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/portada.jpg"
