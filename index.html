@@ -212,7 +212,8 @@ if(!res.ok) throw new Error("TXT no encontrado");
 
 const txt=await res.text();
 
-const bloques=txt.split(/-{5,}/);
+/* 🔥 FIX DEFINITIVO */
+const bloques = txt.split(/\n(?=\s*\d+\s*-\s*)/);
 
 contenedor.innerHTML="";
 
@@ -224,7 +225,7 @@ const lineas=b.split("\n").map(l=>l.trim()).filter(Boolean);
 
 const d=parseBloque(lineas);
 
-/* FILTRO DEFINITIVO */
+/* FILTRO FINAL */
 if(!d || d.indice === null || d.indice === 0) continue;
 
 const card=document.createElement("div");
@@ -238,10 +239,10 @@ titulo.textContent=d.indice+" - "+d.titulo;
 const img=document.createElement("img");
 img.src=d.imagen;
 
-/* 🔥 CONTROL DE ERROR DE IMAGEN */
-img.onerror = function(){
-this.onerror = null;
-this.src = "portada.jpg";
+/* ERROR IMAGEN */
+img.onerror=function(){
+this.onerror=null;
+this.src="portada.jpg";
 };
 
 img.onclick=()=>window.open(d.video,"_blank");
@@ -263,7 +264,7 @@ e.stopPropagation();
 window.open(d.cancion,"_blank");
 };
 
-/* ORDEN FINAL */
+/* ORDEN */
 card.appendChild(btnCancion);
 card.appendChild(infoBtn);
 card.appendChild(titulo);
