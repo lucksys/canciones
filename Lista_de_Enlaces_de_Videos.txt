@@ -520,7 +520,7 @@ N.A."
 45- Nacida_bajo_el_signo_de_la_luz_(Español) 
 --------------------------------------------
 
-imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luzs/portada1.jpg"
+imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada1.jpg"
 video: "https://drive.google.com/file/d/1qP74yNbFk7hWaq-HCVRlOsWdJ_FigMyP/view"
 cancion: "https://drive.google.com/file/d/1qP74yNbFk7hWaq-HCVRlOsWdJ_FigMyP/view"
 web: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/index1"
