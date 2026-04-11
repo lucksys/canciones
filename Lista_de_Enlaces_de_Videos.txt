@@ -431,7 +431,7 @@ N.A."
 37- Throne_of_the_Pleroma
 -------------------------
 
-imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada1.jpg"
 video: "https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/preview"
 cancion: "https://drive.google.com/file/d/1n03OcKLsrrUAaMjmOBiLZoSWDTTo3pHy/view"
 web: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index1"
@@ -451,18 +451,29 @@ info: "Compósición en idioma: ingles, con subtitulos en español
 N.A."
 
 ------------------------------------------------------------------------------
-38- la_lámpara_interior
+39- la_lámpara_interior
 -----------------------
 
-imagen: "https://lucksys.github.io/canciones/la_lampara_interior/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/la_lampara_interior/portada1.jpg"
 video: "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/preview"
 cancion: "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/preview?usp=sharing"
-web: "https://lucksys.github.io/canciones/la_lampara_interior/index"
+web: "https://lucksys.github.io/canciones/la_lampara_interior1/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
-39- El_Camino_la_Virtud_y_el_Cayado
+40- la_lámpara_interior_Acoustic
+--------------------------------
+
+imagen: "https://lucksys.github.io/canciones/la_lampara_interior/portada2.jpg"
+video: "https://drive.google.com/file/d/1XHSTQnU0OX2z-StxTzHsHZTeUV5e2KaH/view"
+cancion: "https://drive.google.com/file/d/1XHSTQnU0OX2z-StxTzHsHZTeUV5e2KaH/view"
+web: "https://lucksys.github.io/canciones/la_lampara_interior2/index2"
+info: "Compósición en idioma: español neutro.
+N.A."
+
+------------------------------------------------------------------------------
+41- El_Camino_la_Virtud_y_el_Cayado
 ------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada.jpg"
@@ -473,7 +484,7 @@ info: "Compósición en idioma: Italiano, con subtitulos e español.
 N.A."
 
 ------------------------------------------------------------------------------
-40- Bajo_la_Ley_de_la_Luz
+42- Bajo_la_Ley_de_la_Luz
 --------------------------
 
 imagen: "https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/portada.jpg"
