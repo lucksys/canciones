@@ -484,8 +484,8 @@ info: "Compósición en idioma: Italiano, con subtitulos e español.
 N.A."
 
 ------------------------------------------------------------------------------
-42- El_Camino_la_Virtud_y_el_Cayado_Acoustic 
---------------------------------------------
+42- El_Camino_la_Virtud_y_el_Cayado_Acoustic-Duet 
+-------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada2.jpg"
 video: "https://drive.google.com/file/d/1DqxfWZicowCNWmTdT0mtpGw_NCk9o1dN/view"
