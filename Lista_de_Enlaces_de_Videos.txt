@@ -185,7 +185,7 @@ N.A."
 16- gnosis_cristica (Gnostic Rock)
 ----------------------------------
 
-imagen: "https://lucksys.github.io/canciones/canciones/gnosis_cristica/portada2.jpg"
+imagen: "https://lucksys.github.io/canciones/gnosis_cristica/portada2.jpg"
 video: "https://drive.google.com/file/d/1f6zI4zC4ozeFOJ2mXqHUSTHTiK9wK8bB/preview"
 cancion: "https://drive.google.com/file/d/1VtX5KtKs6fxdR3oZbDaDs6gf8Pwu7l46/view"
 web: "https://lucksys.github.io/canciones/gnosis_cristica/index2"
@@ -412,7 +412,7 @@ N.A."
 imagen: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada.jpg"
 video: "https://drive.google.com/file/d/1oyQLfchXGPi-TF-XcAbsd3iTWz5iamv3/preview" 
 cancion: "https://drive.google.com/file/d/1W0hVTYXED3xstJ6NR7KT89cWmWtPoDrD/view"
-web: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index"
+web: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
