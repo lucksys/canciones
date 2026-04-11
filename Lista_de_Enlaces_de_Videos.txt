@@ -515,3 +515,27 @@ cancion: "https://drive.google.com/file/d/1zIUow9wMHGC95TrVde3LQnVmfBl0T7Nc/view
 web: "https://lucksys.github.io/canciones/no_te_duermas/index"
 info: "Compósición en idioma: Italiano Florentino.
 N.A."
+
+------------------------------------------------------------------------------
+45- Nacida_bajo_el_signo_de_la_luz_(Español) 
+--------------------------------------------
+
+imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luzs/portada1.jpg"
+video: "https://drive.google.com/file/d/1qP74yNbFk7hWaq-HCVRlOsWdJ_FigMyP/view"
+cancion: "https://drive.google.com/file/d/1qP74yNbFk7hWaq-HCVRlOsWdJ_FigMyP/view"
+web: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/index1"
+info: "Compósición en idioma: español neutro .
+Mi historia y herencia en el Arte Real."
+
+------------------------------------------------------------------------------
+46- Nacida_bajo_el_signo_de_la_luz_(Italiano) 
+---------------------------------------------
+
+imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada2.jpg"
+video: "https://drive.google.com/file/d/1rWqHNIsZmh-_3NJPV5HIo2kaDBQ-iOd7/view"
+cancion: "https://drive.google.com/file/d/1rWqHNIsZmh-_3NJPV5HIo2kaDBQ-iOd7/view"
+web: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/index2"
+info: "Compósición en idioma: Italiano Florentino.
+Mi historia y Herencia en el Arte Real."
+
+------------------------------------------------------------------------------
