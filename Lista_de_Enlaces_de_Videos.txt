@@ -476,15 +476,26 @@ N.A."
 41- El_Camino_la_Virtud_y_el_Cayado
 ------------------------------------
 
-imagen: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada1.jpg"
 video: "https://drive.google.com/file/d/1b0pJcO87JP9Hj5ciiaPTt3YtjvqECIwp/preview"
-cancion: "https://drive.google.com/file/d/1b0pJcO87JP9Hj5ciiaPTt3YtjvqECIwp/preview?usp=sharing"
-web: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/index"
+cancion: "https://drive.google.com/file/d/1zkWlc-r_ICi2wxk9ru5SbnmuPwsEaHuq/view"
+web: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/index1"
 info: "Compósición en idioma: Italiano, con subtitulos e español.
 N.A."
 
 ------------------------------------------------------------------------------
-42- Bajo_la_Ley_de_la_Luz
+42- El_Camino_la_Virtud_y_el_Cayado_Acoustic 
+--------------------------------------------
+
+imagen: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada2.jpg"
+video: "https://drive.google.com/file/d/1DqxfWZicowCNWmTdT0mtpGw_NCk9o1dN/view"
+cancion: "https://drive.google.com/file/d/1DqxfWZicowCNWmTdT0mtpGw_NCk9o1dN/view"
+web: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/index2"
+info: "Compósición en idioma: Italiano, con subtitulos e español.
+N.A."
+
+------------------------------------------------------------------------------
+43- Bajo_la_Ley_de_la_Luz
 --------------------------
 
 imagen: "https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/portada.jpg"
