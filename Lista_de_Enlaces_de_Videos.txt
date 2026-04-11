@@ -500,10 +500,18 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/portada.jpg"
 video: "https://drive.google.com/file/d/1mNHW1VY8Nz1pygf-ClwO9DVzAebuOITb/preview"
-cancion: "https://drive.google.com/file/d/1mNHW1VY8Nz1pygf-ClwO9DVzAebuOITb/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1b9G0o2l9yh5QsFNpwJ0qCitLCzsWDKmM/view"
 web: "https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
 ------------------------------------------------------------------------------
+43- NO_te_durmas
+--------------------------
 
+imagen: "https://lucksys.github.io/canciones/no_te_duermas/portada1.jpg"
+video: "https://drive.google.com/file/d/1zIUow9wMHGC95TrVde3LQnVmfBl0T7Nc/view"
+cancion: "https://drive.google.com/file/d/1zIUow9wMHGC95TrVde3LQnVmfBl0T7Nc/view"
+web: "https://lucksys.github.io/canciones/no_te_duermas/index"
+info: "Compósición en idioma: Italiano Florentino.
+N.A."
