@@ -411,7 +411,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada.jpg"
 video: "https://drive.google.com/file/d/1oyQLfchXGPi-TF-XcAbsd3iTWz5iamv3/preview" 
-cancion: "https://drive.google.com/file/d/1oyQLfchXGPi-TF-XcAbsd3iTWz5iamv3/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1W0hVTYXED3xstJ6NR7KT89cWmWtPoDrD/view"
 web: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -422,7 +422,7 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg"
 video: "https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/preview"
-cancion: "https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/preview?usp=sharing"
+cancion: "https://drive.google.com/file/d/1MtQFvJeZEQEtUJxgwjFBgAmdOaSS3acf/view"
 web: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
@@ -433,8 +433,20 @@ N.A."
 
 imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada.jpg"
 video: "https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/preview"
-cancion: "https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/preview?usp=sharing"
-web: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index"
+cancion: "https://drive.google.com/file/d/1n03OcKLsrrUAaMjmOBiLZoSWDTTo3pHy/view"
+web: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index1"
+info: "Compósición en idioma: ingles, con subtitulos en español
+N.A."
+
+------------------------------------------------------------------------------
+
+38- Throne_of_the_Pleroma (EPIC)
+--------------------------------
+
+imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada2.jpg"
+video: "https://drive.google.com/file/d/1bxtPgF5YnCRYA_ppdQ1JO135WUwYmdIe/view"
+cancion: "https://drive.google.com/file/d/1bxtPgF5YnCRYA_ppdQ1JO135WUwYmdIe/view"
+web: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index2"
 info: "Compósición en idioma: ingles, con subtitulos en español
 N.A."
 
