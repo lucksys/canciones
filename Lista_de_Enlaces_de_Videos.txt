@@ -174,7 +174,7 @@ N.A."
 15- gnosis_cristica (Himno)
 ---------------------------
 
-imagen: "https://lucksys.github.io/canciones/gnosis_cristica/Portada_Himno.jpeg"
+imagen: "https://lucksys.github.io/canciones/gnosis_cristica/portada1.jpg"
 video: "https://drive.google.com/file/d/1jAHJ7haYoqU0yAtBPh2S5VL6hHTSrwnV/preview"
 cancion: "https://drive.google.com/file/d/1Rpy0aBC4KsbEkGAvUnX5oU7BYhq7UJgH/view"
 web: "https://lucksys.github.io/canciones/gnosis_cristica/index1"
@@ -185,7 +185,7 @@ N.A."
 16- gnosis_cristica (Gnostic Rock)
 ----------------------------------
 
-imagen: "https://lucksys.github.io/canciones/canciones/gnosis_cristica/Portada._Rock.jpeg"
+imagen: "https://lucksys.github.io/canciones/canciones/gnosis_cristica/portada2.jpg"
 video: "https://drive.google.com/file/d/1f6zI4zC4ozeFOJ2mXqHUSTHTiK9wK8bB/preview"
 cancion: "https://drive.google.com/file/d/1VtX5KtKs6fxdR3oZbDaDs6gf8Pwu7l46/view"
 web: "https://lucksys.github.io/canciones/gnosis_cristica/index2"
