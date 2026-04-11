@@ -141,7 +141,7 @@ N.A."
 12- el_grito_rosacruz
 ----------------------
 
-imagen: "https://lucksys.github.io/canciones/canciones/el_grito_rosacruz/portada.jpg"
+imagen: "https://lucksys.github.io/canciones/el_grito_rosacruz/portada.jpg"
 video: "https://drive.google.com/file/d/1prjwXopi8b6653KF3DAg2YNfaFG-yJ7V/preview"
 cancion: "https://drive.google.com/file/d/18XHjFhxTqG4ZCr2oam1Sm6n2D_eQPNAE/view"
 web: "https://lucksys.github.io/canciones/el_grito_rosacruz/index"
@@ -274,7 +274,7 @@ N.A."
 24- el_aguila_bicefala
 -----------------------
 
-imagen: "https://lucksys.github.io/canciones/el_aguila_bicefala/ortada.jpg"
+imagen: "https://lucksys.github.io/canciones/el_aguila_bicefala/portada.jpg"
 video: "https://drive.google.com/file/d/1u2aNbuDXjKhpDo5ANZbHEEW4rDPWv06f/preview"
 cancion: "https://drive.google.com/file/d/1QWvq28PI3tMcizYbn6UU4euNXIezTB1N/view"
 web: "https://lucksys.github.io/canciones/el_aguila_bicefala/index"
