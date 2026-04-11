@@ -532,7 +532,7 @@ Mi historia y herencia en el Arte Real."
 ---------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada2.jpg"
-video: "https://drive.google.com/file/d/1rWqHNIsZmh-_3NJPV5HIo2kaDBQ-iOd7/view"
+video: "https://drive.google.com/file/d/1LR2nEvCoHcfP4QlxbDisT9pxZ8mTOoeS/view"
 cancion: "https://drive.google.com/file/d/1rWqHNIsZmh-_3NJPV5HIo2kaDBQ-iOd7/view"
 web: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/index2"
 info: "Compósición en idioma: Italiano Florentino.
