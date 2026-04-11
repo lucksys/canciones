@@ -488,7 +488,7 @@ N.A."
 -------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada2.jpg"
-video: "https://drive.google.com/file/d/1GhouV9EXkmAFIZcrz2qETXtfV_ngYTJ5/view"
+video: "https://drive.google.com/file/d/1lew8Ga2cHi_SkCOX2LCf4Ji2wWSI21_x/view"
 cancion: "https://drive.google.com/file/d/1DqxfWZicowCNWmTdT0mtpGw_NCk9o1dN/view"
 web: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/index2"
 info: "Compósición en idioma: Italiano, con subtitulos e español.
