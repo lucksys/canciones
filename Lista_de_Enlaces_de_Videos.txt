@@ -521,7 +521,7 @@ N.A."
 --------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada1.jpg"
-video: "https://drive.google.com/file/d/1yvzbLu9D39KS1y7gw4IUWsFGd6XGM4Uo/view"
+video: "https://drive.google.com/file/d/1yvzbLu9D39KS1y7gw4IUWsFGd6XGM4Uo/preview"
 cancion: "https://drive.google.com/file/d/1qP74yNbFk7hWaq-HCVRlOsWdJ_FigMyP/view"
 web: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/index1"
 info: "Compósición en idioma: español neutro .
@@ -532,7 +532,7 @@ Mi historia y herencia en el Arte Real."
 ---------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada2.jpg"
-video: "https://drive.google.com/file/d/1LR2nEvCoHcfP4QlxbDisT9pxZ8mTOoeS/view"
+video: "https://drive.google.com/file/d/1LR2nEvCoHcfP4QlxbDisT9pxZ8mTOoeS/preview"
 cancion: "https://drive.google.com/file/d/1rWqHNIsZmh-_3NJPV5HIo2kaDBQ-iOd7/view"
 web: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/index2"
 info: "Compósición en idioma: Italiano Florentino.
