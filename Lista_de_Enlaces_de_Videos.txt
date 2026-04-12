@@ -560,6 +560,7 @@ cancion: "https://drive.google.com/file/d/1lQnVyW50imy4uP5L7P-A2MAsIG67oxL9/view
 web: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index"
 info: "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba).
 El Camino de : La Libertad, La Igualdad Y La Fraternidad."
+
 ------------------------------------------------------------------------------
 49- alter-tango_(Tango) 
 ----------------------------------------------------------------
@@ -571,5 +572,15 @@ web: "https://lucksys.github.io/canciones/alter-tango/index"
 info: "Compósición en idioma: Español Neutro. Tango.
 Tango de la Alteridad"
 
+------------------------------------------------------------------------------
+50- La_luz_que_no_se_apaga_(Cancion_para_el_responso) 
+-----------------------------------------------------
+
+imagen: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/portada.jpg"
+video: "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
+cancion: "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
+web: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/index"
+info: "Compósición en idioma: Español Neutro. Cancion_para_el_responso
+y despedida al Oriente Eterno.". 
 
 ------------------------------------------------------------------------------
