@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------
-0- Listado de Video-karaoe
-------------------------
+0- Listado de Video-karaoke
+---------------------------
 imagen: "https://lucksys.github.io/canciones/portada.jpg"
 video: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD"
 cancion: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD?usp=sharing"
@@ -549,5 +549,16 @@ cancion: "https://drive.google.com/file/d/1_w2jq-JCe52cVABVS5qO4BW_ruHucM7K/view
 web: "https://lucksys.github.io/canciones/signo_palabra_y_toque/index1"
 info: "Compósición en idioma: Italiano Florentino.
 Historia de los simbolos en el Arte Real."
+
+------------------------------------------------------------------------------
+47- signo_palabra_y_toque_(Italiano) 
+------------------------------------
+
+imagen: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/portada.jpg"
+video: "https://drive.google.com/file/d/1lQnVyW50imy4uP5L7P-A2MAsIG67oxL9/view"
+cancion: "https://drive.google.com/file/d/1lQnVyW50imy4uP5L7P-A2MAsIG67oxL9/view"
+web: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index"
+info: "Compósición en idioma: Español Clave de: SON (Salsa y Timba).
+El Camino de : La Libertad, La Igualdad Y La Fraternidad."
 
 ------------------------------------------------------------------------------
