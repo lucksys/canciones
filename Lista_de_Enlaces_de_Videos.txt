@@ -568,7 +568,7 @@ imagen: "https://lucksys.github.io/canciones/alter-tango/portada.jpg"
 video: "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
 cancion: "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
 web: "https://lucksys.github.io/canciones/alter-tango/index"
-info: "Compósición en idioma: Español Neutro .Tango.
+info: "Compósición en idioma: Español Neutro. Tango.
 Tango de la Alteridad"
 
 
