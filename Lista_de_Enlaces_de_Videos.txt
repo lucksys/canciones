@@ -558,7 +558,7 @@ imagen: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_
 video: "https://drive.google.com/file/d/1lQnVyW50imy4uP5L7P-A2MAsIG67oxL9/view"
 cancion: "https://drive.google.com/file/d/1lQnVyW50imy4uP5L7P-A2MAsIG67oxL9/view"
 web: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index"
-info: "Compósición en idioma: Español Clave de: SON (Salsa y Timba).
+info: "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba).
 El Camino de : La Libertad, La Igualdad Y La Fraternidad."
 
 ------------------------------------------------------------------------------
