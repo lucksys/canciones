@@ -548,6 +548,6 @@ video: "https://drive.google.com/file/d/1_w2jq-JCe52cVABVS5qO4BW_ruHucM7K/view"
 cancion: "https://drive.google.com/file/d/1_w2jq-JCe52cVABVS5qO4BW_ruHucM7K/view"
 web: "https://lucksys.github.io/canciones/signo_palabra_y_toque/index1"
 info: "Compósición en idioma: Italiano Florentino.
-Mi historia y Herencia en el Arte Real."
+Historia de los simbolos en el Arte Real."
 
 ------------------------------------------------------------------------------
