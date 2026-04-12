@@ -544,7 +544,7 @@ Mi historia y Herencia en el Arte Real."
 ------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/signo_palabra_y_toque/portada1.jpg"
-video: "https://drive.google.com/file/d/1_w2jq-JCe52cVABVS5qO4BW_ruHucM7K/view"
+video: "https://drive.google.com/file/d/14zWU_6uM_n0THDze9nxtdGrj87WU_6fZ/view"
 cancion: "https://drive.google.com/file/d/1_w2jq-JCe52cVABVS5qO4BW_ruHucM7K/view"
 web: "https://lucksys.github.io/canciones/signo_palabra_y_toque/index1"
 info: "Compósición en idioma: Italiano Florentino.
