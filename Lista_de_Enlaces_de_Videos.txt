@@ -573,8 +573,8 @@ info: "Compósición en idioma: Español Neutro. Tango.
 Tango de la Alteridad"
 
 ------------------------------------------------------------------------------
-50- La_luz_que_no_se_apaga_(Cancion_para_el_responso) 
------------------------------------------------------
+50- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno) 
+------------------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/portada.jpg"
 video: "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
