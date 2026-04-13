@@ -577,8 +577,8 @@ Tango de la Alteridad"
 ------------------------------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/portada.jpg"
-video: "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
-cancion: "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
+video: "https://drive.google.com/file/d/1AkDCNAJzCYUHNwGPjpSQxd9FqAzx1_9G/view"
+cancion: "https://drive.google.com/file/d/1AkDCNAJzCYUHNwGPjpSQxd9FqAzx1_9G/view"
 web: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/index"
 info: "Compósición en idioma: Español Neutro. Cancion_para_el_responso
 y despedida al Oriente Eterno.". 
