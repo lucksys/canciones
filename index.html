@@ -176,9 +176,9 @@ titulo=m[2].replaceAll("_"," ").trim();
 }
 }
 
-if(/^imagen/i.test(l)) imagen=getValue(l);
-if(/^web-video/i.test(l)) video=getValue(l);
-if(/^web-cancion/i.test(l)) cancion=getValue(l);
+if(/^url-imagen/i.test(l)) imagen=getValue(l);
+if(/^url-video/i.test(l)) video=getValue(l);
+if(/^url-cancion/i.test(l)) cancion=getValue(l);
 
 if(/^info/i.test(l)){
 let txt = l.replace(/^info\s*:/i,"").replace(/^\s*"+/, "").trim();
