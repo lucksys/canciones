@@ -540,7 +540,7 @@ Mi historia y Herencia en el Arte Real."
 
 ------------------------------------------------------------------------------
 
-47- signo_palabra_y_toque_(Italiano) 
+47- Signo_Palabra_y_Toque_(Italiano) 
 ------------------------------------
 
 imagen: "https://lucksys.github.io/canciones/signo_palabra_y_toque/portada1.jpg"
