@@ -59,7 +59,10 @@ url-video: "https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/vi
 url-cancion: "https://drive.google.com/file/d/1R8oDuxV7DJK4Ma5drh36gwZ4hpfMgjmJ/view"
 web-video: "https://lucksys.github.io/canciones/parastatai_-_phratriai_e_hybridi/index"
 info: "Compósición en idioma: Español neutro y vocablos en Latín.
-N.A."
+Parastatir es el qu esta al lado , el guia de la hermandad Blanca que sostiene desde 
+Gnosis y transmisión del conocimiento .
+Phrariai: es la afonodad espiritual  de esa hermandad Blanca.
+Hybridi Santo: La union de ambas polaridades HierusGamos (Matrimonio Aqumico)."
 
 ------------------------------------------------------------------------------
 5- la_voluntad_entre_el_ego_y_la_voz_del_alma
