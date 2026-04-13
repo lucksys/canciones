@@ -21,7 +21,7 @@
     <meta name="twitter:description" content="Te invito a ver y escuchar la canción completa aquí.">
     <meta name="twitter:image" content="https://lucksys.github.io/canciones/la_lampara_interior/portada2.jpg">
 
-    <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1Om-sp4-uBVSP8OuB_gGVmg6L7gKOWSdU/view">
+    <!--meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1Om-sp4-uBVSP8OuB_gGVmg6L7gKOWSdU/view" !-->
 
     <style>
         body { font-family: sans-serif; text-align: center; padding-top: 100px; background-color: #1a1a1a; color: #ffffff; }
@@ -33,6 +33,23 @@
 <body>
     <h2>Redirigiendo a la obra...</h2>
     <div class="loader"></div>
-    <p>Si no carga, <a href="https://drive.google.com/file/d/1Om-sp4-uBVSP8OuB_gGVmg6L7gKOWSdU/view">haz clic aquí</a>.</p>
+    <p>Si no carga, <a id="fallbackLink" href="#">haz clic aquí</a>.</p>
+
+    <script>
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const cancion = params.get("cancion");
+
+            const urls = {
+                default: "https://drive.google.com/file/d/1Om-sp4-uBVSP8OuB_gGVmg6L7gKOWSdU/view", // video
+                1: "https://drive.google.com/file/d/1XHSTQnU0OX2z-StxTzHsHZTeUV5e2KaH/view"        // canción
+            };
+
+            const destino = urls[cancion] || urls.default;
+
+            document.getElementById("fallbackLink").href = destino;
+            window.location.replace(destino);
+        })();
+    </script>
 </body>
 </html>
