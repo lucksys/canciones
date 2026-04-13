@@ -436,7 +436,7 @@ video: "https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/previe
 cancion: "https://drive.google.com/file/d/1n03OcKLsrrUAaMjmOBiLZoSWDTTo3pHy/view"
 web: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index1"
 info: "Compósición en idioma: ingles, con subtitulos en español
-N.A."
+Homenaje al Patriarca Enoc (Arcangel Metatron)."
 
 ------------------------------------------------------------------------------
 
@@ -447,8 +447,8 @@ imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada2.jpg"
 video: "https://drive.google.com/file/d/1bxtPgF5YnCRYA_ppdQ1JO135WUwYmdIe/view"
 cancion: "https://drive.google.com/file/d/1bxtPgF5YnCRYA_ppdQ1JO135WUwYmdIe/view"
 web: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index2"
-info: "Compósición en idioma: ingles, con subtitulos en español
-N.A."
+info: "Compósición en idioma: ingles, con subtitulos en español Versión Épica
+Homenaje al Patriarca Enoc (Arcangel Metatron)
 
 ------------------------------------------------------------------------------
 39- la_lámpara_interior
