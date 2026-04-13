@@ -584,3 +584,23 @@ info: "Compósición en idioma: Español Neutro. Cancion_para_el_responso
 y despedida al Oriente Eterno.". 
 
 ------------------------------------------------------------------------------
+51- Herederos_de_Arte_Real(Rock-Classic) 
+------------------------------------------------------------
+
+imagen: "https://lucksys.github.io/canciones/herederos_del_arte_real/portada1.jpg"
+video: "https://drive.google.com/file/d/1fwYGfZgb4nUXpqmv3YhVVuDD7qpvWqrQ/view"
+cancion: "https://drive.google.com/file/d/1fwYGfZgb4nUXpqmv3YhVVuDD7qpvWqrQ/view"
+web: "https://lucksys.github.io/canciones/herederos_del_arte_real/index1"
+info: "Compósición en idioma: Español Neutro. Rock Classic del Arte Real.". 
+
+------------------------------------------------------------------------------
+51- Herederos_de_Arte_Real(Rock-Metal-Strong) 
+------------------------------------------------------------
+
+imagen: "https://lucksys.github.io/canciones/herederos_del_arte_real/portada2.jpg"
+video: "https://drive.google.com/file/d/1irU6qj1-fRGln9vx7flTT9j5Owk4mBHE/view"
+cancion: "https://drive.google.com/file/d/1irU6qj1-fRGln9vx7flTT9j5Owk4mBHE/view"
+web: "https://lucksys.github.io/canciones/herederos_del_arte_real/index2"
+info: "Compósición en idioma: Español Neutro. RockMetral Strong del Arte Real.". 
+
+------------------------------------------------------------------------------
