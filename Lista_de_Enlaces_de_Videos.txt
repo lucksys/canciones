@@ -468,7 +468,9 @@ N.A."
 imagen: "https://lucksys.github.io/canciones/la_lampara_interior/portada2.jpg"
 video: "https://drive.google.com/file/d/1Om-sp4-uBVSP8OuB_gGVmg6L7gKOWSdU/view"
 cancion: "https://drive.google.com/file/d/1XHSTQnU0OX2z-StxTzHsHZTeUV5e2KaH/view"
-web: "https://lucksys.github.io/canciones/la_lampara_interior/index2"
+web-video : "https://lucksys.github.io/canciones/la_lampara_interior/index2"
+web-video1: "https://lucksys.github.io/canciones/la_lampara_interior/index2?cancion=0"
+web-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index2?cancion=1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
