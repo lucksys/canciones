@@ -5,6 +5,7 @@ url-imagen: "https://lucksys.github.io/canciones/portada.jpg"
 url-video: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD"
 url-cancion: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD?usp=sharing"
 web-video: "https://lucksys.github.io/canciones/index"
+web-canción: "https://lucksys.github.io/canciones/index"
 info: "Indice Geberal de Composicines Musicales
 N.A."
 
