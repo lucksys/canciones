@@ -55,10 +55,10 @@ Y en ese fuego interior, renazco siendo fiel a mí."
 ------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/personalidad_y_esencia/portada3.jpg"
-url-video: ""
+url-video: "https://drive.google.com/file/d/1wfUuJl6bNS7lSiL2n00D66xMV7YVJ8Hc/view"
 url-cancion: "https://drive.google.com/file/d/11mjaZ3DpAm2DKQEI38kSZ-C7X4av96QP/view"
 web-video: "https://lucksys.github.io/canciones/personalidad_y_esencia/index3"
-info: "Compósición en idioma: Itaoiano Florentino.
+info: "Compósición en idioma: Italiano Florentino.
 En el taller del alma forjo mi verdad y disipo la oscuridad.
 Mi pensamiento despierta y mi palabra nace del corazón.
 Cada acción traza el rumbo y revela lo que soy.
