@@ -613,7 +613,7 @@ del Arte Real.".
 53- La Herramienta del Aprendiz (Gli attezu dell'apprensdista) 
 ------------------------------------------------------------
 
-url-imagen: ""
+url-imagen: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/portada.jpg"
 url-video: "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/view"
 url-cancion: "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/view"
 web-video: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/index"
