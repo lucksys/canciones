@@ -640,6 +640,7 @@ url-imagen: "https://lucksys.github.io/canciones/primer_muerte_alquímica/portad
 url-video: ""
 url-cancion: "https://drive.google.com/file/d/1zErD53Xa_BXUpGoxyGKjFix2Xicij6Uu/view"
 web-video: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index2"
-info: "Composición en idioma: Italiano Flolentino. La primer Muerte Alquímica.". 
+info: "Composición en idioma: Italiano Flolentino. La primer Muerte Alquímica.
+los tres viajes de la primera iniciación.". 
 
 ------------------------------------------------------------------------------
