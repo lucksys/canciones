@@ -609,7 +609,7 @@ url-imagen: "https://lucksys.github.io/canciones/herederos_del_arte_real/portada
 url-video: "https://drive.google.com/file/d/1fwYGfZgb4nUXpqmv3YhVVuDD7qpvWqrQ/view"
 url-cancion: "https://drive.google.com/file/d/1fwYGfZgb4nUXpqmv3YhVVuDD7qpvWqrQ/view"
 web-video: "https://lucksys.github.io/canciones/herederos_del_arte_real/index1"
-info: "Compósición en idioma: Español Neutro. Rock Classic del Arte Real.". 
+info: "Compósición en idioma: Español Neutro. Rock Classic del Arte Real."
 
 ------------------------------------------------------------------------------
 54- Herederos_de_Arte_Real(Rock-Metal-Strong) 
@@ -620,7 +620,7 @@ url-video: "https://drive.google.com/file/d/1irU6qj1-fRGln9vx7flTT9j5Owk4mBHE/vi
 url-cancion: "https://drive.google.com/file/d/1irU6qj1-fRGln9vx7flTT9j5Owk4mBHE/view"
 web-video: "https://lucksys.github.io/canciones/herederos_del_arte_real/index2"
 info: "Composición en idioma: Español Neutro. Hard- Rock Metal Strong 
-del Arte Real.". 
+del Arte Real."
 
 ------------------------------------------------------------------------------
 55- La Herramienta del Aprendiz (Gli attezu dell'apprensdista) 
@@ -630,7 +630,7 @@ url-imagen: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/porta
 url-video: "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/view"
 url-cancion: "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/view"
 web-video: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/index"
-info: "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz.". 
+info: "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz." 
 
 ------------------------------------------------------------------------------
 56- Primer Muerte Alquímica (Prima Morte Alchemica) 
@@ -641,6 +641,6 @@ url-video: ""
 url-cancion: "https://drive.google.com/file/d/1zErD53Xa_BXUpGoxyGKjFix2Xicij6Uu/view"
 web-video: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index2"
 info: "Composición en idioma: Italiano Flolentino. La primer Muerte Alquímica.
-los tres viajes de la primera iniciación.". 
+Los tres viajes de la primera iniciación."
 
 ------------------------------------------------------------------------------
