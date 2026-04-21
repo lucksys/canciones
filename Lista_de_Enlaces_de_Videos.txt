@@ -51,8 +51,8 @@ Entre símbolos y silencio, mi esencia busca la luz.
 Y en ese fuego interior, renazco siendo fiel a mí."
 
 ------------------------------------------------------------------------------
-4- Personalidad_y_Esencia_(Italiano)
-------------------------------------
+4- Personalidad_y_Esencia_(Personalitá e Essenza Italiano)
+---------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/personalidad_y_esencia/portada3.jpg"
 url-video: "https://drive.google.com/file/d/1wfUuJl6bNS7lSiL2n00D66xMV7YVJ8Hc/view"
@@ -631,5 +631,15 @@ url-video: "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/vi
 url-cancion: "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/view"
 web-video: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/index"
 info: "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz.". 
+
+------------------------------------------------------------------------------
+56- Primer Muerte Alquímica (Prima Morte Alchemica) 
+------------------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada2.jpg"
+url-video: ""
+url-cancion: "https://drive.google.com/file/d/1zErD53Xa_BXUpGoxyGKjFix2Xicij6Uu/view"
+web-video: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index2"
+info: "Composición en idioma: Italiano Flolentino. La rimer Muerte Alquímica.". 
 
 ------------------------------------------------------------------------------
