@@ -633,7 +633,18 @@ web-video: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/index"
 info: "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz." 
 
 ------------------------------------------------------------------------------
-56- Primer Muerte Alquímica (Prima Morte Alchemica) 
+56- Primer Muerte Alquímica (Primer Muerte Alquimica-Español) 
+------------------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada1.jpg"
+url-video: "https://drive.google.com/file/d/1kFrPz0scv1ZDldLzCYAsttwzxq2qmPVS/view"
+url-cancion: "https://drive.google.com/file/d/1kFrPz0scv1ZDldLzCYAsttwzxq2qmPVS/view"
+web-video: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index1"
+info: "Composición en idioma: Español neutro. La primer Muerte Alquímica.
+Los tres viajes de la primera iniciación."
+
+------------------------------------------------------------------------------
+57- Primer Muerte Alquímica (Prima Morte Alchemica) 
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada2.jpg"
