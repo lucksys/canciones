@@ -536,7 +536,7 @@ info: "Compósición en idioma: Italiano Florentino.
 N.A."
 
 ------------------------------------------------------------------------------
-47- No_te_duermas (EPYC)
+47- No_te_duermas_(EPYC)
 ------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/no_te_duermas/portada2.jpg"
@@ -547,9 +547,6 @@ info: "Compósición en idioma: Italiano Florentino.EPYC
 N.A."
 
 -----------------------------------------------------------------------------
-
-
-
 48- Nacida_bajo_el_signo_de_la_luz_(Español) 
 --------------------------------------------
 
