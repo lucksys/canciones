@@ -528,15 +528,29 @@ N.A."
 46- No_te_duermas
 -----------------
 
-url-imagen: "https://lucksys.github.io/canciones/no_te_duermas/portada.jpg"
+url-imagen: "https://lucksys.github.io/canciones/no_te_duermas/portada1.jpg"
 url-video: "https://drive.google.com/file/d/1zIUow9wMHGC95TrVde3LQnVmfBl0T7Nc/view"
 url-cancion: "https://drive.google.com/file/d/1zIUow9wMHGC95TrVde3LQnVmfBl0T7Nc/view"
-web-video: "https://lucksys.github.io/canciones/no_te_duermas/index"
+web-video: "https://lucksys.github.io/canciones/no_te_duermas/index1"
 info: "Compósición en idioma: Italiano Florentino.
 N.A."
 
 ------------------------------------------------------------------------------
-47- Nacida_bajo_el_signo_de_la_luz_(Español) 
+47- No_te_duermas (EPYC)
+------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/no_te_duermas/portada2.jpg"
+url-video: "https://drive.google.com/file/d/1TxDQrbSnZqcB8wr3cG5OSV2_A5RKKk_v/view"
+url-cancion: "https://drive.google.com/file/d/1TxDQrbSnZqcB8wr3cG5OSV2_A5RKKk_v/view"
+web-video: "https://lucksys.github.io/canciones/no_te_duermas/index2"
+info: "Compósición en idioma: Italiano Florentino.EPYC
+N.A."
+
+-----------------------------------------------------------------------------
+
+
+
+48- Nacida_bajo_el_signo_de_la_luz_(Español) 
 --------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada1.jpg"
@@ -547,7 +561,7 @@ info: "Compósición en idioma: español neutro .
 Mi historia y herencia en el Arte Real."
 
 ------------------------------------------------------------------------------
-48- Nacida_bajo_el_signo_de_la_luz_(Italiano) 
+49- Nacida_bajo_el_signo_de_la_luz_(Italiano) 
 ---------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada2.jpg"
@@ -558,7 +572,7 @@ info: "Compósición en idioma: Italiano Florentino.
 Mi historia y Herencia en el Arte Real."
 
 ------------------------------------------------------------------------------
-49- Signo_Palabra_y_Toque_(Italiano) 
+50- Signo_Palabra_y_Toque_(Italiano) 
 ------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/signo_palabra_y_toque/portada1.jpg"
@@ -569,7 +583,7 @@ info: "Compósición en idioma: Italiano Florentino.
 Historia de los simbolos en el Arte Real."
 
 ------------------------------------------------------------------------------
-50- el_camino_de_la_libertad_iguadad_y_la_fraternidad_(SON Salsa Cubana) 
+51- el_camino_de_la_libertad_iguadad_y_la_fraternidad_(SON Salsa Cubana) 
 ------------------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/portada.jpg"
@@ -580,7 +594,7 @@ info: "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba).
 El Camino de : La Libertad, La Igualdad Y La Fraternidad."
 
 ------------------------------------------------------------------------------
-51- alter-tango_(Tango) 
+52- alter-tango_(Tango) 
 ----------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/alter-tango/portada.jpg"
@@ -591,7 +605,7 @@ info: "Compósición en idioma: Español Neutro. Tango.
 Tango de la Alteridad"
 
 ------------------------------------------------------------------------------
-52- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno) 
+53- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno) 
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/portada.jpg"
@@ -602,7 +616,7 @@ info: "Compósición en idioma: Español Neutro. Cancion_para_el_responso
 y despedida al Oriente Eterno.". 
 
 ------------------------------------------------------------------------------
-53- Herederos_de_Arte_Real(Rock-Classic) 
+54- Herederos_de_Arte_Real(Rock-Classic) 
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/herederos_del_arte_real/portada1.jpg"
@@ -612,7 +626,7 @@ web-video: "https://lucksys.github.io/canciones/herederos_del_arte_real/index1"
 info: "Compósición en idioma: Español Neutro. Rock Classic del Arte Real."
 
 ------------------------------------------------------------------------------
-54- Herederos_de_Arte_Real(Rock-Metal-Strong) 
+55- Herederos_de_Arte_Real(Rock-Metal-Strong) 
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/herederos_del_arte_real/portada2.jpg"
@@ -623,7 +637,7 @@ info: "Composición en idioma: Español Neutro. Hard- Rock Metal Strong
 del Arte Real."
 
 ------------------------------------------------------------------------------
-55- La Herramienta del Aprendiz (Gli attezu dell'apprendista) 
+56- La Herramienta del Aprendiz (Gli attezu dell'apprendista) 
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/portada.jpg"
@@ -633,7 +647,7 @@ web-video: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/index"
 info: "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz." 
 
 ------------------------------------------------------------------------------
-56- Primer Muerte Alquímica (Primer Muerte Alquimica-Español) 
+57- Primer Muerte Alquímica (Primer Muerte Alquimica-Español) 
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada1.jpg"
@@ -644,7 +658,7 @@ info: "Composición en idioma: Español neutro. La primer Muerte Alquímica.
 Los tres viajes de la primera iniciación."
 
 ------------------------------------------------------------------------------
-57- Primer Muerte Alquímica (Prima Morte Alchemica) 
+58- Primer Muerte Alquímica (Prima Morte Alchemica) 
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada2.jpg"
