@@ -666,4 +666,15 @@ info: "Composición en idioma: Italiano Flolentino. La primer Muerte Alquímica.
 Los tres viajes de la primera iniciación."
 
 ------------------------------------------------------------------------------
+59- Fuego_y_Forma
+------------------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/fuego_y_forma/portada.jpg"
+url-video: "https://drive.google.com/file/d/1VaXP4lw8aPaeGClkisU0lSFAsGoSkDHl/view"
+url-cancion: "https://drive.google.com/file/d/1VaXP4lw8aPaeGClkisU0lSFAsGoSkDHl/view"
+web-video: "https://lucksys.github.io/canciones/fuego_y_forma/index"
+info: "Composición en idioma: Español Neitro. Fuego y Forma.
+Basada en la Profecia de Hermes Trismegisto y el Lamento de Asclepio."
+
+------------------------------------------------------------------------------
 
