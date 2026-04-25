@@ -670,7 +670,7 @@ Los tres viajes de la primera iniciación."
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/fuego_y_forma/portada.jpg"
-url-video: "https://drive.google.com/file/d/1VaXP4lw8aPaeGClkisU0lSFAsGoSkDHl/view"
+url-video: "https://drive.google.com/file/d/1LiLAAnjXvkJ_MFGtBg3bs5h63IO2azUa/view"
 url-cancion: "https://drive.google.com/file/d/1VaXP4lw8aPaeGClkisU0lSFAsGoSkDHl/view"
 web-video: "https://lucksys.github.io/canciones/fuego_y_forma/index"
 info: "Composición en idioma: Español Neitro. Fuego y Forma.
