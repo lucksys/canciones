@@ -306,7 +306,7 @@ N.A."
 url-imagen: "https://lucksys.github.io/canciones/ne_plus_ultra/portada1.jpg"
 url-video: "https://drive.google.com/file/d/1ss6CrHmyT_jwVuDVzBU8OI7Cwo9YcTwq/view"
 url-cancion: "https://drive.google.com/file/d/1Ov0EZ19-MEevzAHD35Q-f4DVser7VDZT/view"
-web-video: "https://lucksys.github.io/canciones/ne_plus_ultra/index2"
+web-video: "https://lucksys.github.io/canciones/ne_plus_ultra/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
