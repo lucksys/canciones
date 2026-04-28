@@ -63,7 +63,7 @@ En el taller del alma forjo mi verdad y disipo la oscuridad.
 Mi pensamiento despierta y mi palabra nace del corazón.
 Cada acción traza el rumbo y revela lo que soy.
 Entre símbolos y silencio, mi esencia busca la luz.
-Y en ese fuego interior, renazco siendo fiel a mí."
+Y en ese fuego interior, renazco siendo fiel a mí.
 
 ------------------------------------------------------------------------------
 5- parastatai_-_phratriai_e_hybridi
@@ -487,7 +487,7 @@ url-imagen: "https://lucksys.github.io/canciones/la_lampara_interior/portada2.jp
 url-video: "https://drive.google.com/file/d/1Om-sp4-uBVSP8OuB_gGVmg6L7gKOWSdU/view"
 url-cancion: "https://drive.google.com/file/d/1XHSTQnU0OX2z-StxTzHsHZTeUV5e2KaH/view"
 web-video : "https://lucksys.github.io/canciones/la_lampara_interior/index2"
-web-url-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index2?song=1"
+web-url-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
 
@@ -673,8 +673,17 @@ url-imagen: "https://lucksys.github.io/canciones/fuego_y_forma/portada.jpg"
 url-video: "https://drive.google.com/file/d/1LiLAAnjXvkJ_MFGtBg3bs5h63IO2azUa/view"
 url-cancion: "https://drive.google.com/file/d/1VaXP4lw8aPaeGClkisU0lSFAsGoSkDHl/view"
 web-video: "https://lucksys.github.io/canciones/fuego_y_forma/index"
-info: "Composición en idioma: Español Neitro. Fuego y Forma.
+info: "Composición en idioma: Español Neutro. Fuego y Forma.
 Basada en la Profecia de Hermes Trismegisto y el Lamento de Asclepio."
 
 ------------------------------------------------------------------------------
+60- Reina de la Noche
+------------------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/reina_de_la_noche/portada.jpg"
+url-video: "ttps://drive.google.com/file/d/10xmzEVBxNmtNnD5Z4xnNaSC8aD-9YuQ5/view"
+url-cancion: "https://drive.google.com/file/d/1E-36dvQrEY3Jjjhi9Astc_lb9TDZfoDU/view"
+web-video: "https://lucksys.github.io/canciones/reina_de_la_noche/index"
+info: "Composición en idioma: Español Neutro. reina_de_la_noche.
+Basada en la Aria : Reina de La noche de Opera:la Flauta Magica de Wolfran A. Mozart."
 
