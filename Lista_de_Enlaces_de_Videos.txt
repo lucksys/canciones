@@ -686,7 +686,20 @@ url-cancion: "https://drive.google.com/file/d/1E-36dvQrEY3Jjjhi9Astc_lb9TDZfoDU/
 web-video: "https://lucksys.github.io/canciones/reina_de_la_noche/index"
 info: "Composición en idioma: Español Neutro. reina_de_la_noche.
 Basada en la Aria : Reina de La noche de Opera:la Flauta Magica de Wolfgang Amadeus
- Mozart."
+ Mozart. La _*Flauta Mágica*_ es una alegoría de la iluminación espiritual y el paso 
+ de la Ignorancia (oscuridad) al Conocimiento (luz). Ambientada en un contexto de 
+ ficción, la ópera utiliza el simbolismo Masónico para representar la lucha entre 
+ las fuerzas del caos y el orden, donde el amor y la sabiduría triunfan sobre el miedo.
+​La aria: _*Reina de la Noche*_, conocida originalmente como: *Der Hölle Rache kocht in
+ meinem herzen* (*La venganza del infierno hierve en mi corazón*), representa el pico 
+ del conflicto emocional y la oscuridad.
+​La Reina de la Noche exige a su hija: Pamina, que asesine a Sarastro. 
+La Reina de la Noche representa a la noche y a una madre manipuladora y llena de odio
+ ciego y desesperado al perder su juicio frente a la razón y la luz.
+Mientras que Sarastro representa al día y la sabiduría solar.  
+​La complejidad técnica más célebre de esta aria ha sido la dificultad de conseguir una
+ soprano con una coloratura capaz de alcanzar notas muy agudas (como el F_6, 
+ nota Fa en 6 octava) cantadas con precisión matemática."
 -----------------------------------------------------------------------------
 
 
