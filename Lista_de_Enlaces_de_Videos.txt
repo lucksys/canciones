@@ -717,7 +717,7 @@ diluirse, disiparese en el océano del PLeroma para ser: LUZ, LOGOS Y VERBO ENCA
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/silencio_vacio_y_fuego/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1DD4QNjZUiIHhZ4WKzpbM_8Lb2wrOtAkf/view"
+url-video: "https://drive.google.com/file/d/1RQTZrOZGRtBuQzLvW8QLCElznMflXofi/view"
 url-cancion: "https://drive.google.com/file/d/1DD4QNjZUiIHhZ4WKzpbM_8Lb2wrOtAkf/view"
 web-video: "https://lucksys.github.io/canciones/silencio_vacio_y_fuego/index2"
 info: "Composición en idioma: Español Neutro. Silencio_vacio_y_fuego.Basada en 
