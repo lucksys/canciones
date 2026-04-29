@@ -725,4 +725,15 @@ el camino del silencio Interior, Presencia extendida y trasitar el vacío hasta
 diluirse, disiparese en el océano del PLeroma para ser: LUZ, LOGOS Y VERBO ENCARNADO."
 
 ------------------------------------------------------------------------------
+63- Proclama_con_fuerza_nuestra_alegría_(Español )
+------------------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/proclama_con_fuerza_nuestra_alegría/portada.jpg"
+url-video: "https://drive.google.com/file/d/1aFpb1XK25BERWsgPc9AAFXyQR6ypmFj3/view"
+url-cancion: "https://drive.google.com/file/d/1aFpb1XK25BERWsgPc9AAFXyQR6ypmFj3/view"
+web-video: "https://lucksys.github.io/canciones/proclama_con_fuerza_nuestra_alegría/index"
+info: "Composición en idioma: Español Neutro. Himno Masóńico
+QUE NUESTRA ALEGRÍA SEA PROCLAMADA K.623 (1791) Wolfgang A. Mozart"
+
+------------------------------------------------------------------------------
 
