@@ -705,7 +705,7 @@ Mientras que Sarastro representa al día y la sabiduría solar.
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/silencio_vacio_y_fuego/portada1.jpg"
-url-video: "https://drive.google.com/file/d/1vI9LyJjFyvmbr8b5HZttUtdEkrIZUfM2/view"
+url-video: "https://drive.google.com/file/d/1UIwdKyHum76AW34m3AfkcMHUd7nQPe9O/view"
 url-cancion: "https://drive.google.com/file/d/1vI9LyJjFyvmbr8b5HZttUtdEkrIZUfM2/view"
 web-video: "https://lucksys.github.io/canciones/silencio_vacio_y_fuego/index1"
 info: "Composición en idioma: Italiano Florentino. Silencio_vacio_y_fuego.Basada 
