@@ -754,7 +754,7 @@ url-imagen: "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_
 url-video: "https://drive.google.com/file/d/1YsSDF7TggRE5vTBDM5cguxmNo2ht-WK0/view"
 url-cancion: "https://drive.google.com/file/d/1YsSDF7TggRE5vTBDM5cguxmNo2ht-WK0/view"
 web-video: "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/index"
-info: "Composición en idioma: Español Neutro. Adoracin Gnística
+info: "Composición en idioma: Español Neutro. Adoración Gnóstica
 NA."
 
 ------------------------------------------------------------------------------
