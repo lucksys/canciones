@@ -739,7 +739,7 @@ QUE NUESTRA ALEGRÍA SEA PROCLAMADA K.623 (1791) Wolfgang A. Mozart"
 64- luz_en_lo_profundo_(EPYC)
 -------------------------------------------------
 
-url-imagen: "https://lucksys.github.io/canciones/proclama_con_fuerza_nuestra_alegría/portada.jpg"
+url-imagen: "https://lucksys.github.io/canciones/luz_en_lo_profundo/portada.jpg"
 url-video: "https://drive.google.com/file/d/1pjMN2qPq3yX4RwvN2E761EAOdwSGNQrl/view"
 url-cancion: "https://drive.google.com/file/d/1pjMN2qPq3yX4RwvN2E761EAOdwSGNQrl/view"
 web-video: "https://lucksys.github.io/canciones/luz_en_lo_profundo/index"
