@@ -755,7 +755,7 @@ url-video: "https://drive.google.com/file/d/10GaeoYgNiznzF-7fWQBKEzoct-YgRmzg/vi
 url-cancion: "https://drive.google.com/file/d/1YsSDF7TggRE5vTBDM5cguxmNo2ht-WK0/view"
 web-video: "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/index"
 info: "Composición en idioma: Español Neutro. Adoración Gnóstica.
-Los 13 Arrepntmietos de : Pistis Sophia "
+Los 13 Arrepentmietos de : Pistis Sophia "
 
 ------------------------------------------------------------------------------
 
