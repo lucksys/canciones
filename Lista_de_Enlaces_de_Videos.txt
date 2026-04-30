@@ -751,11 +751,11 @@ NA"
 -------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/portada.jpg"
-url-video: "https://drive.google.com/file/d/1YsSDF7TggRE5vTBDM5cguxmNo2ht-WK0/view"
+url-video: "https://drive.google.com/file/d/10GaeoYgNiznzF-7fWQBKEzoct-YgRmzg/view"
 url-cancion: "https://drive.google.com/file/d/1YsSDF7TggRE5vTBDM5cguxmNo2ht-WK0/view"
 web-video: "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/index"
-info: "Composición en idioma: Español Neutro. Adoración Gnóstica
-NA."
+info: "Composición en idioma: Español Neutro. Adoración Gnóstica.
+Los 13 Arrepntmietos de : Pistis Sophia "
 
 ------------------------------------------------------------------------------
 
