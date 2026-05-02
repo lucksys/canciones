@@ -762,8 +762,8 @@ Los 13 Arrepentimientos de: Pistis Sophia "
 -------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/portada.jpg"
-url-video: "https://drive.google.com/file/d/1APanxQOATzTKLRJEq_taUERMuZrcbJuQ/view"
-url-cancion: "https://drive.google.com/file/d/1APanxQOATzTKLRJEq_taUERMuZrcbJuQ/view"
+url-video: "https://drive.google.com/file/d/1JnEvZ_HMXC9d6OVzEUmT7enZNwfVhQiI/view"
+url-cancion: "hhttps://drive.google.com/file/d/1JnEvZ_HMXC9d6OVzEUmT7enZNwfVhQiI/view"
 web-video: "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/index"
 info: "Composición en idioma: Español Neutro. Adoración Gnóstica.
 retorno_y_despertar_a_la_luz "
