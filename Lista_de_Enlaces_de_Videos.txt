@@ -769,5 +769,27 @@ info: "Composición en idioma: Español Neutro. Adoración Gnóstica.
 retorno_y_despertar_a_la_luz."
 
 ------------------------------------------------------------------------------
+67- Aún en Silencio (Still in Silence)
+-------------------------------------------------
 
+url-imagen: "https://lucksys.github.io/canciones/still_in_silence/portada.jpg"
+url-video: "https://drive.google.com/file/d/1vBoKE1ofK49RyEulapLT38raSuKLnbui/view"
+url-cancion: "https://drive.google.com/file/d/1vBoKE1ofK49RyEulapLT38raSuKLnbui/view"
+web-video: "https://lucksys.github.io/canciones/still_in_silence/index"
+info: "Composición en idioma: Ingles. “Still In Silence” 
+trata sobre el proceso de seguir adelante a pesar del 
+dolor emocional. Describe a una persona que, aunque 
+carga con recuerdos y heridas del pasado, encuentra 
+pequeños momentos de calma y esperanza en el presente.
+
+A lo largo de la letra, se refleja una lucha interna 
+entre la tristeza y la voluntad de continuar, donde el
+ simple hecho de despertar, respirar y dar un paso más
+ ya es un logro.
+
+El mensaje central es la resiliencia silenciosa: avanzar
+ poco a poco, aceptar las propias heridas y encontrar
+ fuerza en el interior para seguir viviendo."
+
+------------------------------------------------------------------------------
 
