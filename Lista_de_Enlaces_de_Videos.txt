@@ -773,7 +773,7 @@ retorno_y_despertar_a_la_luz."
 -------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/still_in_silence/portada.jpg"
-url-video: "https://drive.google.com/file/d/1vBoKE1ofK49RyEulapLT38raSuKLnbui/view"
+url-video: "https://drive.google.com/file/d/1nxnPTgUGYT2MWEDcTebbJz8ublM7uE_A/view"
 url-cancion: "https://drive.google.com/file/d/1vBoKE1ofK49RyEulapLT38raSuKLnbui/view"
 web-video: "https://lucksys.github.io/canciones/still_in_silence/index"
 info: "Composición en idioma: Ingles. “Still In Silence” 
