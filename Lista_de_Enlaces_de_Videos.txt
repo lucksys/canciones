@@ -798,7 +798,7 @@ El mensaje central es la resiliencia silenciosa: avanzar
 url-imagen: "https://lucksys.github.io/canciones/cuando_cae_la_noche/portada.jpg"
 url-video: "https://drive.google.com/file/d/1WiDIVHvgqHguoP4C7yKdN6tIB25a8P7I/view"
 url-cancion: "https://drive.google.com/file/d/1WiDIVHvgqHguoP4C7yKdN6tIB25a8P7I/view"
-web-video: "https://lucksys.github.io/canciones/cuando_cae_la_noche/index.jpg"
+web-video: "https://lucksys.github.io/canciones/cuando_cae_la_noche/index"
 info: "La canción habla de dos almas separadas por la distancia o el destino.
 Existe un amor profundo que no desaparece con el tiempo.
 Ambos sienten que volverán a encontrarse.
