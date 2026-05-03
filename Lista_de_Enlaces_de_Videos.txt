@@ -792,7 +792,7 @@ El mensaje central es la resiliencia silenciosa: avanzar
  fuerza en el interior para seguir viviendo."
 
 ------------------------------------------------------------------------------
-68- Cuando_cae _la_Noch_(When Night Falls)
+68- Cuando_cae_la_Noche_(When Night Falls)
 -------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/cuando_cae_la_noche/portada.jpg"
