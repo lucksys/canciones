@@ -839,7 +839,7 @@ info: "Idioma español neutro, Esta composición narra una relidad muy sincera, 
       La traición duele más cuando viene de alguien cercano.
       Se confunde crecimiento con abandono o deslealtad.
       El camino espiritual es individual y no se puede heredar.
-      Construir el “templo interior” implica sacrificio y soledad.
+      Construir el **Templo Interior** implica sacrificio y soledad.
       Las heridas se transforman en aprendizaje y evolución.
       Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
