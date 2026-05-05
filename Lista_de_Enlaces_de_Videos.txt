@@ -832,7 +832,7 @@ info: "Idioma español neutro, Esta composición narra una relidad muy sincera, 
       Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
 ------------------------------------------------------------------------------
-70- No_fue_la_luz_lo_que_dolio(EPYC) 
+70- No_fue_la_luz_lo_que_dolio_(EPYC) 
 -------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada2.jpg"
