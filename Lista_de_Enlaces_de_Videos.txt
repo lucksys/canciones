@@ -849,7 +849,7 @@ info: "Idioma español neutro, Esta composición narra una relidad muy sincera, 
 -------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1w1OzSe5Dt89hWSMpXYgtGYnAV6iw-8Cq/view"
+url-video: "https://drive.google.com/file/d/1fUaqh0Fq6mwNToAoGoFebrtn_EabxTEf/view"
 url-cancion: "https://drive.google.com/file/d/1w1OzSe5Dt89hWSMpXYgtGYnAV6iw-8Cq/view"
 web-video: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index2"
 info: "Idioma español neutro, Esta composición narra una relidad muy sincera, pero 
