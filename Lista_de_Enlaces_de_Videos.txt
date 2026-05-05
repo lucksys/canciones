@@ -829,10 +829,29 @@ La caída deja de ser final… y se vuelve inicio."
 70- No_fue_la_luz_lo_que_dolio 
 -------------------------------------------------
 
-url-imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada.jpg"
+url-imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada1.jpg"
 url-video: "https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/view"
 url-cancion: "https://drive.google.com/file/d/1g7tWJzMWQYE-E8vIpwFgoQj_AazpqNT7/view"
-web-video: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index"
+web-video: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index1"
+info: "Idioma español neutro, Esta composición narra una relidad muy sincera, pero 
+      despierta e incomodida en la hermandad.
+      La luz que brindas puede revelar miedos y limitaciones ajenas.
+      El rechazo nace más de la envidia que del daño real.
+      La traición duele más cuando viene de alguien cercano.
+      Se confunde crecimiento con abandono o deslealtad.
+      El camino espiritual es individual y no se puede heredar.
+      Construir el **Templo Interior** implica sacrificio y soledad.
+      Las heridas se transforman en aprendizaje y evolución.
+      Aun con dolor, el protagonista permanece fiel a su verdad interior."
+
+------------------------------------------------------------------------------
+70- No_fue_la_luz_lo_que_dolio(EPYC) 
+-------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada2.jpg"
+url-video: ""
+url-cancion: ""
+web-video: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index2"
 info: "Idioma español neutro, Esta composición narra una relidad muy sincera, pero 
       despierta e incomodida en la hermandad.
       La luz que brindas puede revelar miedos y limitaciones ajenas.
