@@ -825,13 +825,13 @@ Entre sombras y quietud, nace una nueva conciencia.
 La caída deja de ser final… y se vuelve inicio."
 
 ------------------------------------------------------------------------------
-70- No_fue_la_luz_lo_que_dolió
+70- No_fue_la_luz_lo_que_dolio 
 -------------------------------------------------
 
-url-imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolió/portada.jpg"
+url-imagen: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada.jpg"
 url-video: "https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/view"
 url-cancion: "https://drive.google.com/file/d/1g7tWJzMWQYE-E8vIpwFgoQj_AazpqNT7/view"
-web-video: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolió/index"
+web-video: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index"
 info: "Idioma español neutro, Esta composición narra una relidad muy sincera, pero 
       despierta e incomodida en la hermandad.
       La luz que brindas puede revelar miedos y limitaciones ajenas.
