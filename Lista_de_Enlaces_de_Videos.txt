@@ -799,14 +799,15 @@ url-imagen: "https://lucksys.github.io/canciones/cuando_cae_la_noche/portada.jpg
 url-video: "https://drive.google.com/file/d/1Y4gz_-aghOxHWnC4Mikljs-z1M2UQmw2/view"
 url-cancion: "https://drive.google.com/file/d/1WiDIVHvgqHguoP4C7yKdN6tIB25a8P7I/view"
 web-video: "https://lucksys.github.io/canciones/cuando_cae_la_noche/index"
-info: "La canción habla de dos almas separadas por la distancia o el destino.
-Existe un amor profundo que no desaparece con el tiempo.
-Ambos sienten que volverán a encontrarse.
-La noche representa la separación y la incertidumbre.
-El amanecer simboliza la esperanza de reunirse.
-El recuerdo mantiene viva la conexión entre ellos.
-Hay una promesa de reencontrarse más allá de cualquier límite.
-El mensaje es que el amor verdadero nunca se pierde."
+info: "Esa Composición nos cuenta la historia de dos almas separadas por la 
+       distancia o el destino (muerte).
+       Existe un amor profundo que no desaparece con el tiempo.
+       Ambos sienten que volverán a encontrarse.
+       La noche representa la separación y la incertidumbre.
+       El amanecer simboliza la esperanza de reunirse.
+       El recuerdo mantiene viva la conexión entre ellos.
+       Hay una promesa de reencontrarse más allá de cualquier límite.
+       El mensaje es que el amor verdadero nunca se pierde."
 
 ------------------------------------------------------------------------------
 69- La_Estrella_Helada_(The_Frozen_star)
