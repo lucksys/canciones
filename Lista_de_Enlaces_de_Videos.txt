@@ -859,4 +859,20 @@ info: "Idioma español neutro, Esta composición narra una relidad muy sincera, 
       Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
 ------------------------------------------------------------------------------
+70- No_fue_la_luz_lo_que_dolio_(EPYC) 
+-------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/gloria_honor_y_fraternidad/portada.jpg"
+url-video: "https://drive.google.com/file/d/1h6tuhx536FS7_hIB6Ro6evKNA1IOIre_/view"
+url-cancion: "https://drive.google.com/file/d/1M087eJlk4CecgNzQ0UWFb907iHI_qEmC/view"
+web-video: "https://lucksys.github.io/canciones/gloria_honor_y_fraternidad/index"
+info: "Idioma español neutro, Los miembros de la Hermanadad atraviesan juntos tiempos 
+  difíciles. La fraternidad les da fuerza y esperanza. Caminan unidos hacia un destino
+  común. La justicia y el honor guían sus pasos. Construyen un refugio con esfuerzo y
+  amor. Prometen protegerse bajo cualquier tormenta. La verdad se convierte en su mayor
+  fuerza. La luz de su unión nunca se apagará."
+
+------------------------------------------------------------------------------
+
+
 
