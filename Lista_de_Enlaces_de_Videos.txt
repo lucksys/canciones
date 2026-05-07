@@ -859,7 +859,7 @@ info: "Idioma español neutro, Esta composición narra una relidad muy sincera, 
       Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
 ------------------------------------------------------------------------------
-71- Gloria_Honor_y_Fraternidad 
+71- Gloria_Honor_y_Fraternidad.
 -------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/gloria_honor_y_fraternidad/portada.jpg"
