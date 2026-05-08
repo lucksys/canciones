@@ -873,6 +873,15 @@ info: "Idioma español neutro, Los miembros de la Hermanadad atraviesan juntos t
   fuerza. La luz de su unión nunca se apagará."
 
 ------------------------------------------------------------------------------
+72- Despues_de_la_Tormenta
+-------------------------------------------------
 
+url-imagen: "https://lucksys.github.io/canciones/despues_de_la_Tormenta/portada.jpg"
+url-video: ""
+url-cancion: "https://drive.google.com/file/d/1jx4qafEsapjnj115iPUbxGfSJttmzhMT/view"
+web-video: "https://lucksys.github.io/canciones/despues_de_la_Tormenta/index"
+info: "Idioma español neutro, "
+
+------------------------------------------------------------------------------
 
 
