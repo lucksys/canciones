@@ -880,7 +880,15 @@ url-imagen: "https://lucksys.github.io/canciones/despues_de_la_Tormenta/portada.
 url-video: "https://drive.google.com/file/d/1jx4qafEsapjnj115iPUbxGfSJttmzhMT/view"
 url-cancion: "https://drive.google.com/file/d/1jx4qafEsapjnj115iPUbxGfSJttmzhMT/view"
 web-video: "https://lucksys.github.io/canciones/despues_de_la_Tormenta/index"
-info: "Idioma español neutro, "
+info: "Idioma español neutro, La canción habla de atravesar el dolor y 
+       renacer interiormente.
+       El protagonista supera la oscuridad gracias a una llama espiritual.
+       Las cicatrices se convierten en símbolos de aprendizaje y fuerza.
+       El fuego secreto representa la transformación del alma.
+       El templo simboliza el crecimiento interior y la unión espiritual.
+       La tormenta refleja las pruebas y el miedo que deben vencerse.
+       La luz aparece como señal de despertar y esperanza.
+       El mensaje final es que el espíritu verdadero nunca se apaga."
 
 ------------------------------------------------------------------------------
 
