@@ -898,11 +898,11 @@ url-imagen: "https://lucksys.github.io/canciones/lealtad_redención_y_linaje/por
 url-video: "https://drive.google.com/file/d/1xc73KC8VCO3WddlfyH61JavRvqMuYru5/view"
 url-cancion: "https://drive.google.com/file/d/15rIQgT0kDXZi-7_gEf6Hz0gTLHxzKR56/view"
 web-video: "https://lucksys.github.io/canciones/lealtad_redención_y_linaje/index"
-info: "Idioma español neutro, Rut deja su tierra por amor. Rut acompaña a
-       Noemí sin titubear. Rut trabaja recogiendo trigo en humildad. Boaz
+info: "Idioma español neutro, Rut deja su tierra por amor. Y acompaña a
+       Noemí sin titubear, Luego trabaja recogiendo trigo en humildad. Bo?z
        la ve y la protege. La redención entra en su historia. La tristeza
        se vuelve promesa. La lealtad abre un linaje nuevo. Su legado llega
-       hasta David. ."
+       hasta David."
 
 ------------------------------------------------------------------------------
 
