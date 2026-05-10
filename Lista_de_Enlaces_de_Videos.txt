@@ -920,7 +920,7 @@ info: "La canción narra la historia de un buscador que se adentra en el
        moral. La humildad reemplaza al orgullo como la verdadera ley.
        El trabajo se convierte en una forma de purificación espiritual.
        El coro proclama el templo dentro del alma. El mensaje final es
-       la plenitud a través de la disciplina y la búsqieda de la luz."
+       la plenitud a través de la disciplina y la búsqueda de la luz."
 
 -----------------------------------------------------------------------------
 
