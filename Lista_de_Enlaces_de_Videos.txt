@@ -906,8 +906,8 @@ info: "Idioma español neutro, Rut deja su tierra por amor. Y acompaña a
 
 ------------------------------------------------------------------------------
 
-74- 12 Columnas (Del Tempĺo
----------------------------
+74- 12_Columnas_(Del Tempĺo
+----------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/12_columnas/portada.jpg"
 url-video: "https://drive.google.com/file/d/1Wt8bvCRMEpZ_LmJGkUbZYlOPWKJCjHAX/view"
