@@ -945,7 +945,7 @@ url-imagen: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_per
 url-video: "https://drive.google.com/file/d/1HlkBgWt0MNpEnWoQAx1DlYkKmzFicdzh/view"
 url-cancion: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
 web-video: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/index2"
-info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta la 
+info: "Composicion cantada en : Italiano Florentino .La composición nos cuenta la 
        historia de una memoria espiritual perdida, donde el alma busca su origen
        verdadero. Y La Palabra no desaparece, solo se olvida. La Monada aparece 
        como fuente primera. La Luz y el Logos son el centro del regreso. Hiram 
