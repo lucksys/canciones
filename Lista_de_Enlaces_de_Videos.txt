@@ -926,7 +926,7 @@ info: "La composición narra la historia de un buscador que se adentra en
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada1.jpg"
-url-video: "https://drive.google.com/file/d/1wxg3oyRlOwqOZ1Bls5JXSN2xrYctXbm2/view"
+url-video: "https://drive.google.com/file/d/1GErZ03LUV5__qBcHnCNAd8o5JaKPPove/view"
 url-cancion: "https://drive.google.com/file/d/1wxg3oyRlOwqOZ1Bls5JXSN2xrYctXbm2/view"
 web-video: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/index1"
 info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta la 
