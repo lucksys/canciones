@@ -940,7 +940,7 @@ info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta l
 -----------------------------------------------------------------------------
 76- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamésis) (EPYC-LEO-Italiano)
 ---------------------------------------------------------------------
-
+                            
 url-imagen: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
 url-cancion: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
