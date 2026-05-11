@@ -905,13 +905,12 @@ info: "Idioma español neutro, Rut deja su tierra por amor. Y acompaña a
        hasta David."
 
 ------------------------------------------------------------------------------
-
 74- 12_Columnas_(Del Tempĺo
 ----------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/12_columnas/portada.jpg"
 url-video: "https://drive.google.com/file/d/1Wt8bvCRMEpZ_LmJGkUbZYlOPWKJCjHAX/view"
-url-cancion: ""https://drive.google.com/file/d/1raDgds4NR1uZh-YTgAZne2NElWE4Ql-9/view
+url-cancion: "https://drive.google.com/file/d/1raDgds4NR1uZh-YTgAZne2NElWE4Ql-9/view"
 web-video: "https://lucksys.github.io/canciones/12_columnas/index"
 info: "La composición narra la historia de un buscador que se adentra en
        el silencio interior. La piedra se convierte en símbolo del trabajo
@@ -923,5 +922,36 @@ info: "La composición narra la historia de un buscador que se adentra en
        la plenitud a través de la disciplina y la búsqueda de la luz."
 
 -----------------------------------------------------------------------------
+74- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamesis) (Italiano)
+------------------------------------------------------------
 
+url-imagen: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada1.jpg"
+url-video: "https://drive.google.com/file/d/1wxg3oyRlOwqOZ1Bls5JXSN2xrYctXbm2/view"
+url-cancion: "https://drive.google.com/file/d/1wxg3oyRlOwqOZ1Bls5JXSN2xrYctXbm2/view"
+web-video: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/index1"
+info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta la 
+       historia de una memoria espiritual perdida, donde el alma busca su origen
+       verdadero. Y La Palabra no desaparece, solo se olvida. La Monada aparece 
+       como fuente primera. La Luz y el Logos son el centro del regreso. Hiram 
+       simboliza la prueba y el silencio interior. El templo verdadero nace dentro
+       del ser. La Anamnesis es el acto de recordar. Recordar es volver a la 
+       sustancia del Inefable. El final celebra la unión con la Fuente."
+
+-----------------------------------------------------------------------------
+74- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamésis) (EPYC-LEO-Italiano)
+---------------------------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada2.jpg"
+url-video: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
+url-cancion: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
+web-video: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/index2"
+info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta la 
+       historia de una memoria espiritual perdida, donde el alma busca su origen
+       verdadero. Y La Palabra no desaparece, solo se olvida. La Monada aparece 
+       como fuente primera. La Luz y el Logos son el centro del regreso. Hiram 
+       simboliza la prueba y el silencio interior. El templo verdadero nace dentro
+       del ser. La Anamnesis es el acto de recordar. Recordar es volver a la 
+       sustancia del Inefable. El final celebra la unión con la Fuente."
+
+-----------------------------------------------------------------------------
 

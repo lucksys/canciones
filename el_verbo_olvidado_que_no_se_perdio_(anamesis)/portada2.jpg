@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resurrección de la Palabra-Romina-L.-Guadagnini</title>
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="video.other">
+    <meta property="og:site_name" content="Google Drive">
+    <meta property="og:title" content="Resurrección de la Palabra(version: Acustic-Epyc)">
+    <meta property="og:description" content="Una obra de Romina L. Guadagnini. Haz clic para ver y escuchar.">
+    
+    <meta property="og:image" content="https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg">
+    <meta property="og:image:secure_url" content="https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="1178">
+    <meta property="og:image:height" content="784">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="resurreccion de la palabra (version: Acoustic-Epyc)">
+    <meta name="twitter:description" content="Te invito a ver y escuchar la canción completa aquí.">
+    <meta name="twitter:image" content="https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg">
+
+    <!-- REDIRECCIÓN RÁPIDA Y LIMPIA -->
+    <script>
+        window.location.replace("https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/view");
+    </script>
+
+    <!-- Fallback si JavaScript está desactivado -->
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/view">
+    </noscript>
+
+ <style>
+    html, body {
+        margin: 0;
+        padding: 0;
+        background-color: #000000;
+        height: 100%;
+        color: #ffffff;
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .loader {
+        border: 4px solid #333;
+        border-top: 4px solid #00ffcc;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 1s linear infinite;
+        margin: 20px auto;
+    }
+
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+
+    a {
+        color: #00ffcc;
+        text-decoration: none;
+        font-weight: bold;
+    }
+</style>
+</head>
+
+<body>
+    <h2>Cargando contenido...</h2>
+    <div class="loader"></div>
+    <p>Si no redirige automáticamente, 
+        <a href="https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/view">
+            haz clic aquí
+        </a>.
+    </p>
+</body>
+</html>
