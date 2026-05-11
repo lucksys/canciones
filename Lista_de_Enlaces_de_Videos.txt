@@ -942,7 +942,7 @@ info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta l
 ---------------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
+url-video: "https://drive.google.com/file/d/1HlkBgWt0MNpEnWoQAx1DlYkKmzFicdzh/view"
 url-cancion: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
 web-video: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/index2"
 info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta la 
