@@ -922,7 +922,7 @@ info: "La composición narra la historia de un buscador que se adentra en
        la plenitud a través de la disciplina y la búsqueda de la luz."
 
 -----------------------------------------------------------------------------
-74- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamesis) (Italiano)
+75- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamesis) (Italiano)
 ------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada1.jpg"
@@ -938,7 +938,7 @@ info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta l
        sustancia del Inefable. El final celebra la unión con la Fuente."
 
 -----------------------------------------------------------------------------
-74- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamésis) (EPYC-LEO-Italiano)
+76- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamésis) (EPYC-LEO-Italiano)
 ---------------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada2.jpg"
