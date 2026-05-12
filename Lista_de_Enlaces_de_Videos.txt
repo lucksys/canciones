@@ -973,4 +973,14 @@ info: "Composicion cantada en : Ingles. Un hombre ha esperado durante años enco
        La canción expresa una devoción profunda hacia el amor de toda una vida."
 
 -----------------------------------------------------------------------------
+78- Ave_Maria-gNoStIKa (Schuber lyric- Cantante Italian:LEO)
+-------------------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/ave_maria/portada.jpg"
+url-video: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
+url-cancion: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
+web-video: "https://lucksys.github.io/canciones/ave_maria/index"
+info: "Composición cantada en: Italiano Florentino por el Barítono Spinto: Leo J Loyola.
+       Banda de Rock Sinfónico Gnóstico."
 
+-----------------------------------------------------------------------------
