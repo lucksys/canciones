@@ -954,4 +954,23 @@ info: "Composicion cantada en : Italiano Florentino .La composición nos cuenta 
        sustancia del Inefable. El final celebra la unión con la Fuente."
 
 -----------------------------------------------------------------------------
+77- Lady_of_My_Life (English-LEO)
+----------------------------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/Lady_of_My_Life/portada.jpg"
+url-video: "https://drive.google.com/file/d/12IxEla0pTSLD2O2DdKF0kuxdluvtTIOq/view"
+url-cancion: "https://drive.google.com/file/d/18wMebDzqE_2yEIfKIFE-IjqWsVx-Wpt8/view"
+web-video: "https://lucksys.github.io/canciones/Lady_of_My_Life/index"
+info: "Composicion cantada en : Ingles. Un hombre ha esperado durante años encontrar
+       a la mujer destinada para su alma. La presencia de ella le brinda paz, 
+       refugio y seguridad interior. Sus ojos le recuerdan cielos claros y tiempos
+       luminosos. Él siente haber hallado un amor verdadero y profundamente espiritual.
+       La mujer sana las heridas de su corazón y lo ayuda a setirse completo. Ambos 
+       comparten un vínculo eterno basado en fidelidad y promesas sinceras.
+       El amor de ella transforma la soledad en esperanza y plenitud.
+       Él agradece poder caminar a su lado y tomar su mano.
+       La unión entre ambos representa un hogar sagrado y permanente.
+       La canción expresa una devoción profunda hacia el amor de toda una vida."
+
+-----------------------------------------------------------------------------
 
