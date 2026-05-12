@@ -988,8 +988,8 @@ info: "Composición cantada en: Italiano Florentino por el Barítono Spinto: Leo
 ------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/latido_de_la_patria/portada.jpg"
-url-video: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
-url-cancion: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
+url-video: "https://drive.google.com/file/d/16QN9L6JqNqECWDafXr01q3QmcRz0N9Ph/view"
+url-cancion: "https://drive.google.com/file/d/16QN9L6JqNqECWDafXr01q3QmcRz0N9Ph/view"
 web-video: "https://lucksys.github.io/canciones/latido_de_la_patria/index"
 info: "Composición cantada en: Español neutro por el Barítono Spinto: Leo J. Loyola.
        Latido_de_la:Patria es un Himno al Corazón,la Soberania, La libertad y la 
