@@ -984,3 +984,16 @@ info: "Composición cantada en: Italiano Florentino por el Barítono Spinto: Leo
        Banda de Rock Sinfónico Gnóstico."
 
 -----------------------------------------------------------------------------
+79- Latido_de_la:Patria-(EPYC - LEO) 
+------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/latido_de_la_patria/portada.jpg"
+url-video: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
+url-cancion: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
+web-video: "https://lucksys.github.io/canciones/latido_de_la_patria/index"
+info: "Composición cantada en: Español neutro por el Barítono Spinto: Leo J. Loyola.
+       Latido_de_la:Patria es un Himno al Corazón,la Soberania, La libertad y la 
+       Fraternidad. 
+       Banda de Rock Sinfónico Gnóstico."
+
+-----------------------------------------------------------------------------
