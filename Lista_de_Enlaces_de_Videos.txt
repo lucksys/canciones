@@ -954,7 +954,7 @@ info: "Composicion cantada en : Italiano Florentino .La composición nos cuenta 
        sustancia del Inefable. El final celebra la unión con la Fuente."
 
 -----------------------------------------------------------------------------
-77- Lady_of_My_Life (English - Country- Balada LEO)
+77- Lady_of_My_Life (English - Country-Balada by:LEO)
 ----------------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/Lady_of_My_Life/portada.jpg"
