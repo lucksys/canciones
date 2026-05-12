@@ -984,8 +984,8 @@ info: "Composición cantada en: Italiano Florentino por el Barítono Spinto: Leo
        Banda de Rock Sinfónico Gnóstico."
 
 -----------------------------------------------------------------------------
-79- Latido_de_la:Patria-(EPYC - LEO) 
-------------------------------------
+79- Latido_de_la:Patria-(EPYC - LEO)
+-------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/latido_de_la_patria/portada.jpg"
 url-video: "https://drive.google.com/file/d/1mXsJoL37IjQowKU0u3iG2seCyDk0gcVv/view"
