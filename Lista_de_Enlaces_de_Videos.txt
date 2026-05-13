@@ -997,4 +997,21 @@ info: "Composición cantada en: Español neutro por el Barítono Spinto: Leo J. 
        Banda de Rock Sinfónico Gnóstico."
 
 -----------------------------------------------------------------------------
+80- Pasaje_a_La_Luz -(Passaggio alla Luce- EPYC - LEO)
+------------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/pasaje_a_la_luz/portada.jpg"
+url-video: "https://drive.google.com/file/d/1E3XYXJOC-0v1PTFeajNNrofgN0xZCHoh/view"
+url-cancion: "https://drive.google.com/file/d/1vsUqVT7Kc7ITyZVf6PX9LC19ycdiHuiw/view"
+web-video: "https://lucksys.github.io/canciones/pasaje_a_la_luz/index"
+info: "Composición cantada en: Italiano Florentino por el Barítono Spinto : Leo J. 
+       Loyola. y una MezzoSoprano .La canción habla de un paso interior hacia la luz.
+       El protagonista comienza en la oscuridad y la duda. Luego avanza por una senda
+       de prueba y silencio. Cada símbolo representa una transformación del alma. La 
+       piedra bruta se vuelve forma y medida. El trabajo interior reemplaza al miedo.
+       La noche deja de ser amenaza y se vuelve umbral. La luz aparece como 
+       conocimiento, pureza y sentido. El estribillo afirma la victoria del despertar.
+       El final celebra el nacimiento de una conciencia renovada."
+
+-----------------------------------------------------------------------------
 
