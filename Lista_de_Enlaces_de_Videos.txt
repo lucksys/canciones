@@ -1014,4 +1014,15 @@ info: "Composición cantada en: Italiano Florentino por el Barítono Spinto : Le
        El final celebra el nacimiento de una conciencia renovada."
 
 -----------------------------------------------------------------------------
+81- Havel-Havalim-hakol-hável -(DUO)
+------------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/havel-havalim/portada.jpg"
+url-video: "https://drive.google.com/file/d/1blKOxBxu_RmTWktzQ8Kb-kHGoxOSXQFO/view"
+url-cancion: "https://drive.google.com/file/d/1blKOxBxu_RmTWktzQ8Kb-kHGoxOSXQFO/view"
+web-video: "https://lucksys.github.io/canciones/havel-havalim/index"
+info: "Composición cantada en: Español . Ultimas palabras de rey Salomon : Vacuidad 
+       de Vacuidades, humo de humos. Todo es Vacuidad"
+
+-----------------------------------------------------------------------------
 
