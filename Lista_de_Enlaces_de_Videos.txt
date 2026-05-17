@@ -1031,7 +1031,17 @@ url-imagen: "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_mason
 url-video: "https://drive.google.com/file/d/1BZKdW_lnDhQjIyEsNUJBUV4wXocKexbZ/view"
 url-cancion: "https://drive.google.com/file/d/1qA8JVm1d9ZsX-0Z14s6PH-spWEqMFw_8/view"
 web-video: "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/index"
-info: "Composición cantada en: Ingles . Ubajo_sombreros_y_paraguas_masonicos"
+info: "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonicos
+       La lluvia recuerda nombres antiguos olvidados.
+       Caminamos buscando una luz oculta entre las sombras.
+       Los sombreros y paraguas simbolizan protección ante el miedo y el cambio.
+       La vida enseña mediante pérdida, dolor y transformación.
+       Toda tormenta guarda una lección y toda sombra una llama.
+       Nada material ni temporal está hecho para durar eternamente.
+       El verdadero crecimiento surge al atravesar la impermanencia.
+       Los símbolos externos no crean al iniciado, solo el trabajo interior.
+       La tormenta no era el enemigo, sino el olvido de lo esencial.
+       Más allá del humo y el cambio, la Luz permanece"
 
 -----------------------------------------------------------------------------
 
