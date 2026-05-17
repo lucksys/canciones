@@ -1028,8 +1028,8 @@ info: "Composición cantada en: Español . Ultimas palabras de rey Salomon : Vac
 ------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/portada.jpg"
-url-video: ""
-url-cancion: ""
+url-video: "https://drive.google.com/file/d/1BZKdW_lnDhQjIyEsNUJBUV4wXocKexbZ/view"
+url-cancion: "https://drive.google.com/file/d/1qA8JVm1d9ZsX-0Z14s6PH-spWEqMFw_8/view"
 web-video: "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/index"
 info: "Composición cantada en: Ingles . Ubajo_sombreros_y_paraguas_masonicos"
 
