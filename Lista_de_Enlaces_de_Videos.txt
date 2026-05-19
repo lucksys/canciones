@@ -1073,9 +1073,9 @@ url-cancion: "https://drive.google.com/file/d/1n1lPk7K818ov40Fvqhg2UborvJ3Sr-bF/
 web-video: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index1"
 info: "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimicas 
        de C.R. y en la cancion Napolitana Torna a Suriento.
-       Un alma atraviesa pruebas 
-       para recordar quién era antes del olvido. La rosa y la piedra guardan 
-       un nombre perdido. la rosa floreciendo simboliza el despertar del alma humana,
+       Cuenta la histori a de un alma que atraviesa pruebas para recordar quién 
+       era antes del olvido. La rosa y la piedra guardan un nombre perdido. 
+       la rosa mistica floreciendo simboliza el despertar del alma humana,
        la piedra (o la cruz de piedra) representa la estabilidad del Pleroma.
        Las muertes simbólicas revelan una memoria antigua.
        El templo buscado afuera aparece dentro del corazón.
@@ -1094,9 +1094,9 @@ url-cancion: "https://drive.google.com/file/d/17tJbIV3xY920RnZgt97PqsqTexN8nuDu/
 web-video: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index2"
 info: "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimicas 
        de C.R. y en la cancion Napolitana Torna a Suriento.
-       Un alma atraviesa pruebas 
-       para recordar quién era antes del olvido. La rosa y la piedra guardan 
-       un nombre perdido. la rosa floreciendo simboliza el despertar del alma humana,
+       Cuenta la histori a de un alma que atraviesa pruebas para recordar quién 
+       era antes del olvido. La rosa y la piedra guardan un nombre perdido. 
+       la rosa mistica floreciendo simboliza el despertar del alma humana,
        la piedra (o la cruz de piedra) representa la estabilidad del Pleroma.
        Las muertes simbólicas revelan una memoria antigua.
        El templo buscado afuera aparece dentro del corazón.
