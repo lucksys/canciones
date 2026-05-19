@@ -1073,7 +1073,9 @@ url-cancion: "https://drive.google.com/file/d/1n1lPk7K818ov40Fvqhg2UborvJ3Sr-bF/
 web-video: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index"
 info: "Composición cantada en: Itaiano Florentino. Un alma atraviesa pruebas 
        para recordar quién era antes del olvido. La rosa y la piedra guardan 
-       un nombre perdido. Las muertes simbólicas revelan una memoria antigua.
+       un nombre perdido. la rosa floreciendo simboliza el despertar del alma humana,
+       la piedra (o la cruz de piedra) representa la estabilidad del Pleroma.
+       Las muertes simbólicas revelan una memoria antigua.
        El templo buscado afuera aparece dentro del corazón.
        La separación era solo una ilusión del sueño.
        El recuerdo devuelve la luz olvidada.
