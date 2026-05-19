@@ -1071,7 +1071,9 @@ url-imagen: "https://lucksys.github.io/canciones/retorno_al_recuerdo/portada1.jp
 url-video: "https://drive.google.com/file/d/1qUOb35IygQIStiA_QkLm3AjbhBc3Q4Xu/view"
 url-cancion: "https://drive.google.com/file/d/1n1lPk7K818ov40Fvqhg2UborvJ3Sr-bF/view"
 web-video: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index1"
-info: "Composición cantada en: Itaiano Florentino. Un alma atraviesa pruebas 
+info: "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimicas 
+       de C.R. y en la cancion Napolitana Torna a Suriento.
+       Un alma atraviesa pruebas 
        para recordar quién era antes del olvido. La rosa y la piedra guardan 
        un nombre perdido. la rosa floreciendo simboliza el despertar del alma humana,
        la piedra (o la cruz de piedra) representa la estabilidad del Pleroma.
@@ -1090,7 +1092,9 @@ url-imagen: "https://lucksys.github.io/canciones/retorno_al_recuerdo/portada2.jp
 url-video: "https://drive.google.com/file/d/1o4_dRBGBUa2ISMS2JTykofWaGAZZ6Al-/view"
 url-cancion: "https://drive.google.com/file/d/17tJbIV3xY920RnZgt97PqsqTexN8nuDu/view"
 web-video: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index2"
-info: "Composición cantada en: Itaiano Florentino. Un alma atraviesa pruebas 
+info: "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimicas 
+       de C.R. y en la cancion Napolitana Torna a Suriento.
+       Un alma atraviesa pruebas 
        para recordar quién era antes del olvido. La rosa y la piedra guardan 
        un nombre perdido. la rosa floreciendo simboliza el despertar del alma humana,
        la piedra (o la cruz de piedra) representa la estabilidad del Pleroma.
