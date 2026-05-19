@@ -1044,4 +1044,40 @@ info: "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonicos
        Más allá del humo y el cambio, la Luz permanece"
 
 -----------------------------------------------------------------------------
+83- bajo_sombreros_y_paraguas_masonicos -(DUO)
+------------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/portada.jpg"
+url-video: "https://drive.google.com/file/d/1BZKdW_lnDhQjIyEsNUJBUV4wXocKexbZ/view"
+url-cancion: "https://drive.google.com/file/d/1qA8JVm1d9ZsX-0Z14s6PH-spWEqMFw_8/view"
+web-video: "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/index"
+info: "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonicos
+       La lluvia recuerda nombres antiguos olvidados.
+       Caminamos buscando una luz oculta entre las sombras.
+       Los sombreros y paraguas simbolizan protección ante el miedo y el cambio.
+       La vida enseña mediante pérdida, dolor y transformación.
+       Toda tormenta guarda una lección y toda sombra una llama.
+       Nada material ni temporal está hecho para durar eternamente.
+       El verdadero crecimiento surge al atravesar la impermanencia.
+       Los símbolos externos no crean al iniciado, solo el trabajo interior.
+       La tormenta no era el enemigo, sino el olvido de lo esencial.
+       Más allá del humo y el cambio, la Luz permanece"
 
+-----------------------------------------------------------------------
+83- Retorno al recuerdo -(Ritorna al Ricordo)
+------------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/retorno_al_recuerdo/portada.jpg"
+url-video: ""
+url-cancion: ""
+web-video: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index"
+info: "Composición cantada en: Itaiano Florentino. Un alma atraviesa pruebas 
+       para recordar quién era antes del olvido. La rosa y la piedra guardan 
+       un nombre perdido. Las muertes simbólicas revelan una memoria antigua.
+       El templo buscado afuera aparece dentro del corazón.
+       La separación era solo una ilusión del sueño.
+       El recuerdo devuelve la luz olvidada.
+       La unión alquímica transforma la herida en conocimiento.
+       El regreso final no es a un lugar, sino al origen."
+
+-----------------------------------------------------------------------
