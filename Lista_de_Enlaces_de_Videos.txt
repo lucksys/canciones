@@ -1064,7 +1064,7 @@ info: "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonicos
        Más allá del humo y el cambio, la Luz permanece"
 
 -----------------------------------------------------------------------
-83- Retorno al recuerdo -(Ritorna al Ricordo).
+84- Retorno al recuerdo -(Ritorna al Ricordo).
 ------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/retorno_al_recuerdo/portada.jpg"
