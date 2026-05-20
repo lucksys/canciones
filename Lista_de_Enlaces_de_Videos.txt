@@ -1110,7 +1110,7 @@ info: "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimi
 ------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/portada.jpg"
-url-video: "https://drive.google.com/file/d/1ODxeuPhaZwhlYC-o1Kucw8KNvV2v0O7S/view"
+url-video: "https://drive.google.com/file/d/1EfynQRyHdEry86q_GAP4r3LahutP-LiZ/view"
 url-cancion: "https://drive.google.com/file/d/1ODxeuPhaZwhlYC-o1Kucw8KNvV2v0O7S/view"
 web-video: "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/index"
 info: "Composición cantada en: Itaiano Florentino.La letra cuenta sobre el camino 
