@@ -1113,7 +1113,15 @@ url-imagen: "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/por
 url-video: "https://drive.google.com/file/d/1ODxeuPhaZwhlYC-o1Kucw8KNvV2v0O7S/view"
 url-cancion: "https://drive.google.com/file/d/1ODxeuPhaZwhlYC-o1Kucw8KNvV2v0O7S/view"
 web-video: "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/index"
-info: "Composición cantada en: Itaiano Florentino. "
+info: "Composición cantada en: Itaiano Florentino.La letra cuenta sobre el camino 
+       interior guiado por la luz y la verdad.
+       La sabiduría aparece como una guía serena para avanzar.
+       La fuerza se presenta como la capacidad de resistir y levantarse.
+       La belleza une el alma con lo sagrado y lo humano.
+       Cada símbolo conduce a una transformación espiritual.
+       El silencio se vuelve maestro y refugio.
+       El amor y la memoria sostienen el viaje.
+       Al final, las tres luces se funden en una sola eternidad."
 
 -----------------------------------------------------------------------
 
