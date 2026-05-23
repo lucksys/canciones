@@ -1124,4 +1124,36 @@ info: "Composición cantada en: Itaiano Florentino.La letra cuenta sobre el cami
        Al final, las tres luces se funden en una sola eternidad."
 
 -----------------------------------------------------------------------
+87- El_UNO,_Lo_Diverso-(L'UNO,il diverso)
+-----------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/el_uno,_lo_diverso/portada1.jpg"
+url-video: "https://drive.google.com/file/d/1Op7bn1G5IvCor4CTPbZiIr_J6eFuyLAb/view"
+url-cancion: "https://drive.google.com/file/d/1Op7bn1G5IvCor4CTPbZiIr_J6eFuyLAb/view"
+web-video: "https://lucksys.github.io/el_uno,_lo_diverso/index1"
+info: "Cantada en Italiano Florentino. La canción habla de la unidad escondida en
+       todo ser. Nos Recuerda que la multiplicidad nace de la Fuente inefable. 
+       Cada alma es una chispa del mismo origen. El espíritu añora volver a la Luz. 
+       El Logos aparece como puente sagrado. El Verbo sostiene la comunión del
+       todo. El ego separado se muestra como ilusión. La memoria interior rompe
+       la frontera. El dueto expresa despertar y retorno. El final celebra la 
+       unión con el UNO."
+
+-----------------------------------------------------------------------
+88- El_UNO,_Lo_Diverso-EPYC-(L'UNO,il diverso-EPYC-LEO)
+-------------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/el_uno,_lo_diverso/portada2.jpg"
+url-video: "https://drive.google.com/file/d/16XtRQvTQvhmMKoLMcPtI0DLQFItFp00a/view"
+url-cancion: "https://drive.google.com/file/d/16XtRQvTQvhmMKoLMcPtI0DLQFItFp00a/view"
+web-video: "https://lucksys.github.io/canciones/el_uno,_lo_diverso/index2"
+info: "Cantada en Italiano Florentino. La canción habla de la unidad escondida en
+       todo ser. Nos Recuerda que la multiplicidad nace de la Fuente inefable. 
+       Cada alma es una chispa del mismo origen. El espíritu añora volver a la Luz. 
+       El Logos aparece como puente sagrado. El Verbo sostiene la comunión del
+       todo. El ego separado se muestra como ilusión. La memoria interior rompe
+       la frontera. El dueto expresa despertar y retorno. El final celebra la 
+       unión con el UNO."
+
+-----------------------------------------------------------------------
 
