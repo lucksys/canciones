@@ -1156,4 +1156,21 @@ info: "Cantada en Italiano Florentino. La canción habla de la unidad escondida 
        unión con el UNO."
 
 -----------------------------------------------------------------------
+89- Reggae_de_la_Eleccion_y_la_Perserverancia
+---------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/portada.jpg"
+url-video: "https://drive.google.com/file/d/1YiCFJ0uzYnGt5nlNBoTsDlj7CBkfpGcc/view"
+url-cancion: "https://drive.google.com/file/d/1SjEDKCkhAOhTEc8hWsf9PJLPtHTTNkhL/view"
+web-video: "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index"
+info: "Una obra sobre el poder de elegir el propio sendero.
+       La perseverancia transforma las caídas en aprendizaje.
+       Cada decisión moldea el destino y la verdad interior.
+       La voluntad despierta guía el avance entre las pruebas.
+       El trabajo consciente se convierte en camino de evolución.
+       La Luz interior sostiene cuando la duda aparece.
+       Cada intento reafirma el compromiso de no abandonar.
+       El verdadero Templo se construye dentro del alma."
+
+-----------------------------------------------------------------------
 
