@@ -1162,7 +1162,7 @@ info: "Cantada en Italiano Florentino. La canción habla de la unidad escondida 
 url-imagen: "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/portada1.jpg"
 url-video: "https://drive.google.com/file/d/1YiCFJ0uzYnGt5nlNBoTsDlj7CBkfpGcc/view"
 url-cancion: "https://drive.google.com/file/d/1SjEDKCkhAOhTEc8hWsf9PJLPtHTTNkhL/view"
-web-video: "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index1"
+web-video: "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index"
 info: "Una obra sobre el poder de elegir el propio sendero.
        La perseverancia transforma las caídas en aprendizaje.
        Cada decisión moldea el destino y la verdad interior.
