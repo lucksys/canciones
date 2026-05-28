@@ -1190,4 +1190,22 @@ info: "Una obra sobre el poder de elegir el propio sendero.
        El verdadero Templo se construye dentro del alma."
 
 -----------------------------------------------------------------------
+91- Así_se_Creó_El_Mundo-(Sic_Mundus_Creatus_Est)
+-------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/portada.jpg"
+url-video: "https://drive.google.com/file/d/1QqZXpTqfDxl7A0Fn0CBnO3YqPbgkP9mP/view"
+url-cancion: "https://drive.google.com/file/d/1QqZXpTqfDxl7A0Fn0CBnO3YqPbgkP9mP/view"
+web-video: "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/index"
+info: "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
+       La memoria ancestral permanece oculta en el alma esperando ser recordada.
+       La luz y la sombra se enfrentan para iniciar la transmutación interior. 
+       El fuego alquímico purifica sin destruir el vaso del espíritu. 
+       El iniciado aprende que arriba y abajo vibran en resonancia perfecta.
+       El Cristo interior guía el cruce de los eones hacia la Fuente eterna.
+       La creación del mundo ocurre nuevamente dentro del corazón despierto.
+       La Luz regresa al origen expandida por la experiencia del amor y la 
+       conciencia."
+
+-----------------------------------------------------------------------
 
