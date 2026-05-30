@@ -446,7 +446,7 @@ Homenaje al Patriarca Enoc (Arcangel Metatron)."
 
 ------------------------------------------------------------------------------
 39- Throne_of_the_Pleroma (EPIC)
---------------------------------
+---------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1yWju4dGwh9OnzajD2VvL6Z2FgSVyUnzQ/view"
