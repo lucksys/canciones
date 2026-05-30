@@ -449,7 +449,7 @@ Homenaje al Patriarca Enoc (Arcangel Metatron)."
 ---------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1yWju4dGwh9OnzajD2VvL6Z2FgSVyUnzQ/viewcancion"
+url-video: "https://drive.google.com/file/d/1yWju4dGwh9OnzajD2VvL6Z2FgSVyUnzQ/view"
 url-cancion: "https://drive.google.com/file/d/1bxtPgF5YnCRYA_ppdQ1JO135WUwYmdIe/view"
 web-video: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index2"
 info: "Compósición en idioma: ingles, con subtitulos en español Versión Épica
