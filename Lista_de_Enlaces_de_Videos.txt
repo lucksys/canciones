@@ -1212,7 +1212,7 @@ info: "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
                             
 url-imagen: "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1oLyMG3Und7V52tPzvy6o9tFonVooL7o7/view"
-url-cancion: "https://drive.google.com/file/d/1WYo5H0CYd6zJZFO19wNnlWr1_Jmx_ngm/view"
+url-cancion: "https://drive.google.com/file/d/1WYo5H0CYd6zJZFO19wNnlWr1_Jmx_ngm"
 web-video: "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/index2"
 info: "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
        La memoria ancestral permanece oculta en el alma esperando ser recordada.
