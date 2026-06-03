@@ -1207,7 +1207,7 @@ info: "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
        conciencia."
 
 -----------------------------------------------------------------------
-92- Así_se_Creó_El_Mundo-EPYC (Sic_Mundus_Creatus_Est)
+92- Así_se_Creó_El_Mundo-EPYC-(Sic_Mundus_Creatus_Est)
 ------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/portada2.jpg"
