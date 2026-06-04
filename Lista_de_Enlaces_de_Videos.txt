@@ -364,6 +364,7 @@ url-imagen: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciati
 url-video: "https://drive.google.com/file/d/1XCygt9ba7oF8M_uFye78qc8MntrqXuOc/view"
 url-cancion: "https://drive.google.com/file/d/1hLz7oXIitoWVxE_bl-fyuk-ZaPZkhB8y/view"
 web-video: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index2"
+web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index3?t=cancion"
 info: "Compósición en idioma: español neutro y Frases en Latín .
 N.A."
 
