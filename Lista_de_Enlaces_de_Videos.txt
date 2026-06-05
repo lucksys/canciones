@@ -1243,7 +1243,8 @@ info: "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
 url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada1.jpg"
 url-video: "https://drive.google.com/file/d/1LKo_FSN7Gdt9L38AhhgUVmDFlPHRJ_gY/view"
 url-cancion: "https://drive.google.com/file/d/1zMgdjj3AWENbPBk_HsecOP8vhFody9jc/view"
-web-video: "https://lucksys.github.io/canciones/trascendencia_cosmica/index1"
+web-video: "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t:k"
+web-audio: "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t:a"
 info: "Antes de que existiera el tiempo, una vibración infinita dio origen a 
        toda la creación. El ser humano lleva dentro de sí la misma esencia que
        anima a las estrellas y los mundos. En medio del ruido de las ciudades
@@ -1261,7 +1262,8 @@ info: "Antes de que existiera el tiempo, una vibración infinita dio origen a
 url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1PWTN8PLg_Rp2dMNDgR_68AI1eAbK0CLo/view"
 url-cancion: "https://drive.google.com/file/d/1oZVUqjWLK904hertfya8GALeCKse-rVZ/view"
-web-video: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2"
+web-video: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=k"
+web-audio: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=a"
 info: "Antes de que existiera el tiempo, una vibración infinita dio origen a 
        toda la creación. El ser humano lleva dentro de sí la misma esencia que
        anima a las estrellas y los mundos. En medio del ruido de las ciudades
