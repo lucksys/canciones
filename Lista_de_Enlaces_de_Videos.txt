@@ -1255,7 +1255,7 @@ info: "Antes de que existiera el tiempo, una vibración infinita dio origen a
        que se contempla a sí misma en el eterno presente."
 
 -----------------------------------------------------------------------
-94- Tracendencia Cosmica: Siglo XXI-EPYC-(Cosmic Transcendence:Twenty-First Century-EPYC) 
+95- Tracendencia Cosmica: Siglo XXI-EPYC-(Cosmic Transcendence:Twenty-First Century-EPYC) 
 -------------------------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.jpg"
