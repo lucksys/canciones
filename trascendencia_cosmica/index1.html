@@ -26,15 +26,15 @@
 
     <script>
         const medias = {
-            video: "https://drive.google.com/file/d/1LKo_FSN7Gdt9L38AhhgUVmDFlPHRJ_gY/view",
-            cancion: "https://drive.google.com/file/d/1zMgdjj3AWENbPBk_HsecOP8vhFody9jc/view"
+            k: "https://drive.google.com/file/d/1LKo_FSN7Gdt9L38AhhgUVmDFlPHRJ_gY/view",
+            a: "https://drive.google.com/file/d/1zMgdjj3AWENbPBk_HsecOP8vhFody9jc/view"
         };
 
         const params = new URLSearchParams(window.location.search);
         const tipo = params.get("t");
 
         // Video por defecto
-        const destino = medias[tipo] || medias.cancion;
+        const destino = medias[tipo] || medias.k;
 
         window.location.replace(destino);
     </script>
