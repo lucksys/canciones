@@ -1275,4 +1275,22 @@ info: "Antes de que existiera el tiempo, una vibración infinita dio origen a
        que se contempla a sí misma en el eterno presente."
 
 -----------------------------------------------------------------------
+96- Tracendencia Cosmica: Siglo XXI-PUBLIC-(Cosmic Transcendence:Twenty-First Century-PUBLIC) 
+-------------------------------------------------------------------------------
+                            
+url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.jpg"
+url-video: "https://drive.google.com/file/d/1bkpugMPsybd--vzo8xSakLq_GXz4cV4m/view"
+url-cancion: "https://drive.google.com/file/d/1oZVUqjWLK904hertfya8GALeCKse-rVZ/view"
+web-video: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=k"
+web-audio: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=p"
+info: "Antes de que existiera el tiempo, una vibración infinita dio origen a 
+       toda la creación. El ser humano lleva dentro de sí la misma esencia que
+       anima a las estrellas y los mundos. En medio del ruido de las ciudades
+       modernas, el alma busca recordar su centro y su verdadera naturaleza. 
+       La tecnología aparece como una herramienta de unión, pero no reemplaza
+       el camino interior del conocimiento y el amor. La paz surge cuando se
+       trascienden las distracciones y se reconoce la luz primordial que 
+       habita en cada ser. Todo forma parte de una única conciencia universal
+       que se contempla a sí misma en el eterno presente."
 
+-----------------------------------------------------------------------
