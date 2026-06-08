@@ -250,11 +250,11 @@ N.A."
 21- Ante las Puertas de un Nuevo Ciclo de Despertares -EPYC-PUBLIC (Solsticio)
 ------------------------------------------------------------------------------
 
-url-imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada2.jpg"
+url-imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada3.jpg"
 url-video: "https://drive.google.com/file/d/10JvxVFax_g-4p36z_73aT9-fu75PvKT_/view"
 url-cancion: "https://drive.google.com/file/d/1mfsNQthlnIFoPvwKKa7KAphpbH11KYY4/view"
-web-video: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=p"
-web-cancion: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=a"
+web-video: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index3?t=p"
+web-cancion: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index3?t=a"
 info: "Compósición en idioma: español neutro.
 N.A."
 
