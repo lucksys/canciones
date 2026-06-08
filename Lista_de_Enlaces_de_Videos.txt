@@ -239,9 +239,22 @@ N.A."
 ------------------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1mfsNQthlnIFoPvwKKa7KAphpbH11KYY4/view"
+url-video: "https://drive.google.com/file/d/15zyo09Rbt2CYiXf6Ppqy8OP1En81MUVn/view"
 url-cancion: "https://drive.google.com/file/d/1mfsNQthlnIFoPvwKKa7KAphpbH11KYY4/view"
-web-video: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2"
+web-video: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=k"
+web-cación: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=a"
+info: "Compósición en idioma: español neutro.
+N.A."
+
+------------------------------------------------------------------------------
+21- Ante las Puertas de un Nuevo Ciclo de Despertares -EPYC-PUBLIC (Solsticio)
+------------------------------------------------------------------------------
+
+url-imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada2.jpg"
+url-video: "https://drive.google.com/file/d/10JvxVFax_g-4p36z_73aT9-fu75PvKT_/view"
+url-cancion: "https://drive.google.com/file/d/1mfsNQthlnIFoPvwKKa7KAphpbH11KYY4/view"
+web-video: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=p"
+web-cancion: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=a"
 info: "Compósición en idioma: español neutro.
 N.A."
 
