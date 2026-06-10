@@ -1363,7 +1363,7 @@ url-video: "https://drive.google.com/file/d/1RJl_Av1UnDwo-HaOCn0qOm2t09Hfq2mT/vi
 url-cancion: "https://drive.google.com/file/d/10crRniFxvWIIopg4oLSP7W2FmkpChu1G/view"
 web-video: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/indext=k"
 web-audio: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index1?t=a"
-info: "composicio en : Italiano  Florentino , La letra invoca el encuentro de
+info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        las almas de dos maestros invisibles que se reconocen antes de nombrarse.
        En su centro vibra la ley secreta que une lo visible con lo oculto.
        Cada verso abre una puerta de memoria hacia el origen sagrado.
