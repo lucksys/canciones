@@ -1336,7 +1336,7 @@ info: "Antes de que existiera el tiempo, una vibración infinita dio origen a
 
 -----------------------------------------------------------------------
 101- Tracendencia Cosmica: Siglo XXI-PUBLIC-(Cosmic Transcendence:Twenty-First Century-PUBLIC) 
--------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1bkpugMPsybd--vzo8xSakLq_GXz4cV4m/view"
