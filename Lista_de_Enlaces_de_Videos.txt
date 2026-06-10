@@ -1355,8 +1355,8 @@ info: "Composición en Ingles, Antes de que existiera el tiempo, una vibración
        que se contempla a sí misma en el eterno presente."
 
 -----------------------------------------------------------------------
-102- L'Eco_dell'Invisibile (El Eco de lo Invisivble )
-------------------------------------------------------
+102- L'Eco_dell'Invisibile (El Eco de lo Invisivible)
+-----------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada.jpg"
 url-video: ""
