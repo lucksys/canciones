@@ -1361,7 +1361,7 @@ info: "Composición en Ingles, Antes de que existiera el tiempo, una vibración
 url-imagen: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada.jpg"
 url-video: "https://drive.google.com/file/d/1RJl_Av1UnDwo-HaOCn0qOm2t09Hfq2mT/view"
 url-cancion: "https://drive.google.com/file/d/10crRniFxvWIIopg4oLSP7W2FmkpChu1G/view"
-web-video: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/indext=k"
+web-video: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index1?t=k"
 web-audio: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index1?t=a"
 info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        las almas de dos maestros invisibles que se reconocen antes de nombrarse.
