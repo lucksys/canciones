@@ -1374,8 +1374,8 @@ info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        Y en ese abrazo primordial nace una sola llama eterna."
 
 -----------------------------------------------------------------------
-102- L'Eco_dell'Invisibile-Public (El Eco de lo Invisivible)
-------------------------------------------------------------
+103- L'Eco_dell'Invisibile -PLUBLIC- (El Eco de lo Invisivible)
+---------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada.jpg"
 url-video: "https://drive.google.com/file/d/1fwlihn81IgKN64nwvozTyvWtrbqch0H8/view"
