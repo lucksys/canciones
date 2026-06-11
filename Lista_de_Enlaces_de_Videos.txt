@@ -1377,11 +1377,11 @@ info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
 103- L'Eco_dell'Invisibile -PLUBLIC- (El Eco de lo Invisivible)
 ---------------------------------------------------------------
                             
-url-imagen: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada.jpg"
+url-imagen: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1fwlihn81IgKN64nwvozTyvWtrbqch0H8/view"
 url-cancion: "https://drive.google.com/file/d/10crRniFxvWIIopg4oLSP7W2FmkpChu1G/view"
-web-video: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index1?t=p"
-web-audio: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index1?t=a"
+web-video: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index2?t=p"
+web-audio: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index2?t=a"
 info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        las almas de dos maestros invisibles que se reconocen antes de nombrarse.
        En su centro vibra la ley secreta que une lo visible con lo oculto.
