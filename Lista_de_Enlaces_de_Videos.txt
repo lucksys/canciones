@@ -107,8 +107,8 @@ N.A."
 ----------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/portada3.jpg"
-url-video: "https://drive.google.com/file/d/1FOcJwJjv0wHCItk214euOnwwh9twSmAo/view"
-url-cancion: "https://drive.google.com/file/d/1FOcJwJjv0wHCItk214euOnwwh9twSmAo/view"
+url-video: "https://drive.google.com/file/d/1PFMZml78RewDGvuXatIbowzJjwYH1VRB/view"
+url-cancion: "https://drive.google.com/file/d/1PFMZml78RewDGvuXatIbowzJjwYH1VRB/view"
 web-video: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
