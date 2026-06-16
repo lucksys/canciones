@@ -1408,9 +1408,30 @@ info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
 -----------------------------
                
 url-imagen: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/portada.jpg"
-url-video: "https://drive.google.com/file/d/1xbfXIoPfS1Q3ZzjgWP0iApSi4D8Kkksv/view"
+url-video: "https://drive.google.com/file/d/10qMg93wHru9DpDlsRP6i6Yw5u1PccSKl/view"
 url-cancion: "https://drive.google.com/file/d/1xbfXIoPfS1Q3ZzjgWP0iApSi4D8Kkksv/view"
 web-video: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=k"
+web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=a"
+info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que 
+       despierta bajo un cielo sin nombre y escucha una antigua llamada interior.
+       Descubre una luz velada que oculta una verdad más profunda que la apariencia
+       del mundo. Y reconoce que muchos viven girando alrededor de un sol ciego, 
+       alejados de su verdadera esencia. La sed de conocimiento lo impulsa a 
+       atravesar sombras, dudas y pruebas interiores.
+       En el silencio descifra símbolos que revelan el camino de la transformación
+       espiritual. Comprende que el templo sagrado se encuentra dentro del ser 
+       humano y no en las formas externas. La transmutación del orgullo y la culpa
+       permite el florecimiento de una conciencia renovada. Finalmente, el corazón
+       recuerda su herencia divina y encuentra el sendero hacia la verdad."
+
+-----------------------------------------------------------------------
+106- Esclavos de un sol ciego (Public)
+--------------------------------------
+               
+url-imagen: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/portada.jpg"
+url-video: "https://drive.google.com/file/d/1mcgoNEQZlTPII2V6lp7N8-eqBJDcSJ3K/view"
+url-cancion: "https://drive.google.com/file/d/1xbfXIoPfS1Q3ZzjgWP0iApSi4D8Kkksv/view"
+web-video: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=p"
 web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=a"
 info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que 
        despierta bajo un cielo sin nombre y escucha una antigua llamada interior.
