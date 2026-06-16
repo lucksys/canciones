@@ -1431,8 +1431,8 @@ info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que
 url-imagen: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/portada.jpg"
 url-video: "https://drive.google.com/file/d/1mcgoNEQZlTPII2V6lp7N8-eqBJDcSJ3K/view"
 url-cancion: "https://drive.google.com/file/d/1xbfXIoPfS1Q3ZzjgWP0iApSi4D8Kkksv/view"
-web-video: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=p"
-web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=a"
+web-video: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index2?t=p"
+web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index2?t=a"
 info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que 
        despierta bajo un cielo sin nombre y escucha una antigua llamada interior.
        Descubre una luz velada que oculta una verdad más profunda que la apariencia
