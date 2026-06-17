@@ -1453,7 +1453,7 @@ url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/porta
 url-video: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
 url-cancion: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=k"
-web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=a"
+web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=a"
 info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
        que nos cuenta: En un canto al amor como vía de despertar.
        El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
@@ -1471,7 +1471,7 @@ url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/porta
 url-video: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
 url-cancion: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=k"
-web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index2?t=a"
+web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
 info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
        que nos cuenta: En un canto al amor como vía de despertar.
        El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
