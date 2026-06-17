@@ -1446,4 +1446,40 @@ info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que
        recuerda su herencia divina y encuentra el sendero hacia la verdad."
 
 -----------------------------------------------------------------------
+107- Amore, Alterità e Coerenza (Presenza estesa) - Classic
+------------------------------------------------------------
+               
+url-imagen: "https://lucksys.github.io/canciones/amore_ alterita_e_coerenza/portada.jpg"
+url-video: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
+url-cancion: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
+web-video: "https://lucksys.github.io/canciones/amore_ alterita_e_coerenza/index?t=k"
+web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=a"
+info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
+       que nos cuenta: En un canto al amor como vía de despertar.
+       El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
+       juzgar.
+       La Coherencia une palabra, gesto y destino.
+       Las Sombras del  Ego se disuelven ante la presencia verdadera. La chispa interior
+       recuerda el Logos oculto. El encuentro con el otro revela la Unidad. La canción 
+       vuelve el corazón a su casa."
+
+-----------------------------------------------------------------------
+107- Amore, Alterità e Coerenza (Presenza estesa) - EPYC
+--------------------------------------------------------
+               
+url-imagen: "https://lucksys.github.io/canciones/amore_ alterita_e_coerenza/portada2.jpg"
+url-video: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
+url-cancion: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
+web-video: "https://lucksys.github.io/canciones/amore_ alterita_e_coerenza/index?t=k"
+web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index2?t=a"
+info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
+       que nos cuenta: En un canto al amor como vía de despertar.
+       El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
+       juzgar.
+       La Coherencia une palabra, gesto y destino.
+       Las Sombras del  Ego se disuelven ante la presencia verdadera. La chispa interior
+       recuerda el Logos oculto. El encuentro con el otro revela la Unidad. La canción 
+       vuelve el corazón a su casa."
+
+-----------------------------------------------------------------------
 
