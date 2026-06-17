@@ -1464,7 +1464,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
        vuelve el corazón a su casa."
 
 -----------------------------------------------------------------------
-107- Amore, Alterità e Coerenza (Presenza estesa) - EPYC
+108- Amore, Alterità e Coerenza (Presenza estesa) - EPYC
 --------------------------------------------------------
                
 url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada2.jpg"
