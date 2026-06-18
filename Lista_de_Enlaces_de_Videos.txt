@@ -1522,7 +1522,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
 -----------------------------------------------------------
                
 url-imagen: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/portada.jpg"
-url-video: "https://drive.google.com/file/d/1Jt9IAPibeM7NkZTz9ZH9n39zv-I-U6wT/view"
+url-video: "https://drive.google.com/file/d/1f2c_Kqv1IU1UbXfjrw8eckIsjV3MqrW8/view"
 url-cancion: "https://drive.google.com/file/d/1Jt9IAPibeM7NkZTz9ZH9n39zv-I-U6wT/view"
 web-video: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=k"
 web-audio: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=a"
