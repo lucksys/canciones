@@ -1524,7 +1524,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
 url-imagen: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/portada.jpg"
 url-video: "https://drive.google.com/file/d/1Jt9IAPibeM7NkZTz9ZH9n39zv-I-U6wT/view"
 url-cancion: "https://drive.google.com/file/d/1Jt9IAPibeM7NkZTz9ZH9n39zv-I-U6wT/view"
-web-video: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=p"
+web-video: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=k"
 web-audio: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=a"
 info: "Composición en : Italiano Florentino, La composición celebra la efeméride
        del 18 de junio vinculada a las Constituciones de 1723.
