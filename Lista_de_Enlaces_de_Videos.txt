@@ -1450,7 +1450,7 @@ info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que
 ------------------------------------------------------------
                
 url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada.jpg"
-url-video: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
+url-video: "https://drive.google.com/file/d/10cLeSkT-fcfV2DB0lxcejuPOKp90M7oO/view"
 url-cancion: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=k"
 web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=a"
@@ -1464,11 +1464,47 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
        vuelve el corazón a su casa."
 
 -----------------------------------------------------------------------
-108- Amore, Alterità e Coerenza (Presenza estesa) - EPYC
+108- Amore, Alterità e Coerenza (Presenza estesa) - Classic- Public
+-------------------------------------------------------------------
+               
+url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada.jpg"
+url-video: "https://drive.google.com/file/d/1tIPIKqAHsCvqqbMUGr7l6LjtkiOGHg_R/view"
+url-cancion: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
+web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=k"
+web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=a"
+info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
+       que nos cuenta: En un canto al amor como vía de despertar.
+       El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
+       juzgar.
+       La Coherencia une palabra, gesto y destino.
+       Las Sombras del  Ego se disuelven ante la presencia verdadera. La chispa interior
+       recuerda el Logos oculto. El encuentro con el otro revela la Unidad. La canción 
+       vuelve el corazón a su casa."
+
+-----------------------------------------------------------------------
+109- Amore, Alterità e Coerenza (Presenza estesa) - EPYC
 --------------------------------------------------------
                
 url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
+url-video: "https://drive.google.com/file/d/1F3OFoPmAbyCdPRbdm6w-wygN6P0Q21r1/view"
+url-cancion: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
+web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=k"
+web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
+info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
+       que nos cuenta: En un canto al amor como vía de despertar.
+       El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
+       juzgar.
+       La Coherencia une palabra, gesto y destino.
+       Las Sombras del  Ego se disuelven ante la presencia verdadera. La chispa interior
+       recuerda el Logos oculto. El encuentro con el otro revela la Unidad. La canción 
+       vuelve el corazón a su casa."
+
+-----------------------------------------------------------------------
+110- Amore, Alterità e Coerenza (Presenza estesa) - EPYC - Public
+-----------------------------------------------------------------
+               
+url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada2.jpg"
+url-video: "https://drive.google.com/file/d/12uklKSFgd8XjTTTe0RgkFkN5Y1GTGCIJ/view"
 url-cancion: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=k"
 web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
