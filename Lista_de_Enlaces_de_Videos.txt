@@ -1486,7 +1486,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
 --------------------------------------------------------
                
 url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1F3OFoPmAbyCdPRbdm6w-wygN6P0Q21r1/view"
+url-video: "https://drive.google.com/file/d/1F3OFoPmAbyCdPRbdm6w-wygN6P0Q21r1"
 url-cancion: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=k"
 web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
