@@ -1470,7 +1470,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
 url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada.jpg"
 url-video: "https://drive.google.com/file/d/1tIPIKqAHsCvqqbMUGr7l6LjtkiOGHg_R/view"
 url-cancion: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
-web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=k"
+web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=p"
 web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=a"
 info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
        que nos cuenta: En un canto al amor como vía de despertar.
@@ -1506,7 +1506,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
 url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada2.jpg"
 url-video: "https://drive.google.com/file/d/12uklKSFgd8XjTTTe0RgkFkN5Y1GTGCIJ/view"
 url-cancion: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
-web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=k"
+web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=p"
 web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
 info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
        que nos cuenta: En un canto al amor como vía de despertar.
@@ -1518,4 +1518,28 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
        vuelve el corazón a su casa."
 
 -----------------------------------------------------------------------
+111- Luce, Legge e Fratellanza (Le Costituzioni della Luce)
+-----------------------------------------------------------
+               
+url-imagen: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/portada.jpg"
+url-video: ""
+url-cancion: "https://drive.google.com/file/d/1Jt9IAPibeM7NkZTz9ZH9n39zv-I-U6wT/view"
+web-video: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=p"
+web-audio: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=a"
+info: "Composición en : Italiano Florentino, La composición celebra la efeméride
+       del 18 de junio vinculada a las Constituciones de 1723.
+       Describe el nacimiento de un orden simbólico basado en la luz, la razón y
+       la fraternidad. Presenta a Anderson y Desaguliers como figuras asociadas a
+       la construcción de este marco iniciático.
+       La obra enfatiza la unión entre conocimiento antiguo y pensamiento ilustrado.
+       El mensaje central destaca la dignidad humana por encima de rangos o 
+       jerarquías.
+       El estribillo repite la idea de la “Luz” como principio rector y espiritual.
+       Se desarrolla como un himno solemne con tono ceremonial y filosófico.
+       Finalmente, invita a construir un puente de armonía entre razón, justicia 
+       y fraternidad."
+
+-----------------------------------------------------------------------
+
+
 
