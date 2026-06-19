@@ -1540,6 +1540,23 @@ info: "Composición en : Italiano Florentino, La composición celebra la efemér
        y fraternidad."
 
 -----------------------------------------------------------------------
+112- Llamado Masónico de Antigua Estirpe (Call of the Ancient Masonic Lineage)
+------------------------------------------------------------------------------
+               
+url-imagen: "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_estirpe/portada.jpg"
+url-video: "https://drive.google.com/file/d/1aewcS3zpnWzlZrAwWvQPA-CvgzMTBJVT/view"
+url-cancion: "https://drive.google.com/file/d/1dPCLGRzAdYGJfKYvGP9qttJNPDmA9HGb/view"
+web-video: "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_estirpe/index?t=k"
+web-audio: "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_estirpe/index?t=a"
+info: "Composición en : Ingles , La composición Soñé con un llamado ancestral que emerge desde
+       un linaje olvidado por el tiempo.
+       Un recuerdo misterioso despierta en el alma como si perteneciera a otra vida.
+       Las antiguas calles, los templos y las estrellas parecen extrañamente familiares.
+       Una voz proveniente de siglos remotos guía al protagonista a través de la memoria.
+       La búsqueda interior revela símbolos, promesas y enseñanzas ocultas.
+       El eco de los antepasados invita a reencontrar una verdad que nunca desapareció.
+       Cada paso acerca al viajero al origen espiritual de su propia estirpe.
+       La antigua llamada permanece viva, conduciendo el corazón más allá del velo del tiempo."
 
-
+-----------------------------------------------------------------------
 
