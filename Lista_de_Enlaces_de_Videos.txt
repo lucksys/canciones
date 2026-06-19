@@ -1587,7 +1587,7 @@ info: "Composicion en español neutro , Dos llamas se buscan a través del
 url-imagen: "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
 url-video: "https://drive.google.com/file/d/1xegqeVeRGh8OpXq0nfmdmUNCXQP57cjp/view"
 url-cancion: "https://drive.google.com/file/d/1IP4AsbiRcFU35VTgA1cHk0XvwVZJs0_X/view"
-web-video: "https://lucksys.github.io/canciones/la_llama_doble/index?t=k"
+web-video: "https://lucksys.github.io/canciones/la_llama_doble/index?t=p"
 web-audio: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
 info: "Composicion en español neutro , Dos llamas se buscan a través del 
        tiempo y del misterio.
