@@ -1564,8 +1564,8 @@ info: "Composición en : Ingles , La composición Soñé con un llamado ancestra
 -------------------
             
 url-imagen: "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
-url-video: ""
-url-cancion: ""
+url-video: "https://drive.google.com/file/d/1IP4AsbiRcFU35VTgA1cHk0XvwVZJs0_X/view"
+url-cancion: "https://drive.google.com/file/d/1IP4AsbiRcFU35VTgA1cHk0XvwVZJs0_X/view"
 web-video: "https://lucksys.github.io/canciones/la_llama_doble/index?t=k"
 web-audio: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
 info: "Composicion en español neutro , Dos llamas se buscan a través del 
