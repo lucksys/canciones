@@ -814,7 +814,7 @@ info: "Composición en idioma: Español Neutro. Himno Masóńico
 QUE NUESTRA ALEGRÍA SEA PROCLAMADA K.623 (1791) Wolfgang A. Mozart"
 
 ------------------------------------------------------------------------------
-70- luz_en_lo_profundo_(EPYC)
+70- luz en lo Profundo-(EPYC)
 -------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/luz_en_lo_profundo/portada.jpg"
@@ -1558,6 +1558,27 @@ info: "Composición en : Ingles , La composición Soñé con un llamado ancestra
        Cada paso acerca al viajero al origen espiritual de su propia estirpe.
        La antigua llamada permanece viva, conduciendo el corazón más allá del velo del
        tiempo."
+
+-----------------------------------------------------------------------
+113- La Llama Doble
+-------------------
+            
+url-imagen: "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
+url-video: ""
+url-cancion: ""
+web-video: "https://lucksys.github.io/canciones/la_llama_doble/index?t=k"
+web-audio: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
+info: "Composicion en español neutro , Dos llamas se buscan a través del 
+       tiempo y del misterio.
+       Sophia desciende a la materia para recordar su origen de luz.
+       El amor se revela como una alquimia capaz de transfigurar el alma.
+       Entre sombra y resplandor, los fragmentos dispersos comienzan a 
+       reunirse.
+       La separación se convierte en el sendero secreto del reencuentro.
+       El fuego interior une lo humano y lo divino en una sola conciencia.
+       La Llama Doble canta el retorno del alma a su plenitud olvidada.
+       Un viaje gnóstico y alquímico donde el amor despierta la memoria
+       eterna."
 
 -----------------------------------------------------------------------
 
