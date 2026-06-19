@@ -1564,7 +1564,28 @@ info: "Composición en : Ingles , La composición Soñé con un llamado ancestra
 -------------------
             
 url-imagen: "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
-url-video: "https://drive.google.com/file/d/1IP4AsbiRcFU35VTgA1cHk0XvwVZJs0_X/view"
+url-video: "https://drive.google.com/file/d/1se45Vp7VqBiAr4QvnMfjhTFnr9tYuXCG/view"
+url-cancion: "https://drive.google.com/file/d/1IP4AsbiRcFU35VTgA1cHk0XvwVZJs0_X/view"
+web-video: "https://lucksys.github.io/canciones/la_llama_doble/index?t=k"
+web-audio: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
+info: "Composicion en español neutro , Dos llamas se buscan a través del 
+       tiempo y del misterio.
+       Sophia desciende a la materia para recordar su origen de luz.
+       El amor se revela como una alquimia capaz de transfigurar el alma.
+       Entre sombra y resplandor, los fragmentos dispersos comienzan a 
+       reunirse.
+       La separación se convierte en el sendero secreto del reencuentro.
+       El fuego interior une lo humano y lo divino en una sola conciencia.
+       La Llama Doble canta el retorno del alma a su plenitud olvidada.
+       Un viaje gnóstico y alquímico donde el amor despierta la memoria
+       eterna."
+
+-----------------------------------------------------------------------
+113- La Llama Doble - Public
+----------------------------
+            
+url-imagen: "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
+url-video: "https://drive.google.com/file/d/1xegqeVeRGh8OpXq0nfmdmUNCXQP57cjp/view"
 url-cancion: "https://drive.google.com/file/d/1IP4AsbiRcFU35VTgA1cHk0XvwVZJs0_X/view"
 web-video: "https://lucksys.github.io/canciones/la_llama_doble/index?t=k"
 web-audio: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
