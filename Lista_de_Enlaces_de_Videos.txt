@@ -1556,7 +1556,8 @@ info: "Composición en : Ingles , La composición Soñé con un llamado ancestra
        La búsqueda interior revela símbolos, promesas y enseñanzas ocultas.
        El eco de los antepasados invita a reencontrar una verdad que nunca desapareció.
        Cada paso acerca al viajero al origen espiritual de su propia estirpe.
-       La antigua llamada permanece viva, conduciendo el corazón más allá del velo del tiempo."
+       La antigua llamada permanece viva, conduciendo el corazón más allá del velo del
+       tiempo."
 
 -----------------------------------------------------------------------
 
