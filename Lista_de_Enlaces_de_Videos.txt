@@ -1602,4 +1602,43 @@ info: "Composicion en español neutro , Dos llamas se buscan a través del
        eterna."
 
 -----------------------------------------------------------------------
+115- La Taverna del Orden 
+--------------------------
+            
+url-imagen: "https://lucksys.github.io/canciones/la_taverna_del_orden/portada.jpg"
+url-video: "https://drive.google.com/file/d/1Bwe0hhsbrNIhA6-bRWE1FGNycmqzjrTj/view"
+url-cancion: "https://drive.google.com/file/d/1o6oIvUT8nKvhyNnKcfPgat1QuTaT0CF3/view"
+web-video: "https://lucksys.github.io/canciones/la_taverna_del_orden/index?t=k"
+web-audio: "https://lucksys.github.io/canciones/la_taverna_del_orden/index?t=a"
+info: "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los Masones),
+       ubicada en la calle Great Queen de Londres una taberna londinense nació el 
+       sueño de unificar el fútbol.En una taberna londinense nació el sueño de 
+       unificar el fútbol. Del caos de reglas dispersas surgió un lenguaje común.
+       La escuadra trazó los límites donde la pasión encuentra orden.
+       El balón comenzó a girar como el centro de un universo compartido.
+       La geometría del campo transformó el movimiento en armonía.
+       Once voluntades se unieron como una sola fuerza fraterna.
+       Bajo la mirada de la justicia, cada jugada buscó el equilibrio.
+       Y desde aquella noche, el juego se convirtió en una eternidad en movimiento"
 
+-----------------------------------------------------------------------
+115- La Taverna del Orden (Public)
+----------------------------------
+            
+url-imagen: "https://lucksys.github.io/canciones/la_taverna_del_orden/portada2.jpg"
+url-video: "https://drive.google.com/file/d/1lKDHS1oBSPXzeACfj7efUf7WuU64X_zM/view"
+url-cancion: "https://drive.google.com/file/d/1o6oIvUT8nKvhyNnKcfPgat1QuTaT0CF3/view"
+web-video: "https://lucksys.github.io/canciones/la_taverna_del_orden/index2?t=p"
+web-audio: "https://lucksys.github.io/canciones/la_taverna_del_orden/index2?t=a"
+info: "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los Masones),
+       ubicada en la calle Great Queen de Londres una taberna londinense nació el 
+       sueño de unificar el fútbol.En una taberna londinense nació el sueño de 
+       unificar el fútbol. Del caos de reglas dispersas surgió un lenguaje común.
+       La escuadra trazó los límites donde la pasión encuentra orden.
+       El balón comenzó a girar como el centro de un universo compartido.
+       La geometría del campo transformó el movimiento en armonía.
+       Once voluntades se unieron como una sola fuerza fraterna.
+       Bajo la mirada de la justicia, cada jugada buscó el equilibrio.
+       Y desde aquella noche, el juego se convirtió en una eternidad en movimiento"
+
+-----------------------------------------------------------------------
