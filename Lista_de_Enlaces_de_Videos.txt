@@ -1622,7 +1622,7 @@ info: "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los Masones
        Y desde aquella noche, el juego se convirtió en una eternidad en movimiento"
 
 -----------------------------------------------------------------------
-115- La Taverna del Orden (Public)
+116- La Taverna del Orden (Public)
 ----------------------------------
             
 url-imagen: "https://lucksys.github.io/canciones/la_taverna_del_orden/portada2.jpg"
