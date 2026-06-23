@@ -1665,7 +1665,7 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
 url-imagen:  "https://lucksys.github.io/canciones/no-camino_sola/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1vklFyaY-uVCQGqAPavmIyc7_RJy0BEw6/view"
 url-cancion: "https://drive.google.com/file/d/12o4kE7hyF0lqEHNFZZdO8hVFTTXIa6rd/view"
-web-video:   "https://lucksys.github.io/canciones/no-camino_sola/index2?t=k"
+web-video:   "https://lucksys.github.io/canciones/no-camino_sola/index2?t=p"
 web-audio:   "https://lucksys.github.io/canciones/no-camino_sola/index2?t=a"
 info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarla, 
               pero no la domina. Una presencia firme la acompaña en el camino.
