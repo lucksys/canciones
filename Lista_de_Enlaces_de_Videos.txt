@@ -1675,4 +1675,48 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
               hasta el final."
 
 -----------------------------------------------------------------------
+119- El Laberinto del Encuentro 
+------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada.jpg"
+url-video:   ""
+url-cancion: ""
+web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=k"
+web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=a"
+info:        "Español neutro,balada sinfónica que explora el viaje del alma a través de la pérdida, 
+              la transformación y la memoria. La obra se inspira en la visión de la soledad 
+              desarrollada por: Octavio Paz como una herida histórica y existencial. Evoca el dolor de
+              los pueblos marcados por la conquista, el desarraigo y la búsqueda de identidad. 
+              También incorpora el simbolismo de las Bodas Alquímicas, donde toda transformación exige 
+              una muerte previa.
+              La caída de las coronas y la desaparición de las máscaras representan el abandono de las 
+              ilusiones y del ego. El antiguo concepto de que la carne se separa del hueso aparece como 
+              metáfora del tránsito entre lo material y lo eterno. La muerte no es presentada como un 
+              final, sino como una puerta hacia una comprensión más profunda del ser.
+              A través de un emotivo diálogo entre voces, la canción culmina afirmando que la llama 
+              interior permanece cuando todo lo demás desaparece."
+
+-----------------------------------------------------------------------
+120- El Laberinto del Encuentro - Public -
+------------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada.jpg"
+url-video:   ""
+url-cancion: ""
+web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=k"
+web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=a"
+info:        "Español neutro,balada sinfónica que explora el viaje del alma a través de la pérdida, 
+              la transformación y la memoria. La obra se inspira en la visión de la soledad 
+              desarrollada por: Octavio Paz como una herida histórica y existencial. Evoca el dolor de
+              los pueblos marcados por la conquista, el desarraigo y la búsqueda de identidad. 
+              También incorpora el simbolismo de las Bodas Alquímicas, donde toda transformación exige 
+              una muerte previa.
+              La caída de las coronas y la desaparición de las máscaras representan el abandono de las 
+              ilusiones y del ego. El antiguo concepto de que la carne se separa del hueso aparece como 
+              metáfora del tránsito entre lo material y lo eterno. La muerte no es presentada como un 
+              final, sino como una puerta hacia una comprensión más profunda del ser.
+              A través de un emotivo diálogo entre voces, la canción culmina afirmando que la llama 
+              interior permanece cuando todo lo demás desapare."
+
+-----------------------------------------------------------------------
 
