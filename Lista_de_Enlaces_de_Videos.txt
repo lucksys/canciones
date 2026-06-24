@@ -1679,8 +1679,8 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
 ------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada.jpg"
-url-video:   ""
-url-cancion: ""
+url-video:   "https://drive.google.com/file/d/1GnBEfQWxIvQ7VUwdf3X3ryZVgHX2z0o3/view"
+url-cancion: "https://drive.google.com/file/d/1m9vPwkuejEQGDWaXAr_-aQJtASeLlyIk/view"
 web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=k"
 web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=a"
 info:        "Español neutro,balada sinfónica que explora el viaje del alma a través de la pérdida, 
@@ -1700,11 +1700,11 @@ info:        "Español neutro,balada sinfónica que explora el viaje del alma a 
 120- El Laberinto del Encuentro - Public -
 ------------------------------------------
             
-url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada.jpg"
-url-video:   ""
-url-cancion: ""
-web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=a"
+url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1ZAW1FSvNq0KRVg4IuMT5CPMlqLMvtOGL/view"
+url-cancion: "https://drive.google.com/file/d/1m9vPwkuejEQGDWaXAr_-aQJtASeLlyIk/view"
+web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index2?t=p"
+web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index2?t=a"
 info:        "Español neutro,balada sinfónica que explora el viaje del alma a través de la pérdida, 
               la transformación y la memoria. La obra se inspira en la visión de la soledad 
               desarrollada por: Octavio Paz como una herida histórica y existencial. Evoca el dolor de
