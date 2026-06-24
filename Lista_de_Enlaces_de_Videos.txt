@@ -1697,8 +1697,8 @@ info:        "Español neutro,balada sinfónica que explora el viaje del alma a 
               interior permanece cuando todo lo demás desaparece."
 
 -----------------------------------------------------------------------
-120- El Laberinto del Encuentro - Public -
-------------------------------------------
+120- El Laberinto del Reencuentro - Public -
+--------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1ZAW1FSvNq0KRVg4IuMT5CPMlqLMvtOGL/view"
