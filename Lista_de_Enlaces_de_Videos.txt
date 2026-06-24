@@ -1678,11 +1678,11 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
 119- El Laberinto del Encuentro 
 -------------------------------
             
-url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1GnBEfQWxIvQ7VUwdf3X3ryZVgHX2z0o3/view"
 url-cancion: "https://drive.google.com/file/d/1m9vPwkuejEQGDWaXAr_-aQJtASeLlyIk/view"
-web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index?t=a"
+web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index1?t=k"
+web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index1?t=a"
 info:        "Español neutro,balada sinfónica que explora el viaje del alma a través de la pérdida, 
               la transformación y la memoria. La obra se inspira en la visión de la soledad 
               desarrollada por: Octavio Paz como una herida histórica y existencial. Evoca el dolor de
