@@ -1676,7 +1676,7 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
 
 -----------------------------------------------------------------------
 119- El Laberinto del Encuentro 
-------------------------------
+-------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1GnBEfQWxIvQ7VUwdf3X3ryZVgHX2z0o3/view"
