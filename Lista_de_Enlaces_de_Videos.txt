@@ -1725,7 +1725,7 @@ info:        "Español neutro,balada sinfónica que explora el viaje del alma a 
 url-imagen:  "https://lucksys.github.io/canciones/la_palabra_olvidada/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1srFV0ahjNBoFKMpTILnqd58n8LzPZYyh/view"
 url-cancion: "https://drive.google.com/file/d/1am9VrJPU7B01j7-eFAcXCfQ3kkpvsrKZ/view"
-web-video:   "https://lucksys.github.io/canciones/la_palabra_olvidada/index?t=p"
+web-video:   "https://lucksys.github.io/canciones/la_palabra_olvidada/index?t=k"
 web-audio:   "https://lucksys.github.io/canciones/la_palabra_olvidada/index?t=a"
 info:        "Un antiguo herrero del bronce deja su huella entre el fuego, el mar y la
               memoria. Las viejas crónicas parecen susurrar una historia distinta a la
