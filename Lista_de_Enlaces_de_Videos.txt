@@ -1719,4 +1719,24 @@ info:        "Español neutro,balada sinfónica que explora el viaje del alma a 
               interior permanece cuando todo lo demás desapare."
 
 -----------------------------------------------------------------------
+121- La Palabra Olvidada -
+--------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/la_palabra_olvidada/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1srFV0ahjNBoFKMpTILnqd58n8LzPZYyh/view"
+url-cancion: "https://drive.google.com/file/d/1am9VrJPU7B01j7-eFAcXCfQ3kkpvsrKZ/view"
+web-video:   "https://lucksys.github.io/canciones/la_palabra_olvidada/index?t=p"
+web-audio:   "https://lucksys.github.io/canciones/la_palabra_olvidada/index?t=a"
+info:        "Un antiguo herrero del bronce deja su huella entre el fuego, el mar y la
+              memoria. Las viejas crónicas parecen susurrar una historia distinta a la
+              que muchos recuerdan. La verdad permanece silenciosa mientras el tiempo
+              transforma los relatos. La palabra olvidada invita a mirar más allá de 
+              las certezas heredadas. Cada eco despierta la duda sin juzgar ni señalar 
+              a nadie.
+              La búsqueda interior vale más que aceptar respuestas sin examinarlas. La
+              memoria de los antiguos espera a quien se atreva a escucharla. Solo quien
+              emprende su propio camino podrá descubrir el verdadero sentido de la 
+              palabra olvidada."
+
+-----------------------------------------------------------------------
 
