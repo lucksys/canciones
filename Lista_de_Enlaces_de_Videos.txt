@@ -1739,4 +1739,25 @@ info:        "Un antiguo herrero del bronce deja su huella entre el fuego, el ma
               palabra olvidada."
 
 -----------------------------------------------------------------------
+122- Del Silencio al Vacio -
+----------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1st9kqLyrEuiTRkn1GKASZCX3NcyDPXsI/view"
+url-cancion: "https://drive.google.com/file/d/1G_H8nmJEyDFED1U3_PBlrF85y6CFfFN7/view"
+web-video:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index?t=k"
+web-audio:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index?t=a"
+info:        "En el silencio interior comienza el descenso hacia la verdad oculta.
+              El V.I.T.R.I.O.L. revela la piedra secreta escondida en el alma.
+              Las Columnas de Hércules quedan atrás cuando el iniciado atraviesa el 
+              Ne Plus Ultra.
+              El Vacío deja de ser ausencia para convertirse en el umbral de la Luz.
+              El Solve et Coagula transmuta la muerte simbólica en renacimiento 
+              espiritual.
+              Del Albedo al Rubedo, la Gran Obra despierta el fuego inmortal del 
+              espíritu.
+              El Magnum Opus consagra la unión entre el ser humano y su esencia 
+              eterna. Del Silencio al Vacío nace la llama que conduce al Uno y a la
+              Eternidad."
 
+-----------------------------------------------------------------------
