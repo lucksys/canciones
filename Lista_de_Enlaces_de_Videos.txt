@@ -617,7 +617,7 @@ url-video: "https://drive.google.com/file/d/1cnd48Yeny7tuPmqywG7ouibH1MLAnGx1/vi
 url-cancion: "https://drive.google.com/file/d/1TxDQrbSnZqcB8wr3cG5OSV2_A5RKKk_v/view"
 web-video: "https://lucksys.github.io/canciones/no_te_duermas/index2"
 info: "Compósición en idioma: Italiano Florentino.EPYC
-2° Aria de la Opera Turadot : NESSUN DORMA (que nadie duerma de Giacomo PUccini) 
+2° Aria de la Opera Turandot : NESSUN DORMA (que nadie duerma de Giacomo Puccini) 
 Los Tres misterios alquímicos de Turandot son: El Fuego, La Sangre y el Corazón.
 ​Representan la fuerza transformadora de la voluntad, la energía vital que fluye 
 por el ser y el núcleo donde reside el sentimiento y el equilibrio espiritual. 
@@ -1385,7 +1385,7 @@ info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        Y en ese abrazo primordial nace una sola llama eterna."
 
 -----------------------------------------------------------------------
-104- L'Eco_dell'Invisibile -PLUBLIC- (El Eco de lo Invisivible)
+104- L'Eco_dell'Invisibile -PUBLIC- (El Eco de lo Invisivible)
 ---------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada2.jpg"
