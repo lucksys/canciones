@@ -1761,8 +1761,8 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
               Eternidad. "
 
 -----------------------------------------------------------------------
-123- Del Silencio al Vacio -
-----------------------------
+123- Del Silencio al Vacio -Public-
+-----------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1c-0rHJtop5R7PF9TjzJ7zOtnU2l-OkOK/view"
