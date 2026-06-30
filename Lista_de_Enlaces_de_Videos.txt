@@ -612,16 +612,16 @@ Juntos forman la base de la transmutación interna."
 53- No_te_duermas_(EPYC)
 ------------------------
 
-url-imagen: "https://lucksys.github.io/canciones/no_te_duermas/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1cnd48Yeny7tuPmqywG7ouibH1MLAnGx1/view"
+url-imagen:  "https://lucksys.github.io/canciones/no_te_duermas/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1cnd48Yeny7tuPmqywG7ouibH1MLAnGx1/view"
 url-cancion: "https://drive.google.com/file/d/1TxDQrbSnZqcB8wr3cG5OSV2_A5RKKk_v/view"
-web-video: "https://lucksys.github.io/canciones/no_te_duermas/index2"
-info: "Compósición en idioma: Italiano Florentino.EPYC
-2° Aria de la Opera Turandot : NESSUN DORMA (que nadie duerma de Giacomo Puccini) 
-Los Tres misterios alquímicos de Turandot son: El Fuego, La Sangre y el Corazón.
-​Representan la fuerza transformadora de la voluntad, la energía vital que fluye 
-por el ser y el núcleo donde reside el sentimiento y el equilibrio espiritual. 
-Juntos forman la base de la transmutación interna."
+web-video:   "https://lucksys.github.io/canciones/no_te_duermas/index2"
+info:        "Compósición en idioma: Italiano Florentino.EPYC
+              2° Aria de la Opera Turandot : NESSUN DORMA (que nadie duerma de Giacomo Puccini) 
+              Los Tres misterios alquímicos de Turandot son: El Fuego, La Sangre y el Corazón.
+​              Representan la fuerza transformadora de la voluntad, la energía vital que fluye 
+              por el ser y el núcleo donde reside el sentimiento y el equilibrio espiritual. 
+              Juntos forman la base de la transmutación interna."
 
 -----------------------------------------------------------------------------
 54- Nacida_bajo_el_signo_de_la_luz_(Español) 
@@ -1058,25 +1058,25 @@ info: "Composicion cantada en : Ingles. Un hombre ha esperado durante años enco
 85- Ave_Maria-gNoStIKa (Schuber lyric- Cantante Italian:LEO)
 -------------------------------------------------------------
                             
-url-imagen: "https://lucksys.github.io/canciones/ave_maria/portada.jpg"
-url-video: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
+url-imagen:  "https://lucksys.github.io/canciones/ave_maria/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
 url-cancion: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
-web-video: "https://lucksys.github.io/canciones/ave_maria/index"
-info: "Composición cantada en: Italiano Florentino por el Barítono Spinto: Leo J Loyola.
-       Banda de Rock Sinfónico Gnóstico."
+web-video:   "https://lucksys.github.io/canciones/ave_maria/index"
+info:        "Composición cantada en: Italiano Florentino por el Barítono Spinto: Leo J Loyola.
+              Banda de Rock Sinfónico Gnóstico."
 
 -----------------------------------------------------------------------------
 86- Latido_de_la:Patria-(EPYC - LEO)
 -------------------------------------
                             
-url-imagen: "https://lucksys.github.io/canciones/latido_de_la_patria/portada.jpg"
-url-video: "https://drive.google.com/file/d/1mXsJoL37IjQowKU0u3iG2seCyDk0gcVv/view"
+url-imagen:  "https://lucksys.github.io/canciones/latido_de_la_patria/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1mXsJoL37IjQowKU0u3iG2seCyDk0gcVv/view"
 url-cancion: "https://drive.google.com/file/d/16QN9L6JqNqECWDafXr01q3QmcRz0N9Ph/view"
-web-video: "https://lucksys.github.io/canciones/latido_de_la_patria/index"
-info: "Composición cantada en: Español neutro por el Barítono Spinto: Leo J. Loyola.
-       Latido_de_la:Patria es un Himno al Corazón,la Soberania, La libertad y la 
-       Fraternidad. !!vMi Padria Eres Tu !! 
-       Banda de Rock Sinfónico Gnóstico."
+web-video:   "https://lucksys.github.io/canciones/latido_de_la_patria/index"
+info:        "Composición cantada en: Español neutro por el Barítono Spinto: Leo J. Loyola.
+              Latido_de_la:Patria es un Himno al Corazón,la Soberania, La libertad y la 
+              Fraternidad. !!vMi Padria Eres Tu !! 
+              Banda de Rock Sinfónico Gnóstico."
 
 -----------------------------------------------------------------------------
 87- Pasaje_a_La_Luz -(Passaggio alla Luce- EPYC - LEO)
