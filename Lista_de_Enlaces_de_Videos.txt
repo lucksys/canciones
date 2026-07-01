@@ -1176,7 +1176,7 @@ url-cancion: "https://drive.google.com/file/d/17tJbIV3xY920RnZgt97PqsqTexN8nuDu/
 web-video: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index2"
 info: "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimicas 
        de C.R. y en la cancion Napolitana Torna a Suriento.
-       Cuenta la histori a de un alma que atraviesa pruebas para recordar quién 
+       Cuenta la historia de un alma que atraviesa pruebas para recordar quién 
        era antes del olvido. La rosa y la piedra guardan un nombre perdido. 
        la rosa mistica floreciendo simboliza el despertar del alma humana,
        la piedra (o la cruz de piedra) representa la estabilidad del Pleroma.
