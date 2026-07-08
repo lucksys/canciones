@@ -1783,4 +1783,26 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
               Eternidad. "
 
 -----------------------------------------------------------------------
+124- Sacred Shadow - (Sombra Sagrada)
+-------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/sombra_sagrada/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1I2T2FvRHHOsL2s0-tQJR4b0-BTffY3Vu/view"
+url-cancion: "https://drive.google.com/file/d/1rAv9GUR60x8aQDieSj76tO04NiRcXS4H/view"
+web-video:   "https://lucksys.github.io/canciones/sombra_sagrada/index?t=k"
+web-audio:   "https://lucksys.github.io/canciones/sombra_sagrada/index?t=a"
+info:        "Esta compsicion incorpora de forma simbólica, los principios de :
+              La Sombra Sagrada como el Principio Inmanifestado, anterior a la 
+              manifestación.
+              La teología apofática, expresada mediante el silencio y lo 
+              innombrable ("Beyond all names").
+              El Velo del Misterio, que protege la verdad antes de la iniciación.
+              La dialéctica luz–oscuridad como complementariedad, nunca como bien contra mal.
+              El proceso alquímico Nigredo → Albedo → Rubedo.
+              La Piedra Filosofal, el Fénix y el Templo Interior.
+              La reconciliación y recoocimiento de los contastes del UNO .
+              Mientras que el Alma es Sagrada la chispa del Espiritu es Divina.
+              Inspirada en la idea del Libro de Isaias 45:7."
+
+-----------------------------------------------------------------------
 
