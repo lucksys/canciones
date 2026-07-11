@@ -1808,11 +1808,11 @@ info:        "Esta compsicion incorpora de forma simbólica, los principios de :
 125- You are my Home - (Tu eres mi Hogar)
 -----------------------------------------
             
-url-imagen:  "https://lucksys.github.io/canciones/tu_eres_mi_hogar/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/tu_eres_mi_hogar/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1PmRj1t4FeRRUPSNnIagZC9-LUWB61cek/view"
 url-cancion: "https://drive.google.com/file/d/1XC1Pd1SA7eV48DNzgfBULWlCKPxeIo7y/view"
-web-video:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index?t=a"
+web-video:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index1?t=k"
+web-audio:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index1?t=a"
 info:        "Composición en inglés. Un alma atraviesa un largo camino de búsqueda 
               en medio del frío y la oscuridad.
               La Luz interior revela la verdad oculta y transforma su esencia.
