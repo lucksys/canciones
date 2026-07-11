@@ -1805,4 +1805,27 @@ info:        "Esta compsicion incorpora de forma simbólica, los principios de :
               Inspirada en el Libro de Isaias 45:7."
 
 -----------------------------------------------------------------------
+125- You are my Home - (Tu eres mi Hogar)
+-----------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/tu_eres_mi_hogar/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1PmRj1t4FeRRUPSNnIagZC9-LUWB61cek/view"
+url-cancion: "https://drive.google.com/file/d/1XC1Pd1SA7eV48DNzgfBULWlCKPxeIo7y/view"
+web-video:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index?t=k"
+web-audio:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index?t=a"
+info:        "Composición en inglés. Un alma atraviesa un largo camino de búsqueda 
+              en medio del frío y la oscuridad.
+              La Luz interior revela la verdad oculta y transforma su esencia.
+              La transmutación alquímica convierte el plomo del sufrimiento en el 
+              oro del espíritu.
+              El verdadero hogar no es un lugar, sino la presencia eterna del Amor.
+              Aunque el mundo cambie y todo parezca desvanecerse, el centro permanece 
+              inmutable.
+              El templo sagrado se descubre dentro del propio corazón despierto.
+              La Rosa, la Luz y la Palabra silenciosa guían el sendero iniciático hacia
+              la Unidad.
+              Al final del viaje, el buscador reconoce que su verdadero hogar siempre 
+              estuvo en la Luz divina."
+
+-----------------------------------------------------------------------
 
