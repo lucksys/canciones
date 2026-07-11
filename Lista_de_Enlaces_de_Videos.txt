@@ -1828,4 +1828,24 @@ info:        "Composición en inglés. Un alma atraviesa un largo camino de bús
               estuvo en la Luz divina."
 
 -----------------------------------------------------------------------
+126- Catarsis Transmutacion Iluminacion
+---------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1C_M3jieelUToNbiKVhwF5pJpVX9QCVvx/view"
+url-cancion: "https://drive.google.com/file/d/1C15BvI0qmukZLpcTw-py1iW9iKO7vReP/view"
+web-video:   "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/index?t=k"
+web-audio:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index?t=a"
+info:        "Composición en Español neutro .La canción narra un viaje interior desde la 
+              oscuridad hacia la iluminación.
+              El alma despierta tras romper los velos de la ilusión y el miedo.
+              La chispa divina renace mediante la catarsis y la transformación interior.
+              El iniciado atraviesa la Nigredo y enfrenta la muerte simbólica del Ego.
+              Sophia y el Logos guían el camino hacia la verdad oculta del Ser.
+              La alquimia espiritual transmuta el sufrimiento en luz y conciencia.
+              La unión con el Uno revela la libertad y la esencia divina interior.
+              Finalmente, la transmutación culmina en una iluminación donde permanece la
+              Luz eterna."
+
+-----------------------------------------------------------------------
 
