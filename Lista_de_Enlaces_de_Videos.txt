@@ -1828,7 +1828,30 @@ info:        "Composición en inglés. Un alma atraviesa un largo camino de bús
               estuvo en la Luz divina."
 
 -----------------------------------------------------------------------
-126- Catarsis Transmutacion Iluminacion
+126- You are my Home EPYC- (Tu eres mi Hogar-epico)
+---------------------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/tu_eres_mi_hogar/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/13PciqQUytrkm8IiSaJL_oNSdsJPqH93h/view"
+url-cancion: "https://drive.google.com/file/d/1H5LhgRthTUre-cSB6w_Uvw275eZ8n_al/view"
+web-video:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index2?t=k"
+web-audio:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index2?t=a"
+info:        "Composición en inglés. Un alma atraviesa un largo camino de búsqueda 
+              en medio del frío y la oscuridad.
+              La Luz interior revela la verdad oculta y transforma su esencia.
+              La transmutación alquímica convierte el plomo del sufrimiento en el 
+              oro del espíritu.
+              El verdadero hogar no es un lugar, sino la presencia eterna del Amor.
+              Aunque el mundo cambie y todo parezca desvanecerse, el centro permanece 
+              inmutable.
+              El templo sagrado se descubre dentro del propio corazón despierto.
+              La Rosa, la Luz y la Palabra silenciosa guían el sendero iniciático hacia
+              la Unidad.
+              Al final del viaje, el buscador reconoce que su verdadero hogar siempre 
+              estuvo en la Luz divina."
+
+-----------------------------------------------------------------------
+127- Catarsis Transmutacion Iluminacion
 ---------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/portada.jpg"
