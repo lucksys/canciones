@@ -1891,7 +1891,7 @@ info:        "Composición en Español neutro. La composicion narra La canción 
               himno de esperanza, renacimiento y realización espiritual."
 
 -----------------------------------------------------------------------
-129- Cuerpo de Gloria, Magnum Opus - EPIC -
+129- Cuerpo de Gloria, Magnum Opus - EPYC -
 -------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/portada2.jpg"
