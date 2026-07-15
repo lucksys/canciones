@@ -1858,7 +1858,7 @@ url-imagen:  "https://lucksys.github.io/canciones/catarsis_transmutacion_ilumina
 url-video:   "https://drive.google.com/file/d/1C_M3jieelUToNbiKVhwF5pJpVX9QCVvx/view"
 url-cancion: "https://drive.google.com/file/d/1C15BvI0qmukZLpcTw-py1iW9iKO7vReP/view"
 web-video:   "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index?t=a"
+web-audio:   "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/index?t=a"
 info:        "Composición en Español neutro .La canción narra un viaje interior desde la 
               oscuridad hacia la iluminación.
               El alma despierta tras romper los velos de la ilusión y el miedo.
@@ -1869,6 +1869,46 @@ info:        "Composición en Español neutro .La canción narra un viaje interi
               La unión con el Uno revela la libertad y la esencia divina interior.
               Finalmente, la transmutación culmina en una iluminación donde permanece la
               Luz eterna."
+
+-----------------------------------------------------------------------
+128- Cuerpo de Gloria, Magnum Opus
+----------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/portada1.jpg"
+url-video:   "https://drive.google.com/file/d/1Jc8jT9Elidc29BtnBptxUeGMIFQSqtls/view"
+url-cancion: "https://drive.google.com/file/d/1UPsrm4r626iDK7I6ByvM1Chc8C7sXYAj/view"
+web-video:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index1?t=k"
+web-audio:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index1?t=a"
+info:        "Composición en Español neutro. La composicion narra La canción narra el viaje
+              del alma desde la oscuridad hacia la luz interior. Explora la vacuidad como 
+              el punto de partida de toda transformación espiritual. El fuego alquímico 
+              simboliza la purificación de la materia y de la conciencia. Enoc, Elías y el
+              Maestro resucitado revelan una misma senda de trascendencia. La verdadera 
+              Obra transforma el dolor en sabiduría y la sombra en claridad. El cuerpo de 
+              gloria representa el despertar de la naturaleza inmortal del ser. La tradición
+              hermética, gnóstica e iniciática inspira cada paso de este camino interior. 
+              Cuerpo de Gloria, Magnum Opus; celebra la culminación de la Gran Obra como un
+              himno de esperanza, renacimiento y realización espiritual."
+
+-----------------------------------------------------------------------
+129- Cuerpo de Gloria, Magnum Opus - EPIC -
+-------------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1BFE_roXPLtaalstJliFheMq5VuP5pzSi/view"
+url-cancion: "https://drive.google.com/file/d/1gQre5AbumI-_mxmoRc3eil1FuaDNPKEt/view"
+web-video:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index2?t=k"
+web-audio:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index2?t=a"
+info:        "Composición en Español neutro. La composicion narra La canción narra el viaje
+              del alma desde la oscuridad hacia la luz interior. Explora la vacuidad como 
+              el punto de partida de toda transformación espiritual. El fuego alquímico 
+              simboliza la purificación de la materia y de la conciencia. Enoc, Elías y el
+              Maestro resucitado revelan una misma senda de trascendencia. La verdadera 
+              Obra transforma el dolor en sabiduría y la sombra en claridad. El cuerpo de 
+              gloria representa el despertar de la naturaleza inmortal del ser. La tradición
+              hermética, gnóstica e iniciática inspira cada paso de este camino interior. 
+              Cuerpo de Gloria, Magnum Opus; celebra la culminación de la Gran Obra como un
+              himno de esperanza, renacimiento y realización espiritual."
 
 -----------------------------------------------------------------------
 
