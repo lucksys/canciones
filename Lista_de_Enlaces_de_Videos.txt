@@ -1917,7 +1917,7 @@ info:        "Composición en Español neutro. La composicion narra La canción 
 url-imagen:  "https://lucksys.github.io/canciones/hieros_gamos/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1J2OjWfTanAc7YjOwggViM9Za_e2rdLRT/view"
 url-cancion: "https://drive.google.com/file/d/1g9eqO7Rzsu9W1ShASNUmyLgKPbqjZtkE/view"
-web-video:   "https://lucksys.github.io/canciones/hieros_gamos/index?t=k"
+web-video:   "https://lucksys.github.io/canciones/hieros_gamos/index?t=p"
 web-audio:   "https://lucksys.github.io/canciones/hieros_gamos/index?t=a"
 info:        "Composición en italiano Florentino. Esta balada mística narra el ascenso por
               los peldaños de la escala de transmutación interna. El fuego equilibrado de 
