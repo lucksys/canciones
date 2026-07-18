@@ -1911,4 +1911,25 @@ info:        "Composición en Español neutro. La composicion narra La canción 
               himno de esperanza, renacimiento y realización espiritual."
 
 -----------------------------------------------------------------------
+130- Hieros Gamos (Matrimonio Sagrado)
+--------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/hieros_gamos/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1J2OjWfTanAc7YjOwggViM9Za_e2rdLRT/view"
+url-cancion: "https://drive.google.com/file/d/1g9eqO7Rzsu9W1ShASNUmyLgKPbqjZtkE/view"
+web-video:   "https://lucksys.github.io/canciones/hieros_gamos/index?t=k"
+web-audio:   "https://lucksys.github.io/canciones/hieros_gamos/index?t=a"
+info:        "Composición en italiano Florentino. Esta balada mística narra el ascenso por
+              los peldaños de la escala de transmutación interna. El fuego equilibrado de 
+              la llama doble actúa como el motor que purifica las sombras del alma. A 
+              través de este sendero, los veinticuatro misterios menores se unifican y 
+              cobran sentido en el ser. El tema celebra la consumación del tercer y 
+              último gran misterio hermético. Las polaridades del oro y la plata se 
+              entrelazan de forma definitiva en un hexagrama sagrado. En el centro exacto
+              de esta unión geométrica cristaliza la Piedra Filosofal en su estado de fijeza
+              absoluta. Las voces de los amantes se funden en el crisol para disolver toda 
+              dualidad y olvido. Finalmente, el alma transmutada regresa en perfecta armonía
+              hacia la plenitud eterna del Pleroma."
+
+-----------------------------------------------------------------------
 
