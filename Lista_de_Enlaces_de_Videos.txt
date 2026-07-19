@@ -1932,4 +1932,28 @@ info:        "Composición en italiano Florentino. Esta balada mística narra el
               hacia la plenitud eterna del Pleroma."
 
 -----------------------------------------------------------------------
+131- Alquimia - Vanguardia - Liberacion
+----------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/alquimia-vanguardia-liberacion/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1SeDKVMiSccrJ9VgrKrmxLBO3DePaCT2S/view"
+url-cancion: "https://drive.google.com/file/d/1Izw5GSqCEGGtv62324TiHl-hG2iFA6FQ/view"
+web-video:   "https://lucksys.github.io/canciones/alquimia-vanguardia-liberacion/index?t=p"
+web-audio:   "https://lucksys.github.io/canciones/alquimia-vanguardia-liberacion/index?t=a"
+info:        "Composición en Español Neutro. balada muy lenta es un diálogo íntimo entre el 
+              alma y el espíritu.
+              ​La voz de mezzosoprano inicia el viaje desde la profundidad de su búsqueda 
+              interior.
+​              Un tenor ligero responde con melismas emotivos aportando una fuerza aérea y 
+              luminosa.
+              ​Ambas polaridades se entrelazan para activar una transmutación profunda del
+              ser.
+              ​El estribillo se repite con fuerza como un manifiesto estético y 
+              revolucionario.
+​              La calma inicial explota al final en un clímax épico de rock sinfónico.
+​              Se rompen las cadenas del pasado para habitar un fuego libre y sin dogmas.
+​              Alquimia, vanguardia y liberación se funden en el eco de un alma que 
+              despierta."
+
+-----------------------------------------------------------------------
 
