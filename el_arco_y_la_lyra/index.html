@@ -1,0 +1,88 @@
+<html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Arco y la Lyra</title>
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="video.other">
+    <meta property="og:site_name" content="Google Drive">
+    <meta property="og:title" content="El Arco y la Lyra">
+    <meta property="og:description" content="Haz clic para ver o escuchar la obra completa.">
+
+    <meta property="og:image" content="https://lucksys.github.io/canciones/el_arco_y_la_lyra/portada.jpg">
+    <meta property="og:image:secure_url" content="https://lucksys.github.io/canciones/el_arco_y_la_lyra/portada.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="1168">
+    <meta property="og:image:height" content="784">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="El Arco y la Lyra">
+    <meta name="twitter:description" content="Haz clic para ver o escuchar la obra completa.">
+    <meta name="twitter:image" content="https://lucksys.github.io/canciones/el_arco_y_la_lyra/portada.jpg">
+
+    <script>
+        const medias = {
+            k: "https://drive.google.com/file/d/1-Zx5_YSIGdDGmnDBH4w_zSDmebCOuB8P/view",
+            p: "https://drive.google.com/file/d/1-Zx5_YSIGdDGmnDBH4w_zSDmebCOuB8P/view",
+            a: "https://drive.google.com/file/d/1CgRGITryHr77ePWt38gMJX6z0HFEIeaO/view"
+        };
+
+        const params = new URLSearchParams(window.location.search);
+        const tipo = params.get("t");
+
+        // Video por defecto
+        const destino = medias[tipo] || medias.k;
+
+        window.location.replace(destino);
+    </script>
+
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            padding-top: 100px;
+            background-color: #1a1a1a;
+            color: #ffffff;
+        }
+
+        .loader {
+            border: 4px solid #333;
+            border-top: 4px solid #00ffcc;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to   { transform: rotate(360deg); }
+        }
+
+        a {
+            color: #00ffcc;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Redirigiendo...</h2>
+
+    <div class="loader"></div>
+
+    <p>
+        Si la redirección no funciona,
+        <a href="https://drive.google.com/file/d/1-Zx5_YSIGdDGmnDBH4w_zSDmebCOuB8P/view">
+            haz clic aquí
+        </a>.
+    </p>
+
+</body>
+</html>

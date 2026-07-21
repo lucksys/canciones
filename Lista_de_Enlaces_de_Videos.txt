@@ -1956,4 +1956,25 @@ info:        "Composición en Español Neutro. balada muy lenta es un diálogo �
               despierta."
 
 -----------------------------------------------------------------------
+131- El Arco y la Lyra
+-----------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/el_arco_y_la_lyra/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1-Zx5_YSIGdDGmnDBH4w_zSDmebCOuB8P/view"
+url-cancion: "https://drive.google.com/file/d/1CgRGITryHr77ePWt38gMJX6z0HFEIeaO/view"
+web-video:   "https://lucksys.github.io/canciones/el_arco_y_la_lyra/index?t=p"
+web-audio:   "https://lucksys.github.io/canciones/el_arco_y_la_lyra/index?t=a"
+info:        "Composición en Español Neutro. balada, basada en la Metafora de Heraclito 
+              de éfeso : El Arco y la Lyra. Y en la obra Homóloga de Octavio Paz.
+              El Arco representa La tensión que tira hacia atrás para disparar la flecha
+              (la acción, la fuerza, la vida activa) , la vesica Pisis Y la Armonía .
+​              La Lyra representa La tensión de la cuerda que vibra para producir la 
+              música y el canto (la contemplación, la belleza, el arte).Y La bóveda
+              suterránea, la proteccion de la verdad, el transito del mundo terrenal a 
+              la bóveda celeste y la realizacion espiritual del iniciado.  
+              ​Ambos objetos funcionan exactamente igual: si la cuerda está floja, no hay
+              sonido ni flecha; si se tensa en exceso, se rompe. 
+              La vida es esa cuerda tensada en el punto justo."
+
+-----------------------------------------------------------------------
 
