@@ -1960,7 +1960,7 @@ info:        "Composición en Español Neutro. balada muy lenta es un diálogo �
 -----------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/el_arco_y_la_lyra/portada.jpg"
-url-video:   "https://drive.google.com/file/d/1-Zx5_YSIGdDGmnDBH4w_zSDmebCOuB8P/view"
+url-video:   "https://drive.google.com/file/d/176zteL76RTHv6OZZAVIsU6EkKnLZVXqs/view"
 url-cancion: "https://drive.google.com/file/d/1CgRGITryHr77ePWt38gMJX6z0HFEIeaO/view"
 web-video:   "https://lucksys.github.io/canciones/el_arco_y_la_lyra/index?t=p"
 web-audio:   "https://lucksys.github.io/canciones/el_arco_y_la_lyra/index?t=a"
