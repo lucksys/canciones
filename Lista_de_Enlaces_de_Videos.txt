@@ -1977,8 +1977,8 @@ info:        "Composición en Español Neutro. balada, basada en la Metafora de 
               La vida es esa cuerda tensada en el punto justo."
 
 -----------------------------------------------------------------------
-132- Cuando nuestras Luces se encontraron-(When Your Light Found Mine)
-----------------------------------------------------------------------
+132- Cuando nuestras Luces se encontraron-DUO-(When Your Light Found Mine)
+----------------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1Hfic3_i5HipVB8XBoOV0GH9OdW-RHm5E/view"
