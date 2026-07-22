@@ -1977,14 +1977,36 @@ info:        "Composición en Español Neutro. balada, basada en la Metafora de 
               La vida es esa cuerda tensada en el punto justo."
 
 -----------------------------------------------------------------------
-132- Cuando nuestras Luces se encontraron-DUO-(When Your Light Found Mine)
-----------------------------------------------------------------------------
+132- Cuando nuestras Luces se encontraron - DUO - (When Your Light Found Mine)
+------------------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1Hfic3_i5HipVB8XBoOV0GH9OdW-RHm5E/view"
 url-cancion: "https://drive.google.com/file/d/1VBnXwKwjAyfXYST-JZQ7B1AQrX5ZocXk/view"
 web-video:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index?t=p"
 web-audio:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index?t=a"
+info:        "Composición en Ingles Esta composición relata la búsqueda de una luz que 
+              habita en el el alma (Psique).
+              El alma atraviesa la soledad, la incertidumbre y el anhelo de un encuentro
+              verdadero con su chispa Divina(Pneuma).
+              Cada paso la acerca a una presencia que transforma el dolor en esperanza.
+              Lo que parece una historia de amor revela un significado mucho más profundo.
+              La luz representa la esencia divina que nunca dejó de acompañarlo.
+              El reencuentro simboliza el despertar de la conciencia y la unión con el 
+              propio ser.
+              La música acompaña un viaje emocional que crece desde la intimidad hasta un
+              final majestuoso. Es una balada cinematográfica sobre el amor,el reencuentro,
+              la luz y el regreso al origen."
+
+-----------------------------------------------------------------------
+132- Cuando nuestras Luces se encontraron - SOLO - (When Your Light Found Mine)
+------------------------------------------------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada2.jpg"
+url-video:   ""
+url-cancion: ""
+web-video:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index2?t=p"
+web-audio:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index2?t=a"
 info:        "Composición en Ingles Esta composición relata la búsqueda de una luz que 
               habita en el el alma (Psique).
               El alma atraviesa la soledad, la incertidumbre y el anhelo de un encuentro
