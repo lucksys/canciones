@@ -1999,7 +1999,7 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
               la luz y el regreso al origen."
 
 -----------------------------------------------------------------------
-132- Cuando nuestras Luces se encontraron - SOLO - (When Your Light Found Mine)
+133- Cuando nuestras Luces se encontraron - SOLO - (When Your Light Found Mine)
 ------------------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada2.jpg"
