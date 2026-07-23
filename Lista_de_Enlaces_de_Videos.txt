@@ -2003,8 +2003,8 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
 ------------------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada2.jpg"
-url-video:   ""
-url-cancion: ""
+url-video:   "https://drive.google.com/file/d/1qI8K7-4bDNz2-w0BuZxgaB7zHik9iYJB/view"
+url-cancion: "https://drive.google.com/file/d/1mw8fNKoc3Ktr0gEY8OhuepnwRxMHGSsE/view"
 web-video:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index2?t=p"
 web-audio:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index2?t=a"
 info:        "Composición en Ingles Esta composición relata la búsqueda de una luz que 
