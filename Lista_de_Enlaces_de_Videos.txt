@@ -2032,14 +2032,14 @@ web-audio:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index1?t=a
 info:        "Composicion musical en Ingles, En el silencio del corazón nace una luz que 
               transforma el dolor en paz. La verdadera verdad no se encuentra en templos,
               sino en el interior del ser.
-              Dos almas descubren un camino secreto que solo el amor auténtico puede 
+              Dos luces descubren un camino secreto que solo el amor auténtico puede 
               revelar.
               Al caer el velo, ambos se funden en una misma Luz Interior.
               Su unión no depende de nombres, promesas ni vínculos impuestos por el mundo.
-              Juntos cruzan el umbral del miedo para reencontrar la chispa eterna que los 
-              une.
+              Una cruza el umbral del miedo para reencontrarse con la chispa eterna y se  
+              unen.
               Más allá del tiempo y del espacio, redescubren su origen en un abrazo sagrado.
-              Más allá de todo nombre, permanecen para siempre como dos almas convertidas 
+              Más allá de todo nombre, permanecen para siempre como dos luces convertidas 
               en una sola."
 
 -----------------------------------------------------------------------
@@ -2054,14 +2054,14 @@ web-audio:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index2?t=a
 info:        "Composicion musical en Ingles, En el silencio del corazón nace una luz que 
               transforma el dolor en paz. La verdadera verdad no se encuentra en templos,
               sino en el interior del ser.
-              Dos almas descubren un camino secreto que solo el amor auténtico puede 
+              Dos luces descubren un camino secreto que solo el amor auténtico puede 
               revelar.
               Al caer el velo, ambos se funden en una misma Luz Interior.
               Su unión no depende de nombres, promesas ni vínculos impuestos por el mundo.
-              Juntos cruzan el umbral del miedo para reencontrar la chispa eterna que los 
-              une.
+              Una cruza el umbral del miedo para reencontrarse con la chispa eterna y se  
+              unen.
               Más allá del tiempo y del espacio, redescubren su origen en un abrazo sagrado.
-              Más allá de todo nombre, permanecen para siempre como dos almas convertidas 
+              Más allá de todo nombre, permanecen para siempre como dos luces convertidas 
               en una sola."
 
 -----------------------------------------------------------------------
