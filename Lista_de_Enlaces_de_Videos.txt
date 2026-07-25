@@ -2022,13 +2022,35 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
 
 -----------------------------------------------------------------------
 134- Más alla del Nombre - (Beyond the Name)
-------------------------------------------------------------------------------
+--------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/mas_alla-del-nombre/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1UAp6bOSzMJuP2J7iLrI7d3vqq-D71Clw/view"
 url-cancion: "https://drive.google.com/file/d/1AzjO4DZG8kQZ_MHlhlwMoyT8i_rtRMg5/view"
 web-video:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index1?t=p"
 web-audio:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index1?t=a"
+info:        "Composicion musical en Ingles, En el silencio del corazón nace una luz que 
+              transforma el dolor en paz. La verdadera verdad no se encuentra en templos,
+              sino en el interior del ser.
+              Dos almas descubren un camino secreto que solo el amor auténtico puede 
+              revelar.
+              Al caer el velo, ambos se funden en una misma Luz Interior.
+              Su unión no depende de nombres, promesas ni vínculos impuestos por el mundo.
+              Juntos cruzan el umbral del miedo para reencontrar la chispa eterna que los 
+              une.
+              Más allá del tiempo y del espacio, redescubren su origen en un abrazo sagrado.
+              Más allá de todo nombre, permanecen para siempre como dos almas convertidas 
+              en una sola."
+
+-----------------------------------------------------------------------
+135- Más alla del Nombre EPICO -(Beyond the Name - EPYC -)
+----------------------------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/mas_alla-del-nombre/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1UAyIpsW8ZP6YW5AsBx2Ye5qJZ6zPF1EU/view"
+url-cancion: "https://drive.google.com/file/d/143KBgtgR6zh_wY09FoaQdsd4xsXw3Icr/view"
+web-video:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index2?t=p"
+web-audio:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index2?t=a"
 info:        "Composicion musical en Ingles, En el silencio del corazón nace una luz que 
               transforma el dolor en paz. La verdadera verdad no se encuentra en templos,
               sino en el interior del ser.
