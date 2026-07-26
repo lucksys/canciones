@@ -2065,4 +2065,23 @@ info:        "Composicion musical en Ingles, En el silencio del corazón nace un
               en una sola."
 
 -----------------------------------------------------------------------
+136- Canto de Ecos Ancestrales - (Ancient Shadow Sing) 
+------------------------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/canto_de_ecos_ancestrales/portada1.jpg"
+url-video:   "https://drive.google.com/file/d/1E8dpkySqpRtdhW0uuCJ5jc2slLOtWZiu/view"
+url-cancion: "https://drive.google.com/file/d/1-3QsDOCwXaFmQUv3S9MYD6Gv0q-iAyz7/view"
+web-video:   "https://lucksys.github.io/canciones/canto_de_ecos_ancestrales/index1?t=p"
+web-audio:   "https://lucksys.github.io/canciones/canto_de_ecos_ancestrales/index1?t=a"
+info:        "Composicion en idioma Ingles. Sombras ancestrales despiertan recuerdos 
+              imposibles.
+              Ecos de vidas pasadas resuenan en la memoria. Los sueños revelan caminos 
+              y ciudades desconocidas.
+              El destino enlaza almas a través del tiempo. Nombres olvidados reviven 
+              antiguas emociones.
+              La tristeza profunda parece heredada de otras existencias.
+              La frontera entre el recuerdo y la intuición se desvanece.
+              esas voces del pasado siguen cantando en el presente."
+
+-----------------------------------------------------------------------
 
