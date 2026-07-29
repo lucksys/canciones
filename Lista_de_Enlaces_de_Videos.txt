@@ -1,4 +1,4 @@
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 0- Listado de Video-karaoke
 ---------------------------
 
@@ -10,7 +10,7 @@ web-canción: "https://lucksys.github.io/canciones/index"
 info: "Indice Geberal de Composicines Musicales
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 1- Vinculo_Sagrado 
 -------------------
 
@@ -21,7 +21,7 @@ web-video: "https://lucksys.github.io/canciones/vinculo_sagrado/index"
 info: "Compósición en idioma: Español neutro
 Matrimonio alquimico entre La Razon y el Alma. Tradición Primordial y Rosacruz."  
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 2- Personalidad_y_Esencia
 -------------------------
 
@@ -36,7 +36,7 @@ Cada acción traza el rumbo y revela lo que soy.
 Entre símbolos y silencio, mi esencia busca la luz.
 Y en ese fuego interior, renazco siendo fiel a mí."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 3- Personalidad_y_Esencia_(EPIC)
 --------------------------------
 
@@ -51,7 +51,7 @@ Cada acción traza el rumbo y revela lo que soy.
 Entre símbolos y silencio, mi esencia busca la luz.
 Y en ese fuego interior, renazco siendo fiel a mí."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 4- Personalidad_y_Esencia_(Personalitá e Essenza Italiano)
 ---------------------------------------------------------
 
@@ -66,7 +66,7 @@ Cada acción traza el rumbo y revela lo que soy.
 Entre símbolos y silencio, mi esencia busca la luz.
 Y en ese fuego interior, renazco siendo fiel a mí.
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 5- parastatai_-_phratriai_e_hybridi
 -----------------------------------
 
@@ -80,7 +80,7 @@ Gnosis y transmisión del conocimiento .
 Phrariai: es la afinidad espiritual (fraternal) de esa hermandad Blanca.
 Hybridi Santo: La union de ambas polaridades HierusGamos (Matrimonio Aqumico)."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 6- la_voluntad_entre_el_ego_y_la_voz_del_alma
 ---------------------------------------------
 
@@ -91,7 +91,7 @@ web-video: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_vo
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 7- la_voluntad_entre_el_ego_y_la_voz_del_alma_(EPIC)
 ----------------------------------------------------
 
@@ -102,7 +102,7 @@ web-video: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_vo
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 8- la_voluntad_entre_el_ego_y_la_voz_del_alma_(-EPYC-LEO-)
 ----------------------------------------------------------
 
@@ -113,7 +113,7 @@ web-video: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_vo
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 9- inmanencia_vs_diseno_un_legado_filosofico
 --------------------------------------------
 
@@ -124,7 +124,7 @@ web-video: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_f
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 10- fiat_lux_desde_el_kairos_a_la_palabra
 -----------------------------------------
 
@@ -135,7 +135,7 @@ web-video: "https://lucksys.github.io/canciones/fiat-lux,_desde_el_kairos_a_la_p
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 11- el_silencio_del_alma_(Jazz)
 -------------------------------
 
@@ -146,7 +146,7 @@ web-video: "https://lucksys.github.io/canciones/el_silencio_del_alma/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 12- el_silencio_del_alma (Soul)
 -------------------------------
 
@@ -157,7 +157,7 @@ web-video: "https://lucksys.github.io/canciones/el_silencio_del_alma/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 13- el Misterio de Sophia
 -------------------------
 
@@ -168,7 +168,7 @@ web-video: "https://lucksys.github.io/canciones/el_misterio_de_sophia/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 14- El Grito Rosacruz
 ----------------------
 
@@ -179,7 +179,7 @@ web-video: "https://lucksys.github.io/canciones/el_grito_rosacruz/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 15- El_Arquetipo_Sagrado_del_Orden
 ----------------------------------
 
@@ -190,7 +190,7 @@ web-video: "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/i
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 16- Camino de la Unidad
 -----------------------
 
@@ -201,7 +201,7 @@ web-video: "https://lucksys.github.io/canciones/camino_de_la_unidad/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 17- Gnosis Cristica (Himno)
 ---------------------------
 
@@ -212,7 +212,7 @@ web-video: "https://lucksys.github.io/canciones/gnosis_cristica/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 18- Gnosis Crística (Gnostic Rock)
 ----------------------------------
 
@@ -223,7 +223,7 @@ web-video: "https://lucksys.github.io/canciones/gnosis_cristica/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 19- 1717, Una Conspiración del Alma
 -----------------------------------
 
@@ -234,7 +234,7 @@ web-video: "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 20- Ante las Puertas de un Nuevo Ciclo de Despertares (Solsticio)
 -----------------------------------------------------------------
 
@@ -245,9 +245,9 @@ web-video: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_cic
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 21- Ante las Puertas de un Nuevo Ciclo de Despertares -EPYC- (Solsticio)
-------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada2.jpg"
 url-video: "https://drive.google.com/file/d/15zyo09Rbt2CYiXf6Ppqy8OP1En81MUVn/view"
@@ -257,9 +257,9 @@ web-cación: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_c
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 22- Ante las Puertas de un Nuevo Ciclo de Despertares -EPYC-PUBLIC (Solsticio)
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada3.jpg"
 url-video: "https://drive.google.com/file/d/10JvxVFax_g-4p36z_73aT9-fu75PvKT_/view"
@@ -269,7 +269,7 @@ web-cancion: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_c
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 23- Cinco Viajes y Una Estrella como Brujula
 --------------------------------------------
 
@@ -280,7 +280,7 @@ web-video: "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 24- Dharma y Karma
 -------------------
 
@@ -291,7 +291,7 @@ web-video: "https://lucksys.github.io/canciones/dharma_y_karma/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 25- Dharma y Karma-EPYC
 ------------------------
 
@@ -303,7 +303,7 @@ web-cancion "https://lucksys.github.io/canciones/dharma_y_karma/index2?t=a"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 26- Dharma y Karma-EPYC-PUBLIC
 ------------------------------
 
@@ -315,7 +315,7 @@ web-cancion "https://lucksys.github.io/canciones/dharma_y_karma/index3?t=a"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 27- El Camino del Grado Interior
 --------------------------------
 
@@ -326,7 +326,7 @@ web-video: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/ind
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 28- El_eco_de_un_secreto
 ------------------------
 
@@ -337,7 +337,7 @@ web-video: "https://lucksys.github.io/canciones/El_eco_de_un_secreto/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 29- el_viaje_alquimico_del_ser_a_la_iluminacion
 ------------------------------------------------
 
@@ -348,7 +348,7 @@ web-video: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 30- el_aguila_bicefala
 -----------------------
 
@@ -359,7 +359,7 @@ web-video: "https://lucksys.github.io/canciones/el_aguila_bicefala/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 31- Ne_Plus_Ultra
 ------------------
 
@@ -370,7 +370,7 @@ web-video: "https://lucksys.github.io/canciones/ne_plus_ultra/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 32- Ne_Plus_Ultra (EPIC)
 ------------------------
 
@@ -382,7 +382,7 @@ info: "Compósición en idioma: español neutro.
 N.A."
 
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 33- himno_de_la_luz_velada
 --------------------------
 
@@ -393,7 +393,7 @@ web-video: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 34- himno_de_la_luz_velada (Versión Epica)
 ------------------------------------------
 
@@ -404,7 +404,7 @@ web-video: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index2"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 35- XIII_maximas_y_un_grito_inciatico_por_el_alma
 -------------------------------------------------
 
@@ -415,7 +415,7 @@ web-video: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatic
 info: "Compósición en idioma: español neutro y Frases en Latín .
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 36- XIII_maximas_y_un_grito_inciatico_por_el_alma-EPYC-(LEO)
 ------------------------------------------------------------
 
@@ -427,7 +427,7 @@ web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciat
 info: "Compósición en idioma: español neutro y Frases en Latín .
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 37- la_trascendencia
 --------------------
 
@@ -438,7 +438,7 @@ web-video: "https://lucksys.github.io/canciones/la_trascendencia/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 38- la_elección_y_la_perseverancia
 ----------------------------------
 
@@ -449,7 +449,7 @@ web-video: "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 39- la_piedra_en_bruto_y_la_piedra_cubica
 -----------------------------------------
 
@@ -460,7 +460,7 @@ web-video: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_c
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 40- quedate_a_mi_Lado
 ---------------------
 
@@ -471,7 +471,7 @@ web-video: "https://lucksys.github.io/canciones/quedate_a_mi_Lado/index"
 info: "Compósición en idioma: ingles con subtituulos en español.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 41- escalera_caracol
 --------------------
 
@@ -482,7 +482,7 @@ web-video: "https://lucksys.github.io/canciones/escalera_caracol/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 42- resurreccion_de_la_palabra
 ------------------------------
 
@@ -493,7 +493,7 @@ web-video: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 43- resurreccion_de_la_palabra (acoustc-epyc))
 ----------------------------------------------
 
@@ -504,7 +504,7 @@ web-video: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 44- Throne_of_the_Pleroma
 -------------------------
 
@@ -515,7 +515,7 @@ web-video: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index1"
 info: "Compósición en idioma: ingles, con subtitulos en español
 Homenaje al Patriarca Enoc (Arcangel Metatron)."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 45- Throne_of_the_Pleroma (EPIC)
 ---------------------------------
 
@@ -526,7 +526,7 @@ web-video: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index2"
 info: "Compósición en idioma: ingles, con subtitulos en español Versión Épica
 Homenaje al Patriarca Enoc (Arcangel Metatron)
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 46- la_lámpara_interior
 -----------------------
 
@@ -537,7 +537,7 @@ web-video: "https://lucksys.github.io/canciones/la_lampara_interior1/index1"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 47- la_lámpara_interior_Acoustic
 --------------------------------
 
@@ -549,7 +549,7 @@ web-url-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index2
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 48- El_Camino_la_Virtud_y_el_Cayado
 ------------------------------------
 
@@ -560,7 +560,7 @@ web-video: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/
 info: "Compósición en idioma: Italiano, con subtitulos e español.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 49- El_Camino_la_Virtud_y_el_Cayado_Acoustic-Duet 
 -------------------------------------------------
 
@@ -571,7 +571,7 @@ web-video: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/
 info: "Compósición en idioma: Italiano, con subtitulos e español.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 50- El_Camino_la_Virtud_y_el_Cayado_Acoustic-Duet-Public 
 --------------------------------------------------------
 
@@ -582,7 +582,7 @@ web-video: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/
 info: "Compósición en idioma: Italiano, con subtitulos e español.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 51- Bajo_la_Ley_de_la_Luz
 --------------------------
 
@@ -593,7 +593,7 @@ web-video: "https://lucksys.github.io/canciones/bajo_la_Ley_de_la_luz/index"
 info: "Compósición en idioma: español neutro.
 N.A."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 52 No_te_duermas
 -----------------
 
@@ -608,7 +608,7 @@ Los Tres misterios alquímicos de Turandot son: El Fuego, La Sangre y el Corazó
 por el ser y el núcleo donde reside el sentimiento y el equilibrio espiritual. 
 Juntos forman la base de la transmutación interna."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 53- No_te_duermas_(EPYC)
 ------------------------
 
@@ -623,7 +623,7 @@ info:        "Compósición en idioma: Italiano Florentino.EPYC
               por el ser y el núcleo donde reside el sentimiento y el equilibrio espiritual. 
               Juntos forman la base de la transmutación interna."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 54- Nacida_bajo_el_signo_de_la_luz_(Español) 
 --------------------------------------------
 
@@ -634,7 +634,7 @@ web-video: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/i
 info: "Compósición en idioma: español neutro .
 Mi historia y herencia en el Arte Real."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 55- Nacida_bajo_el_signo_de_la_luz_(Italiano) 
 ---------------------------------------------
 
@@ -645,7 +645,7 @@ web-video: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/i
 info: "Compósición en idioma: Italiano Florentino.
 Mi historia y Herencia en el Arte Real."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 56- Signo_Palabra_y_Toque_(Italiano) 
 ------------------------------------
 
@@ -656,9 +656,9 @@ web-video: "https://lucksys.github.io/canciones/signo_palabra_y_toque/index1"
 info: "Compósición en idioma: Italiano Florentino.
 Historia de los simbolos en el Arte Real."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 57- el_camino_de_la_libertad_iguadad_y_la_fraternidad_(SON Salsa Cubana) 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 url-imagen: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/portada.jpg"
 url-video: "https://drive.google.com/file/d/1lQnVyW50imy4uP5L7P-A2MAsIG67oxL9/view"
@@ -667,7 +667,7 @@ web-video: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad
 info: "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba).
 El Camino de : La Libertad, La Igualdad Y La Fraternidad."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 58- alter-tango_(Tango) 
 ----------------------------------------------------------------
 
@@ -678,7 +678,7 @@ web-video: "https://lucksys.github.io/canciones/alter-tango/index"
 info: "Compósición en idioma: Español Neutro. Tango.
 Tango de la Alteridad"
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 59- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno) 
 ------------------------------------------------------------
 
@@ -689,7 +689,7 @@ web-video: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/index"
 info: "Compósición en idioma: Español Neutro. Cancion_para_el_responso
 y despedida al Oriente Eterno.". 
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 60- Herederos_de_Arte_Real(Rock-Classic) 
 ------------------------------------------------------------
 
@@ -699,7 +699,7 @@ url-cancion: "https://drive.google.com/file/d/1fwYGfZgb4nUXpqmv3YhVVuDD7qpvWqrQ/
 web-video: "https://lucksys.github.io/canciones/herederos_del_arte_real/index1"
 info: "Compósición en idioma: Español Neutro. Rock Classic del Arte Real."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 61- Herederos_de_Arte_Real(Rock-Metal-Strong) 
 -----------------------------------------------------------
 
@@ -710,7 +710,7 @@ web-video: "https://lucksys.github.io/canciones/herederos_del_arte_real/index2"
 info: "Composición en idioma: Español Neutro. Hard- Rock Metal Strong 
 del Arte Real."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 62- La Herramienta del Aprendiz (Gli attezu dell'apprendista) 
 ------------------------------------------------------------
 
@@ -720,7 +720,7 @@ url-cancion: "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/
 web-video: "https://lucksys.github.io/canciones/herramientas_del_aprendiz/index"
 info: "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz." 
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 63- Primer Muerte Alquímica (Primer Muerte Alquimica-Español) 
 ------------------------------------------------------------
 
@@ -731,7 +731,7 @@ web-video: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index1"
 info: "Composición en idioma: Español neutro. La primer Muerte Alquímica.
 Los tres viajes de la primera iniciación."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 64- Primer Muerte Alquímica (Prima Morte Alchemica) 
 ------------------------------------------------------------
 
@@ -742,7 +742,7 @@ web-video: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index2"
 info: "Composición en idioma: Italiano Flolentino. La primer Muerte Alquímica.
 Los tres viajes de la primera iniciación."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 65- Fuego_y_Forma
 ------------------------------------------------------------
 
@@ -753,7 +753,7 @@ web-video: "https://lucksys.github.io/canciones/fuego_y_forma/index"
 info: "Composición en idioma: Español Neutro. Fuego y Forma.
 Basada en la Profecia de Hermes Trismegisto y el Lamento de Asclepio."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 66- Reina de la Noche
 ------------------------------------------------------------
 
@@ -778,7 +778,7 @@ Basada en la Aria : Reina de La noche de Opera:la Flauta Magica de Wolfgang Amad
  soprano con una coloratura capaz de alcanzar notas muy agudas (como el F_6, 
  nota Fa en 6 octava) cantadas con precisión matemática."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 67- silencio_vacio_y_fuego (Italiano)
 ------------------------------------------------------------
 
@@ -790,7 +790,7 @@ info: "Composición en idioma: Italiano Florentino. Silencio_vacio_y_fuego.Basad
 en el camino del silencio Interior, Presencia extendida y trasitar el vacío hasta
 diluirse, disiparese en el océano del PLeroma para ser: LUZ, LOGOS Y VERBO ENCARNADO."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 68- silencio_vacio_y_fuego (Español )
 ------------------------------------------------------------
 
@@ -802,7 +802,7 @@ info: "Composición en idioma: Español Neutro. Silencio_vacio_y_fuego.Basada en
 el camino del silencio Interior, Presencia extendida y trasitar el vacío hasta
 diluirse, disiparese en el océano del PLeroma para ser: LUZ, LOGOS Y VERBO ENCARNADO."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 69- Proclama_con_fuerza_nuestra_alegría_(Español)
 -------------------------------------------------
 
@@ -813,7 +813,7 @@ web-video: "https://lucksys.github.io/canciones/proclama_con_fuerza_nuestra_aleg
 info: "Composición en idioma: Español Neutro. Himno Masóńico
 QUE NUESTRA ALEGRÍA SEA PROCLAMADA K.623 (1791) Wolfgang A. Mozart"
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 70- luz en lo Profundo-(EPYC)
 -------------------------------------------------
 
@@ -824,7 +824,7 @@ web-video: "https://lucksys.github.io/canciones/luz_en_lo_profundo/index"
 info: "Composición en idioma: Español Neutro. Adoración Gnostica
 NA"
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 71- 13_arrepentimietos_y_un_clamor_desesperado
 -------------------------------------------------
 
@@ -835,7 +835,7 @@ web-video: "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_d
 info: "Composición en idioma: Español Neutro. Adoración Gnóstica.
 Los 13 Arrepentimientos de: Pistis Sophia "
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 72- retorno_y_despertar_a_la_luz
 -------------------------------------------------
 
@@ -846,7 +846,7 @@ web-video: "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/ind
 info: "Composición en idioma: Español Neutro. Adoración Gnóstica.
 retorno_y_despertar_a_la_luz."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 73- Aún en Silencio (Still in Silence)
 -------------------------------------------------
 
@@ -869,7 +869,7 @@ El mensaje central es la resiliencia silenciosa: avanzar
  poco a poco, aceptar las propias heridas y encontrar
  fuerza en el interior para seguir viviendo."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 74- Cuando_cae_la_Noche_(When Night Falls)
 -------------------------------------------------
 
@@ -886,7 +886,7 @@ info: "Esa Composición nos cuenta la historia de dos almas separadas por la
        Hay una promesa de reencontrarse más allá de cualquier límite.
        El mensaje es que el amor verdadero nunca se pierde."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 75- La_Estrella_Helada_(The_Frozen_star)
 -------------------------------------------------
 
@@ -902,7 +902,7 @@ El tiempo se detiene… y todo queda al descubierto.
 Entre sombras y quietud, nace una nueva conciencia.
 La caída deja de ser final… y se vuelve inicio."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 76- No_fue_la_luz_lo_que_dolio 
 -------------------------------------------------
 
@@ -921,7 +921,7 @@ info: "Idioma español neutro, Esta composición narra una relidad muy sincera, 
       Las heridas se transforman en aprendizaje y evolución.
       Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 77- No_fue_la_luz_lo_que_dolio_(EPYC) 
 -------------------------------------------------
 
@@ -940,7 +940,7 @@ info: "Idioma español neutro, Esta composición narra una relidad muy sincera, 
       Las heridas se transforman en aprendizaje y evolución.
       Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 78- Gloria_Honor_y_Fraternidad.
 -------------------------------------------------
 
@@ -954,7 +954,7 @@ info: "Idioma español neutro, Los miembros de la Hermanadad atraviesan juntos t
   amor. Prometen protegerse bajo cualquier tormenta. La verdad se convierte en su mayor
   fuerza. La luz de su unión nunca se apagará."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 79- Despues_de_la_Tormenta
 -------------------------------------------------
 
@@ -972,7 +972,7 @@ info: "Idioma español neutro, La canción habla de atravesar el dolor y
        La luz aparece como señal de despertar y esperanza.
        El mensaje final es que el espíritu verdadero nunca se apaga."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 80- lealtad_redención_y_linaje (Historia de Ruth)
 -------------------------------------------------
 
@@ -986,7 +986,7 @@ info: "Idioma español neutro, Rut deja su tierra por amor. Y acompaña a
        se vuelve promesa. La lealtad abre un linaje nuevo. Su legado llega
        hasta David."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 81- 12_Columnas_(Del Tempĺo
 ----------------------------
 
@@ -1003,7 +1003,7 @@ info: "La composición narra la historia de un buscador que se adentra en
        El coro proclama el templo dentro del alma. El mensaje final es
        la plenitud a través de la disciplina y la búsqueda de la luz."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 82- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamnesis) (Italiano)
 -------------------------------------------------------------
 
@@ -1019,7 +1019,7 @@ info: "Composicion cntada en : Italiano Florentino .La composición nos cuenta l
        del ser. La Anamnesis es el acto de recordar. Recordar es volver a la 
        sustancia del Inefable. El final celebra la unión con la Fuente."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 83- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamnésis) (EPYC-LEO-Italiano)
 ----------------------------------------------------------------------
                             
@@ -1035,7 +1035,7 @@ info: "Composicion cantada en : Italiano Florentino .La composición nos cuenta 
        del ser. La Anamnesis es el acto de recordar. Recordar es volver a la 
        sustancia del Inefable. El final celebra la unión con la Fuente."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 84- Lady_of_My_Life (English-Country-Balada by:LEO)
 ----------------------------------------------------------------------
                             
@@ -1054,7 +1054,7 @@ info: "Composicion cantada en : Ingles. Un hombre ha esperado durante años enco
        La unión entre ambos representa un hogar sagrado y permanente.
        La canción expresa una devoción profunda hacia el amor de toda una vida."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 85- Ave_Maria-gNoStIKa (Schuber lyric- Cantante Italian:LEO)
 -------------------------------------------------------------
                             
@@ -1065,7 +1065,7 @@ web-video:   "https://lucksys.github.io/canciones/ave_maria/index"
 info:        "Composición cantada en: Italiano Florentino por el Barítono Spinto: Leo J Loyola.
               Banda de Rock Sinfónico Gnóstico."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 86- Latido_de_la:Patria-(EPYC - LEO)
 -------------------------------------
                             
@@ -1078,7 +1078,7 @@ info:        "Composición cantada en: Español neutro por el Barítono Spinto: 
               Fraternidad. !!vMi Padria Eres Tu !! 
               Banda de Rock Sinfónico Gnóstico."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 87- Pasaje_a_La_Luz -(Passaggio alla Luce- EPYC - LEO)
 ------------------------------------------------------
                             
@@ -1095,7 +1095,7 @@ info: "Composición cantada en: Italiano Florentino por el Barítono Spinto : Le
        conocimiento, pureza y sentido. El estribillo afirma la victoria del despertar.
        El final celebra el nacimiento de una conciencia renovada."
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 88- Havel-Havalim-hakol-hável -(DUO)
 ------------------------------------------------------
                             
@@ -1106,7 +1106,7 @@ web-video: "https://lucksys.github.io/canciones/havel-havalim/index"
 info: "Composición cantada en: Español . Ultimas palabras de rey Salomon : Vacuidad 
        de Vacuidades, humo de humos. Todo es Vacuidad"
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 89- bajo_sombreros_y_paraguas_masonicos -(DUO)
 ------------------------------------------------------
                             
@@ -1125,7 +1125,7 @@ info: "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonicos
        La tormenta no era el enemigo, sino el olvido de lo esencial.
        Más allá del humo y el cambio, la Luz permanece"
 
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 90- bajo_sombreros_y_paraguas_masonicos -(EPYC)
 ------------------------------------------------------
                             
@@ -1145,7 +1145,7 @@ info: "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonicos
        La tormenta no era el enemigo, sino el olvido de lo esencial.
        Más allá del humo y el cambio, la Luz permanece"
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 91- Retorno al recuerdo -(Ritorna al Ricordo).
 ----------------------------------------------
                             
@@ -1166,7 +1166,7 @@ info: "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimi
        La unión alquímica (matrimono Alquímico) transforma la herida en 
        conocimiento. El regreso final no es a un lugar, sino al origen."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 92- Retorno al recuerdo EPYC -(Ritorna al Ricordo-EPYC-LEO).
 ------------------------------------------------------------
                             
@@ -1187,7 +1187,7 @@ info: "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimi
        La unión alquímica (matrimono Alquímico) transforma la herida en 
        conocimiento. El regreso final no es a un lugar, sino al origen."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 93- sabiduria,_fuerza_y_belleza(Sappienza, Forza e Bellezza)
 ------------------------------------------------------------
                             
@@ -1205,7 +1205,7 @@ info: "Composición cantada en: Itaiano Florentino.La letra cuenta sobre el cami
        El amor y la memoria sostienen el viaje.
        Al final, las tres luces se funden en una sola eternidad."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 94- El_UNO,_Lo_Diverso-(L'UNO,il diverso)
 -----------------------------------------
                             
@@ -1221,7 +1221,7 @@ info: "Cantada en Italiano Florentino. La canción habla de la unidad escondida 
        la frontera. El dueto expresa despertar y retorno. El final celebra la 
        unión con el UNO."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 95- El_UNO,_Lo_Diverso-EPYC-(L'UNO,il diverso-EPYC-LEO)
 -------------------------------------------------------
                             
@@ -1237,7 +1237,7 @@ info: "Cantada en Italiano Florentino. La canción habla de la unidad escondida 
        la frontera. El dueto expresa despertar y retorno. El final celebra la 
        unión con el UNO."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 96- Reggae_de_la_Eleccion_y_la_Perserverancia
 ---------------------------------------------
                             
@@ -1254,7 +1254,7 @@ info: "Una obra sobre el poder de elegir el propio sendero.
        Cada intento reafirma el compromiso de no abandonar.
        El verdadero Templo se construye dentro del alma."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 97- Reggae_de_la_Eleccion_y_la_Perserverancia-EPYC)
 ---------------------------------------------------
                             
@@ -1271,7 +1271,7 @@ info: "Una obra sobre el poder de elegir el propio sendero.
        Cada intento reafirma el compromiso de no abandonar.
        El verdadero Templo se construye dentro del alma."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 98- Así_se_Creó_El_Mundo-(Sic_Mundus_Creatus_Est)
 -------------------------------------------------
                             
@@ -1289,7 +1289,7 @@ info: "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
        La Luz regresa al origen expandida por la experiencia del amor y la 
        conciencia."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 99- Así_se_Creó_El_Mundo-EPYC-(Sic_Mundus_Creatus_Est)
 ------------------------------------------------------
                             
@@ -1307,9 +1307,9 @@ info: "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
        La Luz regresa al origen expandida por la experiencia del amor y la 
        conciencia."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 100- Tracendencia Cosmica: Siglo XXI-(Cosmic Transcendence:Twenty-First Century) 
--------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada1.jpg"
 url-video: "https://drive.google.com/file/d/1LKo_FSN7Gdt9L38AhhgUVmDFlPHRJ_gY/view"
@@ -1326,9 +1326,9 @@ info: "Antes de que existiera el tiempo, una vibración infinita dio origen a
        habita en cada ser. Todo forma parte de una única conciencia universal
        que se contempla a sí misma en el eterno presente."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 101- Tracendencia Cosmica: Siglo XXI-EPYC-(Cosmic Transcendence:Twenty-First Century-EPYC) 
--------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1PWTN8PLg_Rp2dMNDgR_68AI1eAbK0CLo/view"
@@ -1345,9 +1345,9 @@ info: "Antes de que existiera el tiempo, una vibración infinita dio origen a
        habita en cada ser. Todo forma parte de una única conciencia universal
        que se contempla a sí misma en el eterno presente."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 102- Tracendencia Cosmica: Siglo XXI-PUBLIC-(Cosmic Transcendence:Twenty-First Century-PUBLIC) 
-----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
                             
 url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1bkpugMPsybd--vzo8xSakLq_GXz4cV4m/view"
@@ -1365,7 +1365,7 @@ info: "Composición en Ingles, Antes de que existiera el tiempo, una vibración
        habita en cada ser. Todo forma parte de una única conciencia universal
        que se contempla a sí misma en el eterno presente."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 103- L'Eco_dell'Invisibile (El Eco de lo Invisivible)
 -----------------------------------------------------
                             
@@ -1384,7 +1384,7 @@ info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        Dos presencias se atraen por la sincronicidad del misterio.
        Y en ese abrazo primordial nace una sola llama eterna."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 104- L'Eco_dell'Invisibile -PUBLIC- (El Eco de lo Invisivible)
 ---------------------------------------------------------------
                             
@@ -1403,7 +1403,7 @@ info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        Dos presencias se atraen por la sincronicidad del misterio.
        Y en ese abrazo primordial nace una sola llama eterna."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 105- Esclavos de un sol ciego 
 -----------------------------
                
@@ -1424,7 +1424,7 @@ info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que
        permite el florecimiento de una conciencia renovada. Finalmente, el corazón
        recuerda su herencia divina y encuentra el sendero hacia la verdad."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 106- Esclavos de un sol ciego (Public)
 --------------------------------------
                
@@ -1445,7 +1445,7 @@ info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que
        permite el florecimiento de una conciencia renovada. Finalmente, el corazón
        recuerda su herencia divina y encuentra el sendero hacia la verdad."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 107- Amore, Alterità e Coerenza (Presenza estesa) - Classic
 ------------------------------------------------------------
                
@@ -1463,7 +1463,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
        recuerda el Logos oculto. El encuentro con el otro revela la Unidad. La canción 
        vuelve el corazón a su casa."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 108- Amore, Alterità e Coerenza (Presenza estesa) - Classic- Public
 -------------------------------------------------------------------
                
@@ -1481,7 +1481,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
        recuerda el Logos oculto. El encuentro con el otro revela la Unidad. La canción 
        vuelve el corazón a su casa."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 109- Amore, Alterità e Coerenza (Presenza estesa) - EPYC
 --------------------------------------------------------
                
@@ -1499,7 +1499,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
        recuerda el Logos oculto. El encuentro con el otro revela la Unidad. La canción 
        vuelve el corazón a su casa."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 110- Amore, Alterità e Coerenza (Presenza estesa) - EPYC - Public
 -----------------------------------------------------------------
                
@@ -1517,7 +1517,7 @@ info: "Composición en : Italiano Florentino, Composición Musical en Italiano F
        recuerda el Logos oculto. El encuentro con el otro revela la Unidad. La canción 
        vuelve el corazón a su casa."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 111- Luce, Legge e Fratellanza (Le Costituzioni della Luce)
 -----------------------------------------------------------
                
@@ -1539,9 +1539,9 @@ info: "Composición en : Italiano Florentino, La composición celebra la efemér
        Finalmente, invita a construir un puente de armonía entre razón, justicia 
        y fraternidad."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 112- Llamado Masónico de Antigua Estirpe (Call of the Ancient Masonic Lineage)
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
                
 url-imagen: "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_estirpe/portada.jpg"
 url-video: "https://drive.google.com/file/d/1aewcS3zpnWzlZrAwWvQPA-CvgzMTBJVT/view"
@@ -1559,7 +1559,7 @@ info: "Composición en : Ingles , La composición Soñé con un llamado ancestra
        La antigua llamada permanece viva, conduciendo el corazón más allá del velo del
        tiempo."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 113- La Llama Doble
 -------------------
             
@@ -1580,7 +1580,7 @@ info: "Composicion en español neutro , Dos llamas se buscan a través del
        Un viaje gnóstico y alquímico donde el amor despierta la memoria
        eterna."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 114- La Llama Doble - Public
 ----------------------------
             
@@ -1601,7 +1601,7 @@ info: "Composicion en español neutro , Dos llamas se buscan a través del
        Un viaje gnóstico y alquímico donde el amor despierta la memoria
        eterna."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 115- La Taverna del Orden 
 --------------------------
             
@@ -1621,7 +1621,7 @@ info: "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los Masones
        Bajo la mirada de la justicia, cada jugada buscó el equilibrio.
        Y desde aquella noche, el juego se convirtió en una eternidad en movimiento"
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 116- La Taverna del Orden (Public)
 ----------------------------------
             
@@ -1642,7 +1642,7 @@ info:        "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los 
               Y desde aquella noche, el juego se convirtió en una eternidad en 
               movimiento"
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 117- No Camino Sola 
 --------------------
             
@@ -1658,7 +1658,7 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
               femenina sigue de pie y no se rinde. La promesa eterna la sostiene 
               hasta el final."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 118- No Camino Sola Public
 --------------------------
             
@@ -1674,7 +1674,7 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
               femenina sigue de pie y no se rinde. La promesa eterna la sostiene 
               hasta el final."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 119- El Laberinto del Reencuentro 
 ---------------------------------
             
@@ -1696,7 +1696,7 @@ info:        "Español neutro,balada sinfónica que explora el viaje del alma a 
               A través de un emotivo diálogo entre voces, la canción culmina afirmando que la llama 
               interior permanece cuando todo lo demás desaparece."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 120- El Laberinto del Reencuentro - Public -
 --------------------------------------------
             
@@ -1718,7 +1718,7 @@ info:        "Español neutro,balada sinfónica que explora el viaje del alma a 
               A través de un emotivo diálogo entre voces, la canción culmina afirmando que la llama 
               interior permanece cuando todo lo demás desapare."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 121- La Palabra Olvidada -
 --------------------------
             
@@ -1738,7 +1738,7 @@ info:        "Un antiguo herrero del bronce deja su huella entre el fuego, el ma
               emprende su propio camino podrá descubrir el verdadero sentido de la 
               palabra olvidada."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 122- Del Silencio al Vacio -
 ----------------------------
             
@@ -1760,7 +1760,7 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
               eterna. Del Silencio al Vacío nace la llama que conduce al Uno y a la
               Eternidad. "
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 123- Del Silencio al Vacio -Public-
 -----------------------------------
             
@@ -1782,7 +1782,7 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
               eterna. Del Silencio al Vacío nace la llama que conduce al Uno y a la
               Eternidad. "
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 124- Sacred Shadow - (Sombra Sagrada)
 -------------------------------------
             
@@ -1804,7 +1804,7 @@ info:        "Esta compsicion incorpora de forma simbólica, los principios de :
               Mientras que el Alma es Sagrada la chispa del Espiritu es Divina.
               Inspirada en el Libro de Isaias 45:7."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 125- You are my Home - (Tu eres mi Hogar)
 -----------------------------------------
             
@@ -1827,7 +1827,7 @@ info:        "Composición en inglés. Un alma atraviesa un largo camino de bús
               Al final del viaje, el buscador reconoce que su verdadero hogar siempre 
               estuvo en la Luz divina."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 126- You are my Home EPYC- (Tu eres mi Hogar-epico)
 ---------------------------------------------------
             
@@ -1850,7 +1850,7 @@ info:        "Composición en inglés. Un alma atraviesa un largo camino de bús
               Al final del viaje, el buscador reconoce que su verdadero hogar siempre 
               estuvo en la Luz divina."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 127- Catarsis Transmutacion Iluminacion
 ---------------------------------------
             
@@ -1870,7 +1870,7 @@ info:        "Composición en Español neutro .La canción narra un viaje interi
               Finalmente, la transmutación culmina en una iluminación donde permanece la
               Luz eterna."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 128- Cuerpo de Gloria, Magnum Opus
 ----------------------------------
             
@@ -1890,7 +1890,7 @@ info:        "Composición en Español neutro. La composicion narra La canción 
               Cuerpo de Gloria, Magnum Opus; celebra la culminación de la Gran Obra como un
               himno de esperanza, renacimiento y realización espiritual."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 129- Cuerpo de Gloria, Magnum Opus - EPYC -
 -------------------------------------------
             
@@ -1910,7 +1910,7 @@ info:        "Composición en Español neutro. La composicion narra La canción 
               Cuerpo de Gloria, Magnum Opus; celebra la culminación de la Gran Obra como un
               himno de esperanza, renacimiento y realización espiritual."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 130- Hieros Gamos (Matrimonio Sagrado)
 --------------------------------------
             
@@ -1931,7 +1931,7 @@ info:        "Composición en italiano Florentino. Esta balada mística narra el
               dualidad y olvido. Finalmente, el alma transmutada regresa en perfecta armonía
               hacia la plenitud eterna del Pleroma."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 131- Alquimia - Vanguardia - Liberacion
 ----------------------------------------
             
@@ -1955,7 +1955,7 @@ info:        "Composición en Español Neutro. balada muy lenta es un diálogo �
 ​              Alquimia, vanguardia y liberación se funden en el eco de un alma que 
               despierta."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 131- El Arco y la Lyra
 -----------------------
             
@@ -1976,9 +1976,9 @@ info:        "Composición en Español Neutro. balada, basada en la Metafora de 
               sonido ni flecha; si se tensa en exceso, se rompe. 
               La vida es esa cuerda tensada en el punto justo."
 
------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 132- Cuando nuestras Luces se encontraron - DUO - (When Your Light Found Mine)
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1Hfic3_i5HipVB8XBoOV0GH9OdW-RHm5E/view"
@@ -1998,9 +1998,9 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
               final majestuoso. Es una balada cinematográfica sobre el amor,el reencuentro,
               la luz y el regreso al origen."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 133- Cuando nuestras Luces se encontraron - SOLO - (When Your Light Found Mine)
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1qI8K7-4bDNz2-w0BuZxgaB7zHik9iYJB/view"
@@ -2020,7 +2020,7 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
               final majestuoso. Es una balada cinematográfica sobre el amor,el reencuentro,
               la luz y el regreso al origen."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 134- Más alla del Nombre - (Beyond the Name)
 --------------------------------------------
             
@@ -2042,7 +2042,7 @@ info:        "Composicion musical en Ingles, En el silencio del corazón nace un
               Más allá de todo nombre, permanecen para siempre como dos luces convertidas 
               en una sola."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 135- Más alla del Nombre EPICO -(Beyond the Name - EPYC -)
 ----------------------------------------------------------
             
@@ -2064,7 +2064,7 @@ info:        "Composicion musical en Ingles, En el silencio del corazón nace un
               Más allá de todo nombre, permanecen para siempre como dos luces convertidas 
               en una sola."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 136- Canto de Ecos Ancestrales - (Ancient Shadow Sing) 
 ------------------------------------------------------
             
@@ -2083,7 +2083,7 @@ info:        "Composicion en idioma Ingles. Sombras ancestrales despiertan recue
               La frontera entre el recuerdo y la intuición se desvanece.
               esas voces del pasado siguen cantando en el presente."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 137- Las Chispas de Saint-Germain -(The sparks at Saint-Germain) 
 -----------------------------------------------------------------
             
@@ -2104,5 +2104,5 @@ info:        "Composiónn en ingles, cuenta a travez de una emotiva balada ochen
               celebra el nacimiento de una tradición mística y caballeresca que luego
               se expandiría por todo el mundo."
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 
