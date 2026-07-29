@@ -2105,7 +2105,7 @@ info:        "Composiónn en ingles, cuenta a travez de una emotiva balada ochen
               se expandiría por todo el mundo."
 
 --------------------------------------------------------------------------------------------
-138- La Ilusio y La Luz-(L'ingano e la Luce) 
+138- La Ilusión y La Luz-(L'ingano e la Luce) 
 --------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/la_ilusion_y_la_Luz/portada1.jpg"
