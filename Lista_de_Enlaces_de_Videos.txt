@@ -1998,7 +1998,7 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
               final majestuoso. Es una balada cinematográfica sobre el amor,el reencuentro,
               la luz y el regreso al origen."
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------
 133- Cuando nuestras Luces se encontraron - SOLO - (When Your Light Found Mine)
 ------------------------------------------------------------------------------
             
@@ -2020,7 +2020,7 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
               final majestuoso. Es una balada cinematográfica sobre el amor,el reencuentro,
               la luz y el regreso al origen."
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------
 134- Más alla del Nombre - (Beyond the Name)
 --------------------------------------------
             
@@ -2042,7 +2042,7 @@ info:        "Composicion musical en Ingles, En el silencio del corazón nace un
               Más allá de todo nombre, permanecen para siempre como dos luces convertidas 
               en una sola."
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------
 135- Más alla del Nombre EPICO -(Beyond the Name - EPYC -)
 ----------------------------------------------------------
             
@@ -2064,7 +2064,7 @@ info:        "Composicion musical en Ingles, En el silencio del corazón nace un
               Más allá de todo nombre, permanecen para siempre como dos luces convertidas 
               en una sola."
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------
 136- Canto de Ecos Ancestrales - (Ancient Shadow Sing) 
 ------------------------------------------------------
             
@@ -2083,7 +2083,7 @@ info:        "Composicion en idioma Ingles. Sombras ancestrales despiertan recue
               La frontera entre el recuerdo y la intuición se desvanece.
               esas voces del pasado siguen cantando en el presente."
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------
 137- Las Chispas de Saint-Germain -(The sparks at Saint-Germain) 
 -----------------------------------------------------------------
             
@@ -2104,5 +2104,5 @@ info:        "Composiónn en ingles, cuenta a travez de una emotiva balada ochen
               celebra el nacimiento de una tradición mística y caballeresca que luego
               se expandiría por todo el mundo."
 
------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
