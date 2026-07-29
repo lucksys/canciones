@@ -2125,7 +2125,7 @@ info:        "Composiónn en Italiano Napolitano Un velo de sombra y olvido nos 
               y la piedra. Recordamos juntos que no nacimos para morir en esta tierra
               ni para ser cautivos del tiempo.
               Nuestras almas se unen para regresar victoriosas a la plenitud eterna 
-              del Pleroma.."
+              del Pleroma."
 
 --------------------------------------------------------------------------------------------
 
