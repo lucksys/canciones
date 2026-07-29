@@ -2088,7 +2088,7 @@ info:        "Composicion en idioma Ingles. Sombras ancestrales despiertan recue
 -----------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/the_sparks_at_saint-germain/portada1.jpg"
-url-video:   ""
+url-video:   "https://drive.google.com/file/d/1__MAQhdNXwSXYVynNnJzOYNoCGVB7h0v/view"
 url-cancion: "https://drive.google.com/file/d/1XN8kdjeSM_udrIdZuZvZbAFrHsmbrOR-/view"
 web-video:   "https://lucksys.github.io/canciones/the_sparks_at_saint-germain/index1?t=p"
 web-audio:   "https://lucksys.github.io/canciones/the_sparks_at_saint-germain/index1?t=a"
@@ -2102,7 +2102,8 @@ info:        "Composiónn en ingles, cuenta a travez de una emotiva balada ochen
               La voz principal de la mezzo-soprano guía la narrativa desde la 
               introspección inicial hasta la explosión del coro. En conjunto, el tema 
               celebra el nacimiento de una tradición mística y caballeresca que luego
-              se expandiría por todo el mundo"
+              se expandiría por todo el mundo."
 
 -----------------------------------------------------------------------
+
 
