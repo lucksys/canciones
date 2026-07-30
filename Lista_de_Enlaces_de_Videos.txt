@@ -2106,7 +2106,7 @@ info:        "Composiónn en ingles, cuenta a travez de una emotiva balada ochen
 
 --------------------------------------------------------------------------------------------
 138- La Ilusión y La Luz-(L'ingano e la Luce) 
---------------------------------------------
+---------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/la_ilusion_y_la_Luz/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1yufjIN5TcNDFO7yTDzUMU42-_vJAkicj/view"
