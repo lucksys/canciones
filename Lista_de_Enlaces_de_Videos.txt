@@ -2128,4 +2128,26 @@ info:        "Composiónn en Italiano Napolitano Un velo de sombra y olvido nos 
               del Pleroma."
 
 --------------------------------------------------------------------------------------------
+139- El_Velo_de_la_Dyada - (La Ilusion de los Opuestos )
+--------------------------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/el_velo_de_la_dyada/portada1.jpg"
+url-video:   "https://drive.google.com/file/d/1V5e4OTeLhX0TK9vVBlt8CtkRKb2HWPSh/view"
+url-cancion: "https://drive.google.com/file/d/1F8NWta2zl_Qd1TFeowo7PmIF3CyJ1Wp1/view"
+web-video:   "https://lucksys.github.io/canciones/el_velo_de_la_dyada/index1?t=p"
+web-audio:   "https://lucksys.github.io/canciones/el_velo_de_la_dyada/index1?t=a"
+info:        "Composión en españolneutro .La mente levanta un velo que aparenta 
+              dividir la realidad en opuestos irreconciliables. La luz y la sombra 
+              revelan ser reflejos de una misma fuente eterna.
+              El alma despierta al comprender que toda separación es una ilusión 
+              pasajera.
+              El fuego y el agua regresan a la unidad de donde siempre brotaron.
+              La conciencia atraviesa el velo de la dyada y reconoce la Verdad 
+              indivisible.
+              Toda dualidad se disuelve en la presencia viva del Uno.
+              El corazón deja de juzgar cuando descubre la raíz común de toda 
+              existencia. La canción celebra el retorno de la conciencia a la 
+              Unidad primordial del Ser."
+
+--------------------------------------------------------------------------------------------
 
