@@ -2130,9 +2130,9 @@ info:        "Composiónn en Italiano Napolitano Un velo de sombra y olvido nos 
 --------------------------------------------------------------------------------------------
 139- El_Velo_de_la_Dyada - (La Ilusion de los Opuestos )
 --------------------------------------------------------
-            
+
 url-imagen:  "https://lucksys.github.io/canciones/el_velo_de_la_dyada/portada1.jpg"
-url-video:   "https://drive.google.com/file/d/1V5e4OTeLhX0TK9vVBlt8CtkRKb2HWPSh/view"
+url-video:   "https://drive.google.com/file/d/1-xAPXF_C43OkzmBDyhV0qgUENrmkLgCc/view"
 url-cancion: "https://drive.google.com/file/d/1F8NWta2zl_Qd1TFeowo7PmIF3CyJ1Wp1/view"
 web-video:   "https://lucksys.github.io/canciones/el_velo_de_la_dyada/index1?t=p"
 web-audio:   "https://lucksys.github.io/canciones/el_velo_de_la_dyada/index1?t=a"
