@@ -2150,4 +2150,25 @@ info:        "Composión en españolneutro .La mente levanta un velo que aparent
               Unidad primordial del Ser."
 
 --------------------------------------------------------------------------------------------
+140- Yo Soy ... el que Soy
+--------------------------
 
+url-imagen:  "https://lucksys.github.io/canciones/yo_soy/portada1.jpg"
+url-video:   "https://drive.google.com/file/d/1KzvcOUenYxxzDekG_vEQLiv3xvGoyznq/view"
+url-cancion: "https://drive.google.com/file/d/1KTtUHEUMoz8IAfNlFrhrjMpCB_2seutW/view"
+web-video:   "https://lucksys.github.io/canciones/yo_soy/index1?t=p"
+web-audio:   "https://lucksys.github.io/canciones/yo_soy/index1?t=a"
+info:        "Composión en español neutro .Sofía engendra un velo que aprisiona 
+              la chispa divina en la materia.
+              El mundo moderno se convierte en un laberinto de ruido, afán y 
+              olvido.
+              La conciencia comienza a despertar al volver la mirada hacia el 
+              interior.
+              El “Yo Soy” no es un nombre, sino un estado profundo del ser.
+              Recordar la propia esencia exige consagrar cada acción.
+              El servicio al prójimo rompe el cristal del ego y abre el sendero.
+              El alma madura, eleva su frecuencia y recupera su memoria 
+              espiritual.
+              Finalmente, el ser reconoce en el amor eterno su naturaleza divina."
+
+--------------------------------------------------------------------------------------------
