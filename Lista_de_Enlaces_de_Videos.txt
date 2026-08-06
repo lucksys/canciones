@@ -2172,3 +2172,27 @@ info:        "Composión en español neutro .Sofía engendra un velo que aprisio
               Finalmente, el ser reconoce en el amor eterno su naturaleza divina."
 
 --------------------------------------------------------------------------------------------
+141- Recuerda tu Luz interior - (Remember the Light Within)
+-----------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/recuerda_tu_Luz_interior/portada1.jpg"
+url-video:   "https://drive.google.com/file/d/12THOloS-bWWqucgMyiZTKn0BXZqUOFwi/view"
+url-cancion: "https://drive.google.com/file/d/1NWJZ_vGOkIkga14-rx2QFiHst-wdntoA/view"
+web-video:   "https://lucksys.github.io/canciones/recuerda_tu_Luz_interior/index1?t=p"
+web-audio:   "https://lucksys.github.io/canciones/recuerda_tu_Luz_interior/index1?t=a"
+info:        "Composión en español neutro .balada iniciática sobre el despertar de la
+              conciencia.
+              La composición presenta al alma como una buscadora que atraviesa el velo 
+              del olvido.
+              La Luz Interior responde como una presencia eterna y silenciosa.
+              El Templo simboliza la obra espiritual construida en el corazón.
+              La Gnosis aparece como memoria del origen y reconocimiento de la chispa
+              divina.
+              El Hermetismo se expresa en la unidad entre lo alto, lo bajo y el fuego
+              interior.
+              La simbología masónica surge mediante la piedra, el compás, la 
+              fraternidad y el servicio.
+              Ambas mezzosopranos culminan unidas, proclamando que la Luz siempre 
+              habitó dentro."
+
+--------------------------------------------------------------------------------------------
