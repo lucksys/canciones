@@ -2200,7 +2200,7 @@ info:        "Composión en español neutro .balada iniciática sobre el despert
 -----------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/portada1.jpg"
-url-video:   ""
+url-video:   "https://drive.google.com/file/d/12Fy7mWAV6xpqOlwjexxYbptl-tGU6nMM/view"
 url-cancion: "https://drive.google.com/file/d/1_d4NB8PNdaIPXah_Ktk1_fV9adjCaZJT/view"
 web-video:   "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/index1?t=p"
 web-audio:   "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/index1?t=a"
