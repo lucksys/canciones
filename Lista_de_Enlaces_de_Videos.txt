@@ -2196,4 +2196,23 @@ info:        "Composión en español neutro .balada iniciática sobre el despert
               habitó dentro."
 
 --------------------------------------------------------------------------------------------
+142- La Voz del Mandil Blanco
+-----------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/portada1.jpg"
+url-video:   ""
+url-cancion: "https://drive.google.com/file/d/1_d4NB8PNdaIPXah_Ktk1_fV9adjCaZJT/view"
+web-video:   "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/index1?t=p"
+web-audio:   "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/index1?t=a"
+info:        "Composión en español neutro .balada iniciática 
+              Una antigua voz despierta desde el silencio del taller.
+              Cada símbolo es una invitación a mirar hacia el interior.
+              El verdadero camino comienza donde termina el orgullo.
+              La sabiduría florece en las manos que aprenden a servir.
+              La música entrelaza fuerza, misterio y contemplación.
+              La tradición primordial susurra entre cada verso y cada nota.
+              Déjate llevar por este viaje de transformación y memoria.
+              Bienvenido/a *La Voz del Mandil Blanco* ."
+
+--------------------------------------------------------------------------------------------
 
