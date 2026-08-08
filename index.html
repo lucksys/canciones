@@ -87,7 +87,6 @@ line-height:1.2;
 word-break:break-word
 }
 
-/* Primera línea de botones */
 .button-row-top{
 display:grid;
 grid-template-columns:1.25fr 1.25fr .6fr;
@@ -96,7 +95,6 @@ padding:0 12px 8px;
 width:100%
 }
 
-/* Segunda línea */
 .button-row-bottom{
 padding:0 12px 10px;
 width:100%
@@ -129,7 +127,6 @@ background:#000;
 cursor:pointer
 }
 
-/* Aviso de copia en escritorio */
 .copy-notification{
 position:fixed;
 left:50%;
@@ -252,14 +249,12 @@ document.getElementById("infoClose").onclick=()=>{
 infoOverlay.classList.remove("active")
 };
 
-/* Escritorio sin Android/iOS ni pantalla táctil */
 function esEscritorio(){
 return !/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
 && navigator.maxTouchPoints===0
 && !("ontouchstart" in window);
 }
 
-/* Aviso de copia */
 let notificationTimer;
 
 function mostrarAviso(tipo,titulo){
@@ -267,8 +262,7 @@ function mostrarAviso(tipo,titulo){
 if(!esEscritorio())return;
 
 copyNotification.innerHTML=
-tipo+": &quot;"+titulo+
-&quot;.&quot;<br>Copiado al Portapapeles.;
+tipo+": &quot;"+titulo+"&quot;.<br>Copiado al Portapapeles.";
 
 copyNotification.classList.add("active");
 
@@ -313,7 +307,7 @@ if(/^url-cancion/i.test(l))cancion=getValue(l);
 if(/^web-video/i.test(l))webVideo=getValue(l);
 if(/^web-audio/i.test(l))webAudio=getValue(l);
 
-if(/^info/i.test(l)){
+if(/^info/i.test(l){
 
 info.push(
 l.replace(/^info\s*:/i,"")
@@ -420,7 +414,6 @@ buttonRowTop.className="button-row-top";
 const buttonRowBottom=document.createElement("div");
 buttonRowBottom.className="button-row-bottom";
 
-/* Copiar URL-Video: web-video: */
 const copyVideoBtn=document.createElement("button");
 copyVideoBtn.className="copy-btn";
 copyVideoBtn.textContent="Copiar URL-Video";
@@ -443,7 +436,6 @@ d.titulo
 
 };
 
-/* Copiar URL-Cancion: web-audio: */
 const copySongBtn=document.createElement("button");
 copySongBtn.className="copy-btn";
 copySongBtn.textContent="Copiar URL-Cancion";
@@ -466,7 +458,6 @@ d.titulo
 
 };
 
-/* Info */
 const infoBtn=document.createElement("button");
 infoBtn.className="info-btn";
 infoBtn.textContent="info";
@@ -479,7 +470,6 @@ abrirInfo(d.titulo,d.info)
 
 };
 
-/* Solo Cancion */
 const btnCancion=document.createElement("button");
 btnCancion.className="song-btn";
 btnCancion.textContent="Solo Cancion";
@@ -492,14 +482,12 @@ window.open(d.cancion,"_blank")
 
 };
 
-/* Orden */
 buttonRowTop.appendChild(copyVideoBtn);
 buttonRowTop.appendChild(copySongBtn);
 buttonRowTop.appendChild(infoBtn);
 
 buttonRowBottom.appendChild(btnCancion);
 
-/* Imagen */
 const img=document.createElement("img");
 
 img.src=d.imagen;
@@ -513,7 +501,6 @@ img.onclick=()=>{
 window.open(d.video,"_blank")
 };
 
-/* Tarjeta */
 card.appendChild(titulo);
 card.appendChild(buttonRowTop);
 card.appendChild(buttonRowBottom);
@@ -543,4 +530,3 @@ cargar();
 
 </body>
 </html>
-
