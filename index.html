@@ -277,6 +277,19 @@ copyNotification.classList.remove("active")
 },2500);
 }
 
+/* Aviso de ausencia de archivo MP3 */
+function mostrarAvisoMP3(){
+
+copyNotification.textContent="✓ No tiene archivo MP3 de audio.";
+copyNotification.classList.add("active");
+
+clearTimeout(notificationTimer);
+
+notificationTimer=setTimeout(()=>{
+copyNotification.classList.remove("active")
+},2500);
+}
+
 function abrirInfo(titulo,texto){
 infoTitulo.textContent=titulo;
 infoTexto.textContent=texto;
@@ -291,7 +304,7 @@ return m?m[1].trim():null
 function parseBloque(lineas){
 
 let indice=null,titulo="",imagen=null,video=null,
-cancion=null,webVideo=null,webAudio=null,info=[];
+cancion=null,webVideo=null,webCancion=null,info=[];
 
 for(let i=0;i<lineas.length;i++){
 
@@ -309,7 +322,7 @@ if(/^url-imagen/i.test(l))imagen=getValue(l);
 if(/^url-video/i.test(l))video=getValue(l);
 if(/^url-cancion/i.test(l))cancion=getValue(l);
 if(/^web-video/i.test(l))webVideo=getValue(l);
-if(/^web-audio/i.test(l))webAudio=getValue(l);
+if(/^web-cancion/i.test(l))webCancion=getValue(l);
 
 if(/^info/i.test(l)){
 
@@ -342,7 +355,7 @@ imagen,
 video,
 cancion,
 webVideo,
-webAudio,
+webCancion,
 info:info.join("\n").replace(/-{3,}/g,"").trim()
 }
 }
@@ -450,15 +463,19 @@ copySongBtn.onclick=async(e)=>{
 
 e.stopPropagation();
 
-if(d.webAudio){
+if(d.webCancion){
 
-const ok=await copiarURL(d.webAudio);
+const ok=await copiarURL(d.webCancion);
 
 if(ok)
 mostrarAviso(
 "URL-Canción : \""+d.titulo+"\".\n"+
 "Copiado al Portapapeles"
 );
+
+}else{
+
+mostrarAvisoMP3();
 
 }
 
@@ -541,3 +558,4 @@ cargar();
 
 </body>
 </html>
+
