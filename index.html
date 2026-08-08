@@ -80,10 +80,10 @@ h1{
 }
 
 .button-row{
-  display:flex;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1.35fr;
   gap:8px;
   padding:0 12px 10px 12px;
-  flex-wrap:nowrap;
 }
 
 .copy-btn,
@@ -96,16 +96,7 @@ h1{
   font-size:13px;
   cursor:pointer;
   white-space:nowrap;
-}
-
-.copy-btn,
-.info-btn{
-  flex:1;
-}
-
-.song-btn{
-  width:calc(100% - 24px);
-  margin:0 12px 12px 12px;
+  width:100%;
 }
 
 .card img{
@@ -330,6 +321,7 @@ async function cargar(){
 
       buttonRow.appendChild(copyBtn);
       buttonRow.appendChild(infoBtn);
+      buttonRow.appendChild(btnCancion);
 
       const img = document.createElement("img");
       img.src = d.imagen;
@@ -341,7 +333,6 @@ async function cargar(){
 
       card.appendChild(titulo);
       card.appendChild(buttonRow);
-      card.appendChild(btnCancion);
       card.appendChild(img);
 
       contenedor.appendChild(card);
@@ -366,4 +357,3 @@ cargar();
 
 </body>
 </html>
-
