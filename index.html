@@ -107,10 +107,10 @@ width:100%
 .song-btn{
 height:32px;
 background:#000;
-color:var(--text);
+color:#fff;
 border:1px solid var(--gold);
 font-size:12px;
-font-weight:bold;
+font-weight:normal;
 cursor:pointer;
 white-space:nowrap;
 width:100%;
@@ -147,6 +147,7 @@ font-family:Georgia,serif;
 font-size:20px;
 font-weight:bold;
 line-height:1.4;
+white-space:pre-line;
 box-shadow:0 0 25px rgba(212,175,55,.55);
 z-index:9999;
 display:none;
@@ -432,7 +433,8 @@ const ok=await copiarURL(d.webVideo);
 
 if(ok)
 mostrarAviso(
-"URL-Video copiada al portapapeles"
+"URL-Video : \""+d.titulo+"\".\n"+
+"Copiado al Portapapeles"
 );
 
 }
@@ -454,7 +456,8 @@ const ok=await copiarURL(d.webAudio);
 
 if(ok)
 mostrarAviso(
-"URL-Cancion copiada al portapapeles"
+"URL-Canción : \""+d.titulo+"\".\n"+
+"Copiado al Portapapeles"
 );
 
 }
@@ -538,5 +541,3 @@ cargar();
 
 </body>
 </html>
-
-
