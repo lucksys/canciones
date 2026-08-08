@@ -261,8 +261,16 @@ function mostrarAviso(tipo,titulo){
 
 if(!esEscritorio())return;
 
-copyNotification.innerHTML=
-tipo+": &quot;"+titulo+"&quot;.<br>Copiado al Portapapeles.";
+copyNotification.textContent="";
+
+const linea1=document.createElement("div");
+linea1.textContent=tipo+": \""+titulo+"\".";
+
+const linea2=document.createElement("div");
+linea2.textContent="Copiado al Portapapeles.";
+
+copyNotification.appendChild(linea1);
+copyNotification.appendChild(linea2);
 
 copyNotification.classList.add("active");
 
@@ -346,18 +354,26 @@ info:info.join("\n").replace(/-{3,}/g,"").trim()
 async function copiarURL(url){
 
 try{
+
 await navigator.clipboard.writeText(url);
 return true
+
 }catch(e){
 
 try{
 
 const tmp=document.createElement("input");
+
 tmp.value=url;
+
 document.body.appendChild(tmp);
+
 tmp.select();
+
 document.execCommand("copy");
+
 document.body.removeChild(tmp);
+
 return true
 
 }catch(error){
@@ -379,7 +395,8 @@ const res=await fetch(
 "./Lista_de_Enlaces_de_Videos.txt"
 );
 
-if(!res.ok)throw new Error("TXT no encontrado");
+if(!res.ok)
+throw new Error("TXT no encontrado");
 
 const txt=await res.text();
 
@@ -399,24 +416,39 @@ const lineas=b.split("\n")
 
 const d=parseBloque(lineas);
 
-if(!d||d.indice===null||d.indice===0)continue;
+if(!d||d.indice===null||d.indice===0)
+continue;
 
 const card=document.createElement("div");
 card.className="card";
 
 const titulo=document.createElement("div");
+
 titulo.className="card-title";
-titulo.textContent=d.indice+" - "+d.titulo;
 
-const buttonRowTop=document.createElement("div");
-buttonRowTop.className="button-row-top";
+titulo.textContent=
+d.indice+" - "+d.titulo;
 
-const buttonRowBottom=document.createElement("div");
-buttonRowBottom.className="button-row-bottom";
+const buttonRowTop=
+document.createElement("div");
 
-const copyVideoBtn=document.createElement("button");
+buttonRowTop.className=
+"button-row-top";
+
+const buttonRowBottom=
+document.createElement("div");
+
+buttonRowBottom.className=
+"button-row-bottom";
+
+/* Copiar URL-Video */
+const copyVideoBtn=
+document.createElement("button");
+
 copyVideoBtn.className="copy-btn";
-copyVideoBtn.textContent="Copiar URL-Video";
+
+copyVideoBtn.textContent=
+"Copiar URL-Video";
 
 copyVideoBtn.onclick=async(e)=>{
 
@@ -424,7 +456,9 @@ e.stopPropagation();
 
 if(d.webVideo){
 
-const ok=await copiarURL(d.webVideo);
+const ok=await copiarURL(
+d.webVideo
+);
 
 if(ok)
 mostrarAviso(
@@ -436,9 +470,14 @@ d.titulo
 
 };
 
-const copySongBtn=document.createElement("button");
+/* Copiar URL-Cancion */
+const copySongBtn=
+document.createElement("button");
+
 copySongBtn.className="copy-btn";
-copySongBtn.textContent="Copiar URL-Cancion";
+
+copySongBtn.textContent=
+"Copiar URL-Cancion";
 
 copySongBtn.onclick=async(e)=>{
 
@@ -446,7 +485,9 @@ e.stopPropagation();
 
 if(d.webAudio){
 
-const ok=await copiarURL(d.webAudio);
+const ok=await copiarURL(
+d.webAudio
+);
 
 if(ok)
 mostrarAviso(
@@ -458,66 +499,115 @@ d.titulo
 
 };
 
-const infoBtn=document.createElement("button");
+/* Info */
+const infoBtn=
+document.createElement("button");
+
 infoBtn.className="info-btn";
+
 infoBtn.textContent="info";
 
 infoBtn.onclick=(e)=>{
 
 e.stopPropagation();
 
-abrirInfo(d.titulo,d.info)
+abrirInfo(
+d.titulo,
+d.info
+);
 
 };
 
-const btnCancion=document.createElement("button");
+/* Solo Cancion */
+const btnCancion=
+document.createElement("button");
+
 btnCancion.className="song-btn";
-btnCancion.textContent="Solo Cancion";
+
+btnCancion.textContent=
+"Solo Cancion";
 
 btnCancion.onclick=(e)=>{
 
 e.stopPropagation();
 
-window.open(d.cancion,"_blank")
+window.open(
+d.cancion,
+"_blank"
+);
 
 };
 
-buttonRowTop.appendChild(copyVideoBtn);
-buttonRowTop.appendChild(copySongBtn);
-buttonRowTop.appendChild(infoBtn);
+/* Primera línea */
+buttonRowTop.appendChild(
+copyVideoBtn
+);
 
-buttonRowBottom.appendChild(btnCancion);
+buttonRowTop.appendChild(
+copySongBtn
+);
 
-const img=document.createElement("img");
+buttonRowTop.appendChild(
+infoBtn
+);
+
+/* Segunda línea */
+buttonRowBottom.appendChild(
+btnCancion
+);
+
+/* Imagen */
+const img=
+document.createElement("img");
 
 img.src=d.imagen;
 
 img.onerror=function(){
+
 this.onerror=null;
-this.src="portada.jpg"
+this.src="portada.jpg";
+
 };
 
 img.onclick=()=>{
-window.open(d.video,"_blank")
+window.open(
+d.video,
+"_blank"
+);
 };
 
+/* Tarjeta */
 card.appendChild(titulo);
-card.appendChild(buttonRowTop);
-card.appendChild(buttonRowBottom);
+
+card.appendChild(
+buttonRowTop
+);
+
+card.appendChild(
+buttonRowBottom
+);
+
 card.appendChild(img);
 
 contenedor.appendChild(card);
 
-total++
+total++;
+
 }
 
-if(total===0)
-contenedor.innerHTML="No se encontraron obras";
+if(total===0){
+
+contenedor.innerHTML=
+"No se encontraron obras";
+
+}
 
 }catch(e){
 
-contenedor.innerHTML="Error cargando la lista";
-console.error(e)
+contenedor.innerHTML=
+"Error cargando la lista";
+
+console.error(e);
 
 }
 
