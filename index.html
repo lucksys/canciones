@@ -17,103 +17,133 @@
 
 <style>
 :root {
---gold:#d4af37;
---bg:rgba(0,0,0,.92);
---panel:rgba(10,10,10,.78);
---card:#111;
---text:#f3e7b3;
+  --gold:#d4af37;
+  --bg:rgba(0,0,0,.92);
+  --panel:rgba(10,10,10,.78);
+  --card:#111;
+  --text:#f3e7b3;
 }
 *{box-sizing:border-box;}
 body{
-margin:0;
-font-family:Georgia,serif;
-background:url("portada.jpg") no-repeat center fixed;
-background-size:cover;
-color:var(--gold);
+  margin:0;
+  font-family:Georgia,serif;
+  background:url("portada.jpg") no-repeat center fixed;
+  background-size:cover;
+  color:var(--gold);
 }
-.overlay{background:var(--bg);min-height:100vh;padding:20px;}
-h1{text-align:center;text-shadow:0 0 15px var(--gold);}
-.container{display:flex;gap:20px;flex-wrap:wrap;}
-.column{flex:1;min-width:320px;border:1px solid var(--gold);padding:15px;border-radius:12px;background:var(--panel);}
-.grid{display:grid;gap:25px;}
-.card{position:relative;background:var(--card);border:1px solid var(--gold);border-radius:12px;overflow:hidden;}
-.card:hover{box-shadow:0 0 20px var(--gold);}
-.card img{width:100%;background:#000;}
+.overlay{
+  background:var(--bg);
+  min-height:100vh;
+  padding:20px;
+}
+h1{
+  text-align:center;
+  text-shadow:0 0 15px var(--gold);
+}
+.container{
+  display:flex;
+  gap:20px;
+  flex-wrap:wrap;
+}
+.column{
+  flex:1;
+  min-width:320px;
+  border:1px solid var(--gold);
+  padding:15px;
+  border-radius:12px;
+  background:var(--panel);
+}
+.grid{
+  display:grid;
+  gap:25px;
+}
+
+.card{
+  position:relative;
+  background:var(--card);
+  border:1px solid var(--gold);
+  border-radius:12px;
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+}
+.card:hover{
+  box-shadow:0 0 20px var(--gold);
+}
 
 .card-title{
-padding:10px 90px 10px 12px;
-text-align:left;
-color:var(--text);
-line-height:1.2;
-word-break:break-word;
+  padding:10px 12px;
+  text-align:left;
+  color:var(--text);
+  line-height:1.2;
+  word-break:break-word;
 }
 
+.button-row{
+  display:flex;
+  gap:8px;
+  padding:0 12px 10px 12px;
+  flex-wrap:nowrap;
+}
+
+.copy-btn,
+.info-btn,
+.song-btn{
+  height:32px;
+  background:#000;
+  color:var(--gold);
+  border:1px solid var(--gold);
+  font-size:13px;
+  cursor:pointer;
+  white-space:nowrap;
+}
+
+.copy-btn,
 .info-btn{
-position:absolute;
-top:8px;
-right:8px;
-width:58px;
-height:32px;
-background:#000;
-color:var(--gold);
-border:1px solid var(--gold);
-font-size:13px;
-cursor:pointer;
-}
-
-.copy-btn{
-position:absolute;
-top:8px;
-right:70px;
-width:82px;
-height:32px;
-background:#000;
-color:var(--gold);
-border:1px solid var(--gold);
-font-size:13px;
-cursor:pointer;
+  flex:1;
 }
 
 .song-btn{
-position:absolute;
-top:44px;
-right:8px;
-height:32px;
-background:#000;
-color:var(--gold);
-border:1px solid var(--gold);
-padding:0 6px;
-font-size:13px;
-cursor:pointer;
+  width:calc(100% - 24px);
+  margin:0 12px 12px 12px;
+}
+
+.card img{
+  width:100%;
+  display:block;
+  background:#000;
+  cursor:pointer;
 }
 
 .info-overlay{
-position:fixed;
-inset:0;
-background:#000a;
-display:none;
-align-items:center;
-justify-content:center;
+  position:fixed;
+  inset:0;
+  background:#000a;
+  display:none;
+  align-items:center;
+  justify-content:center;
 }
-.info-overlay.active{display:flex;}
+.info-overlay.active{
+  display:flex;
+}
 
 .info-popup{
-position:relative;
-background:#111;
-padding:20px;
-border:1px solid var(--gold);
-max-width:500px;
-width:90%;
+  position:relative;
+  background:#111;
+  padding:20px;
+  border:1px solid var(--gold);
+  max-width:500px;
+  width:90%;
 }
 
 .info-close{
-position:absolute;
-top:10px;
-right:10px;
-background:#000;
-color:var(--gold);
-border:1px solid var(--gold);
-cursor:pointer;
+  position:absolute;
+  top:10px;
+  right:10px;
+  background:#000;
+  color:var(--gold);
+  border:1px solid var(--gold);
+  cursor:pointer;
 }
 </style>
 </head>
@@ -121,31 +151,31 @@ cursor:pointer;
 <body>
 
 <div class="overlay">
-<h1>Composiciones Musicales para el Alma</h1>
+  <h1>Composiciones Musicales para el Alma</h1>
 
-<div class="container">
-<div class="column">
-<h2>Videos Karaoke</h2>
-<div id="videos" class="grid">
-<div class="loading">Cargando...</div>
-</div>
-</div>
+  <div class="container">
+    <div class="column">
+      <h2>Videos Karaoke</h2>
+      <div id="videos" class="grid">
+        <div class="loading">Cargando...</div>
+      </div>
+    </div>
 
-<div class="column">
-<h2>Video-Presentaciones / Video-Planchas</h2>
-<div class="grid">
-<p>Próximamente...</p>
-</div>
-</div>
-</div>
+    <div class="column">
+      <h2>Video-Presentaciones / Video-Planchas</h2>
+      <div class="grid">
+        <p>Próximamente...</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div id="infoOverlay" class="info-overlay">
-<div class="info-popup">
-<button id="infoClose" class="info-close">X</button>
-<h3 id="infoTitulo"></h3>
-<p id="infoTexto"></p>
-</div>
+  <div class="info-popup">
+    <button id="infoClose" class="info-close">X</button>
+    <h3 id="infoTitulo"></h3>
+    <p id="infoTexto"></p>
+  </div>
 </div>
 
 <script>
@@ -156,168 +186,177 @@ const infoOverlay = document.getElementById("infoOverlay");
 const infoTitulo = document.getElementById("infoTitulo");
 const infoTexto = document.getElementById("infoTexto");
 
-document.getElementById("infoClose").onclick=()=>infoOverlay.classList.remove("active");
+document.getElementById("infoClose").onclick = () => infoOverlay.classList.remove("active");
 
-function abrirInfo(titulo,texto){
-infoTitulo.textContent=titulo;
-infoTexto.textContent=texto;
-infoOverlay.classList.add("active");
+function abrirInfo(titulo, texto){
+  infoTitulo.textContent = titulo;
+  infoTexto.textContent = texto;
+  infoOverlay.classList.add("active");
 }
 
 function getValue(line){
-const m=line.match(/:\s*"?([^"]+)/);
-return m?m[1].trim():null;
+  const m = line.match(/:\s*"?([^"]+)/);
+  return m ? m[1].trim() : null;
 }
 
 function parseBloque(lineas){
 
-let indice=null;
-let titulo="";
-let imagen=null;
-let video=null;
-let cancion=null;
-let webVideo=null;
-let info=[];
+  let indice = null;
+  let titulo = "";
+  let imagen = null;
+  let video = null;
+  let cancion = null;
+  let webVideo = null;
+  let info = [];
 
-for(let i=0;i<lineas.length;i++){
+  for(let i = 0; i < lineas.length; i++){
 
-let l=lineas[i];
+    let l = lineas[i];
 
-if(i===0){
-let m=l.match(/^\s*(\d+)\s*-\s*(.+)/);
-if(m){
-indice=parseInt(m[1]);
-titulo=m[2].replaceAll("_"," ").trim();
-}
-}
+    if(i === 0){
+      let m = l.match(/^\s*(\d+)\s*-\s*(.+)/);
+      if(m){
+        indice = parseInt(m[1]);
+        titulo = m[2].replaceAll("_"," ").trim();
+      }
+    }
 
-if(/^url-imagen/i.test(l)) imagen=getValue(l);
-if(/^url-video/i.test(l)) video=getValue(l);
-if(/^url-cancion/i.test(l)) cancion=getValue(l);
-if(/^web-video/i.test(l)) webVideo=getValue(l);
+    if(/^url-imagen/i.test(l)) imagen = getValue(l);
+    if(/^url-video/i.test(l)) video = getValue(l);
+    if(/^url-cancion/i.test(l)) cancion = getValue(l);
+    if(/^web-video/i.test(l)) webVideo = getValue(l);
 
-if(/^info/i.test(l)){
-let txt = l.replace(/^info\s*:/i,"").replace(/^\s*"+/, "").trim();
+    if(/^info/i.test(l)){
+      let txt = l.replace(/^info\s*:/i,"").replace(/^\s*"+/, "").trim();
+      info.push(txt);
 
-info.push(txt);
+      for(let j = i + 1; j < lineas.length; j++){
+        info.push(
+          lineas[j]
+            .replace(/^"+/, "")
+            .replace(/"+$/, "")
+            .trim()
+        );
+      }
+      break;
+    }
+  }
 
-for(let j=i+1;j<lineas.length;j++){
-info.push(
-lineas[j]
-.replace(/^"+/, "")
-.replace(/"+$/, "")
-.trim()
-);
-}
-break;
-}
+  if(!imagen || !video || !cancion) return null;
 
-}
-
-if(!imagen||!video||!cancion) return null;
-
-return{
-indice,
-titulo,
-imagen,
-video,
-cancion,
-webVideo,
-info:info.join("\n")
-.replace(/-{3,}/g,"")
-.trim()
-};
-
+  return{
+    indice,
+    titulo,
+    imagen,
+    video,
+    cancion,
+    webVideo,
+    info: info.join("\n")
+      .replace(/-{3,}/g,"")
+      .trim()
+  };
 }
 
 async function copiarURL(url){
-try{
-await navigator.clipboard.writeText(url);
-}
-catch(e){
-const tmp=document.createElement("input");
-tmp.value=url;
-document.body.appendChild(tmp);
-tmp.select();
-document.execCommand("copy");
-document.body.removeChild(tmp);
-}
+  try{
+    await navigator.clipboard.writeText(url);
+  }
+  catch(e){
+    const tmp = document.createElement("input");
+    tmp.value = url;
+    document.body.appendChild(tmp);
+    tmp.select();
+    document.execCommand("copy");
+    document.body.removeChild(tmp);
+  }
 }
 
 async function cargar(){
 
-try{
+  try{
 
-const res=await fetch("./Lista_de_Enlaces_de_Videos.txt");
-if(!res.ok) throw new Error("TXT no encontrado");
+    const res = await fetch("./Lista_de_Enlaces_de_Videos.txt");
+    if(!res.ok) throw new Error("TXT no encontrado");
 
-const txt=await res.text();
+    const txt = await res.text();
 
-const bloques = txt.split(/\n(?=\s*\d+\s*-\s*)/);
+    const bloques = txt.split(/\n(?=\s*\d+\s*-\s*)/);
 
-contenedor.innerHTML="";
+    contenedor.innerHTML = "";
 
-let total=0;
+    let total = 0;
 
-for(const b of bloques){
+    for(const b of bloques){
 
-const lineas=b.split("\n").map(l=>l.trim()).filter(Boolean);
+      const lineas = b.split("\n").map(l => l.trim()).filter(Boolean);
 
-const d=parseBloque(lineas);
+      const d = parseBloque(lineas);
 
-if(!d || d.indice === null || d.indice === 0) continue;
+      if(!d || d.indice === null || d.indice === 0) continue;
 
-const card=document.createElement("div");
-card.className="card";
+      const card = document.createElement("div");
+      card.className = "card";
 
-const titulo=document.createElement("div");
-titulo.className="card-title";
-titulo.textContent=d.indice+" - "+d.titulo;
+      const titulo = document.createElement("div");
+      titulo.className = "card-title";
+      titulo.textContent = d.indice + " - " + d.titulo;
 
-const img=document.createElement("img");
-img.src=d.imagen;
-img.onerror=function(){this.onerror=null;this.src="portada.jpg";};
-img.onclick=()=>window.open(d.video,"_blank");
+      const buttonRow = document.createElement("div");
+      buttonRow.className = "button-row";
 
-const copyBtn=document.createElement("button");
-copyBtn.className="copy-btn";
-copyBtn.textContent="Copiar URL";
-copyBtn.onclick=async (e)=>{
-e.stopPropagation();
-await copiarURL(d.webVideo);
-};
+      const copyBtn = document.createElement("button");
+      copyBtn.className = "copy-btn";
+      copyBtn.textContent = "Copiar URL";
+      copyBtn.onclick = async (e) => {
+        e.stopPropagation();
+        if(d.webVideo) await copiarURL(d.webVideo);
+      };
 
-const infoBtn=document.createElement("button");
-infoBtn.className="info-btn";
-infoBtn.textContent="Info";
-infoBtn.onclick=(e)=>{e.stopPropagation();abrirInfo(d.titulo,d.info);};
+      const infoBtn = document.createElement("button");
+      infoBtn.className = "info-btn";
+      infoBtn.textContent = "Info";
+      infoBtn.onclick = (e) => {
+        e.stopPropagation();
+        abrirInfo(d.titulo, d.info);
+      };
 
-const btnCancion=document.createElement("button");
-btnCancion.className="song-btn";
-btnCancion.textContent="Solo canción";
-btnCancion.onclick=(e)=>{e.stopPropagation();window.open(d.cancion,"_blank");};
+      const btnCancion = document.createElement("button");
+      btnCancion.className = "song-btn";
+      btnCancion.textContent = "Solo canción";
+      btnCancion.onclick = (e) => {
+        e.stopPropagation();
+        window.open(d.cancion, "_blank");
+      };
 
-card.appendChild(copyBtn);
-card.appendChild(infoBtn);
-card.appendChild(btnCancion);
-card.appendChild(titulo);
-card.appendChild(img);
+      buttonRow.appendChild(copyBtn);
+      buttonRow.appendChild(infoBtn);
 
-contenedor.appendChild(card);
+      const img = document.createElement("img");
+      img.src = d.imagen;
+      img.onerror = function(){
+        this.onerror = null;
+        this.src = "portada.jpg";
+      };
+      img.onclick = () => window.open(d.video, "_blank");
 
-total++;
+      card.appendChild(titulo);
+      card.appendChild(buttonRow);
+      card.appendChild(btnCancion);
+      card.appendChild(img);
 
-}
+      contenedor.appendChild(card);
 
-if(total===0){
-contenedor.innerHTML="No se encontraron obras";
-}
+      total++;
+    }
 
-}catch(e){
-contenedor.innerHTML="Error cargando la lista";
-console.error(e);
-}
+    if(total === 0){
+      contenedor.innerHTML = "No se encontraron obras";
+    }
 
+  }catch(e){
+    contenedor.innerHTML = "Error cargando la lista";
+    console.error(e);
+  }
 }
 
 cargar();
@@ -327,3 +366,4 @@ cargar();
 
 </body>
 </html>
+
