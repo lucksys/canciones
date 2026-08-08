@@ -224,6 +224,7 @@ function parseBloque(lineas){
   let video = null;
   let cancion = null;
   let webVideo = null;
+  let webCancion = null;
   let info = [];
 
   for(let i = 0; i < lineas.length; i++){
@@ -242,6 +243,7 @@ function parseBloque(lineas){
     if(/^url-video/i.test(l)) video = getValue(l);
     if(/^url-cancion/i.test(l)) cancion = getValue(l);
     if(/^web-video/i.test(l)) webVideo = getValue(l);
+    if(/^web-cancion/i.test(l)) webCancion = getValue(l);
 
     if(/^info/i.test(l)){
       let txt = l.replace(/^info\s*:/i,"").replace(/^\s*"+/, "").trim();
@@ -268,6 +270,7 @@ function parseBloque(lineas){
     video,
     cancion,
     webVideo,
+    webCancion,
     info: info.join("\n")
       .replace(/-{3,}/g,"")
       .trim()
@@ -329,7 +332,7 @@ async function cargar(){
       copyVideoBtn.textContent = "Copiar URL-Video";
       copyVideoBtn.onclick = async (e) => {
         e.stopPropagation();
-        if(d.video) await copiarURL(d.video);
+        if(d.webVideo) await copiarURL(d.webVideo);
       };
 
       const copySongBtn = document.createElement("button");
@@ -337,7 +340,7 @@ async function cargar(){
       copySongBtn.textContent = "Copiar URL-Cancion";
       copySongBtn.onclick = async (e) => {
         e.stopPropagation();
-        if(d.cancion) await copiarURL(d.cancion);
+        if(d.webCancion) await copiarURL(d.webCancion);
       };
 
       const infoBtn = document.createElement("button");
