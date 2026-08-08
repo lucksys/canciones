@@ -262,11 +262,14 @@ return !/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
 /* Aviso de copia */
 let notificationTimer;
 
-function mostrarAviso(mensaje){
+function mostrarAviso(tipo,titulo){
 
 if(!esEscritorio())return;
 
-copyNotification.textContent="✓ "+mensaje;
+copyNotification.innerHTML=
+tipo+": &quot;"+titulo+
+&quot;.&quot;<br>Copiado al Portapapeles.;
+
 copyNotification.classList.add("active");
 
 clearTimeout(notificationTimer);
@@ -432,7 +435,8 @@ const ok=await copiarURL(d.webVideo);
 
 if(ok)
 mostrarAviso(
-"URL-Video copiada al portapapeles"
+"URL-Video",
+d.titulo
 );
 
 }
@@ -454,7 +458,8 @@ const ok=await copiarURL(d.webAudio);
 
 if(ok)
 mostrarAviso(
-"URL-Cancion copiada al portapapeles"
+"URL-Cancion",
+d.titulo
 );
 
 }
@@ -538,3 +543,4 @@ cargar();
 
 </body>
 </html>
+
