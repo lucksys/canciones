@@ -17,176 +17,175 @@
 
 <style>
 :root {
-  --gold:#d4af37;
-  --bg:rgba(0,0,0,.92);
-  --panel:rgba(10,10,10,.78);
-  --card:#111;
-  --text:#f3e7b3;
+--gold:#d4af37;
+--bg:rgba(0,0,0,.92);
+--panel:rgba(10,10,10,.78);
+--card:#111;
+--text:#f3e7b3;
 }
 
-*{
-  box-sizing:border-box;
-}
+*{box-sizing:border-box;}
 
 body{
-  margin:0;
-  font-family:Georgia,serif;
-  background:url("portada.jpg") no-repeat center fixed;
-  background-size:cover;
-  color:var(--gold);
+margin:0;
+font-family:Georgia,serif;
+background:url("portada.jpg") no-repeat center fixed;
+background-size:cover;
+color:var(--gold);
 }
 
 .overlay{
-  background:var(--bg);
-  min-height:100vh;
-  padding:20px;
+background:var(--bg);
+min-height:100vh;
+padding:20px;
 }
 
 h1{
-  text-align:center;
-  text-shadow:0 0 15px var(--gold);
+text-align:center;
+text-shadow:0 0 15px var(--gold);
 }
 
 .container{
-  display:flex;
-  gap:20px;
-  flex-wrap:wrap;
+display:flex;
+gap:20px;
+flex-wrap:wrap;
 }
 
 .column{
-  flex:1;
-  min-width:320px;
-  border:1px solid var(--gold);
-  padding:15px;
-  border-radius:12px;
-  background:var(--panel);
+flex:1;
+min-width:320px;
+border:1px solid var(--gold);
+padding:15px;
+border-radius:12px;
+background:var(--panel);
 }
 
 .grid{
-  display:grid;
-  gap:25px;
+display:grid;
+gap:25px;
 }
 
 .card{
-  position:relative;
-  background:var(--card);
-  border:1px solid var(--gold);
-  border-radius:12px;
-  overflow:hidden;
-  display:flex;
-  flex-direction:column;
+position:relative;
+background:var(--card);
+border:1px solid var(--gold);
+border-radius:12px;
+overflow:hidden;
+display:flex;
+flex-direction:column;
 }
 
 .card:hover{
-  box-shadow:0 0 20px var(--gold);
+box-shadow:0 0 20px var(--gold);
 }
 
 .card-title{
-  padding:10px 12px;
-  text-align:left;
-  color:var(--text);
-  line-height:1.2;
-  word-break:break-word;
+padding:10px 12px;
+text-align:left;
+color:var(--text);
+line-height:1.2;
+word-break:break-word;
 }
 
-/* Primera línea: 3 botones */
+/* Primera línea */
 .button-row-top{
-  display:grid;
-  grid-template-columns:1.25fr 1.25fr 0.6fr;
-  gap:6px;
-  padding:0 12px 8px 12px;
-  width:100%;
+display:grid;
+grid-template-columns:1.25fr 1.25fr .6fr;
+gap:6px;
+padding:0 12px 8px 12px;
+width:100%;
 }
 
-/* Segunda línea: un solo botón grande */
+/* Segunda línea */
 .button-row-bottom{
-  padding:0 12px 10px 12px;
-  width:100%;
+padding:0 12px 10px 12px;
+width:100%;
 }
 
 .copy-btn,
 .info-btn,
 .song-btn{
-  height:32px;
-  background:#000;
-  color:var(--gold);
-  border:1px solid var(--gold);
-  font-size:12px;
-  cursor:pointer;
-  white-space:nowrap;
-  width:100%;
-  min-width:0;
-  padding:0 4px;
+height:32px;
+background:#000;
+color:var(--gold);
+border:1px solid var(--gold);
+font-size:12px;
+cursor:pointer;
+white-space:nowrap;
+width:100%;
+min-width:0;
+padding:0 4px;
 }
 
 .song-btn{
-  font-size:13px;
+font-size:13px;
 }
 
 .card img{
-  width:100%;
-  display:block;
-  background:#000;
-  cursor:pointer;
+width:100%;
+display:block;
+background:#000;
+cursor:pointer;
 }
 
-/* =====================================================
-   INDICADOR DE COPIA PARA WINDOWS / LINUX / macOS
-   ===================================================== */
-
+/* Aviso de copia: solamente escritorio */
 .copy-notification{
-  position:fixed;
-  left:50%;
-  bottom:25px;
-  transform:translateX(-50%);
-  background:#111;
-  color:var(--gold);
-  border:1px solid var(--gold);
-  border-radius:8px;
-  padding:10px 18px;
-  font-family:Georgia,serif;
-  font-size:14px;
-  box-shadow:0 0 15px rgba(212,175,55,.35);
-  z-index:9999;
-  display:none;
-  text-align:center;
-  pointer-events:none;
+position:fixed;
+left:50%;
+top:50%;
+transform:translate(-50%,-50%);
+background:rgba(0,0,0,.96);
+color:var(--gold);
+border:2px solid var(--gold);
+border-radius:12px;
+padding:22px 35px;
+min-width:360px;
+max-width:80vw;
+text-align:center;
+font-family:Georgia,serif;
+font-size:20px;
+font-weight:bold;
+line-height:1.4;
+box-shadow:0 0 25px rgba(212,175,55,.55);
+z-index:9999;
+display:none;
+pointer-events:none;
 }
 
 .copy-notification.active{
-  display:block;
+display:block;
 }
 
 .info-overlay{
-  position:fixed;
-  inset:0;
-  background:#000a;
-  display:none;
-  align-items:center;
-  justify-content:center;
+position:fixed;
+inset:0;
+background:#000a;
+display:none;
+align-items:center;
+justify-content:center;
 }
 
 .info-overlay.active{
-  display:flex;
+display:flex;
 }
 
 .info-popup{
-  position:relative;
-  background:#111;
-  padding:20px;
-  border:1px solid var(--gold);
-  max-width:500px;
-  width:90%;
+position:relative;
+background:#111;
+padding:20px;
+border:1px solid var(--gold);
+max-width:500px;
+width:90%;
 }
 
 .info-close{
-  position:absolute;
-  top:10px;
-  right:10px;
-  background:#000;
-  color:var(--gold);
-  border:1px solid var(--gold);
-  cursor:pointer;
+position:absolute;
+top:10px;
+right:10px;
+background:#000;
+color:var(--gold);
+border:1px solid var(--gold);
+cursor:pointer;
 }
 </style>
 </head>
@@ -195,624 +194,471 @@ h1{
 
 <div class="overlay">
 
-  <h1>Composiciones Musicales para el Alma</h1>
+<h1>Composiciones Musicales para el Alma</h1>
 
-  <div class="container">
+<div class="container">
 
-    <div class="column">
+<div class="column">
 
-      <h2>Videos Karaoke</h2>
+<h2>Videos Karaoke</h2>
 
-      <div id="videos" class="grid">
-        <div class="loading">Cargando...</div>
-      </div>
-
-    </div>
-
-    <div class="column">
-
-      <h2>Video-Presentaciones / Video-Planchas</h2>
-
-      <div class="grid">
-        <p>Próximamente...</p>
-      </div>
-
-    </div>
-
-  </div>
+<div id="videos" class="grid">
+<div class="loading">Cargando...</div>
+</div>
 
 </div>
 
+<div class="column">
 
-<!-- INDICADOR DE COPIA -->
+<h2>Video-Presentaciones / Video-Planchas</h2>
+
+<div class="grid">
+<p>Próximamente...</p>
+</div>
+
+</div>
+
+</div>
+</div>
+
+<!-- Aviso de copia -->
 <div id="copyNotification" class="copy-notification"></div>
 
-
-<!-- VENTANA INFO -->
+<!-- Ventana Info -->
 <div id="infoOverlay" class="info-overlay">
 
-  <div class="info-popup">
+<div class="info-popup">
 
-    <button id="infoClose" class="info-close">X</button>
+<button id="infoClose" class="info-close">X</button>
 
-    <h3 id="infoTitulo"></h3>
+<h3 id="infoTitulo"></h3>
 
-    <p id="infoTexto"></p>
-
-  </div>
+<p id="infoTexto"></p>
 
 </div>
 
+</div>
 
 <script>
 (function(){
 
-const contenedor =
-  document.getElementById("videos");
+const contenedor=document.getElementById("videos");
+const infoOverlay=document.getElementById("infoOverlay");
+const infoTitulo=document.getElementById("infoTitulo");
+const infoTexto=document.getElementById("infoTexto");
+const copyNotification=document.getElementById("copyNotification");
 
-const infoOverlay =
-  document.getElementById("infoOverlay");
-
-const infoTitulo =
-  document.getElementById("infoTitulo");
-
-const infoTexto =
-  document.getElementById("infoTexto");
-
-const copyNotification =
-  document.getElementById("copyNotification");
+document.getElementById("infoClose").onclick=()=>{
+infoOverlay.classList.remove("active");
+};
 
 
-/* =====================================================
-   DETECTAR DISPOSITIVOS MÓVILES
-   Android / iOS NO MOSTRARÁN EL AVISO
-   ===================================================== */
+/* Detecta escritorio real:
+   - No Android/iOS
+   - Sin pantalla táctil
+*/
+function esEscritorio(){
 
-function esDispositivoMovil(){
+const movil=/Android|iPhone|iPad|iPod/i.test(
+navigator.userAgent
+);
 
-  const ua = navigator.userAgent || navigator.vendor || window.opera;
+const tactil=
+navigator.maxTouchPoints>0 ||
+"ontouchstart" in window;
 
-  return /android|iphone|ipad|ipod|iemobile|mobile/i.test(ua);
-
+return !movil && !tactil;
 }
 
 
-/* =====================================================
-   MOSTRAR AVISO SOLAMENTE EN ESCRITORIO
-   ===================================================== */
+/* Mostrar aviso solamente en escritorio */
+let notificationTimer=null;
 
-let notificationTimer = null;
+function mostrarAviso(mensaje){
 
-function mostrarAvisoCopia(mensaje){
+if(!esEscritorio()) return;
 
-  if(esDispositivoMovil())
-    return;
+copyNotification.textContent="✓ "+mensaje;
+copyNotification.classList.add("active");
 
-  copyNotification.textContent = "✓ " + mensaje;
+clearTimeout(notificationTimer);
 
-  copyNotification.classList.add("active");
-
-  clearTimeout(notificationTimer);
-
-  notificationTimer = setTimeout(function(){
-
-    copyNotification.classList.remove("active");
-
-  },2500);
-
+notificationTimer=setTimeout(()=>{
+copyNotification.classList.remove("active");
+},2500);
 }
-
-
-document.getElementById("infoClose").onclick =
-  () => infoOverlay.classList.remove("active");
 
 
 function abrirInfo(titulo,texto){
 
-  infoTitulo.textContent = titulo;
-
-  infoTexto.textContent = texto;
-
-  infoOverlay.classList.add("active");
+infoTitulo.textContent=titulo;
+infoTexto.textContent=texto;
+infoOverlay.classList.add("active");
 
 }
 
 
 function getValue(line){
 
-  const m =
-    line.match(/:\s*"?([^"]+)/);
+const m=line.match(/:\s*"?([^"]+)/);
 
-  return m ? m[1].trim() : null;
+return m?m[1].trim():null;
 
 }
 
 
 function parseBloque(lineas){
 
-  let indice = null;
+let indice=null;
+let titulo="";
+let imagen=null;
+let video=null;
+let cancion=null;
+let webVideo=null;
+let webAudio=null;
+let info=[];
 
-  let titulo = "";
+for(let i=0;i<lineas.length;i++){
 
-  let imagen = null;
+let l=lineas[i];
 
-  let video = null;
+if(i===0){
 
-  let cancion = null;
+let m=l.match(/^\s*(\d+)\s*-\s*(.+)/);
 
-  let webVideo = null;
+if(m){
 
-  let webAudio = null;
+indice=parseInt(m[1]);
+titulo=m[2].replaceAll("_"," ").trim();
 
-  let info = [];
+}
 
+}
 
-  for(let i = 0; i < lineas.length; i++){
+if(/^url-imagen/i.test(l))
+imagen=getValue(l);
 
-    let l = lineas[i];
+if(/^url-video/i.test(l))
+video=getValue(l);
 
+if(/^url-cancion/i.test(l))
+cancion=getValue(l);
 
-    if(i === 0){
+if(/^web-video/i.test(l))
+webVideo=getValue(l);
 
-      let m =
-        l.match(/^\s*(\d+)\s*-\s*(.+)/);
+if(/^web-audio/i.test(l))
+webAudio=getValue(l);
 
-      if(m){
+if(/^info/i.test(l)){
 
-        indice =
-          parseInt(m[1]);
+let txt=l
+.replace(/^info\s*:/i,"")
+.replace(/^\s*"+/,"")
+.trim();
 
-        titulo =
-          m[2]
-            .replaceAll("_"," ")
-            .trim();
+info.push(txt);
 
-      }
+for(let j=i+1;j<lineas.length;j++){
 
-    }
+info.push(
+lineas[j]
+.replace(/^"+/,"")
+.replace(/"+$/,"")
+.trim()
+);
 
+}
 
-    if(/^url-imagen/i.test(l))
-      imagen = getValue(l);
+break;
 
+}
 
-    if(/^url-video/i.test(l))
-      video = getValue(l);
+}
 
+if(!imagen||!video||!cancion) return null;
 
-    if(/^url-cancion/i.test(l))
-      cancion = getValue(l);
-
-
-    /* URL PARA COMPARTIR EL VIDEO */
-    if(/^web-video/i.test(l))
-      webVideo = getValue(l);
-
-
-    /* URL PARA COMPARTIR EL AUDIO */
-    if(/^web-audio/i.test(l))
-      webAudio = getValue(l);
-
-
-    if(/^info/i.test(l)){
-
-      let txt =
-        l
-          .replace(/^info\s*:/i,"")
-          .replace(/^\s*"+/,"")
-          .trim();
-
-      info.push(txt);
-
-
-      for(let j = i + 1; j < lineas.length; j++){
-
-        info.push(
-          lineas[j]
-            .replace(/^"+/,"")
-            .replace(/"+$/,"")
-            .trim()
-        );
-
-      }
-
-      break;
-
-    }
-
-  }
-
-
-  if(!imagen || !video || !cancion)
-    return null;
-
-
-  return{
-
-    indice,
-
-    titulo,
-
-    imagen,
-
-    video,
-
-    cancion,
-
-    webVideo,
-
-    webAudio,
-
-    info:
-      info
-        .join("\n")
-        .replace(/-{3,}/g,"")
-        .trim()
-
-  };
+return{
+indice,
+titulo,
+imagen,
+video,
+cancion,
+webVideo,
+webAudio,
+info:info.join("\n")
+.replace(/-{3,}/g,"")
+.trim()
+};
 
 }
 
 
-/* =====================================================
-   COPIAR URL AL PORTAPAPELES
-   ===================================================== */
-
+/* Copiar URL */
 async function copiarURL(url){
 
-  try{
+try{
 
-    await navigator.clipboard.writeText(url);
+await navigator.clipboard.writeText(url);
+return true;
 
-    return true;
+}catch(e){
 
-  }
+try{
 
-  catch(e){
+const tmp=document.createElement("input");
 
-    try{
+tmp.value=url;
 
-      const tmp =
-        document.createElement("input");
+document.body.appendChild(tmp);
 
-      tmp.value = url;
+tmp.select();
 
-      document.body.appendChild(tmp);
+document.execCommand("copy");
 
-      tmp.select();
+document.body.removeChild(tmp);
 
-      document.execCommand("copy");
+return true;
 
-      document.body.removeChild(tmp);
+}catch(error){
 
-      return true;
+console.error(error);
+return false;
 
-    }
+}
 
-    catch(error){
-
-      console.error(error);
-
-      return false;
-
-    }
-
-  }
+}
 
 }
 
 
-/* =====================================================
-   CARGAR LISTA
-   ===================================================== */
-
+/* Cargar lista */
 async function cargar(){
 
-  try{
+try{
 
-    const res =
-      await fetch("./Lista_de_Enlaces_de_Videos.txt");
+const res=await fetch("./Lista_de_Enlaces_de_Videos.txt");
 
+if(!res.ok)
+throw new Error("TXT no encontrado");
 
-    if(!res.ok)
-      throw new Error("TXT no encontrado");
+const txt=await res.text();
 
+const bloques=txt.split(
+/\n(?=\s*\d+\s*-\s*)/
+);
 
-    const txt =
-      await res.text();
+contenedor.innerHTML="";
 
+let total=0;
 
-    const bloques =
-      txt.split(/\n(?=\s*\d+\s*-\s*)/);
+for(const b of bloques){
 
+const lineas=b
+.split("\n")
+.map(l=>l.trim())
+.filter(Boolean);
 
-    contenedor.innerHTML = "";
+const d=parseBloque(lineas);
 
+if(!d||d.indice===null||d.indice===0)
+continue;
 
-    let total = 0;
+const card=document.createElement("div");
+card.className="card";
 
 
-    for(const b of bloques){
+/* Título */
+const titulo=document.createElement("div");
 
-      const lineas =
-        b
-          .split("\n")
-          .map(l => l.trim())
-          .filter(Boolean);
+titulo.className="card-title";
 
+titulo.textContent=
+d.indice+" - "+d.titulo;
 
-      const d =
-        parseBloque(lineas);
 
+/* Primera línea */
+const buttonRowTop=
+document.createElement("div");
 
-      if(
-        !d ||
-        d.indice === null ||
-        d.indice === 0
-      )
-        continue;
+buttonRowTop.className=
+"button-row-top";
 
 
-      const card =
-        document.createElement("div");
+/* Segunda línea */
+const buttonRowBottom=
+document.createElement("div");
 
-      card.className = "card";
+buttonRowBottom.className=
+"button-row-bottom";
 
 
-      const titulo =
-        document.createElement("div");
+/* Copiar URL-Video */
+const copyVideoBtn=
+document.createElement("button");
 
-      titulo.className = "card-title";
+copyVideoBtn.className="copy-btn";
 
-      titulo.textContent =
-        d.indice + " - " + d.titulo;
+copyVideoBtn.textContent=
+"Copiar URL-Video";
 
+copyVideoBtn.onclick=async(e)=>{
 
-      const buttonRowTop =
-        document.createElement("div");
+e.stopPropagation();
 
-      buttonRowTop.className =
-        "button-row-top";
+if(d.webVideo){
 
+const ok=await copiarURL(
+d.webVideo
+);
 
-      const buttonRowBottom =
-        document.createElement("div");
-
-      buttonRowBottom.className =
-        "button-row-bottom";
-
-
-      /* =================================================
-         COPIAR URL-VIDEO
-         COPIA web-video:
-         ================================================= */
-
-      const copyVideoBtn =
-        document.createElement("button");
-
-      copyVideoBtn.className =
-        "copy-btn";
-
-      copyVideoBtn.textContent =
-        "Copiar URL-Video";
-
-
-      copyVideoBtn.onclick =
-        async (e) => {
-
-          e.stopPropagation();
-
-
-          if(d.webVideo){
-
-            const copiado =
-              await copiarURL(d.webVideo);
-
-
-            if(copiado){
-
-              mostrarAvisoCopia(
-                "URL-Video copiada al portapapeles"
-              );
-
-            }
-
-          }
-
-        };
-
-
-      /* =================================================
-         COPIAR URL-CANCION
-         COPIA web-audio:
-         ================================================= */
-
-      const copySongBtn =
-        document.createElement("button");
-
-      copySongBtn.className =
-        "copy-btn";
-
-      copySongBtn.textContent =
-        "Copiar URL-Cancion";
-
-
-      copySongBtn.onclick =
-        async (e) => {
-
-          e.stopPropagation();
-
-
-          if(d.webAudio){
-
-            const copiado =
-              await copiarURL(d.webAudio);
-
-
-            if(copiado){
-
-              mostrarAvisoCopia(
-                "URL-Cancion copiada al portapapeles"
-              );
-
-            }
-
-          }
-
-        };
-
-
-      /* =================================================
-         BOTÓN INFO
-         ================================================= */
-
-      const infoBtn =
-        document.createElement("button");
-
-      infoBtn.className =
-        "info-btn";
-
-      infoBtn.textContent =
-        "info";
-
-
-      infoBtn.onclick =
-        (e) => {
-
-          e.stopPropagation();
-
-          abrirInfo(
-            d.titulo,
-            d.info
-          );
-
-        };
-
-
-      /* =================================================
-         BOTÓN SOLO CANCION
-         ================================================= */
-
-      const btnCancion =
-        document.createElement("button");
-
-      btnCancion.className =
-        "song-btn";
-
-      btnCancion.textContent =
-        "Solo Cancion";
-
-
-      btnCancion.onclick =
-        (e) => {
-
-          e.stopPropagation();
-
-          window.open(
-            d.cancion,
-            "_blank"
-          );
-
-        };
-
-
-      /* =================================================
-         ORDEN DE LOS BOTONES
-         ================================================= */
-
-      buttonRowTop.appendChild(
-        copyVideoBtn
-      );
-
-      buttonRowTop.appendChild(
-        copySongBtn
-      );
-
-      buttonRowTop.appendChild(
-        infoBtn
-      );
-
-
-      buttonRowBottom.appendChild(
-        btnCancion
-      );
-
-
-      /* =================================================
-         IMAGEN
-         ================================================= */
-
-      const img =
-        document.createElement("img");
-
-
-      img.src =
-        d.imagen;
-
-
-      img.onerror =
-        function(){
-
-          this.onerror = null;
-
-          this.src = "portada.jpg";
-
-        };
-
-
-      img.onclick =
-        () => window.open(
-          d.video,
-          "_blank"
-        );
-
-
-      /* =================================================
-         ARMAR TARJETA
-         ================================================= */
-
-      card.appendChild(titulo);
-
-      card.appendChild(
-        buttonRowTop
-      );
-
-      card.appendChild(
-        buttonRowBottom
-      );
-
-      card.appendChild(img);
-
-
-      contenedor.appendChild(card);
-
-
-      total++;
-
-    }
-
-
-    if(total === 0){
-
-      contenedor.innerHTML =
-        "No se encontraron obras";
-
-    }
-
-  }
-
-
-  catch(e){
-
-    contenedor.innerHTML =
-      "Error cargando la lista";
-
-    console.error(e);
-
-  }
+if(ok)
+mostrarAviso(
+"URL-Video copiada al portapapeles"
+);
 
 }
 
+};
+
+
+/* Copiar URL-Cancion */
+const copySongBtn=
+document.createElement("button");
+
+copySongBtn.className="copy-btn";
+
+copySongBtn.textContent=
+"Copiar URL-Cancion";
+
+copySongBtn.onclick=async(e)=>{
+
+e.stopPropagation();
+
+if(d.webAudio){
+
+const ok=await copiarURL(
+d.webAudio
+);
+
+if(ok)
+mostrarAviso(
+"URL-Cancion copiada al portapapeles"
+);
+
+}
+
+};
+
+
+/* Info */
+const infoBtn=
+document.createElement("button");
+
+infoBtn.className="info-btn";
+
+infoBtn.textContent="info";
+
+infoBtn.onclick=(e)=>{
+
+e.stopPropagation();
+
+abrirInfo(
+d.titulo,
+d.info
+);
+
+};
+
+
+/* Solo Cancion */
+const btnCancion=
+document.createElement("button");
+
+btnCancion.className="song-btn";
+
+btnCancion.textContent=
+"Solo Cancion";
+
+btnCancion.onclick=(e)=>{
+
+e.stopPropagation();
+
+window.open(
+d.cancion,
+"_blank"
+);
+
+};
+
+
+/* Orden de botones */
+buttonRowTop.appendChild(
+copyVideoBtn
+);
+
+buttonRowTop.appendChild(
+copySongBtn
+);
+
+buttonRowTop.appendChild(
+infoBtn
+);
+
+buttonRowBottom.appendChild(
+btnCancion
+);
+
+
+/* Imagen */
+const img=document.createElement("img");
+
+img.src=d.imagen;
+
+img.onerror=function(){
+
+this.onerror=null;
+this.src="portada.jpg";
+
+};
+
+img.onclick=()=>{
+window.open(
+d.video,
+"_blank"
+);
+};
+
+
+/* Construir tarjeta */
+card.appendChild(titulo);
+card.appendChild(buttonRowTop);
+card.appendChild(buttonRowBottom);
+card.appendChild(img);
+
+contenedor.appendChild(card);
+
+total++;
+
+}
+
+if(total===0){
+
+contenedor.innerHTML=
+"No se encontraron obras";
+
+}
+
+}catch(e){
+
+contenedor.innerHTML=
+"Error cargando la lista";
+
+console.error(e);
+
+}
+
+}
 
 cargar();
 
@@ -821,4 +667,3 @@ cargar();
 
 </body>
 </html>
-
