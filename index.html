@@ -278,10 +278,22 @@ copyNotification.classList.remove("active")
 }
 
 /* Aviso de ausencia de archivo MP3 */
-/* Este aviso funciona tanto en escritorio como en Android/iOS */
 function mostrarAvisoMP3(){
 
 copyNotification.textContent="✓ No tiene archivo MP3 de audio.";
+copyNotification.classList.add("active");
+
+clearTimeout(notificationTimer);
+
+notificationTimer=setTimeout(()=>{
+copyNotification.classList.remove("active")
+},2500);
+}
+
+/* Aviso de ausencia de archivo de video */
+function mostrarAvisoVideo(){
+
+copyNotification.textContent="✓ No tiene archivo de video asociado.";
 copyNotification.classList.add("active");
 
 clearTimeout(notificationTimer);
@@ -450,6 +462,10 @@ mostrarAviso(
 "URL-Video : \""+d.titulo+"\".\n"+
 "Copiado al Portapapeles"
 );
+
+}else{
+
+mostrarAvisoVideo();
 
 }
 
