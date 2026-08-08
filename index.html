@@ -107,10 +107,10 @@ width:100%
 .song-btn{
 height:32px;
 background:#000;
-color:#fff;
+color:var(--text);
 border:1px solid var(--gold);
 font-size:12px;
-font-weight:normal;
+font-weight:bold;
 cursor:pointer;
 white-space:nowrap;
 width:100%;
@@ -184,9 +184,9 @@ position:absolute;
 top:10px;
 right:10px;
 background:#000;
-color:#fff;
+color:var(--text);
 border:1px solid var(--gold);
-font-weight:normal;
+font-weight:bold;
 cursor:pointer
 }
 </style>
@@ -262,14 +262,11 @@ return !/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
 /* Aviso de copia */
 let notificationTimer;
 
-function mostrarAviso(tipo,titulo){
+function mostrarAviso(mensaje){
 
 if(!esEscritorio())return;
 
-copyNotification.innerHTML=
-tipo+": &quot;"+titulo+
-&quot;.&quot;<br>Copiado al Portapapeles.;
-
+copyNotification.textContent="✓ "+mensaje;
 copyNotification.classList.add("active");
 
 clearTimeout(notificationTimer);
@@ -435,8 +432,7 @@ const ok=await copiarURL(d.webVideo);
 
 if(ok)
 mostrarAviso(
-"URL-Video",
-d.titulo
+"URL-Video copiada al portapapeles"
 );
 
 }
@@ -458,8 +454,7 @@ const ok=await copiarURL(d.webAudio);
 
 if(ok)
 mostrarAviso(
-"URL-Cancion",
-d.titulo
+"URL-Cancion copiada al portapapeles"
 );
 
 }
@@ -543,4 +538,5 @@ cargar();
 
 </body>
 </html>
+
 
