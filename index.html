@@ -16,7 +16,7 @@
 <meta name="twitter:image" content="https://lucksys.github.io/canciones/portada.jpg">
 
 <style>
-:root {
+:root{
 --gold:#d4af37;
 --bg:rgba(0,0,0,.92);
 --panel:rgba(10,10,10,.78);
@@ -24,31 +24,31 @@
 --text:#f3e7b3;
 }
 
-*{box-sizing:border-box;}
+*{box-sizing:border-box}
 
 body{
 margin:0;
 font-family:Georgia,serif;
 background:url("portada.jpg") no-repeat center fixed;
 background-size:cover;
-color:var(--gold);
+color:var(--gold)
 }
 
 .overlay{
 background:var(--bg);
 min-height:100vh;
-padding:20px;
+padding:20px
 }
 
 h1{
 text-align:center;
-text-shadow:0 0 15px var(--gold);
+text-shadow:0 0 15px var(--gold)
 }
 
 .container{
 display:flex;
 gap:20px;
-flex-wrap:wrap;
+flex-wrap:wrap
 }
 
 .column{
@@ -57,12 +57,12 @@ min-width:320px;
 border:1px solid var(--gold);
 padding:15px;
 border-radius:12px;
-background:var(--panel);
+background:var(--panel)
 }
 
 .grid{
 display:grid;
-gap:25px;
+gap:25px
 }
 
 .card{
@@ -72,11 +72,11 @@ border:1px solid var(--gold);
 border-radius:12px;
 overflow:hidden;
 display:flex;
-flex-direction:column;
+flex-direction:column
 }
 
 .card:hover{
-box-shadow:0 0 20px var(--gold);
+box-shadow:0 0 20px var(--gold)
 }
 
 .card-title{
@@ -84,22 +84,22 @@ padding:10px 12px;
 text-align:left;
 color:var(--text);
 line-height:1.2;
-word-break:break-word;
+word-break:break-word
 }
 
-/* Primera línea */
+/* Primera línea de botones */
 .button-row-top{
 display:grid;
 grid-template-columns:1.25fr 1.25fr .6fr;
 gap:6px;
-padding:0 12px 8px 12px;
-width:100%;
+padding:0 12px 8px;
+width:100%
 }
 
 /* Segunda línea */
 .button-row-bottom{
-padding:0 12px 10px 12px;
-width:100%;
+padding:0 12px 10px;
+width:100%
 }
 
 .copy-btn,
@@ -107,35 +107,36 @@ width:100%;
 .song-btn{
 height:32px;
 background:#000;
-color:var(--gold);
+color:var(--text);
 border:1px solid var(--gold);
 font-size:12px;
+font-weight:bold;
 cursor:pointer;
 white-space:nowrap;
 width:100%;
 min-width:0;
-padding:0 4px;
+padding:0 4px
 }
 
 .song-btn{
-font-size:13px;
+font-size:13px
 }
 
 .card img{
 width:100%;
 display:block;
 background:#000;
-cursor:pointer;
+cursor:pointer
 }
 
-/* Aviso de copia: solamente escritorio */
+/* Aviso de copia en escritorio */
 .copy-notification{
 position:fixed;
 left:50%;
 top:50%;
 transform:translate(-50%,-50%);
 background:rgba(0,0,0,.96);
-color:var(--gold);
+color:var(--text);
 border:2px solid var(--gold);
 border-radius:12px;
 padding:22px 35px;
@@ -149,11 +150,11 @@ line-height:1.4;
 box-shadow:0 0 25px rgba(212,175,55,.55);
 z-index:9999;
 display:none;
-pointer-events:none;
+pointer-events:none
 }
 
 .copy-notification.active{
-display:block;
+display:block
 }
 
 .info-overlay{
@@ -162,11 +163,11 @@ inset:0;
 background:#000a;
 display:none;
 align-items:center;
-justify-content:center;
+justify-content:center
 }
 
 .info-overlay.active{
-display:flex;
+display:flex
 }
 
 .info-popup{
@@ -175,7 +176,7 @@ background:#111;
 padding:20px;
 border:1px solid var(--gold);
 max-width:500px;
-width:90%;
+width:90%
 }
 
 .info-close{
@@ -183,9 +184,10 @@ position:absolute;
 top:10px;
 right:10px;
 background:#000;
-color:var(--gold);
+color:var(--text);
 border:1px solid var(--gold);
-cursor:pointer;
+font-weight:bold;
+cursor:pointer
 }
 </style>
 </head>
@@ -221,10 +223,8 @@ cursor:pointer;
 </div>
 </div>
 
-<!-- Aviso de copia -->
 <div id="copyNotification" class="copy-notification"></div>
 
-<!-- Ventana Info -->
 <div id="infoOverlay" class="info-overlay">
 
 <div class="info-popup">
@@ -249,34 +249,22 @@ const infoTexto=document.getElementById("infoTexto");
 const copyNotification=document.getElementById("copyNotification");
 
 document.getElementById("infoClose").onclick=()=>{
-infoOverlay.classList.remove("active");
+infoOverlay.classList.remove("active")
 };
 
-
-/* Detecta escritorio real:
-   - No Android/iOS
-   - Sin pantalla táctil
-*/
+/* Escritorio sin Android/iOS ni pantalla táctil */
 function esEscritorio(){
-
-const movil=/Android|iPhone|iPad|iPod/i.test(
-navigator.userAgent
-);
-
-const tactil=
-navigator.maxTouchPoints>0 ||
-"ontouchstart" in window;
-
-return !movil && !tactil;
+return !/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
+&& navigator.maxTouchPoints===0
+&& !("ontouchstart" in window);
 }
 
-
-/* Mostrar aviso solamente en escritorio */
-let notificationTimer=null;
+/* Aviso de copia */
+let notificationTimer;
 
 function mostrarAviso(mensaje){
 
-if(!esEscritorio()) return;
+if(!esEscritorio())return;
 
 copyNotification.textContent="✓ "+mensaje;
 copyNotification.classList.add("active");
@@ -284,99 +272,67 @@ copyNotification.classList.add("active");
 clearTimeout(notificationTimer);
 
 notificationTimer=setTimeout(()=>{
-copyNotification.classList.remove("active");
+copyNotification.classList.remove("active")
 },2500);
 }
 
-
 function abrirInfo(titulo,texto){
-
 infoTitulo.textContent=titulo;
 infoTexto.textContent=texto;
-infoOverlay.classList.add("active");
-
+infoOverlay.classList.add("active")
 }
-
 
 function getValue(line){
-
 const m=line.match(/:\s*"?([^"]+)/);
-
-return m?m[1].trim():null;
-
+return m?m[1].trim():null
 }
-
 
 function parseBloque(lineas){
 
-let indice=null;
-let titulo="";
-let imagen=null;
-let video=null;
-let cancion=null;
-let webVideo=null;
-let webAudio=null;
-let info=[];
+let indice=null,titulo="",imagen=null,video=null,
+cancion=null,webVideo=null,webAudio=null,info=[];
 
 for(let i=0;i<lineas.length;i++){
 
 let l=lineas[i];
 
 if(i===0){
-
 let m=l.match(/^\s*(\d+)\s*-\s*(.+)/);
-
 if(m){
-
 indice=parseInt(m[1]);
-titulo=m[2].replaceAll("_"," ").trim();
-
+titulo=m[2].replaceAll("_"," ").trim()
+}
 }
 
-}
-
-if(/^url-imagen/i.test(l))
-imagen=getValue(l);
-
-if(/^url-video/i.test(l))
-video=getValue(l);
-
-if(/^url-cancion/i.test(l))
-cancion=getValue(l);
-
-if(/^web-video/i.test(l))
-webVideo=getValue(l);
-
-if(/^web-audio/i.test(l))
-webAudio=getValue(l);
+if(/^url-imagen/i.test(l))imagen=getValue(l);
+if(/^url-video/i.test(l))video=getValue(l);
+if(/^url-cancion/i.test(l))cancion=getValue(l);
+if(/^web-video/i.test(l))webVideo=getValue(l);
+if(/^web-audio/i.test(l))webAudio=getValue(l);
 
 if(/^info/i.test(l)){
 
-let txt=l
-.replace(/^info\s*:/i,"")
+info.push(
+l.replace(/^info\s*:/i,"")
 .replace(/^\s*"+/,"")
-.trim();
-
-info.push(txt);
+.trim()
+);
 
 for(let j=i+1;j<lineas.length;j++){
-
 info.push(
 lineas[j]
 .replace(/^"+/,"")
 .replace(/"+$/,"")
 .trim()
-);
+)
+}
+
+break
+}
 
 }
 
-break;
-
-}
-
-}
-
-if(!imagen||!video||!cancion) return null;
+if(!imagen||!video||!cancion)return null;
 
 return{
 indice,
@@ -386,44 +342,31 @@ video,
 cancion,
 webVideo,
 webAudio,
-info:info.join("\n")
-.replace(/-{3,}/g,"")
-.trim()
-};
-
+info:info.join("\n").replace(/-{3,}/g,"").trim()
+}
 }
 
-
-/* Copiar URL */
 async function copiarURL(url){
 
 try{
-
 await navigator.clipboard.writeText(url);
-return true;
-
+return true
 }catch(e){
 
 try{
 
 const tmp=document.createElement("input");
-
 tmp.value=url;
-
 document.body.appendChild(tmp);
-
 tmp.select();
-
 document.execCommand("copy");
-
 document.body.removeChild(tmp);
-
-return true;
+return true
 
 }catch(error){
 
 console.error(error);
-return false;
+return false
 
 }
 
@@ -431,16 +374,15 @@ return false;
 
 }
 
-
-/* Cargar lista */
 async function cargar(){
 
 try{
 
-const res=await fetch("./Lista_de_Enlaces_de_Videos.txt");
+const res=await fetch(
+"./Lista_de_Enlaces_de_Videos.txt"
+);
 
-if(!res.ok)
-throw new Error("TXT no encontrado");
+if(!res.ok)throw new Error("TXT no encontrado");
 
 const txt=await res.text();
 
@@ -454,53 +396,31 @@ let total=0;
 
 for(const b of bloques){
 
-const lineas=b
-.split("\n")
+const lineas=b.split("\n")
 .map(l=>l.trim())
 .filter(Boolean);
 
 const d=parseBloque(lineas);
 
-if(!d||d.indice===null||d.indice===0)
-continue;
+if(!d||d.indice===null||d.indice===0)continue;
 
 const card=document.createElement("div");
 card.className="card";
 
-
-/* Título */
 const titulo=document.createElement("div");
-
 titulo.className="card-title";
+titulo.textContent=d.indice+" - "+d.titulo;
 
-titulo.textContent=
-d.indice+" - "+d.titulo;
+const buttonRowTop=document.createElement("div");
+buttonRowTop.className="button-row-top";
 
+const buttonRowBottom=document.createElement("div");
+buttonRowBottom.className="button-row-bottom";
 
-/* Primera línea */
-const buttonRowTop=
-document.createElement("div");
-
-buttonRowTop.className=
-"button-row-top";
-
-
-/* Segunda línea */
-const buttonRowBottom=
-document.createElement("div");
-
-buttonRowBottom.className=
-"button-row-bottom";
-
-
-/* Copiar URL-Video */
-const copyVideoBtn=
-document.createElement("button");
-
+/* Copiar URL-Video: web-video: */
+const copyVideoBtn=document.createElement("button");
 copyVideoBtn.className="copy-btn";
-
-copyVideoBtn.textContent=
-"Copiar URL-Video";
+copyVideoBtn.textContent="Copiar URL-Video";
 
 copyVideoBtn.onclick=async(e)=>{
 
@@ -508,9 +428,7 @@ e.stopPropagation();
 
 if(d.webVideo){
 
-const ok=await copiarURL(
-d.webVideo
-);
+const ok=await copiarURL(d.webVideo);
 
 if(ok)
 mostrarAviso(
@@ -521,15 +439,10 @@ mostrarAviso(
 
 };
 
-
-/* Copiar URL-Cancion */
-const copySongBtn=
-document.createElement("button");
-
+/* Copiar URL-Cancion: web-audio: */
+const copySongBtn=document.createElement("button");
 copySongBtn.className="copy-btn";
-
-copySongBtn.textContent=
-"Copiar URL-Cancion";
+copySongBtn.textContent="Copiar URL-Cancion";
 
 copySongBtn.onclick=async(e)=>{
 
@@ -537,9 +450,7 @@ e.stopPropagation();
 
 if(d.webAudio){
 
-const ok=await copiarURL(
-d.webAudio
-);
+const ok=await copiarURL(d.webAudio);
 
 if(ok)
 mostrarAviso(
@@ -550,65 +461,38 @@ mostrarAviso(
 
 };
 
-
 /* Info */
-const infoBtn=
-document.createElement("button");
-
+const infoBtn=document.createElement("button");
 infoBtn.className="info-btn";
-
 infoBtn.textContent="info";
 
 infoBtn.onclick=(e)=>{
 
 e.stopPropagation();
 
-abrirInfo(
-d.titulo,
-d.info
-);
+abrirInfo(d.titulo,d.info)
 
 };
 
-
 /* Solo Cancion */
-const btnCancion=
-document.createElement("button");
-
+const btnCancion=document.createElement("button");
 btnCancion.className="song-btn";
-
-btnCancion.textContent=
-"Solo Cancion";
+btnCancion.textContent="Solo Cancion";
 
 btnCancion.onclick=(e)=>{
 
 e.stopPropagation();
 
-window.open(
-d.cancion,
-"_blank"
-);
+window.open(d.cancion,"_blank")
 
 };
 
+/* Orden */
+buttonRowTop.appendChild(copyVideoBtn);
+buttonRowTop.appendChild(copySongBtn);
+buttonRowTop.appendChild(infoBtn);
 
-/* Orden de botones */
-buttonRowTop.appendChild(
-copyVideoBtn
-);
-
-buttonRowTop.appendChild(
-copySongBtn
-);
-
-buttonRowTop.appendChild(
-infoBtn
-);
-
-buttonRowBottom.appendChild(
-btnCancion
-);
-
+buttonRowBottom.appendChild(btnCancion);
 
 /* Imagen */
 const img=document.createElement("img");
@@ -616,21 +500,15 @@ const img=document.createElement("img");
 img.src=d.imagen;
 
 img.onerror=function(){
-
 this.onerror=null;
-this.src="portada.jpg";
-
+this.src="portada.jpg"
 };
 
 img.onclick=()=>{
-window.open(
-d.video,
-"_blank"
-);
+window.open(d.video,"_blank")
 };
 
-
-/* Construir tarjeta */
+/* Tarjeta */
 card.appendChild(titulo);
 card.appendChild(buttonRowTop);
 card.appendChild(buttonRowBottom);
@@ -638,23 +516,16 @@ card.appendChild(img);
 
 contenedor.appendChild(card);
 
-total++;
-
+total++
 }
 
-if(total===0){
-
-contenedor.innerHTML=
-"No se encontraron obras";
-
-}
+if(total===0)
+contenedor.innerHTML="No se encontraron obras";
 
 }catch(e){
 
-contenedor.innerHTML=
-"Error cargando la lista";
-
-console.error(e);
+contenedor.innerHTML="Error cargando la lista";
+console.error(e)
 
 }
 
@@ -667,3 +538,4 @@ cargar();
 
 </body>
 </html>
+
