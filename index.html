@@ -81,7 +81,7 @@ h1{
 
 .button-row{
   display:grid;
-  grid-template-columns: 1fr 1.45fr 0.8fr;
+  grid-template-columns: 1fr 1fr 1.55fr 0.8fr;
   gap:8px;
   padding:0 12px 10px 12px;
 }
@@ -295,17 +295,25 @@ async function cargar(){
       const buttonRow = document.createElement("div");
       buttonRow.className = "button-row";
 
-      const copyBtn = document.createElement("button");
-      copyBtn.className = "copy-btn";
-      copyBtn.textContent = "Copiar URL";
-      copyBtn.onclick = async (e) => {
+      const copyVideoBtn = document.createElement("button");
+      copyVideoBtn.className = "copy-btn";
+      copyVideoBtn.textContent = "Copiar URL-Video";
+      copyVideoBtn.onclick = async (e) => {
         e.stopPropagation();
-        if(d.webVideo) await copiarURL(d.webVideo);
+        if(d.video) await copiarURL(d.video);
+      };
+
+      const copySongBtn = document.createElement("button");
+      copySongBtn.className = "copy-btn";
+      copySongBtn.textContent = "Copiar URL-Canción";
+      copySongBtn.onclick = async (e) => {
+        e.stopPropagation();
+        if(d.cancion) await copiarURL(d.cancion);
       };
 
       const btnCancion = document.createElement("button");
       btnCancion.className = "song-btn";
-      btnCancion.textContent = "Solo Canción";
+      btnCancion.textContent = "Ver Solo Canción";
       btnCancion.onclick = (e) => {
         e.stopPropagation();
         window.open(d.cancion, "_blank");
@@ -313,13 +321,14 @@ async function cargar(){
 
       const infoBtn = document.createElement("button");
       infoBtn.className = "info-btn";
-      infoBtn.textContent = "Info";
+      infoBtn.textContent = "info";
       infoBtn.onclick = (e) => {
         e.stopPropagation();
         abrirInfo(d.titulo, d.info);
       };
 
-      buttonRow.appendChild(copyBtn);
+      buttonRow.appendChild(copyVideoBtn);
+      buttonRow.appendChild(copySongBtn);
       buttonRow.appendChild(btnCancion);
       buttonRow.appendChild(infoBtn);
 
@@ -357,4 +366,3 @@ cargar();
 
 </body>
 </html>
-
