@@ -253,7 +253,7 @@ url-imagen: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ci
 url-video: "https://drive.google.com/file/d/15zyo09Rbt2CYiXf6Ppqy8OP1En81MUVn/view"
 url-cancion: "https://drive.google.com/file/d/1mfsNQthlnIFoPvwKKa7KAphpbH11KYY4/view"
 web-video: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=k"
-web-cación: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=a"
+web-canción: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=a"
 info: "Compósición en idioma: español neutro.
 N.A."
 
@@ -1315,7 +1315,7 @@ url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada1.
 url-video: "https://drive.google.com/file/d/1LKo_FSN7Gdt9L38AhhgUVmDFlPHRJ_gY/view"
 url-cancion: "https://drive.google.com/file/d/1zMgdjj3AWENbPBk_HsecOP8vhFody9jc/view"
 web-video: "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t:k"
-web-audio: "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t:a"
+web-cancion: "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t:a"
 info: "Antes de que existiera el tiempo, una vibración infinita dio origen a 
        toda la creación. El ser humano lleva dentro de sí la misma esencia que
        anima a las estrellas y los mundos. En medio del ruido de las ciudades
@@ -1334,7 +1334,7 @@ url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.
 url-video: "https://drive.google.com/file/d/1PWTN8PLg_Rp2dMNDgR_68AI1eAbK0CLo/view"
 url-cancion: "https://drive.google.com/file/d/1oZVUqjWLK904hertfya8GALeCKse-rVZ/view"
 web-video: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=k"
-web-audio: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=a"
+web-cancion: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=a"
 info: "Antes de que existiera el tiempo, una vibración infinita dio origen a 
        toda la creación. El ser humano lleva dentro de sí la misma esencia que
        anima a las estrellas y los mundos. En medio del ruido de las ciudades
@@ -1353,7 +1353,7 @@ url-imagen: "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.
 url-video: "https://drive.google.com/file/d/1bkpugMPsybd--vzo8xSakLq_GXz4cV4m/view"
 url-cancion: "https://drive.google.com/file/d/1oZVUqjWLK904hertfya8GALeCKse-rVZ/view"
 web-video: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=p"
-web-audio: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=a"
+web-cancion: "https://lucksys.github.io/canciones/trascendencia_cosmica/index2?t=a"
 info: "Composición en Ingles, Antes de que existiera el tiempo, una vibración 
        infinita dio origen a toda la creación. El ser humano lleva dentro de
        sí la misma esencia que anima a las estrellas y los mundos. En medio del
@@ -1373,7 +1373,7 @@ url-imagen: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada.j
 url-video: "https://drive.google.com/file/d/1rQ_SrFSkMUf6zHz11dFuBlnB1xyWswiF/view"
 url-cancion: "https://drive.google.com/file/d/10crRniFxvWIIopg4oLSP7W2FmkpChu1G/view"
 web-video: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index1?t=k"
-web-audio: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index1?t=a"
+web-cancion: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index1?t=a"
 info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        las almas de dos maestros invisibles que se reconocen antes de nombrarse.
        En su centro vibra la ley secreta que une lo visible con lo oculto.
@@ -1392,7 +1392,7 @@ url-imagen: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada2.
 url-video: "https://drive.google.com/file/d/1fwlihn81IgKN64nwvozTyvWtrbqch0H8/view"
 url-cancion: "https://drive.google.com/file/d/10crRniFxvWIIopg4oLSP7W2FmkpChu1G/view"
 web-video: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index2?t=p"
-web-audio: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index2?t=a"
+web-cancion: "https://lucksys.github.io/canciones/l_eco_dell_invisibile/index2?t=a"
 info: "Composición en : Italiano  Florentino, La letra invoca el encuentro de
        las almas de dos maestros invisibles que se reconocen antes de nombrarse.
        En su centro vibra la ley secreta que une lo visible con lo oculto.
@@ -1411,7 +1411,7 @@ url-imagen: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/portad
 url-video: "https://drive.google.com/file/d/10qMg93wHru9DpDlsRP6i6Yw5u1PccSKl/view"
 url-cancion: "https://drive.google.com/file/d/1xbfXIoPfS1Q3ZzjgWP0iApSi4D8Kkksv/view"
 web-video: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=k"
-web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=a"
+web-cancion: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index?t=a"
 info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que 
        despierta bajo un cielo sin nombre y escucha una antigua llamada interior.
        Descubre una luz velada que oculta una verdad más profunda que la apariencia
@@ -1432,7 +1432,7 @@ url-imagen: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/portad
 url-video: "https://drive.google.com/file/d/1mcgoNEQZlTPII2V6lp7N8-eqBJDcSJ3K/view"
 url-cancion: "https://drive.google.com/file/d/1joy2sc3Kk2h2USjRjiiuWC00hgWsArlw/view"
 web-video: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index2?t=p"
-web-audio: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index2?t=a"
+web-cancion: "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/index2?t=a"
 info: "Composición en : Esppañol Cubano, La letra nos recuerda a un hombre que 
        despierta bajo un cielo sin nombre y escucha una antigua llamada interior.
        Descubre una luz velada que oculta una verdad más profunda que la apariencia
@@ -1453,7 +1453,7 @@ url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/porta
 url-video: "https://drive.google.com/file/d/10cLeSkT-fcfV2DB0lxcejuPOKp90M7oO/view"
 url-cancion: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=k"
-web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=a"
+web-cancion: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=a"
 info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
        que nos cuenta: En un canto al amor como vía de despertar.
        El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
@@ -1471,7 +1471,7 @@ url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/porta
 url-video: "https://drive.google.com/file/d/1tIPIKqAHsCvqqbMUGr7l6LjtkiOGHg_R/view"
 url-cancion: "https://drive.google.com/file/d/1SRKOjG8yyJGFlwJKkIAcVv-p7UDEwbk4/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=p"
-web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=a"
+web-cancion: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index?t=a"
 info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
        que nos cuenta: En un canto al amor como vía de despertar.
        El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
@@ -1489,7 +1489,7 @@ url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/porta
 url-video: "https://drive.google.com/file/d/1F3OFoPmAbyCdPRbdm6w-wygN6P0Q21r1/view"
 url-cancion: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=k"
-web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
+web-cancion: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
 info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
        que nos cuenta: En un canto al amor como vía de despertar.
        El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
@@ -1507,7 +1507,7 @@ url-imagen: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/porta
 url-video: "https://drive.google.com/file/d/12uklKSFgd8XjTTTe0RgkFkN5Y1GTGCIJ/view"
 url-cancion: "https://drive.google.com/file/d/1H7vnsi-WOMsw4FEKqM4TGOyFuunqbFkt/view"
 web-video: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=p"
-web-audio: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
+web-cancion: "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/index2?t=a"
 info: "Composición en : Italiano Florentino, Composición Musical en Italiano Florentino, 
        que nos cuenta: En un canto al amor como vía de despertar.
        El prójimo aparece como espejo del alma. La Alteridad enseña a mirar antes de 
@@ -1525,7 +1525,7 @@ url-imagen: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/portada.jpg
 url-video: "https://drive.google.com/file/d/1f2c_Kqv1IU1UbXfjrw8eckIsjV3MqrW8/view"
 url-cancion: "https://drive.google.com/file/d/1Jt9IAPibeM7NkZTz9ZH9n39zv-I-U6wT/view"
 web-video: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=k"
-web-audio: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=a"
+web-cancion: "https://lucksys.github.io/canciones/luz_ley_y_hermandad/index?t=a"
 info: "Composición en : Italiano Florentino, La composición celebra la efeméride
        del 18 de junio vinculada a las Constituciones de 1723.
        Describe el nacimiento de un orden simbólico basado en la luz, la razón y
@@ -1547,7 +1547,7 @@ url-imagen: "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_est
 url-video: "https://drive.google.com/file/d/1aewcS3zpnWzlZrAwWvQPA-CvgzMTBJVT/view"
 url-cancion: "https://drive.google.com/file/d/1dPCLGRzAdYGJfKYvGP9qttJNPDmA9HGb/view"
 web-video: "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_estirpe/index?t=k"
-web-audio: "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_estirpe/index?t=a"
+web-cancion: "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_estirpe/index?t=a"
 info: "Composición en : Ingles , La composición Soñé con un llamado ancestral que emerge desde
        un linaje olvidado por el tiempo.
        Un recuerdo misterioso despierta en el alma como si perteneciera a otra vida.
@@ -1567,7 +1567,7 @@ url-imagen: "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
 url-video: "https://drive.google.com/file/d/1se45Vp7VqBiAr4QvnMfjhTFnr9tYuXCG/view"
 url-cancion: "https://drive.google.com/file/d/1IP4AsbiRcFU35VTgA1cHk0XvwVZJs0_X/view"
 web-video: "https://lucksys.github.io/canciones/la_llama_doble/index?t=k"
-web-audio: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
+web-cancion: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
 info: "Composicion en español neutro , Dos llamas se buscan a través del 
        tiempo y del misterio.
        Sophia desciende a la materia para recordar su origen de luz.
@@ -1588,7 +1588,7 @@ url-imagen: "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
 url-video: "https://drive.google.com/file/d/1SenefSbjDA8yeETGvckyOjJrpfWgMNXu/view"
 url-cancion: "https://drive.google.com/file/d/1IP4AsbiRcFU35VTgA1cHk0XvwVZJs0_X/view"
 web-video: "https://lucksys.github.io/canciones/la_llama_doble/index?t=p"
-web-audio: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
+web-cancion: "https://lucksys.github.io/canciones/la_llama_doble/index?t=a"
 info: "Composicion en español neutro , Dos llamas se buscan a través del 
        tiempo y del misterio.
        Sophia desciende a la materia para recordar su origen de luz.
@@ -1609,7 +1609,7 @@ url-imagen: "https://lucksys.github.io/canciones/la_taverna_del_orden/portada.jp
 url-video: "https://drive.google.com/file/d/1Bwe0hhsbrNIhA6-bRWE1FGNycmqzjrTj/view"
 url-cancion: "https://drive.google.com/file/d/1o6oIvUT8nKvhyNnKcfPgat1QuTaT0CF3/view"
 web-video: "https://lucksys.github.io/canciones/la_taverna_del_orden/index?t=k"
-web-audio: "https://lucksys.github.io/canciones/la_taverna_del_orden/index?t=a"
+web-cancion: "https://lucksys.github.io/canciones/la_taverna_del_orden/index?t=a"
 info: "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los Masones),
        ubicada en la calle Great Queen de Londres una taberna londinense nació el 
        sueño de unificar el fútbol.En una taberna londinense nació el sueño de 
@@ -1629,7 +1629,7 @@ url-imagen:  "https://lucksys.github.io/canciones/la_taverna_del_orden/portada2.
 url-video:   "https://drive.google.com/file/d/1lKDHS1oBSPXzeACfj7efUf7WuU64X_zM/view"
 url-cancion: "https://drive.google.com/file/d/1o6oIvUT8nKvhyNnKcfPgat1QuTaT0CF3/view"
 web-video:   "https://lucksys.github.io/canciones/la_taverna_del_orden/index2?t=p"
-web-audio:   "https://lucksys.github.io/canciones/la_taverna_del_orden/index2?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/la_taverna_del_orden/index2?t=a"
 info:        "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los Masones),
               ubicada en la calle Great Queen de Londres una taberna londinense nació el 
               sueño de unificar el fútbol.En una taberna londinense nació el sueño de 
@@ -1650,7 +1650,7 @@ url-imagen:  "https://lucksys.github.io/canciones/no-camino_sola/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1DnjBTjvqGostYLhNfCTITQHXaUgcdy6G/view"
 url-cancion: "https://drive.google.com/file/d/12o4kE7hyF0lqEHNFZZdO8hVFTTXIa6rd/view"
 web-video:   "https://lucksys.github.io/canciones/no-camino_sola/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/no-camino_sola/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/no-camino_sola/index?t=a"
 info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarla, 
               pero no la domina. Una presencia firme la acompaña en el camino.
               Cada prueba se vuelve aprendizaje y fortaleza. La fe crece en medio
@@ -1666,7 +1666,7 @@ url-imagen:  "https://lucksys.github.io/canciones/no-camino_sola/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1vklFyaY-uVCQGqAPavmIyc7_RJy0BEw6/view"
 url-cancion: "https://drive.google.com/file/d/12o4kE7hyF0lqEHNFZZdO8hVFTTXIa6rd/view"
 web-video:   "https://lucksys.github.io/canciones/no-camino_sola/index2?t=p"
-web-audio:   "https://lucksys.github.io/canciones/no-camino_sola/index2?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/no-camino_sola/index2?t=a"
 info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarla, 
               pero no la domina. Una presencia firme la acompaña en el camino.
               Cada prueba se vuelve aprendizaje y fortaleza. La fe crece en medio
@@ -1682,7 +1682,7 @@ url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/p
 url-video:   "https://drive.google.com/file/d/1GnBEfQWxIvQ7VUwdf3X3ryZVgHX2z0o3/view"
 url-cancion: "https://drive.google.com/file/d/1m9vPwkuejEQGDWaXAr_-aQJtASeLlyIk/view"
 web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index1?t=k"
-web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index1?t=a"
 info:        "Español neutro,balada sinfónica que explora el viaje del alma a través de la pérdida, 
               la transformación y la memoria. La obra se inspira en la visión de la soledad 
               desarrollada por: Octavio Paz como una herida histórica y existencial. Evoca el dolor de
@@ -1704,7 +1704,7 @@ url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/p
 url-video:   "https://drive.google.com/file/d/1ZAW1FSvNq0KRVg4IuMT5CPMlqLMvtOGL/view"
 url-cancion: "https://drive.google.com/file/d/1m9vPwkuejEQGDWaXAr_-aQJtASeLlyIk/view"
 web-video:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index2?t=p"
-web-audio:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index2?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/index2?t=a"
 info:        "Español neutro,balada sinfónica que explora el viaje del alma a través de la pérdida, 
               la transformación y la memoria. La obra se inspira en la visión de la soledad 
               desarrollada por: Octavio Paz como una herida histórica y existencial. Evoca el dolor de
@@ -1726,7 +1726,7 @@ url-imagen:  "https://lucksys.github.io/canciones/la_palabra_olvidada/portada.jp
 url-video:   "https://drive.google.com/file/d/1srFV0ahjNBoFKMpTILnqd58n8LzPZYyh/view"
 url-cancion: "https://drive.google.com/file/d/1am9VrJPU7B01j7-eFAcXCfQ3kkpvsrKZ/view"
 web-video:   "https://lucksys.github.io/canciones/la_palabra_olvidada/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/la_palabra_olvidada/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/la_palabra_olvidada/index?t=a"
 info:        "Un antiguo herrero del bronce deja su huella entre el fuego, el mar y la
               memoria. Las viejas crónicas parecen susurrar una historia distinta a la
               que muchos recuerdan. La verdad permanece silenciosa mientras el tiempo
@@ -1746,7 +1746,7 @@ url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada.
 url-video:   "https://drive.google.com/file/d/1st9kqLyrEuiTRkn1GKASZCX3NcyDPXsI/view"
 url-cancion: "https://drive.google.com/file/d/1G_H8nmJEyDFED1U3_PBlrF85y6CFfFN7/view"
 web-video:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index?t=a"
 info:        "En el silencio interior comienza el descenso hacia la verdad oculta.
               El V.I.T.R.I.O.L. revela la piedra secreta escondida en el alma.
               Las Columnas de Hércules quedan atrás cuando el iniciado atraviesa el 
@@ -1768,7 +1768,7 @@ url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada.
 url-video:   "https://drive.google.com/file/d/1c-0rHJtop5R7PF9TjzJ7zOtnU2l-OkOK/view"
 url-cancion: "https://drive.google.com/file/d/1G_H8nmJEyDFED1U3_PBlrF85y6CFfFN7/view"
 web-video:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index?t=p"
-web-audio:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index?t=a"
 info:        "En el silencio interior comienza el descenso hacia la verdad oculta.
               El V.I.T.R.I.O.L. revela la piedra secreta escondida en el alma.
               Las Columnas de Hércules quedan atrás cuando el iniciado atraviesa el 
@@ -1790,7 +1790,7 @@ url-imagen:  "https://lucksys.github.io/canciones/sombra_sagrada/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1I2T2FvRHHOsL2s0-tQJR4b0-BTffY3Vu/view"
 url-cancion: "https://drive.google.com/file/d/1rAv9GUR60x8aQDieSj76tO04NiRcXS4H/view"
 web-video:   "https://lucksys.github.io/canciones/sombra_sagrada/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/sombra_sagrada/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/sombra_sagrada/index?t=a"
 info:        "Esta compsicion incorpora de forma simbólica, los principios de :
               La Sombra Sagrada como el Principio Inmanifestado, anterior a la 
               manifestación.
@@ -1812,7 +1812,7 @@ url-imagen:  "https://lucksys.github.io/canciones/tu_eres_mi_hogar/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1PmRj1t4FeRRUPSNnIagZC9-LUWB61cek/view"
 url-cancion: "https://drive.google.com/file/d/1XC1Pd1SA7eV48DNzgfBULWlCKPxeIo7y/view"
 web-video:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index1?t=k"
-web-audio:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index1?t=a"
 info:        "Composición en inglés. Un alma atraviesa un largo camino de búsqueda 
               en medio del frío y la oscuridad.
               La Luz interior revela la verdad oculta y transforma su esencia.
@@ -1835,7 +1835,7 @@ url-imagen:  "https://lucksys.github.io/canciones/tu_eres_mi_hogar/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/13PciqQUytrkm8IiSaJL_oNSdsJPqH93h/view"
 url-cancion: "https://drive.google.com/file/d/1H5LhgRthTUre-cSB6w_Uvw275eZ8n_al/view"
 web-video:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index2?t=k"
-web-audio:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index2?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/tu_eres_mi_hogar/index2?t=a"
 info:        "Composición en inglés. Un alma atraviesa un largo camino de búsqueda 
               en medio del frío y la oscuridad.
               La Luz interior revela la verdad oculta y transforma su esencia.
@@ -1858,7 +1858,7 @@ url-imagen:  "https://lucksys.github.io/canciones/catarsis_transmutacion_ilumina
 url-video:   "https://drive.google.com/file/d/1C_M3jieelUToNbiKVhwF5pJpVX9QCVvx/view"
 url-cancion: "https://drive.google.com/file/d/1C15BvI0qmukZLpcTw-py1iW9iKO7vReP/view"
 web-video:   "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/index?t=k"
-web-audio:   "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/index?t=a"
 info:        "Composición en Español neutro .La canción narra un viaje interior desde la 
               oscuridad hacia la iluminación.
               El alma despierta tras romper los velos de la ilusión y el miedo.
@@ -1878,7 +1878,7 @@ url-imagen:  "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/p
 url-video:   "https://drive.google.com/file/d/1Jc8jT9Elidc29BtnBptxUeGMIFQSqtls/view"
 url-cancion: "https://drive.google.com/file/d/1UPsrm4r626iDK7I6ByvM1Chc8C7sXYAj/view"
 web-video:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index1?t=k"
-web-audio:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index1?t=a"
 info:        "Composición en Español neutro. La composicion narra La canción narra el viaje
               del alma desde la oscuridad hacia la luz interior. Explora la vacuidad como 
               el punto de partida de toda transformación espiritual. El fuego alquímico 
@@ -1898,7 +1898,7 @@ url-imagen:  "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/p
 url-video:   "https://drive.google.com/file/d/1BFE_roXPLtaalstJliFheMq5VuP5pzSi/view"
 url-cancion: "https://drive.google.com/file/d/1gQre5AbumI-_mxmoRc3eil1FuaDNPKEt/view"
 web-video:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index2?t=k"
-web-audio:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index2?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/index2?t=a"
 info:        "Composición en Español neutro. La composicion narra La canción narra el viaje
               del alma desde la oscuridad hacia la luz interior. Explora la vacuidad como 
               el punto de partida de toda transformación espiritual. El fuego alquímico 
@@ -1918,7 +1918,7 @@ url-imagen:  "https://lucksys.github.io/canciones/hieros_gamos/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1J2OjWfTanAc7YjOwggViM9Za_e2rdLRT/view"
 url-cancion: "https://drive.google.com/file/d/1g9eqO7Rzsu9W1ShASNUmyLgKPbqjZtkE/view"
 web-video:   "https://lucksys.github.io/canciones/hieros_gamos/index?t=p"
-web-audio:   "https://lucksys.github.io/canciones/hieros_gamos/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/hieros_gamos/index?t=a"
 info:        "Composición en italiano Florentino. Esta balada mística narra el ascenso por
               los peldaños de la escala de transmutación interna. El fuego equilibrado de 
               la llama doble actúa como el motor que purifica las sombras del alma. A 
@@ -1939,7 +1939,7 @@ url-imagen:  "https://lucksys.github.io/canciones/alquimia-vanguardia-liberacion
 url-video:   "https://drive.google.com/file/d/1SeDKVMiSccrJ9VgrKrmxLBO3DePaCT2S/view"
 url-cancion: "https://drive.google.com/file/d/1Izw5GSqCEGGtv62324TiHl-hG2iFA6FQ/view"
 web-video:   "https://lucksys.github.io/canciones/alquimia-vanguardia-liberacion/index?t=p"
-web-audio:   "https://lucksys.github.io/canciones/alquimia-vanguardia-liberacion/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/alquimia-vanguardia-liberacion/index?t=a"
 info:        "Composición en Español Neutro. balada muy lenta es un diálogo íntimo entre el 
               alma y el espíritu.
               ​La voz de mezzosoprano inicia el viaje desde la profundidad de su búsqueda 
@@ -1963,7 +1963,7 @@ url-imagen:  "https://lucksys.github.io/canciones/el_arco_y_la_lyra/portada.jpg"
 url-video:   "https://drive.google.com/file/d/176zteL76RTHv6OZZAVIsU6EkKnLZVXqs/view"
 url-cancion: "https://drive.google.com/file/d/1CgRGITryHr77ePWt38gMJX6z0HFEIeaO/view"
 web-video:   "https://lucksys.github.io/canciones/el_arco_y_la_lyra/index?t=p"
-web-audio:   "https://lucksys.github.io/canciones/el_arco_y_la_lyra/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/el_arco_y_la_lyra/index?t=a"
 info:        "Composición en Español Neutro. balada, basada en la Metafora de Heraclito 
               de éfeso : El Arco y la Lyra. Y en la obra Homóloga de Octavio Paz.
               El Arco representa La tensión que tira hacia atrás para disparar la flecha
@@ -1984,7 +1984,7 @@ url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encon
 url-video:   "https://drive.google.com/file/d/1Hfic3_i5HipVB8XBoOV0GH9OdW-RHm5E/view"
 url-cancion: "https://drive.google.com/file/d/1VBnXwKwjAyfXYST-JZQ7B1AQrX5ZocXk/view"
 web-video:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index?t=p"
-web-audio:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index?t=a"
 info:        "Composición en Ingles Esta composición relata la búsqueda de una luz que 
               habita en el el alma (Psique).
               El alma atraviesa la soledad, la incertidumbre y el anhelo de un encuentro
@@ -2006,7 +2006,7 @@ url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encon
 url-video:   "https://drive.google.com/file/d/1qI8K7-4bDNz2-w0BuZxgaB7zHik9iYJB/view"
 url-cancion: "https://drive.google.com/file/d/1mw8fNKoc3Ktr0gEY8OhuepnwRxMHGSsE/view"
 web-video:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index2?t=p"
-web-audio:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index2?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/index2?t=a"
 info:        "Composición en Ingles Esta composición relata la búsqueda de una luz que 
               habita en el el alma (Psique).
               El alma atraviesa la soledad, la incertidumbre y el anhelo de un encuentro
@@ -2028,7 +2028,7 @@ url-imagen:  "https://lucksys.github.io/canciones/mas_alla-del-nombre/portada1.j
 url-video:   "https://drive.google.com/file/d/1UAp6bOSzMJuP2J7iLrI7d3vqq-D71Clw/view"
 url-cancion: "https://drive.google.com/file/d/1AzjO4DZG8kQZ_MHlhlwMoyT8i_rtRMg5/view"
 web-video:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index1?t=p"
-web-audio:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index1?t=a"
 info:        "Composicion musical en Ingles, En el silencio del corazón nace una luz que 
               transforma el dolor en paz. La verdadera verdad no se encuentra en templos,
               sino en el interior del ser.
@@ -2050,7 +2050,7 @@ url-imagen:  "https://lucksys.github.io/canciones/mas_alla-del-nombre/portada2.j
 url-video:   "https://drive.google.com/file/d/1UAyIpsW8ZP6YW5AsBx2Ye5qJZ6zPF1EU/view"
 url-cancion: "https://drive.google.com/file/d/143KBgtgR6zh_wY09FoaQdsd4xsXw3Icr/view"
 web-video:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index2?t=p"
-web-audio:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index2?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/mas_alla-del-nombre/index2?t=a"
 info:        "Composicion musical en Ingles, En el silencio del corazón nace una luz que 
               transforma el dolor en paz. La verdadera verdad no se encuentra en templos,
               sino en el interior del ser.
@@ -2072,7 +2072,7 @@ url-imagen:  "https://lucksys.github.io/canciones/canto_de_ecos_ancestrales/port
 url-video:   "https://drive.google.com/file/d/1E8dpkySqpRtdhW0uuCJ5jc2slLOtWZiu/view"
 url-cancion: "https://drive.google.com/file/d/1-3QsDOCwXaFmQUv3S9MYD6Gv0q-iAyz7/view"
 web-video:   "https://lucksys.github.io/canciones/canto_de_ecos_ancestrales/index1?t=p"
-web-audio:   "https://lucksys.github.io/canciones/canto_de_ecos_ancestrales/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/canto_de_ecos_ancestrales/index1?t=a"
 info:        "Composicion en idioma Ingles. Sombras ancestrales despiertan recuerdos 
               imposibles.
               Ecos de vidas pasadas resuenan en la memoria. Los sueños revelan caminos 
@@ -2091,7 +2091,7 @@ url-imagen:  "https://lucksys.github.io/canciones/the_sparks_at_saint-germain/po
 url-video:   "https://drive.google.com/file/d/1__MAQhdNXwSXYVynNnJzOYNoCGVB7h0v/view"
 url-cancion: "https://drive.google.com/file/d/1XN8kdjeSM_udrIdZuZvZbAFrHsmbrOR-/view"
 web-video:   "https://lucksys.github.io/canciones/the_sparks_at_saint-germain/index1?t=p"
-web-audio:   "https://lucksys.github.io/canciones/the_sparks_at_saint-germain/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/the_sparks_at_saint-germain/index1?t=a"
 info:        "Composiónn en ingles, cuenta a travez de una emotiva balada ochentera 
               inspirada en la llegada de las logias jacobitas al Castillo de 
               Saint-Germain-en-Laye. Explora cómo esa histórica estancia en suelo 
@@ -2112,7 +2112,7 @@ url-imagen:  "https://lucksys.github.io/canciones/la_ilusion_y_la_Luz/portada1.j
 url-video:   "https://drive.google.com/file/d/1yufjIN5TcNDFO7yTDzUMU42-_vJAkicj/view"
 url-cancion: "https://drive.google.com/file/d/1lX0v712V7nJNXU3P-RUXtLK-rcq_Nirm/view"
 web-video:   "https://lucksys.github.io/canciones/la_ilusion_y_la_Luz/index1?t=p"
-web-audio:   "https://lucksys.github.io/canciones/la_ilusion_y_la_Luz/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/la_ilusion_y_la_Luz/index1?t=a"
 info:        "Composiónn en Italiano Napolitano Un velo de sombra y olvido nos hace 
               creer que la materia es nuestra única casa.
               En el encierro del mundo terrenal, la mirada del ser amado actúa como 
@@ -2135,7 +2135,7 @@ url-imagen:  "https://lucksys.github.io/canciones/el_velo_de_la_dyada/portada1.j
 url-video:   "https://drive.google.com/file/d/1-xAPXF_C43OkzmBDyhV0qgUENrmkLgCc/view"
 url-cancion: "https://drive.google.com/file/d/1F8NWta2zl_Qd1TFeowo7PmIF3CyJ1Wp1/view"
 web-video:   "https://lucksys.github.io/canciones/el_velo_de_la_dyada/index1?t=p"
-web-audio:   "https://lucksys.github.io/canciones/el_velo_de_la_dyada/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/el_velo_de_la_dyada/index1?t=a"
 info:        "Composión en españolneutro .La mente levanta un velo que aparenta 
               dividir la realidad en opuestos irreconciliables. La luz y la sombra 
               revelan ser reflejos de una misma fuente eterna.
@@ -2157,7 +2157,7 @@ url-imagen:  "https://lucksys.github.io/canciones/yo_soy/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1KzvcOUenYxxzDekG_vEQLiv3xvGoyznq/view"
 url-cancion: "https://drive.google.com/file/d/1KTtUHEUMoz8IAfNlFrhrjMpCB_2seutW/view"
 web-video:   "https://lucksys.github.io/canciones/yo_soy/index1?t=p"
-web-audio:   "https://lucksys.github.io/canciones/yo_soy/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/yo_soy/index1?t=a"
 info:        "Composión en español neutro .Sofía engendra un velo que aprisiona 
               la chispa divina en la materia.
               El mundo moderno se convierte en un laberinto de ruido, afán y 
@@ -2179,7 +2179,7 @@ url-imagen:  "https://lucksys.github.io/canciones/recuerda_tu_luz_interior/porta
 url-video:   "https://drive.google.com/file/d/12THOloS-bWWqucgMyiZTKn0BXZqUOFwi/view"
 url-cancion: "https://drive.google.com/file/d/1NWJZ_vGOkIkga14-rx2QFiHst-wdntoA/view"
 web-video:   "https://lucksys.github.io/canciones/recuerda_tu_luz_interior/index1?t=p"
-web-audio:   "https://lucksys.github.io/canciones/recuerda_tu_luz_interior/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/recuerda_tu_luz_interior/index1?t=a"
 info:        "Composión en español neutro .balada iniciática sobre el despertar de la
               conciencia.
               La composición presenta al alma como una buscadora que atraviesa el velo 
@@ -2203,7 +2203,7 @@ url-imagen:  "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/porta
 url-video:   "https://drive.google.com/file/d/12Fy7mWAV6xpqOlwjexxYbptl-tGU6nMM/view"
 url-cancion: "https://drive.google.com/file/d/1_d4NB8PNdaIPXah_Ktk1_fV9adjCaZJT/view"
 web-video:   "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/index1?t=p"
-web-audio:   "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/index1?t=a"
+web-cancion:   "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/index1?t=a"
 info:        "Composión en español neutro .balada iniciática 
               Una antigua voz despierta desde el silencio del taller.
               Cada símbolo es una invitación a mirar hacia el interior.
