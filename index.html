@@ -24,7 +24,9 @@
 --text:#f3e7b3;
 }
 
-*{box-sizing:border-box}
+*{
+box-sizing:border-box
+}
 
 body{
 margin:0;
@@ -127,6 +129,7 @@ background:#000;
 cursor:pointer
 }
 
+/* Aviso de copia solamente en sistemas de escritorio */
 .copy-notification{
 position:fixed;
 left:50%;
@@ -144,6 +147,7 @@ font-family:Georgia,serif;
 font-size:20px;
 font-weight:bold;
 line-height:1.4;
+white-space:pre-line;
 box-shadow:0 0 25px rgba(212,175,55,.55);
 z-index:9999;
 display:none;
@@ -250,9 +254,11 @@ infoOverlay.classList.remove("active")
 };
 
 function esEscritorio(){
+
 return !/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
 && navigator.maxTouchPoints===0
 && !("ontouchstart" in window);
+
 }
 
 let notificationTimer;
@@ -261,94 +267,123 @@ function mostrarAviso(tipo,titulo){
 
 if(!esEscritorio())return;
 
-copyNotification.textContent="";
-
-const linea1=document.createElement("div");
-linea1.textContent=tipo+": \""+titulo+"\".";
-
-const linea2=document.createElement("div");
-linea2.textContent="Copiado al Portapapeles.";
-
-copyNotification.appendChild(linea1);
-copyNotification.appendChild(linea2);
+copyNotification.textContent=
+tipo+": \""+titulo+"\".\n"+
+"Copiado al Portapapeles.";
 
 copyNotification.classList.add("active");
 
 clearTimeout(notificationTimer);
 
 notificationTimer=setTimeout(()=>{
-copyNotification.classList.remove("active")
+copyNotification.classList.remove("active");
 },2500);
+
 }
 
 function abrirInfo(titulo,texto){
+
 infoTitulo.textContent=titulo;
 infoTexto.textContent=texto;
-infoOverlay.classList.add("active")
+infoOverlay.classList.add("active");
+
 }
 
 function getValue(line){
+
 const m=line.match(/:\s*"?([^"]+)/);
-return m?m[1].trim():null
+
+return m?m[1].trim():null;
+
 }
 
 function parseBloque(lineas){
 
-let indice=null,titulo="",imagen=null,video=null,
-cancion=null,webVideo=null,webAudio=null,info=[];
+let indice=null;
+let titulo="";
+let imagen=null;
+let video=null;
+let cancion=null;
+let webVideo=null;
+let webAudio=null;
+let info=[];
 
 for(let i=0;i<lineas.length;i++){
 
 let l=lineas[i];
 
 if(i===0){
+
 let m=l.match(/^\s*(\d+)\s*-\s*(.+)/);
+
 if(m){
+
 indice=parseInt(m[1]);
-titulo=m[2].replaceAll("_"," ").trim()
-}
+titulo=m[2].replaceAll("_"," ").trim();
+
 }
 
-if(/^url-imagen/i.test(l))imagen=getValue(l);
-if(/^url-video/i.test(l))video=getValue(l);
-if(/^url-cancion/i.test(l))cancion=getValue(l);
-if(/^web-video/i.test(l))webVideo=getValue(l);
-if(/^web-audio/i.test(l))webAudio=getValue(l);
+}
+
+if(/^url-imagen/i.test(l))
+imagen=getValue(l);
+
+if(/^url-video/i.test(l))
+video=getValue(l);
+
+if(/^url-cancion/i.test(l))
+cancion=getValue(l);
+
+if(/^web-video/i.test(l))
+webVideo=getValue(l);
+
+if(/^web-audio/i.test(l))
+webAudio=getValue(l);
 
 if(/^info/i.test(l){
 
-info.push(
-l.replace(/^info\s*:/i,"")
+let txt=l
+.replace(/^info\s*:/i,"")
 .replace(/^\s*"+/,"")
-.trim()
-);
+.trim();
+
+info.push(txt);
 
 for(let j=i+1;j<lineas.length;j++){
+
 info.push(
 lineas[j]
 .replace(/^"+/,"")
 .replace(/"+$/,"")
 .trim()
-)
-}
-
-break
-}
+);
 
 }
 
-if(!imagen||!video||!cancion)return null;
+break;
+
+}
+
+}
+
+if(!imagen||!video||!cancion)
+return null;
 
 return{
-indice,
-titulo,
-imagen,
-video,
-cancion,
-webVideo,
-webAudio,
-info:info.join("\n").replace(/-{3,}/g,"").trim()
-}
+
+indice:indice,
+titulo:titulo,
+imagen:imagen,
+video:video,
+cancion:cancion,
+webVideo:webVideo,
+webAudio:webAudio,
+info:info.join("\n")
+.replace(/-{3,}/g,"")
+.trim()
+
+};
+
 }
 
 async function copiarURL(url){
@@ -356,7 +391,8 @@ async function copiarURL(url){
 try{
 
 await navigator.clipboard.writeText(url);
-return true
+
+return true;
 
 }catch(e){
 
@@ -374,12 +410,13 @@ document.execCommand("copy");
 
 document.body.removeChild(tmp);
 
-return true
+return true;
 
 }catch(error){
 
 console.error(error);
-return false
+
+return false;
 
 }
 
@@ -410,7 +447,8 @@ let total=0;
 
 for(const b of bloques){
 
-const lineas=b.split("\n")
+const lineas=b
+.split("\n")
 .map(l=>l.trim())
 .filter(Boolean);
 
@@ -420,6 +458,7 @@ if(!d||d.indice===null||d.indice===0)
 continue;
 
 const card=document.createElement("div");
+
 card.className="card";
 
 const titulo=document.createElement("div");
@@ -442,10 +481,12 @@ buttonRowBottom.className=
 "button-row-bottom";
 
 /* Copiar URL-Video */
+
 const copyVideoBtn=
 document.createElement("button");
 
-copyVideoBtn.className="copy-btn";
+copyVideoBtn.className=
+"copy-btn";
 
 copyVideoBtn.textContent=
 "Copiar URL-Video";
@@ -456,11 +497,11 @@ e.stopPropagation();
 
 if(d.webVideo){
 
-const ok=await copiarURL(
-d.webVideo
-);
+const ok=
+await copiarURL(d.webVideo);
 
-if(ok)
+if(ok){
+
 mostrarAviso(
 "URL-Video",
 d.titulo
@@ -468,13 +509,17 @@ d.titulo
 
 }
 
+}
+
 };
 
 /* Copiar URL-Cancion */
+
 const copySongBtn=
 document.createElement("button");
 
-copySongBtn.className="copy-btn";
+copySongBtn.className=
+"copy-btn";
 
 copySongBtn.textContent=
 "Copiar URL-Cancion";
@@ -485,11 +530,11 @@ e.stopPropagation();
 
 if(d.webAudio){
 
-const ok=await copiarURL(
-d.webAudio
-);
+const ok=
+await copiarURL(d.webAudio);
 
-if(ok)
+if(ok){
+
 mostrarAviso(
 "URL-Cancion",
 d.titulo
@@ -497,15 +542,20 @@ d.titulo
 
 }
 
+}
+
 };
 
 /* Info */
+
 const infoBtn=
 document.createElement("button");
 
-infoBtn.className="info-btn";
+infoBtn.className=
+"info-btn";
 
-infoBtn.textContent="info";
+infoBtn.textContent=
+"info";
 
 infoBtn.onclick=(e)=>{
 
@@ -519,10 +569,12 @@ d.info
 };
 
 /* Solo Cancion */
+
 const btnCancion=
 document.createElement("button");
 
-btnCancion.className="song-btn";
+btnCancion.className=
+"song-btn";
 
 btnCancion.textContent=
 "Solo Cancion";
@@ -539,6 +591,7 @@ d.cancion,
 };
 
 /* Primera línea */
+
 buttonRowTop.appendChild(
 copyVideoBtn
 );
@@ -552,11 +605,13 @@ infoBtn
 );
 
 /* Segunda línea */
+
 buttonRowBottom.appendChild(
 btnCancion
 );
 
 /* Imagen */
+
 const img=
 document.createElement("img");
 
@@ -570,13 +625,16 @@ this.src="portada.jpg";
 };
 
 img.onclick=()=>{
+
 window.open(
 d.video,
 "_blank"
 );
+
 };
 
-/* Tarjeta */
+/* Construcción de la tarjeta */
+
 card.appendChild(titulo);
 
 card.appendChild(
