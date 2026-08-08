@@ -92,7 +92,7 @@ h1{
 /* Primera línea: 3 botones */
 .button-row-top{
   display:grid;
-  grid-template-columns: 1.25fr 1.25fr 0.6fr;
+  grid-template-columns:1.25fr 1.25fr 0.6fr;
   gap:6px;
   padding:0 12px 8px 12px;
   width:100%;
@@ -128,6 +128,33 @@ h1{
   display:block;
   background:#000;
   cursor:pointer;
+}
+
+/* =====================================================
+   INDICADOR DE COPIA PARA WINDOWS / LINUX / macOS
+   ===================================================== */
+
+.copy-notification{
+  position:fixed;
+  left:50%;
+  bottom:25px;
+  transform:translateX(-50%);
+  background:#111;
+  color:var(--gold);
+  border:1px solid var(--gold);
+  border-radius:8px;
+  padding:10px 18px;
+  font-family:Georgia,serif;
+  font-size:14px;
+  box-shadow:0 0 15px rgba(212,175,55,.35);
+  z-index:9999;
+  display:none;
+  text-align:center;
+  pointer-events:none;
+}
+
+.copy-notification.active{
+  display:block;
 }
 
 .info-overlay{
@@ -167,231 +194,625 @@ h1{
 <body>
 
 <div class="overlay">
+
   <h1>Composiciones Musicales para el Alma</h1>
 
   <div class="container">
+
     <div class="column">
+
       <h2>Videos Karaoke</h2>
+
       <div id="videos" class="grid">
         <div class="loading">Cargando...</div>
       </div>
+
     </div>
 
     <div class="column">
+
       <h2>Video-Presentaciones / Video-Planchas</h2>
+
       <div class="grid">
         <p>Próximamente...</p>
       </div>
+
     </div>
+
   </div>
+
 </div>
 
+
+<!-- INDICADOR DE COPIA -->
+<div id="copyNotification" class="copy-notification"></div>
+
+
+<!-- VENTANA INFO -->
 <div id="infoOverlay" class="info-overlay">
+
   <div class="info-popup">
+
     <button id="infoClose" class="info-close">X</button>
+
     <h3 id="infoTitulo"></h3>
+
     <p id="infoTexto"></p>
+
   </div>
+
 </div>
+
 
 <script>
 (function(){
 
-const contenedor = document.getElementById("videos");
-const infoOverlay = document.getElementById("infoOverlay");
-const infoTitulo = document.getElementById("infoTitulo");
-const infoTexto = document.getElementById("infoTexto");
+const contenedor =
+  document.getElementById("videos");
+
+const infoOverlay =
+  document.getElementById("infoOverlay");
+
+const infoTitulo =
+  document.getElementById("infoTitulo");
+
+const infoTexto =
+  document.getElementById("infoTexto");
+
+const copyNotification =
+  document.getElementById("copyNotification");
+
+
+/* =====================================================
+   DETECTAR DISPOSITIVOS MÓVILES
+   Android / iOS NO MOSTRARÁN EL AVISO
+   ===================================================== */
+
+function esDispositivoMovil(){
+
+  const ua = navigator.userAgent || navigator.vendor || window.opera;
+
+  return /android|iphone|ipad|ipod|iemobile|mobile/i.test(ua);
+
+}
+
+
+/* =====================================================
+   MOSTRAR AVISO SOLAMENTE EN ESCRITORIO
+   ===================================================== */
+
+let notificationTimer = null;
+
+function mostrarAvisoCopia(mensaje){
+
+  if(esDispositivoMovil())
+    return;
+
+  copyNotification.textContent = "✓ " + mensaje;
+
+  copyNotification.classList.add("active");
+
+  clearTimeout(notificationTimer);
+
+  notificationTimer = setTimeout(function(){
+
+    copyNotification.classList.remove("active");
+
+  },2500);
+
+}
+
 
 document.getElementById("infoClose").onclick =
   () => infoOverlay.classList.remove("active");
 
-function abrirInfo(titulo, texto){
+
+function abrirInfo(titulo,texto){
+
   infoTitulo.textContent = titulo;
+
   infoTexto.textContent = texto;
+
   infoOverlay.classList.add("active");
+
 }
 
+
 function getValue(line){
-  const m = line.match(/:\s*"?([^"]+)/);
+
+  const m =
+    line.match(/:\s*"?([^"]+)/);
+
   return m ? m[1].trim() : null;
+
 }
+
 
 function parseBloque(lineas){
 
   let indice = null;
+
   let titulo = "";
+
   let imagen = null;
+
   let video = null;
+
   let cancion = null;
+
   let webVideo = null;
+
   let webAudio = null;
+
   let info = [];
+
 
   for(let i = 0; i < lineas.length; i++){
 
     let l = lineas[i];
 
+
     if(i === 0){
-      let m = l.match(/^\s*(\d+)\s*-\s*(.+)/);
+
+      let m =
+        l.match(/^\s*(\d+)\s*-\s*(.+)/);
+
       if(m){
-        indice = parseInt(m[1]);
-        titulo = m[2].replaceAll("_"," ").trim();
+
+        indice =
+          parseInt(m[1]);
+
+        titulo =
+          m[2]
+            .replaceAll("_"," ")
+            .trim();
+
       }
+
     }
 
-    if(/^url-imagen/i.test(l)) imagen = getValue(l);
-    if(/^url-video/i.test(l)) video = getValue(l);
-    if(/^url-cancion/i.test(l)) cancion = getValue(l);
-    if(/^web-video/i.test(l)) webVideo = getValue(l);
-    if(/^web-audio/i.test(l)) webAudio = getValue(l);
+
+    if(/^url-imagen/i.test(l))
+      imagen = getValue(l);
+
+
+    if(/^url-video/i.test(l))
+      video = getValue(l);
+
+
+    if(/^url-cancion/i.test(l))
+      cancion = getValue(l);
+
+
+    /* URL PARA COMPARTIR EL VIDEO */
+    if(/^web-video/i.test(l))
+      webVideo = getValue(l);
+
+
+    /* URL PARA COMPARTIR EL AUDIO */
+    if(/^web-audio/i.test(l))
+      webAudio = getValue(l);
+
 
     if(/^info/i.test(l)){
-      let txt = l.replace(/^info\s*:/i,"").replace(/^\s*"+/, "").trim();
+
+      let txt =
+        l
+          .replace(/^info\s*:/i,"")
+          .replace(/^\s*"+/,"")
+          .trim();
+
       info.push(txt);
 
+
       for(let j = i + 1; j < lineas.length; j++){
+
         info.push(
           lineas[j]
-            .replace(/^"+/, "")
-            .replace(/"+$/, "")
+            .replace(/^"+/,"")
+            .replace(/"+$/,"")
             .trim()
         );
+
       }
+
       break;
+
     }
+
   }
 
-  if(!imagen || !video || !cancion) return null;
+
+  if(!imagen || !video || !cancion)
+    return null;
+
 
   return{
+
     indice,
+
     titulo,
+
     imagen,
+
     video,
+
     cancion,
+
     webVideo,
+
     webAudio,
-    info: info.join("\n")
-      .replace(/-{3,}/g,"")
-      .trim()
+
+    info:
+      info
+        .join("\n")
+        .replace(/-{3,}/g,"")
+        .trim()
+
   };
+
 }
 
+
+/* =====================================================
+   COPIAR URL AL PORTAPAPELES
+   ===================================================== */
+
 async function copiarURL(url){
+
   try{
+
     await navigator.clipboard.writeText(url);
+
+    return true;
+
   }
+
   catch(e){
-    const tmp = document.createElement("input");
-    tmp.value = url;
-    document.body.appendChild(tmp);
-    tmp.select();
-    document.execCommand("copy");
-    document.body.removeChild(tmp);
+
+    try{
+
+      const tmp =
+        document.createElement("input");
+
+      tmp.value = url;
+
+      document.body.appendChild(tmp);
+
+      tmp.select();
+
+      document.execCommand("copy");
+
+      document.body.removeChild(tmp);
+
+      return true;
+
+    }
+
+    catch(error){
+
+      console.error(error);
+
+      return false;
+
+    }
+
   }
+
 }
+
+
+/* =====================================================
+   CARGAR LISTA
+   ===================================================== */
 
 async function cargar(){
 
   try{
 
-    const res = await fetch("./Lista_de_Enlaces_de_Videos.txt");
-    if(!res.ok) throw new Error("TXT no encontrado");
+    const res =
+      await fetch("./Lista_de_Enlaces_de_Videos.txt");
 
-    const txt = await res.text();
 
-    const bloques = txt.split(/\n(?=\s*\d+\s*-\s*)/);
+    if(!res.ok)
+      throw new Error("TXT no encontrado");
+
+
+    const txt =
+      await res.text();
+
+
+    const bloques =
+      txt.split(/\n(?=\s*\d+\s*-\s*)/);
+
 
     contenedor.innerHTML = "";
 
+
     let total = 0;
+
 
     for(const b of bloques){
 
-      const lineas = b.split("\n").map(l => l.trim()).filter(Boolean);
+      const lineas =
+        b
+          .split("\n")
+          .map(l => l.trim())
+          .filter(Boolean);
 
-      const d = parseBloque(lineas);
 
-      if(!d || d.indice === null || d.indice === 0) continue;
+      const d =
+        parseBloque(lineas);
 
-      const card = document.createElement("div");
+
+      if(
+        !d ||
+        d.indice === null ||
+        d.indice === 0
+      )
+        continue;
+
+
+      const card =
+        document.createElement("div");
+
       card.className = "card";
 
-      const titulo = document.createElement("div");
+
+      const titulo =
+        document.createElement("div");
+
       titulo.className = "card-title";
-      titulo.textContent = d.indice + " - " + d.titulo;
 
-      const buttonRowTop = document.createElement("div");
-      buttonRowTop.className = "button-row-top";
+      titulo.textContent =
+        d.indice + " - " + d.titulo;
 
-      const buttonRowBottom = document.createElement("div");
-      buttonRowBottom.className = "button-row-bottom";
 
-      const copyVideoBtn = document.createElement("button");
-      copyVideoBtn.className = "copy-btn";
-      copyVideoBtn.textContent = "Copiar URL-Video";
-      copyVideoBtn.onclick = async (e) => {
-        e.stopPropagation();
-        if(d.webVideo) await copiarURL(d.webVideo);
-      };
+      const buttonRowTop =
+        document.createElement("div");
 
-      const copySongBtn = document.createElement("button");
-      copySongBtn.className = "copy-btn";
-      copySongBtn.textContent = "Copiar URL-Cancion";
-      copySongBtn.onclick = async (e) => {
-        e.stopPropagation();
-        if(d.webAudio) await copiarURL(d.webAudio);
-      };
+      buttonRowTop.className =
+        "button-row-top";
 
-      const infoBtn = document.createElement("button");
-      infoBtn.className = "info-btn";
-      infoBtn.textContent = "info";
-      infoBtn.onclick = (e) => {
-        e.stopPropagation();
-        abrirInfo(d.titulo, d.info);
-      };
 
-      const btnCancion = document.createElement("button");
-      btnCancion.className = "song-btn";
-      btnCancion.textContent = "Solo Cancion";
-      btnCancion.onclick = (e) => {
-        e.stopPropagation();
-        window.open(d.cancion, "_blank");
-      };
+      const buttonRowBottom =
+        document.createElement("div");
 
-      buttonRowTop.appendChild(copyVideoBtn);
-      buttonRowTop.appendChild(copySongBtn);
-      buttonRowTop.appendChild(infoBtn);
+      buttonRowBottom.className =
+        "button-row-bottom";
 
-      buttonRowBottom.appendChild(btnCancion);
 
-      const img = document.createElement("img");
-      img.src = d.imagen;
-      img.onerror = function(){
-        this.onerror = null;
-        this.src = "portada.jpg";
-      };
-      img.onclick = () => window.open(d.video, "_blank");
+      /* =================================================
+         COPIAR URL-VIDEO
+         COPIA web-video:
+         ================================================= */
+
+      const copyVideoBtn =
+        document.createElement("button");
+
+      copyVideoBtn.className =
+        "copy-btn";
+
+      copyVideoBtn.textContent =
+        "Copiar URL-Video";
+
+
+      copyVideoBtn.onclick =
+        async (e) => {
+
+          e.stopPropagation();
+
+
+          if(d.webVideo){
+
+            const copiado =
+              await copiarURL(d.webVideo);
+
+
+            if(copiado){
+
+              mostrarAvisoCopia(
+                "URL-Video copiada al portapapeles"
+              );
+
+            }
+
+          }
+
+        };
+
+
+      /* =================================================
+         COPIAR URL-CANCION
+         COPIA web-audio:
+         ================================================= */
+
+      const copySongBtn =
+        document.createElement("button");
+
+      copySongBtn.className =
+        "copy-btn";
+
+      copySongBtn.textContent =
+        "Copiar URL-Cancion";
+
+
+      copySongBtn.onclick =
+        async (e) => {
+
+          e.stopPropagation();
+
+
+          if(d.webAudio){
+
+            const copiado =
+              await copiarURL(d.webAudio);
+
+
+            if(copiado){
+
+              mostrarAvisoCopia(
+                "URL-Cancion copiada al portapapeles"
+              );
+
+            }
+
+          }
+
+        };
+
+
+      /* =================================================
+         BOTÓN INFO
+         ================================================= */
+
+      const infoBtn =
+        document.createElement("button");
+
+      infoBtn.className =
+        "info-btn";
+
+      infoBtn.textContent =
+        "info";
+
+
+      infoBtn.onclick =
+        (e) => {
+
+          e.stopPropagation();
+
+          abrirInfo(
+            d.titulo,
+            d.info
+          );
+
+        };
+
+
+      /* =================================================
+         BOTÓN SOLO CANCION
+         ================================================= */
+
+      const btnCancion =
+        document.createElement("button");
+
+      btnCancion.className =
+        "song-btn";
+
+      btnCancion.textContent =
+        "Solo Cancion";
+
+
+      btnCancion.onclick =
+        (e) => {
+
+          e.stopPropagation();
+
+          window.open(
+            d.cancion,
+            "_blank"
+          );
+
+        };
+
+
+      /* =================================================
+         ORDEN DE LOS BOTONES
+         ================================================= */
+
+      buttonRowTop.appendChild(
+        copyVideoBtn
+      );
+
+      buttonRowTop.appendChild(
+        copySongBtn
+      );
+
+      buttonRowTop.appendChild(
+        infoBtn
+      );
+
+
+      buttonRowBottom.appendChild(
+        btnCancion
+      );
+
+
+      /* =================================================
+         IMAGEN
+         ================================================= */
+
+      const img =
+        document.createElement("img");
+
+
+      img.src =
+        d.imagen;
+
+
+      img.onerror =
+        function(){
+
+          this.onerror = null;
+
+          this.src = "portada.jpg";
+
+        };
+
+
+      img.onclick =
+        () => window.open(
+          d.video,
+          "_blank"
+        );
+
+
+      /* =================================================
+         ARMAR TARJETA
+         ================================================= */
 
       card.appendChild(titulo);
-      card.appendChild(buttonRowTop);
-      card.appendChild(buttonRowBottom);
+
+      card.appendChild(
+        buttonRowTop
+      );
+
+      card.appendChild(
+        buttonRowBottom
+      );
+
       card.appendChild(img);
+
 
       contenedor.appendChild(card);
 
+
       total++;
+
     }
+
 
     if(total === 0){
-      contenedor.innerHTML = "No se encontraron obras";
+
+      contenedor.innerHTML =
+        "No se encontraron obras";
+
     }
 
-  }catch(e){
-    contenedor.innerHTML = "Error cargando la lista";
-    console.error(e);
   }
+
+
+  catch(e){
+
+    contenedor.innerHTML =
+      "Error cargando la lista";
+
+    console.error(e);
+
+  }
+
 }
+
 
 cargar();
 
@@ -400,3 +821,4 @@ cargar();
 
 </body>
 </html>
+
