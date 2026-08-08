@@ -79,11 +79,21 @@ h1{
   word-break:break-word;
 }
 
-.button-row{
+/* Dos líneas de botones */
+.button-row-top,
+.button-row-bottom{
   display:grid;
-  grid-template-columns: 1fr 1fr 1.55fr 0.8fr;
   gap:8px;
-  padding:0 12px 10px 12px;
+  padding:0 12px 8px 12px;
+}
+
+.button-row-top{
+  grid-template-columns:1fr 1fr;
+}
+
+.button-row-bottom{
+  grid-template-columns:1.45fr 0.65fr;
+  padding-bottom:10px;
 }
 
 .copy-btn,
@@ -93,10 +103,12 @@ h1{
   background:#000;
   color:var(--gold);
   border:1px solid var(--gold);
-  font-size:13px;
+  font-size:12px;
   cursor:pointer;
   white-space:nowrap;
   width:100%;
+  min-width:0;
+  padding:0 4px;
 }
 
 .card img{
@@ -292,8 +304,11 @@ async function cargar(){
       titulo.className = "card-title";
       titulo.textContent = d.indice + " - " + d.titulo;
 
-      const buttonRow = document.createElement("div");
-      buttonRow.className = "button-row";
+      const buttonRowTop = document.createElement("div");
+      buttonRowTop.className = "button-row-top";
+
+      const buttonRowBottom = document.createElement("div");
+      buttonRowBottom.className = "button-row-bottom";
 
       const copyVideoBtn = document.createElement("button");
       copyVideoBtn.className = "copy-btn";
@@ -305,7 +320,7 @@ async function cargar(){
 
       const copySongBtn = document.createElement("button");
       copySongBtn.className = "copy-btn";
-      copySongBtn.textContent = "Copiar URL-Canción";
+      copySongBtn.textContent = "Copiar URL-Cancion";
       copySongBtn.onclick = async (e) => {
         e.stopPropagation();
         if(d.cancion) await copiarURL(d.cancion);
@@ -313,7 +328,7 @@ async function cargar(){
 
       const btnCancion = document.createElement("button");
       btnCancion.className = "song-btn";
-      btnCancion.textContent = "Ver Solo Canción";
+      btnCancion.textContent = "Solo Cancion";
       btnCancion.onclick = (e) => {
         e.stopPropagation();
         window.open(d.cancion, "_blank");
@@ -327,10 +342,11 @@ async function cargar(){
         abrirInfo(d.titulo, d.info);
       };
 
-      buttonRow.appendChild(copyVideoBtn);
-      buttonRow.appendChild(copySongBtn);
-      buttonRow.appendChild(btnCancion);
-      buttonRow.appendChild(infoBtn);
+      buttonRowTop.appendChild(copyVideoBtn);
+      buttonRowTop.appendChild(copySongBtn);
+
+      buttonRowBottom.appendChild(btnCancion);
+      buttonRowBottom.appendChild(infoBtn);
 
       const img = document.createElement("img");
       img.src = d.imagen;
@@ -341,7 +357,8 @@ async function cargar(){
       img.onclick = () => window.open(d.video, "_blank");
 
       card.appendChild(titulo);
-      card.appendChild(buttonRow);
+      card.appendChild(buttonRowTop);
+      card.appendChild(buttonRowBottom);
       card.appendChild(img);
 
       contenedor.appendChild(card);
