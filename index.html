@@ -81,7 +81,7 @@ h1{
 
 .button-row{
   display:grid;
-  grid-template-columns: 1fr 1fr 1.35fr;
+  grid-template-columns:1fr 1fr 1.35fr;
   gap:8px;
   padding:0 12px 10px 12px;
 }
@@ -313,15 +313,22 @@ async function cargar(){
 
       const btnCancion = document.createElement("button");
       btnCancion.className = "song-btn";
-      btnCancion.textContent = "Solo canción";
+      btnCancion.textContent = "Solo Canción";
       btnCancion.onclick = (e) => {
         e.stopPropagation();
         window.open(d.cancion, "_blank");
       };
 
+      /*
+       * ORDEN DE LOS BOTONES:
+       * 1. Copiar URL
+       * 2. Solo Canción
+       * 3. Info
+       */
+
       buttonRow.appendChild(copyBtn);
-      buttonRow.appendChild(infoBtn);
       buttonRow.appendChild(btnCancion);
+      buttonRow.appendChild(infoBtn);
 
       const img = document.createElement("img");
       img.src = d.imagen;
