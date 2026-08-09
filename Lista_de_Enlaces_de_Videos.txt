@@ -122,14 +122,15 @@ web-cancion: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-10- fiat_lux_desde_el_kairos_a_la_palabra
+10- Fiat Lux desde el Kairos a la Palabra
 -----------------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/fiat-lux,_desde_el_kairos_a_la_palabra/portada.jpg"
-url-video:   "https://drive.google.com/file/d/1KnyBIiWuapKsxnadaelv--wQsu6oKxzP/view"
+url-imagen: "https://lucksys.github.io/canciones/fiat_lux_desde_el_kairos_a_la_palabra/portada.jpg"
+url-video: "https://drive.google.com/file/d/1KnyBIiWuapKsxnadaelv--wQsu6oKxzP/view"
 url-cancion: "https://drive.google.com/file/d/1eboZCsyOpLAh_GmDk9T-v3H1wt1l5dfR/view"
-web-video:   "https://lucksys.github.io/canciones/fiat-lux,_desde_el_kairos_a_la_palabra/index"
-info:        "Compósición en idioma: español neutro.                    "
+web-video: "https://lucksys.github.io/canciones/fiat_lux_desde_el_kairos_a_la_palabra/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/fiat_lux_desde_el_kairos_a_la_palabra/index?t=a&v=1"
+info: "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 11- el_silencio_del_alma_(Jazz)
