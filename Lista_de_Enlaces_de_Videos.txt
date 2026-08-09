@@ -164,15 +164,14 @@ web-cancion: "https://lucksys.github.io/canciones/el_misterio_de_sophia/index?t=
 info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 14- El Grito Rosacruz
-----------------------
+---------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_grito_rosacruz/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1prjwXopi8b6653KF3DAg2YNfaFG-yJ7V/view"
 url-cancion: "https://drive.google.com/file/d/18XHjFhxTqG4ZCr2oam1Sm6n2D_eQPNAE/view"
-web-video:   "https://lucksys.github.io/canciones/el_grito_rosacruz/index"
-info:        "Compósición en idioma: español neutro.
-              N.A."
-
+web-video:   "https://lucksys.github.io/canciones/el_grito_rosacruz/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_grito_rosacruz/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 15- El_Arquetipo_Sagrado_del_Orden
 ----------------------------------
