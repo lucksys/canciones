@@ -30,7 +30,7 @@ url-imagen: "https://lucksys.github.io/canciones/personalidad_y_esencia/portada1
 url-video: "https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/view"
 url-cancion: "https://drive.google.com/file/d/1d6SQpjy_ip9H_3fw6J9LV09-qBIBOzqd/view"
 web-video: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=a&v=1"
 info: "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 3- Personalidad_y_Esencia_(EPIC)
