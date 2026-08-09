@@ -120,6 +120,7 @@ url-cancion: "https://drive.google.com/file/d/1CMtyOizKiEvqzE6Fcf5RQQYG_xBPDwvc/
 web-video: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/index?t=a&v=1"
 info: "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 10- fiat_lux_desde_el_kairos_a_la_palabra
 -----------------------------------------
