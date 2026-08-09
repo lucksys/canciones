@@ -191,7 +191,7 @@ def construir_bloque_ordenado(
         f'web-video:   "{web_video}"',
         f'web-cancion: "{web_cancion}"',
         f'info:        "{info}"',
-        "",
+        "\n",
         SEPARADOR,
     ]
     return bloque
