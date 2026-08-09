@@ -66,6 +66,23 @@ def titulo_subrayado(numero: int, titulo: str) -> str:
     return "-" * len(encabezado)
 
 
+def titulo_base_directorio(titulo: str) -> str:
+    """
+    Convierte:
+        Personalidad_y_Esencia_(EPIC)
+        Personalidad_y_Esencia_(Personalitá e Essenza Italiano)
+
+    en:
+        personalidad_y_esencia
+
+    Se elimina solo el sufijo final:
+        _(...)
+    """
+    base = titulo.strip()
+    base = re.sub(r"[_\s]*\([^()]*\)\s*$", "", base)
+    return slugify(base)
+
+
 def separar_entradas(texto: str) -> List[str]:
     patron = r"(?m)(?=^\s*\d+\s*-\s*)"
     bloques = re.split(patron, texto)
@@ -130,26 +147,15 @@ def image_to_index_name(image_name: str) -> Tuple[str, str]:
 
 
 def construir_url_imagen(titulo: str, nombre_imagen: str) -> str:
-    titulo1 = slugify(titulo)
+    titulo1 = titulo_base_directorio(titulo)
     return f"{URL_RAIZ}{titulo1}/{nombre_imagen}"
 
 
 def construir_web_urls(titulo: str, web_name: str) -> Tuple[str, str]:
-    titulo1 = slugify(titulo)
+    titulo1 = titulo_base_directorio(titulo)
     modo = "p" if re.search(r"public", titulo, re.I) else "k"
     url = f"{URL_RAIZ}{titulo1}/{web_name}?t={modo}&v=1"
     return url, url
-
-
-def find_key_index(block: List[str], key: str) -> Optional[int]:
-    target = normalize_db_text(key)
-    for i, line in enumerate(block):
-        if ":" not in line:
-            continue
-        current_key = normalize_db_text(line.split(":", 1)[0])
-        if current_key == target:
-            return i
-    return None
 
 
 def eliminar_separadores_internos(block: List[str]) -> None:
@@ -404,7 +410,7 @@ def main() -> int:
     entradas = [analizar_entrada(b) for b in entradas_raw]
 
     entrada = buscar_entrada(entradas, titulo)
-    titulo1 = slugify(titulo)
+    titulo1 = titulo_base_directorio(titulo)
     carpeta_titulo = Path.cwd() / titulo1
 
     # ==================================================

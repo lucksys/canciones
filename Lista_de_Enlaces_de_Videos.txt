@@ -39,7 +39,8 @@ info: "Compósición en idioma: español neutro."
 url-imagen:  "https://lucksys.github.io/canciones/personalidad_y_esencia/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1RPGLJJ_CLr9qw-fyoX9nm0Uj3tsjYKpZ/view"
 url-cancion: "https://drive.google.com/file/d/1RPGLJJ_CLr9qw-fyoX9nm0Uj3tsjYKpZ/view"
-web-video:   "https://lucksys.github.io/canciones/personalidad_y_esencia/index2"
+web-video:   "https://lucksys.github.io/canciones/personalidad_y_esencia/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/personalidad_y_esencia/index2?t=a&v=1"
 info:        "Compósición en idioma: español neutro.
               En el taller del alma forjo mi verdad y disipo la oscuridad.
               Mi pensamiento despierta y mi palabra nace del corazón.
@@ -54,7 +55,8 @@ info:        "Compósición en idioma: español neutro.
 url-imagen:  "https://lucksys.github.io/canciones/personalidad_y_esencia/portada3.jpg"
 url-video:   "https://drive.google.com/file/d/1wfUuJl6bNS7lSiL2n00D66xMV7YVJ8Hc/view"
 url-cancion: "https://drive.google.com/file/d/11mjaZ3DpAm2DKQEI38kSZ-C7X4av96QP/view"
-web-video:   "https://lucksys.github.io/canciones/personalidad_y_esencia/index3"
+web-video:   "https://lucksys.github.io/canciones/personalidad_y_esencia/index3?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/personalidad_y_esencia/index3?t=a&v=1"
 info:        "Compósición en idioma: Italiano Florentino.
               En el taller del alma forjo mi verdad y disipo la oscuridad.
               Mi pensamiento despierta y mi palabra nace del corazón.
@@ -2177,23 +2179,4 @@ info:        "Composión en español neutro .balada iniciática
               Bienvenido/a *La Voz del Mandil Blanco* ."
 
 --------------------------------------------------------------------------------------------
-143- Testing
-------------
 
-url-imagen: "https://lucksys.github.io/canciones/testing/portada2.jpg"
-url-video: "https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/view"
-url-cancion: "https://drive.google.com/file/d/1eoHj7nqcxkLch8vvnGFW8ckHJG3RRFcI/view"
-web-video: "https://lucksys.github.io/canciones/testing/index2?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/testing/index2?t=k&v=1"
-info: "Texto de prueba3 N.A."
---------------------------------------------------------------------------------------------
-144- testing1
--------------
-
-url-imagen: "https://lucksys.github.io/canciones/testing1/portada1.jpg"
-url-video: ""
-url-cancion: ""
-web-video: "https://lucksys.github.io/canciones/testing1/index1?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/testing1/index1?t=k&v=1"
-info: "Texto de prueba3 N.A."
---------------------------------------------------------------------------------------------
