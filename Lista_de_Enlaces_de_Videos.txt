@@ -13,11 +13,11 @@ info:        "Indice Geberal de Composicines Musicales"
 1- Vinculo_Sagrado 
 -------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/vinculo_sagrado/portada.jpg"
+url-imagen: "https://lucksys.github.io/canciones/vinculo_sagrado/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/view"
 url-cancion: "https://drive.google.com/file/d/1eoHj7nqcxkLch8vvnGFW8ckHJG3RRFcI/view"
-web-video: "https://lucksys.github.io/canciones/vinculo_sagrado/index.html?t=k"
-web-cancion: "https://lucksys.github.io/canciones/vinculo_sagrado/index.html?t=a"
+web-video: "https://lucksys.github.io/canciones/vinculo_sagrado/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/vinculo_sagrado/index?t=k&v=1"
 info:        "Compósición en idioma: Español neutro
               Matrimonio alquimico entre La Razon y el Alma. Tradición Primordial 
               y Rosacruz."  
