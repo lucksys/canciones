@@ -207,6 +207,7 @@ url-cancion: "https://drive.google.com/file/d/1Rpy0aBC4KsbEkGAvUnX5oU7BYhq7UJgH/
 web-video:   "https://lucksys.github.io/canciones/gnosis_cristica/index1?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/gnosis_cristica/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 18- Gnosis Crística (Gnostic Rock)
 ----------------------------------
@@ -228,6 +229,7 @@ url-cancion: "https://drive.google.com/file/d/1oATOSxE0PmciDPJO7vzaQ0PHBqnrgDPd/
 web-video:   "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 20- Ante las Puertas de un Nuevo Ciclo de Despertares (Solsticio)
 -----------------------------------------------------------------
@@ -235,30 +237,31 @@ info:        "Compósición en idioma: español neutro."
 url-imagen:  "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1BmdmRvnPcErGMw6I8k-uf46Fe3BPS7IT/view"
 url-cancion: "https://drive.google.com/file/d/19j-hG2lF956V-rtnwglYGMR99lC3YCwh/view"
-web-video:   "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index?t=a&v=1"
+info:        "Compósición para soscticio en idioma: español neutro. "
 
 --------------------------------------------------------------------------------------------
 21- Ante las Puertas de un Nuevo Ciclo de Despertares -EPYC- (Solsticio)
---------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/15zyo09Rbt2CYiXf6Ppqy8OP1En81MUVn/view"
 url-cancion: "https://drive.google.com/file/d/1mfsNQthlnIFoPvwKKa7KAphpbH11KYY4/view"
-web-video:   "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=k"
-web-canción: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=a"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index2?t=a&v=1"
+info:        "Compósición para soscticio en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 22- Ante las Puertas de un Nuevo Ciclo de Despertares -EPYC-PUBLIC (Solsticio)
---------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/portada3.jpg"
 url-video:   "https://drive.google.com/file/d/10JvxVFax_g-4p36z_73aT9-fu75PvKT_/view"
 url-cancion: "https://drive.google.com/file/d/1mfsNQthlnIFoPvwKKa7KAphpbH11KYY4/view"
-web-video:   "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index3?t=p"
-web-cancion: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index3?t=a"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index3?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/ante_las_puertas_de_un_nuevo_ciclo_de_despertares/index3?t=a&v=1"
+info:        "Compósición para soscticio en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 23- Cinco Viajes y Una Estrella como Brujula
