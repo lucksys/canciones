@@ -225,9 +225,9 @@ info:        "Compósición en idioma: español neutro."
 url-imagen:  "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/portada.jpg"
 url-video:   "https://drive.google.com/file/d/12hBmzDA0EWH1mVP565gFmr2m97-BBULn/view"
 url-cancion: "https://drive.google.com/file/d/1oATOSxE0PmciDPJO7vzaQ0PHBqnrgDPd/view"
-web-video:   "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/index"
-info:        "Compósición en idioma: español neutro.                    "
-
+web-video:   "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/1717,_una_conspiración_del_alma/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 20- Ante las Puertas de un Nuevo Ciclo de Despertares (Solsticio)
 -----------------------------------------------------------------
