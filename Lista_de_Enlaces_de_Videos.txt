@@ -2199,3 +2199,15 @@ info:        "Composión en español neutro .balada iniciática
               Bienvenido/a *La Voz del Mandil Blanco* ."
 
 --------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+144- Testing
+url-imagen: "https://lucksys.github.io/canciones/testing/portada1.jpg"
+--------------------------------------------------------------------------------------------
+
+
+url-video: "https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/view"
+url-cancion: "https://drive.google.com/file/d/1eoHj7nqcxkLch8vvnGFW8ckHJG3RRFcI/view"
+web-video: "https://lucksys.github.io/canciones/testing/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/testing/index1?t=k&v=1"
+info: "N.A."
