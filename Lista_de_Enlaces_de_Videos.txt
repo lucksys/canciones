@@ -197,6 +197,7 @@ url-cancion: "https://drive.google.com/file/d/1QGWUz05KvkxOfedMUii15vvHp2M36Xua/
 web-video: "https://lucksys.github.io/canciones/camino_de_la_unidad/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/camino_de_la_unidad/index?t=a&v=1"
 info: "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 17- Gnosis Cristica (Himno)
 ---------------------------
@@ -1282,8 +1283,8 @@ info:        "Una chispa divina despierta dentro de un mundo de alta densidad y 
 url-imagen:  "https://lucksys.github.io/canciones/trascendencia_cosmica/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1LKo_FSN7Gdt9L38AhhgUVmDFlPHRJ_gY/view"
 url-cancion: "https://drive.google.com/file/d/1zMgdjj3AWENbPBk_HsecOP8vhFody9jc/view"
-web-video:   "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t:k"
-web-cancion: "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t:a"
+web-video:   "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t=k"
+web-cancion: "https://lucksys.github.io/canciones/trascendencia_cosmica/index1?t=a"
 info:        "Antes de que existiera el tiempo, una vibración infinita dio origen a 
               toda la creación. El ser humano lleva dentro de sí la misma esencia que
               anima a las estrellas y los mundos. En medio del ruido de las ciudades
