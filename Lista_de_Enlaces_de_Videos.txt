@@ -82,7 +82,8 @@ info: "Compósición en idioma: Español neutro y vocablos en Latín."
 url-imagen:  "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1jX0j4ZPNxvjtmsVJMf6x6DvipGfGb1EZ/view"
 url-cancion: "https://drive.google.com/file/d/1ZBWDJPnZgz9HTPhanRmtupXfiBkjCYaT/view"
-web-video:   "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index"
+web-video:   "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro.
               N.A."
 
