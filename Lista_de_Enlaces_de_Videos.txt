@@ -143,16 +143,15 @@ web-video:   "https://lucksys.github.io/canciones/el_silencio_del_alma/index1?t=
 web-cancion: "https://lucksys.github.io/canciones/el_silencio_del_alma/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
-12- el_silencio_del_alma (Soul)
+12- El Silencio del Alma (Soul)
 -------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/el_silencio_del_alma/portada2.jpg"
-url-video:   "https://drive.google.com/file/d/14CokAz7kNvZ3aMTNYdZOcKtvgmkL6peE/view"
+url-imagen: "https://lucksys.github.io/canciones/el_silencio_del_alma/portada2.jpg"
+url-video: "https://drive.google.com/file/d/14CokAz7kNvZ3aMTNYdZOcKtvgmkL6peE/view"
 url-cancion: "https://drive.google.com/file/d/16nJ7Z_eg7cg7zoMZKALfDmT5RePogu6L/view"
-web-video:   "https://lucksys.github.io/canciones/el_silencio_del_alma/index2"
-info:        "Compósición en idioma: español neutro.
-              N.A."
-
+web-video: "https://lucksys.github.io/canciones/el_silencio_del_alma/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_silencio_del_alma/index2?t=a&v=1"
+info: "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 13- el Misterio de Sophia
 -------------------------
