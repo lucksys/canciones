@@ -191,13 +191,12 @@ info:        "Compósición en idioma: español neutro."
 16- Camino de la Unidad
 -----------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/camino_de_la_unidad/portada.jpg"
-url-video:   "https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/view"
+url-imagen: "https://lucksys.github.io/canciones/camino_de_la_unidad/portada.jpg"
+url-video: "https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/view"
 url-cancion: "https://drive.google.com/file/d/1QGWUz05KvkxOfedMUii15vvHp2M36Xua/view"
-web-video:   "https://lucksys.github.io/canciones/camino_de_la_unidad/index"
-info:        "Compósición en idioma: español neutro.
-              N.A."
-
+web-video: "https://lucksys.github.io/canciones/camino_de_la_unidad/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/camino_de_la_unidad/index?t=a&v=1"
+info: "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 17- Gnosis Cristica (Himno)
 ---------------------------
