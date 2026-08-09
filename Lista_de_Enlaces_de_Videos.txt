@@ -142,6 +142,7 @@ url-cancion: "https://drive.google.com/file/d/1TpCFAU2PP6EqxgmNbLevtlos07N2qD99/
 web-video:   "https://lucksys.github.io/canciones/el_silencio_del_alma/index1?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/el_silencio_del_alma/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 12- El Silencio del Alma (Soul)
 -------------------------------
@@ -152,6 +153,7 @@ url-cancion: "https://drive.google.com/file/d/16nJ7Z_eg7cg7zoMZKALfDmT5RePogu6L/
 web-video:   "https://lucksys.github.io/canciones/el_silencio_del_alma/index2?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/el_silencio_del_alma/index2?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 13- El Misterio de Sophia
 -------------------------
@@ -162,6 +164,7 @@ url-cancion: "https://drive.google.com/file/d/18UeKPp5KXzvHG7cOj9rAg_7u5cZ2mtan/
 web-video:   "https://lucksys.github.io/canciones/el_misterio_de_sophia/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/el_misterio_de_sophia/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 14- El Grito Rosacruz
 ---------------------
@@ -172,16 +175,17 @@ url-cancion: "https://drive.google.com/file/d/18XHjFhxTqG4ZCr2oam1Sm6n2D_eQPNAE/
 web-video:   "https://lucksys.github.io/canciones/el_grito_rosacruz/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/el_grito_rosacruz/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
-15- El_Arquetipo_Sagrado_del_Orden
+15- El Arquetipo Sagrado del Orden
 ----------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1dc-sMPmn97R0ve_XTH5e5GghLS99A2SU/view"
 url-cancion: "https://drive.google.com/file/d/12Tw0rGYVOU58ZkRIjVRQV37bTlrb2fvY/view"
-web-video:   "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/index"
-info:        "Compósición en idioma: español neutro.
-              N.A."
+web-video:   "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_arquetipo_sagrado_del_orden/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 16- Camino de la Unidad
