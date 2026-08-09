@@ -13,10 +13,10 @@ info:        "Indice Geberal de Composicines Musicales"
 1- Vinculo_Sagrado 
 -------------------
 
-url-imagen: "https://lucksys.github.io/canciones/vinculo_sagrado/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/vinculo_sagrado/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/view"
 url-cancion: "https://drive.google.com/file/d/1eoHj7nqcxkLch8vvnGFW8ckHJG3RRFcI/view"
-web-video: "https://lucksys.github.io/canciones/vinculo_sagrado/index?t=k&v=1"
+web-video:   "https://lucksys.github.io/canciones/vinculo_sagrado/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/vinculo_sagrado/index?t=k&v=1"
 info:        "Compósición en idioma: Español neutro
               Matrimonio alquimico entre La Razon y el Alma. Tradición Primordial 
@@ -26,12 +26,12 @@ info:        "Compósición en idioma: Español neutro
 2- Personalidad y Esencia
 -------------------------
 
-url-imagen: "https://lucksys.github.io/canciones/personalidad_y_esencia/portada1.jpg"
-url-video: "https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/view"
+url-imagen:  "https://lucksys.github.io/canciones/personalidad_y_esencia/portada1.jpg"
+url-video:   "https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/view"
 url-cancion: "https://drive.google.com/file/d/1d6SQpjy_ip9H_3fw6J9LV09-qBIBOzqd/view"
-web-video: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=k&v=1"
+web-video:   "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=a&v=1"
-info: "Compósición en idioma: español neutro."
+info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 3- Personalidad_y_Esencia_(EPIC)
 --------------------------------
@@ -68,12 +68,12 @@ info:        "Compósición en idioma: Italiano Florentino.
 5- Parastatai Phratriai e Hybridi
 ---------------------------------
 
-url-imagen: "https://lucksys.github.io/canciones/parastatai_phratriai_e_hybridi/portada.jpg"
-url-video: "https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/view"
+url-imagen:  "https://lucksys.github.io/canciones/parastatai_phratriai_e_hybridi/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1vdSnHiFXwHoEFdEwG-EeFMFofaPV1JPa/view"
 url-cancion: "https://drive.google.com/file/d/1R8oDuxV7DJK4Ma5drh36gwZ4hpfMgjmJ/view"
-web-video: "https://lucksys.github.io/canciones/parastatai_phratriai_e_hybridi/index?t=k&v=1"
+web-video:   "https://lucksys.github.io/canciones/parastatai_phratriai_e_hybridi/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/parastatai_phratriai_e_hybridi/index?t=k&v=1"
-info: "Compósición en idioma: Español neutro y vocablos en Latín."
+info:        "Compósición en idioma: Español neutro y vocablos en Latín."
 
 --------------------------------------------------------------------------------------------
 6- la_voluntad_entre_el_ego_y_la_voz_del_alma
@@ -94,7 +94,7 @@ info:        "Compósición en idioma: español neutro.
 url-imagen:  "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1_PvME2wH37AkqzXVwoD2LPB6LgJ1-ZME/view"
 url-cancion: "https://drive.google.com/file/d/1_PvME2wH37AkqzXVwoD2LPB6LgJ1-ZME/view"
-web-video: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index2?t=k&v=1"
+web-video:   "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index2?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index2?t=a&v=1"
 info:        "Compósición en idioma: español neutro.
               N.A."
@@ -133,16 +133,15 @@ web-cancion: "https://lucksys.github.io/canciones/fiat_lux_desde_el_kairos_a_la_
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-11- el_silencio_del_alma_(Jazz)
+11- el silencio del alma (Jazz)
 -------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_silencio_del_alma/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1mPkpIWjYqMRe5Rih4AfCMIgPhiKnndw3/view"
 url-cancion: "https://drive.google.com/file/d/1TpCFAU2PP6EqxgmNbLevtlos07N2qD99/view"
-web-video:   "https://lucksys.github.io/canciones/el_silencio_del_alma/index1"
-info:        "Compósición en idioma: español neutro.
-              N.A."
-
+web-video:   "https://lucksys.github.io/canciones/el_silencio_del_alma/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_silencio_del_alma/index1?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 12- el_silencio_del_alma (Soul)
 -------------------------------
