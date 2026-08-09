@@ -191,12 +191,12 @@ info:        "Compósición en idioma: español neutro."
 16- Camino de la Unidad
 -----------------------
 
-url-imagen: "https://lucksys.github.io/canciones/camino_de_la_unidad/portada.jpg"
-url-video: "https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/view"
+url-imagen:  "https://lucksys.github.io/canciones/camino_de_la_unidad/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1qDXsp_m8A1HqT2412UUFeKrEC5hiRp4S/view"
 url-cancion: "https://drive.google.com/file/d/1QGWUz05KvkxOfedMUii15vvHp2M36Xua/view"
-web-video: "https://lucksys.github.io/canciones/camino_de_la_unidad/index?t=k&v=1"
+web-video:   "https://lucksys.github.io/canciones/camino_de_la_unidad/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/camino_de_la_unidad/index?t=a&v=1"
-info: "Compósición en idioma: español neutro."
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 17- Gnosis Cristica (Himno)
@@ -276,14 +276,14 @@ web-cancion: "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_co
 info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 24- Dharma y Karma
--------------------
+------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/dharma_y_karma/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1mwz4n4r4iAHkWRMq8BFRAUT-0-i1q1xt/view"
 url-cancion: "https://drive.google.com/file/d/1CM8QCAlxFIKkRzF4B6cN7IvtZG6DCKvQ/view"
-web-video:   "https://lucksys.github.io/canciones/dharma_y_karma/index"
-info:        "Compósición en idioma: español neutro.                    "
-
+web-video:   "https://lucksys.github.io/canciones/dharma_y_karma/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/dharma_y_karma/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 25- Dharma y Karma-EPYC
 ------------------------
@@ -292,7 +292,7 @@ url-imagen:  "https://lucksys.github.io/canciones/dharma_y_karma/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1Rwc9DITQ_qm6l8y6aAgsmGEGcla9I0ID"
 url-cancion: "https://drive.google.com/file/d/15pp1dN4lneNRmPYbcJ-5X-_PZ_IvwRmU/view"
 web-video:   "https://lucksys.github.io/canciones/dharma_y_karma/index2?t=k"
-web-cancion "https://lucksys.github.io/canciones/dharma_y_karma/index2?t=a"
+web-cancion  "https://lucksys.github.io/canciones/dharma_y_karma/index2?t=a"
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
