@@ -313,18 +313,20 @@ info:        "Compósición en idioma: español neutro.                    "
 url-imagen:  "https://lucksys.github.io/canciones/el_camino_del_grado_interior/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1gfjCw8RgrzyxvjDzWcQako9A8AlBqv9L/view"
 url-cancion: "https://drive.google.com/file/d/1a_702FUzs92EDP8hCkW_YWT0nidHOjgS/view"
-web-video:   "https://lucksys.github.io/canciones/el_camino_del_grado_interior/index"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/el_camino_del_grado_interior/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_camino_del_grado_interior/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro. N.A."
 
 --------------------------------------------------------------------------------------------
 28- El_eco_de_un_secreto
 ------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/El_eco_de_un_secreto/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/el_eco_de_un_secreto/portada.jpg"
 url-video:   "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/view"
 url-cancion: "https://drive.google.com/file/d/1GkUkbMRd1X3ihICC-LaFQRNGioDSId_Q/view"
-web-video:   "https://lucksys.github.io/canciones/El_eco_de_un_secreto/index"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index?t=k&v=1002"
+web-cancion: "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index?t=a&v=1001"
+info:        "Compósición en idioma: español neutro. N.A."
 
 --------------------------------------------------------------------------------------------
 29- el_viaje_alquimico_del_ser_a_la_iluminacion
