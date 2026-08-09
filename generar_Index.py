@@ -153,9 +153,9 @@ def construir_url_imagen(titulo: str, nombre_imagen: str) -> str:
 
 def construir_web_urls(titulo: str, web_name: str) -> Tuple[str, str]:
     titulo1 = titulo_base_directorio(titulo)
-    modo = "p" if re.search(r"public", titulo, re.I) else "k"
-    url = f"{URL_RAIZ}{titulo1}/{web_name}?t={modo}&v=1"
-    return url, url
+    web_video = f"{URL_RAIZ}{titulo1}/{web_name}?t=k&v=1"
+    web_cancion = f"{URL_RAIZ}{titulo1}/{web_name}?t=a&v=1"
+    return web_video, web_cancion
 
 
 def eliminar_separadores_internos(block: List[str]) -> None:
