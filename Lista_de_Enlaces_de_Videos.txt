@@ -271,9 +271,9 @@ info:        "Compósición para soscticio en idioma: español neutro."
 url-imagen:  "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/portada.jpg"
 url-video:   "https://drive.google.com/file/d/10DOFd6ITUDuYxUfZp68_oi1X7noLXu4O/view"
 url-cancion: "https://drive.google.com/file/d/1DK1B3GD0s6mmlN0FNTUi3lDSIeQLLre2/view"
-web-video:   "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/index"
-info:        "Compósición en idioma: español neutro.                    "
-
+web-video:   "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 24- Dharma y Karma
 -------------------
