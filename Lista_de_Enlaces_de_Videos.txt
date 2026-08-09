@@ -106,7 +106,7 @@ info:        "Compósición en idioma: español neutro.
 url-imagen:  "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/portada3.jpg"
 url-video:   "https://drive.google.com/file/d/1PFMZml78RewDGvuXatIbowzJjwYH1VRB/view"
 url-cancion: "https://drive.google.com/file/d/1PFMZml78RewDGvuXatIbowzJjwYH1VRB/view"
-web-video: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index3?t=k&v=1"
+web-video:   "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index3?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index3?t=a&v=1"
 info:        "Compósición en idioma: español neutro.                    "
 
@@ -114,12 +114,12 @@ info:        "Compósición en idioma: español neutro.                    "
 9- Inmanencia vs Diseno un Legado Filosofico
 --------------------------------------------
 
-url-imagen: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/portada.jpg"
-url-video: "https://drive.google.com/file/d/1-6jQBzsDeHcV6ncCVUyaTbbcu8lwJCtF/view"
+url-imagen:  "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1-6jQBzsDeHcV6ncCVUyaTbbcu8lwJCtF/view"
 url-cancion: "https://drive.google.com/file/d/1CMtyOizKiEvqzE6Fcf5RQQYG_xBPDwvc/view"
-web-video: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/index?t=k&v=1"
+web-video:   "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/inmanencia_vs_diseno_un_legado_filosofico/index?t=a&v=1"
-info: "Compósición en idioma: español neutro."
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 10- fiat_lux_desde_el_kairos_a_la_palabra
