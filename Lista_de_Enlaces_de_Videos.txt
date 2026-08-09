@@ -23,20 +23,15 @@ info:        "Compósición en idioma: Español neutro
               y Rosacruz."  
 
 --------------------------------------------------------------------------------------------
-2- Personalidad_y_Esencia
+2- Personalidad y Esencia
 -------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/personalidad_y_esencia/portada1.jpg"
-url-video:   "https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/view"
+url-imagen: "https://lucksys.github.io/canciones/personalidad_y_esencia/portada1.jpg"
+url-video: "https://drive.google.com/file/d/1Cj1OAiz3ucO6KzpsqsbypE1vrxjqIRLj/view"
 url-cancion: "https://drive.google.com/file/d/1d6SQpjy_ip9H_3fw6J9LV09-qBIBOzqd/view"
-web-video:   "https://lucksys.github.io/canciones/personalidad_y_esencia/index1"
-info:        "Compósición en idioma: español neutro.
-              En el taller del alma forjo mi verdad y disipo la oscuridad.
-              Mi pensamiento despierta y mi palabra nace del corazón.
-              Cada acción traza el rumbo y revela lo que soy.
-              Entre símbolos y silencio, mi esencia busca la luz.
-              Y en ese fuego interior, renazco siendo fiel a mí."
-
+web-video: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=k&v=1"
+info: "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 3- Personalidad_y_Esencia_(EPIC)
 --------------------------------
@@ -2182,32 +2177,23 @@ info:        "Composión en español neutro .balada iniciática
               Bienvenido/a *La Voz del Mandil Blanco* ."
 
 --------------------------------------------------------------------------------------------
-143- Testing 1
------------------------------
+143- Testing
+------------
 
-url-imagen:  "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/portada1.jpg"
-url-video:   "https://drive.google.com/file/d/12Fy7mWAV6xpqOlwjexxYbptl-tGU6nMM/view"
-url-cancion: "https://drive.google.com/file/d/1_d4NB8PNdaIPXah_Ktk1_fV9adjCaZJT/view"
-info:        "Composión en español neutro .balada iniciática 
-              Una antigua voz despierta desde el silencio del taller.
-              Cada símbolo es una invitación a mirar hacia el interior.
-              El verdadero camino comienza donde termina el orgullo.
-              La sabiduría florece en las manos que aprenden a servir.
-              La música entrelaza fuerza, misterio y contemplación.
-              La tradición primordial susurra entre cada verso y cada nota.
-              Déjate llevar por este viaje de transformación y memoria.
-              Bienvenido/a *La Voz del Mandil Blanco* ."
-
---------------------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------------------
-144- Testing
-url-imagen: "https://lucksys.github.io/canciones/testing/portada1.jpg"
---------------------------------------------------------------------------------------------
-
-
+url-imagen: "https://lucksys.github.io/canciones/testing/portada2.jpg"
 url-video: "https://drive.google.com/file/d/1FOCvxcafSRHq9-096m9TGGXwjctOR25W/view"
 url-cancion: "https://drive.google.com/file/d/1eoHj7nqcxkLch8vvnGFW8ckHJG3RRFcI/view"
-web-video: "https://lucksys.github.io/canciones/testing/index1?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/testing/index1?t=k&v=1"
-info: "N.A."
+web-video: "https://lucksys.github.io/canciones/testing/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/testing/index2?t=k&v=1"
+info: "Texto de prueba3 N.A."
+--------------------------------------------------------------------------------------------
+144- testing1
+-------------
+
+url-imagen: "https://lucksys.github.io/canciones/testing1/portada1.jpg"
+url-video: ""
+url-cancion: ""
+web-video: "https://lucksys.github.io/canciones/testing1/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/testing1/index1?t=k&v=1"
+info: "Texto de prueba3 N.A."
+--------------------------------------------------------------------------------------------
