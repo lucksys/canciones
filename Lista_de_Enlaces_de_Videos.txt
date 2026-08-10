@@ -2203,26 +2203,4 @@ info:        "Composión en español neutro .balada iniciática
               Bienvenido/a *La Voz del Mandil Blanco* ."
 
 --------------------------------------------------------------------------------------------
-143- resurreccion_de_la_palabra
--------------------------------
-
-url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada1.jpg"
-url-video:   ""
-url-cancion: ""
-web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=a&v=1"
-info:        "N.A."
-
---------------------------------------------------------------------------------------------
-144- resurreccion_de_la_palabra
--------------------------------
-
-url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada1.jpg"
-url-video:   ""
-url-cancion: ""
-web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=a&v=1"
-info:        "N.A."
-
---------------------------------------------------------------------------------------------
 
