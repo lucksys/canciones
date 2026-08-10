@@ -443,7 +443,7 @@ info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 39- La Piedra en Bruto y La Piedra Cubica
------------------------------------------
+------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1gJnmEaCuxYQ-j47oi9NKMjGneJncvdKy/view"
