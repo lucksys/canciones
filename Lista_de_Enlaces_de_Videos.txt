@@ -453,14 +453,15 @@ web-cancion: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-40- quedate_a_mi_Lado
+40- Quedate a mi Lado
 ---------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/quedate_a_mi_Lado/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/quedate_a_mi_lado/portada.jpg"
 url-video:   "https://drive.google.com/file/d/19Y6ANwHB8OqRVwYcfrejptUoi9YUC-Fi/view"
 url-cancion: "https://drive.google.com/file/d/14UoiMZdtVWbHzQET2jfjMrBKJulXYqPA/view"
-web-video:   "https://lucksys.github.io/canciones/quedate_a_mi_Lado/index"
-info:        "Compósición en idioma: ingles con subtituulos en español.                    "
+web-video:   "https://lucksys.github.io/canciones/quedate_a_mi_lado/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/quedate_a_mi_lado/index?t=a&v=1"
+info:        "Compósición en idioma: ingles con subtituulos en español."
 
 --------------------------------------------------------------------------------------------
 41- escalera_caracol
