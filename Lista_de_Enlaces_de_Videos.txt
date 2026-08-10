@@ -440,15 +440,17 @@ url-cancion: "https://drive.google.com/file/d/1i2hOuwEelHy6_EYlyyS701gSUbQhv_z4/
 web-video:   "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
-39- la_piedra_en_bruto_y_la_piedra_cubica
+39- La Piedra en Bruto y La Piedra Cubica
 -----------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1gJnmEaCuxYQ-j47oi9NKMjGneJncvdKy/view"
 url-cancion: "https://drive.google.com/file/d/1kGYV76bLAFdn1VDwwC5ju2qzARD4EAGo/view"
-web-video:   "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/index"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 40- quedate_a_mi_Lado
