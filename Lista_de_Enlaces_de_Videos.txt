@@ -486,8 +486,8 @@ web-cancion: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/ind
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
-43- Resurrección de La Palabra (- Acoustic - Epyc -)
-----------------------------------------------------
+43- Resurrección de La Palabra ( - Acoustic - Epyc - )
+------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/view"
