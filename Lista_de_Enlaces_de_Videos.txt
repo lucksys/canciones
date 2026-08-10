@@ -709,26 +709,26 @@ web-cancion: "https://lucksys.github.io/canciones/las_herramientas_del_aprendiz/
 info:        "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz." 
 
 --------------------------------------------------------------------------------------------
-63- Primer Muerte Alquímica (Primer Muerte Alquimica-Español) 
-------------------------------------------------------------
+63- Primer Muerte Alquímica_(Primer Muerte Alquimica-Español)
+-------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1RE23WCin0jLtrxzcC8owqE2XbbeHlV1a/view"
 url-cancion: "https://drive.google.com/file/d/1kFrPz0scv1ZDldLzCYAsttwzxq2qmPVS/view"
-web-video:   "https://lucksys.github.io/canciones/primer_muerte_alquímica/index1"
-info:        "Composición en idioma: Español neutro. La primer Muerte Alquímica.
-              Los tres viajes de la primera iniciación."
+web-video:   "https://lucksys.github.io/canciones/primer_muerte_alquímica/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index1?t=a&v=1"
+info:        "Composición en idioma: Español neutro. La primer Muerte Alquímica."
 
 --------------------------------------------------------------------------------------------
-64- Primer Muerte Alquímica (Prima Morte Alchemica) 
+64- Primer Muerte Alquímica_(Prima Morte Alchemica)
 ---------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/15b2ojpWs220Cfj3KBvdqs6Jm8I51GAzL/view"
 url-cancion: "https://drive.google.com/file/d/1zErD53Xa_BXUpGoxyGKjFix2Xicij6Uu/view"
-web-video:   "https://lucksys.github.io/canciones/primer_muerte_alquímica/index2"
-info:        "Composición en idioma: Italiano Flolentino. La primer Muerte Alquímica.
-              Los tres viajes de la primera iniciación."
+web-video:   "https://lucksys.github.io/canciones/primer_muerte_alquímica/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index2?t=a&v=1"
+info:        "Composición en idioma: Italiano Flolentino. La primer Muerte Alquímica."
 
 --------------------------------------------------------------------------------------------
 65- Fuego_y_Forma
@@ -737,9 +737,9 @@ info:        "Composición en idioma: Italiano Flolentino. La primer Muerte Alqu
 url-imagen:  "https://lucksys.github.io/canciones/fuego_y_forma/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1LiLAAnjXvkJ_MFGtBg3bs5h63IO2azUa/view"
 url-cancion: "https://drive.google.com/file/d/1VaXP4lw8aPaeGClkisU0lSFAsGoSkDHl/view"
-web-video:   "https://lucksys.github.io/canciones/fuego_y_forma/index"
-info:        "Composición en idioma: Español Neutro. Fuego y Forma.
-              Basada en la Profecia de Hermes Trismegisto y el Lamento de Asclepio."
+web-video:   "https://lucksys.github.io/canciones/fuego_y_forma/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/fuego_y_forma/index?t=a&v=1"
+info:        "Composición en idioma: Español Neutro. Fuego y Forma."
 
 --------------------------------------------------------------------------------------------
 66- Reina de la Noche
