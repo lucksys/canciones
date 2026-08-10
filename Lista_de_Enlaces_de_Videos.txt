@@ -837,18 +837,19 @@ info:        "Composición en idioma: Español Neutro. Adoración Gnóstica."
 url-imagen:  "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1Sd8klB3XAhaIwfuUHUU71KWcZUkMUdb1/view"
 url-cancion: "https://drive.google.com/file/d/1JnEvZ_HMXC9d6OVzEUmT7enZNwfVhQiI/view"
-web-video:   "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/index"
-info:        "Composición en idioma: Español Neutro. Adoración Gnóstica.
-              retorno_y_despertar_a_la_luz."
+web-video:   "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/index?t=a&v=1"
+info:        "Composición en idioma: Español Neutro. Adoración Gnóstica."
 
 --------------------------------------------------------------------------------------------
-73- Aún en Silencio (Still in Silence)
+73- Aún en Silencio_(Still in Silence)
 --------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/still_in_silence/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1nxnPTgUGYT2MWEDcTebbJz8ublM7uE_A/view"
 url-cancion: "https://drive.google.com/file/d/1vBoKE1ofK49RyEulapLT38raSuKLnbui/view"
-web-video:   "https://lucksys.github.io/canciones/still_in_silence/index"
+web-video:   "https://lucksys.github.io/canciones/still_in_silence/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/still_in_silence/index?t=a&v=1"
 info:        "Composición en idioma: Ingles. “Still In Silence” 
               trata sobre el proceso de seguir adelante a pesar del 
               dolor emocional. Describe a una persona que, aunque 
