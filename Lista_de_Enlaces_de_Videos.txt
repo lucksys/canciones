@@ -32,6 +32,7 @@ url-cancion: "https://drive.google.com/file/d/1d6SQpjy_ip9H_3fw6J9LV09-qBIBOzqd/
 web-video:   "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 3- Personalidad_y_Esencia_(EPIC)
 --------------------------------
@@ -62,7 +63,7 @@ info:        "Compósición en idioma: Italiano Florentino.
               Mi pensamiento despierta y mi palabra nace del corazón.
               Cada acción traza el rumbo y revela lo que soy.
               Entre símbolos y silencio, mi esencia busca la luz.
-              Y en ese fuego interior, renazco siendo fiel a mí.
+              Y en ese fuego interior, renazco siendo fiel a mí."
 
 --------------------------------------------------------------------------------------------
 5- Parastatai Phratriai e Hybridi
@@ -108,7 +109,7 @@ url-video:   "https://drive.google.com/file/d/1PFMZml78RewDGvuXatIbowzJjwYH1VRB/
 url-cancion: "https://drive.google.com/file/d/1PFMZml78RewDGvuXatIbowzJjwYH1VRB/view"
 web-video:   "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index3?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/la_voluntad_entre_el_ego_y_la_voz_del_alma/index3?t=a&v=1"
-info:        "Compósición en idioma: español neutro.                    "
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 9- Inmanencia vs Diseno un Legado Filosofico
@@ -274,6 +275,7 @@ url-cancion: "https://drive.google.com/file/d/1DK1B3GD0s6mmlN0FNTUi3lDSIeQLLre2/
 web-video:   "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/cinco_viajes_y_una_estrella_como_brujula/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 24- Dharma y Karma
 ------------------
@@ -284,6 +286,7 @@ url-cancion: "https://drive.google.com/file/d/1CM8QCAlxFIKkRzF4B6cN7IvtZG6DCKvQ/
 web-video:   "https://lucksys.github.io/canciones/dharma_y_karma/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/dharma_y_karma/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 25- Dharma y Karma-EPYC
 ------------------------
@@ -293,7 +296,7 @@ url-video:   "https://drive.google.com/file/d/1Rwc9DITQ_qm6l8y6aAgsmGEGcla9I0ID"
 url-cancion: "https://drive.google.com/file/d/15pp1dN4lneNRmPYbcJ-5X-_PZ_IvwRmU/view"
 web-video:   "https://lucksys.github.io/canciones/dharma_y_karma/index2?t=k"
 web-cancion  "https://lucksys.github.io/canciones/dharma_y_karma/index2?t=a"
-info:        "Compósición en idioma: español neutro.                    "
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 26- Dharma y Karma-EPYC-PUBLIC
@@ -304,7 +307,7 @@ url-video:   "https://drive.google.com/file/d/1RJl_Av1UnDwo-HaOCn0qOm2t09Hfq2mT/
 url-cancion: "https://drive.google.com/file/d/15pp1dN4lneNRmPYbcJ-5X-_PZ_IvwRmU/view"
 web-video:   "https://lucksys.github.io/canciones/dharma_y_karma/index3?t=p"
 web-cancion  "https://lucksys.github.io/canciones/dharma_y_karma/index3?t=a"
-info:        "Compósición en idioma: español neutro.                    "
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 27- El Camino del Grado Interior
@@ -337,7 +340,7 @@ url-video:   "https://drive.google.com/file/d/1fEjXuivBAoxe_j8Nn5HET6q0OJ1zcORy/
 url-cancion: "https://drive.google.com/file/d/15XmaEt2T3-e9AJahZhkCmsdIjuuD4kuS/view"
 web-video:   "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/index?t=a&v=1"
-info:        "Compósición en idioma: español neutro.                    "
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 30- El Aguila Bicefala
@@ -349,6 +352,7 @@ url-cancion: "https://drive.google.com/file/d/1QWvq28PI3tMcizYbn6UU4euNXIezTB1N/
 web-video:   "https://lucksys.github.io/canciones/el_aguila_bicefala/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/el_aguila_bicefala/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
+
 --------------------------------------------------------------------------------------------
 31- Ne_Plus_Ultra
 ------------------
@@ -361,8 +365,8 @@ web-cancion: "https://lucksys.github.io/canciones/ne_plus_ultra/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-32- Ne_Plus_Ultra (EPIC)
-------------------------
+32- Ne_Plus_Ultra (-EPYC-)
+--------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/ne_plus_ultra/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1mNg3BEdOJ1be3C1To_wPopgOsxAHRjgC/view"
@@ -370,7 +374,6 @@ url-cancion: "https://drive.google.com/file/d/1mNg3BEdOJ1be3C1To_wPopgOsxAHRjgC/
 web-video:   "https://lucksys.github.io/canciones/ne_plus_ultra/index2?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/ne_plus_ultra/index2?t=a&v=1"
 info:        "Compósición en idioma: español neutro. N.A."
-
 
 --------------------------------------------------------------------------------------------
 33- himno_de_la_luz_velada
