@@ -324,18 +324,19 @@ info:        "Compósición en idioma: español neutro. N.A."
 url-imagen:  "https://lucksys.github.io/canciones/el_eco_de_un_secreto/portada.jpg"
 url-video:   "https://drive.google.com/file/d/13OqFGyRXQEZlbYghzZGf1O_fkkjCXnH2/view"
 url-cancion: "https://drive.google.com/file/d/1GkUkbMRd1X3ihICC-LaFQRNGioDSId_Q/view"
-web-video:   "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index?t=k&v=1002"
-web-cancion: "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index?t=a&v=1001"
+web-video:   "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro. N.A."
 
 --------------------------------------------------------------------------------------------
-29- el_viaje_alquimico_del_ser_a_la_iluminacion
-------------------------------------------------
+29- El Viaje Alquimico del Ser a la Iluminacion
+-----------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1fEjXuivBAoxe_j8Nn5HET6q0OJ1zcORy/view"
-url-cancion: "https://drive.google.com/file/d/15XmaEt2T3-e9AJahZhkCmsdIjuuD4ku"
-web-video:   "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/index"
+url-cancion: "https://drive.google.com/file/d/15XmaEt2T3-e9AJahZhkCmsdIjuuD4kuS/view"
+web-video:   "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/index?t=a&v=1"
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
