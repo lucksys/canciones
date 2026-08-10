@@ -475,23 +475,25 @@ web-cancion: "https://lucksys.github.io/canciones/escalera_caracol/index?t=a&v=1
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-42- resurreccion_de_la_palabra
+42- Resurrección de La Palabra
 ------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1oyQLfchXGPi-TF-XcAbsd3iTWz5iamv3/view" 
 url-cancion: "https://drive.google.com/file/d/1W0hVTYXED3xstJ6NR7KT89cWmWtPoDrD/view"
-web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1"
+web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
-43- resurreccion_de_la_palabra (acoustc-epyc))
-----------------------------------------------
+43- Resurrección de La Palabra (- Acoustic - Epyc -)
+----------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1JMYLQDZAFsH2UtR1gi3npJ5x5qsKgfJl/view"
 url-cancion: "https://drive.google.com/file/d/1MtQFvJeZEQEtUJxgwjFBgAmdOaSS3acf/view"
-web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index2"
+web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index2?t=k&v=1"
+web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index2?t=a&v=1"
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
@@ -2199,6 +2201,28 @@ info:        "Composión en español neutro .balada iniciática
               La tradición primordial susurra entre cada verso y cada nota.
               Déjate llevar por este viaje de transformación y memoria.
               Bienvenido/a *La Voz del Mandil Blanco* ."
+
+--------------------------------------------------------------------------------------------
+143- resurreccion_de_la_palabra
+-------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada1.jpg"
+url-video:   ""
+url-cancion: ""
+web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=a&v=1"
+info:        "N.A."
+
+--------------------------------------------------------------------------------------------
+144- resurreccion_de_la_palabra
+-------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada1.jpg"
+url-video:   ""
+url-cancion: ""
+web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/index1?t=a&v=1"
+info:        "N.A."
 
 --------------------------------------------------------------------------------------------
 
