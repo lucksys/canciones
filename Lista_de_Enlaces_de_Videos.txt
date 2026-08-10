@@ -698,13 +698,14 @@ info:        "Composición en idioma: Español Neutro. Hard- Rock Metal Strong
               del Arte Real."
 
 --------------------------------------------------------------------------------------------
-62- La Herramienta del Aprendiz (Gli attezu dell'apprendista) 
-------------------------------------------------------------
+62- Las Herramientas del/a Aprendiz (Gli attezu dell'apprendista) 
+-----------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/herramientas_del_aprendiz/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/view"
 url-cancion: "https://drive.google.com/file/d/1J9jxUVfRyw-QFuCBoKnHt_fgqBWn1M1G/view"
-web-video:   "https://lucksys.github.io/canciones/herramientas_del_aprendiz/index"
+web-video:   "https://lucksys.github.io/canciones/las_herramientas_del_aprendiz/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/las_herramientas_del_aprendiz/index?t=a&v=1"
 info:        "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz." 
 
 --------------------------------------------------------------------------------------------
