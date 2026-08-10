@@ -580,8 +580,8 @@ info:        "Compósición en idioma: Italiano, con subtitulos e español."
 -------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/bajo_la_ley_de_la_luz/portada.jpg"
-url-video:   "https://drive.google.com/file/d/1D_2N5czGgnxhmfLKVBHlWIp_SwKvcUU4/view"
-url-cancion: "https://drive.google.com/file/d/1zIUow9wMHGC95TrVde3LQnVmfBl0T7Nc/view"
+url-video:   "https://drive.google.com/file/d/1mNHW1VY8Nz1pygf-ClwO9DVzAebuOITb/view"
+url-cancion: "https://drive.google.com/file/d/1b9G0o2l9yh5QsFNpwJ0qCitLCzsWDKmM/view"
 web-video:   "https://lucksys.github.io/canciones/bajo_la_ley_de_la_luz/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/bajo_la_ley_de_la_luz/index?t=a&v=1"
 info:        "Compósición en idioma: Italiano Florentino.EPYC"
