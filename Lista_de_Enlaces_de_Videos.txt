@@ -864,7 +864,7 @@ info:        "Composición en idioma: Ingles. “Still In Silence”
               fuerza en el interior para seguir viviendo."
 
 --------------------------------------------------------------------------------------------
-74- Cuando_cae_la_Noche_(When Night Falls)
+74- Cuando cae la Noche_(When Night Falls)
 ------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/cuando_cae_la_noche/portada.jpg"
@@ -881,29 +881,30 @@ info:        "Esa Composición nos cuenta la historia de dos almas separadas por
               Al final, el amor vence al olvido y a la despedida."
 
 --------------------------------------------------------------------------------------------
-75- La_Estrella_Helada_(The_Frozen_star)
+75- La Estrella Helada_(The_Frozen_star)
 ----------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_estrella_helada/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1mQx0yyHnSA0IIjnlQjWWL4WXP4sWol1V/view"
 url-cancion: "https://drive.google.com/file/d/1zBf_dx7tNnK83l1hupTYa6nnphrwAm_Z/view"
-web-video:   "https://lucksys.github.io/canciones/la_estrella_helada/index"
-info:        "Un alma errante busca respuestas en el silencio interior.
-              La Estrella Helada brilla como verdad eterna e inmutable.
-              No ofrece consuelo, solo revela lo esencial.
-              En su luz fría, el ego se disuelve lentamente.
-              El tiempo se detiene… y todo queda al descubierto.
-              Entre sombras y quietud, nace una nueva conciencia.
-              La caída deja de ser final… y se vuelve inicio."
+web-video:   "https://lucksys.github.io/canciones/la_estrella_helada/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_estrella_helada/index?t=a&v=1"
+info:        "Un alma errante busca respuestas en el silencio interior. 
+              La Estrella Helada brilla como verdad eterna e inmutable. No ofrece 
+              consuelo, solo revela lo esencial. En su luz fría, el ego se disuelve
+              lentamente. El tiempo se detiene… y todo queda al descubierto. Entre 
+              sombras y quietud, nace una nueva conciencia. La caída deja de ser 
+              final… y se vuelve inicio."
 
 --------------------------------------------------------------------------------------------
-76- No_fue_la_luz_lo_que_dolio 
+76- No_fue_la_luz_lo_que_dolio
 ------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1EQx8DQol5xHL2XiAVcqoRSxXy3p59QKW/view"
 url-cancion: "https://drive.google.com/file/d/1g7tWJzMWQYE-E8vIpwFgoQj_AazpqNT7/view"
-web-video:   "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index1"
+web-video:   "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index1?t=a&v=1"
 info:        "Idioma español neutro, Esta composición narra una relidad muy sincera, pero 
               despierta e incomodida en la hermandad.
               La luz que brindas puede revelar miedos y limitaciones ajenas.
@@ -916,13 +917,14 @@ info:        "Idioma español neutro, Esta composición narra una relidad muy si
               Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
 --------------------------------------------------------------------------------------------
-77- No_fue_la_luz_lo_que_dolio_(EPYC) 
+77- No_fue_la_luz_lo_que_dolio_(EPYC)
 -------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1fUaqh0Fq6mwNToAoGoFebrtn_EabxTEf/view"
 url-cancion: "https://drive.google.com/file/d/1w1OzSe5Dt89hWSMpXYgtGYnAV6iw-8Cq/view"
-web-video:   "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index2"
+web-video:   "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/index2?t=a&v=1"
 info:        "Idioma español neutro, Esta composición narra una relidad muy sincera, pero 
               despierta e incomodida en la hermandad.
               La luz que brindas puede revelar miedos y limitaciones ajenas.
@@ -941,21 +943,23 @@ info:        "Idioma español neutro, Esta composición narra una relidad muy si
 url-imagen:  "https://lucksys.github.io/canciones/gloria_honor_y_fraternidad/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1h6tuhx536FS7_hIB6Ro6evKNA1IOIre_/view"
 url-cancion: "https://drive.google.com/file/d/1M087eJlk4CecgNzQ0UWFb907iHI_qEmC/view"
-web-video:   "https://lucksys.github.io/canciones/gloria_honor_y_fraternidad/index"
+web-video:   "https://lucksys.github.io/canciones/gloria_honor_y_fraternidad/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/gloria_honor_y_fraternidad/index?t=a&v=1"
 info:        "Idioma español neutro, Los miembros de la Hermanadad atraviesan juntos tiempos 
-  difíciles. La fraternidad les da fuerza y esperanza. Caminan unidos hacia un destino
-  común. La justicia y el honor guían sus pasos. Construyen un refugio con esfuerzo y
-  amor. Prometen protegerse bajo cualquier tormenta. La verdad se convierte en su mayor
-  fuerza. La luz de su unión nunca se apagará."
+              difíciles. La fraternidad les da fuerza y esperanza. Caminan unidos hacia un destino
+              común. La justicia y el honor guían sus pasos. Construyen un refugio con esfuerzo y
+              amor. Prometen protegerse bajo cualquier tormenta. La verdad se convierte en su mayor
+              fuerza. La luz de su unión nunca se apagará."
 
 --------------------------------------------------------------------------------------------
 79- Despues_de_la_Tormenta
 --------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/despues_de_la_Tormenta/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/despues_de_la_tormenta/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1e1lZZEc0YRzont3JOZn_amquILmjlgYm/view"
 url-cancion: "https://drive.google.com/file/d/1jx4qafEsapjnj115iPUbxGfSJttmzhMT/view"
-web-video:   "https://lucksys.github.io/canciones/despues_de_la_Tormenta/index"
+web-video:   "https://lucksys.github.io/canciones/despues_de_la_tormenta/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/despues_de_la_tormenta/index?t=a&v=1"
 info:        "Idioma español neutro, La canción habla de atravesar el dolor y 
               renacer interiormente.
               El protagonista supera la oscuridad gracias a una llama espiritual.
@@ -967,13 +971,14 @@ info:        "Idioma español neutro, La canción habla de atravesar el dolor y
               El mensaje final es que el espíritu verdadero nunca se apaga."
 
 --------------------------------------------------------------------------------------------
-80- lealtad_redención_y_linaje (Historia de Ruth)
+80- Lealtad Redención y Linaje_(Historia de Ruth)
 -------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/lealtad_redención_y_linaje/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1xc73KC8VCO3WddlfyH61JavRvqMuYru5/view"
 url-cancion: "https://drive.google.com/file/d/15rIQgT0kDXZi-7_gEf6Hz0gTLHxzKR56/view"
-web-video:   "https://lucksys.github.io/canciones/lealtad_redención_y_linaje/index"
+web-video:   "https://lucksys.github.io/canciones/lealtad_redención_y_linaje/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/lealtad_redención_y_linaje/index?t=a&v=1"
 info:        "Idioma español neutro, Rut deja su tierra por amor. Y acompaña a
               Noemí sin titubear, Luego trabaja recogiendo trigo en humildad. Bo?z
               la ve y la protege. La redención entra en su historia. La tristeza
