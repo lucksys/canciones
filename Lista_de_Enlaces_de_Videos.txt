@@ -340,15 +340,15 @@ web-cancion: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_l
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
-30- el_aguila_bicefala
------------------------
+30- El Aguila Bicefala
+----------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_aguila_bicefala/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1u2aNbuDXjKhpDo5ANZbHEEW4rDPWv06f/view"
 url-cancion: "https://drive.google.com/file/d/1QWvq28PI3tMcizYbn6UU4euNXIezTB1N/view"
-web-video:   "https://lucksys.github.io/canciones/el_aguila_bicefala/index"
-info:        "Compósición en idioma: español neutro.                    "
-
+web-video:   "https://lucksys.github.io/canciones/el_aguila_bicefala/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_aguila_bicefala/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 31- Ne_Plus_Ultra
 ------------------
