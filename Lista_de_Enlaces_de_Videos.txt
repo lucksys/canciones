@@ -642,26 +642,26 @@ web-cancion: "https://lucksys.github.io/canciones/signo_palabra_y_toque/index1?t
 info:        "Compósición en idioma: Italiano Florentino."
 
 --------------------------------------------------------------------------------------------
-57- el_camino_de_la_libertad_iguadad_y_la_fraternidad_(SON Salsa Cubana) 
---------------------------------------------------------------------------------------
+57- el_camino_de_la_libertad_iguadad_y_la_fraternidad_(SON Salsa Cubana)
+------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1lQnVyW50imy4uP5L7P-A2MAsIG67oxL9/view"
 url-cancion: "https://drive.google.com/file/d/1lQnVyW50imy4uP5L7P-A2MAsIG67oxL9/view"
-web-video:   "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index"
-info:        "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba).
-              El Camino de : La Libertad, La Igualdad Y La Fraternidad."
+web-video:   "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index?t=a&v=1"
+info:        "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba)."
 
 --------------------------------------------------------------------------------------------
-58- alter-tango_(Tango) 
-----------------------------------------------------------------
+58- alter-tango_(Tango)
+-----------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/alter-tango/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
 url-cancion: "https://drive.google.com/file/d/1_boqQzKb3o71lGk1TTbng6HXq_aiipq-/view"
-web-video:   "https://lucksys.github.io/canciones/alter-tango/index"
-info:        "Compósición en idioma: Español Neutro. Tango.
-              Tango de la Alteridad"
+web-video:   "https://lucksys.github.io/canciones/alter-tango/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/alter-tango/index?t=a&v=1"
+info:        "Compósición en idioma: Español Neutro. Tango."
 
 --------------------------------------------------------------------------------------------
 59- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno) 
