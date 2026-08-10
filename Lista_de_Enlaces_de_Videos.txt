@@ -464,14 +464,15 @@ web-cancion: "https://lucksys.github.io/canciones/quedate_a_mi_lado/index?t=a&v=
 info:        "Compósición en idioma: ingles con subtituulos en español."
 
 --------------------------------------------------------------------------------------------
-41- escalera_caracol
+41- Escalera Caracol
 --------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/escalera_caracol/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1BVk6XzD4qBzNZjcW6WyphifH7GgcTlzx/view"
 url-cancion: "https://drive.google.com/file/d/1R9Tq96i0I1jSyWKfcHTIzxouuzMjv2e4/view"
-web-video:   "https://lucksys.github.io/canciones/escalera_caracol/index"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/escalera_caracol/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/escalera_caracol/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 42- resurreccion_de_la_palabra

@@ -501,7 +501,7 @@ def construir_bloque_ordenado(
         f'url-cancion: "{url_cancion}"',
         f'web-video:   "{web_video}"',
         f'web-cancion: "{web_cancion}"',
-        f'info:        "{info}"',
+        f'info:        "{info}"\n',
         "\n",
 
         SEPARADOR,
