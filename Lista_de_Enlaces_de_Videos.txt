@@ -1064,7 +1064,8 @@ info:        "Composicion cantada en : Ingles. Un hombre ha esperado durante añ
 url-imagen:  "https://lucksys.github.io/canciones/ave_maria/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
 url-cancion: "https://drive.google.com/file/d/1hNndNoOT_eWMoE-PHCFIZnxJWDUwVwS2/view"
-web-video:   "https://lucksys.github.io/canciones/ave_maria/index"
+web-video:   "https://lucksys.github.io/canciones/ave_maria/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/ave_maria/index?t=a&v=1"
 info:        "Composición cantada en: Italiano Florentino por el Barítono Spinto: Leo J Loyola.
               Banda de Rock Sinfónico Gnóstico."
 
