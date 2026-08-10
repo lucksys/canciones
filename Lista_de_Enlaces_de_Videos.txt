@@ -814,7 +814,8 @@ info:        "Composición en idioma: Español Neutro. Himno Masóńico: QUE NUE
 url-imagen:  "https://lucksys.github.io/canciones/luz_en_lo_profundo/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1VOmMz1zM42OcBbKufxPQA-YzrqZrOZz0/view"
 url-cancion: "https://drive.google.com/file/d/1pjMN2qPq3yX4RwvN2E761EAOdwSGNQrl/view"
-web-video:   "https://lucksys.github.io/canciones/luz_en_lo_profundo/index"
+web-video:   "https://lucksys.github.io/canciones/luz_en_lo_profundo/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/luz_en_lo_profundo/index?t=a&v=1"
 info:        "Composición en idioma: Español Neutro. Adoración Gnostica
               NA"
 
