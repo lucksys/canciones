@@ -664,15 +664,15 @@ web-cancion: "https://lucksys.github.io/canciones/alter-tango/index?t=a&v=1"
 info:        "Compósición en idioma: Español Neutro. Tango."
 
 --------------------------------------------------------------------------------------------
-59- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno) 
+59- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno)
 ------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1AkDCNAJzCYUHNwGPjpSQxd9FqAzx1_9G/view"
 url-cancion: "https://drive.google.com/file/d/1AkDCNAJzCYUHNwGPjpSQxd9FqAzx1_9G/view"
-web-video:   "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/index"
-info:        "Compósición en idioma: Español Neutro. Cancion_para_el_responso
-              y despedida al Oriente Eterno.". 
+web-video:   "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/index?t=a&v=1"
+info:        "Compósición en idioma: Español Neutro. Cancion_para_el_responso"
 
 --------------------------------------------------------------------------------------------
 60- Herederos_de_Arte_Real(Rock-Classic) 
