@@ -503,18 +503,19 @@ info:        "Compósición en idioma: español neutro.                    "
 url-imagen:  "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1k2z17wpUQgPF5hTZgLxr9hvg8WP2oAh0/view"
 url-cancion: "https://drive.google.com/file/d/1n03OcKLsrrUAaMjmOBiLZoSWDTTo3pHy/view"
-web-video:   "https://lucksys.github.io/canciones/throne_of_the_pleroma/index1"
-info:        "Compósición en idioma: ingles, con subtitulos en español
-              Homenaje al Patriarca Enoc (Arcangel Metatron)."
+web-video:   "https://lucksys.github.io/canciones/throne_of_the_pleroma/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index1?t=a&v=1"
+info:        "Compósición en idioma: ingles, con subtitulos en español"
 
 --------------------------------------------------------------------------------------------
-45- Throne_of_the_Pleroma (EPIC)
----------------------------------
+45- Throne_of_the_Pleroma (- EpYc -)
+------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1yWju4dGwh9OnzajD2VvL6Z2FgSVyUnzQ/view"
 url-cancion: "https://drive.google.com/file/d/1bxtPgF5YnCRYA_ppdQ1JO135WUwYmdIe/view"
-web-video:   "https://lucksys.github.io/canciones/throne_of_the_pleroma/index2"
+web-video:   "https://lucksys.github.io/canciones/throne_of_the_pleroma/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/throne_of_the_pleroma/index2?t=a&v=1"
 info:        "Compósición en idioma: ingles, con subtitulos en español Versión Épica
               Homenaje al Patriarca Enoc (Arcangel Metatron)
 

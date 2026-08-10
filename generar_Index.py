@@ -285,12 +285,41 @@ def analizar_entrada(
     }
 
 
+def normalizar_titulo_comparacion(texto: str) -> str:
+    """
+    Normaliza un título SOLAMENTE para localizar una entrada existente.
+
+    IMPORTANTE:
+    - NO modifica el título almacenado.
+    - NO modifica el nombre físico del directorio.
+    - NO elimina variantes finales entre paréntesis.
+    - NO utiliza slugify().
+    - NO se utiliza para construir URLs ni directorios.
+
+    Su única finalidad es evitar duplicados causados por diferencias
+    inocuas de mayúsculas, acentos, espacios o "_" dentro del título.
+    """
+    import unicodedata
+
+    texto = texto.replace("_", " ")
+    texto = unicodedata.normalize("NFKD", texto)
+    texto = "".join(
+        ch
+        for ch in texto
+        if not unicodedata.combining(ch)
+    )
+    texto = texto.casefold()
+    texto = re.sub(r"\\s+", " ", texto)
+
+    return texto.strip()
+
+
 def buscar_entrada(
     entradas: List[Dict[str, Any]],
     titulo: str
 ) -> Optional[Dict[str, Any]]:
 
-    objetivo = titulo.strip().lower()
+    objetivo = normalizar_titulo_comparacion(titulo)
 
     for entrada in entradas:
 
@@ -299,7 +328,10 @@ def buscar_entrada(
         if titulo_entrada is None:
             continue
 
-        if titulo_entrada.strip().lower() == objetivo:
+        if (
+            normalizar_titulo_comparacion(titulo_entrada)
+            == objetivo
+        ):
             return entrada
 
     return None
@@ -501,7 +533,7 @@ def construir_bloque_ordenado(
         f'url-cancion: "{url_cancion}"',
         f'web-video:   "{web_video}"',
         f'web-cancion: "{web_cancion}"',
-        f'info:        "{info}"\n',
+        f'info:        "{info}"',
         "\n",
 
         SEPARADOR,
@@ -1003,6 +1035,10 @@ def main() -> int:
         entradas,
         titulo
     )
+
+    # IMPORTANTE:
+    # Si ya existe una entrada con este título, SIEMPRE se actualiza
+    # esa entrada. Nunca se genera un nuevo índice para el mismo título.
 
     # --------------------------------------------------------
     # DIRECTORIO
