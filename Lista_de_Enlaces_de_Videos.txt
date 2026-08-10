@@ -1070,26 +1070,28 @@ info:        "Composición cantada en: Italiano Florentino por el Barítono Spin
               Banda de Rock Sinfónico Gnóstico."
 
 -------------------------------------------------------------------------------------------
-86- Latido_de_la:Patria-(EPYC - LEO)
+86- Latido de la Patria_(-EPYC - LEO)
 -------------------------------------
-                            
+
 url-imagen:  "https://lucksys.github.io/canciones/latido_de_la_patria/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1mXsJoL37IjQowKU0u3iG2seCyDk0gcVv/view"
 url-cancion: "https://drive.google.com/file/d/16QN9L6JqNqECWDafXr01q3QmcRz0N9Ph/view"
-web-video:   "https://lucksys.github.io/canciones/latido_de_la_patria/index"
+web-video:   "https://lucksys.github.io/canciones/latido_de_la_patria/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/latido_de_la_patria/index?t=a&v=1"
 info:        "Composición cantada en: Español neutro por el Barítono Spinto: Leo J. Loyola.
               Latido_de_la:Patria es un Himno al Corazón,la Soberania, La libertad y la 
               Fraternidad. !!vMi Padria Eres Tu !! 
               Banda de Rock Sinfónico Gnóstico."
 
--------------------------------------------------------------------------------------------
-87- Pasaje_a_La_Luz -(Passaggio alla Luce- EPYC - LEO)
-------------------------------------------------------
-                            
+--------------------------------------------------------------------------------------------
+87- Pasaje a La Luz_(Passaggio alla Luce- EPYC - LEO)
+-----------------------------------------------------
+
 url-imagen:  "https://lucksys.github.io/canciones/pasaje_a_la_luz/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1E3XYXJOC-0v1PTFeajNNrofgN0xZCHoh/view"
 url-cancion: "https://drive.google.com/file/d/1vsUqVT7Kc7ITyZVf6PX9LC19ycdiHuiw/view"
-web-video:   "https://lucksys.github.io/canciones/pasaje_a_la_luz/index"
+web-video:   "https://lucksys.github.io/canciones/pasaje_a_la_luz/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/pasaje_a_la_luz/index?t=a&v=1"
 info:        "Composición cantada en: Italiano Florentino por el Barítono Spinto : Leo J. 
               Loyola. y una MezzoSoprano .La canción habla de un paso interior hacia la luz.
               El protagonista comienza en la oscuridad y la duda. Luego avanza por una senda
@@ -1099,24 +1101,27 @@ info:        "Composición cantada en: Italiano Florentino por el Barítono Spin
               conocimiento, pureza y sentido. El estribillo afirma la victoria del despertar.
               El final celebra el nacimiento de una conciencia renovada."
 
--------------------------------------------------------------------------------------------
-88- Havel-Havalim-hakol-hável -(DUO)
-------------------------------------
-                            
-url-imagen:  "https://lucksys.github.io/canciones/havel-havalim/portada.jpg"
+--------------------------------------------------------------------------------------------
+88- Havel-Havalim_hakol_hável_(DUO)
+-----------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/havel-havalim_hakol_hável/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1jDi9v4BuJqeHF06nvyml3AdaNPPs5wmt/view"
 url-cancion: "https://drive.google.com/file/d/1blKOxBxu_RmTWktzQ8Kb-kHGoxOSXQFO/view"
-web-video:   "https://lucksys.github.io/canciones/havel-havalim/index"
+web-video:   "https://lucksys.github.io/canciones/havel-havalim_hakol_hável/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/havel-havalim_hakol_hável/index?t=a&v=1"
 info:        "Composición cantada en: Español . Ultimas palabras de rey Salomon : Vacuidad 
               de Vacuidades, humo de humos. Todo es Vacuidad"
 
--------------------------------------------------------------------------------------------
-89- bajo_sombreros_y_paraguas_masonicos -(DUO)
-----------------------------------------------
-                            
-url-imagen:  "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/portada.jpg"
+--------------------------------------------------------------------------------------------
+89- Bajo Sombreros y Paraguas Masonicos_(DUO)
+---------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1BZKdW_lnDhQjIyEsNUJBUV4wXocKexbZ/view"
 url-cancion: "https://drive.google.com/file/d/1qA8JVm1d9ZsX-0Z14s6PH-spWEqMFw_8/view"
+web-video:   "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/index?t=a&v=1"
 info:        "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonicos
               La lluvia recuerda nombres antiguos olvidados.
               Caminamos buscando una luz oculta entre las sombras.
@@ -1129,14 +1134,15 @@ info:        "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonic
               La tormenta no era el enemigo, sino el olvido de lo esencial.
               Más allá del humo y el cambio, la Luz permanece"
 
--------------------------------------------------------------------------------------------
-90- bajo_sombreros_y_paraguas_masonicos -(EPYC)
------------------------------------------------
-                            
+--------------------------------------------------------------------------------------------
+90- Bajo Sombreros y Paraguas Masonicos_(-EPYC-)
+------------------------------------------------
+
 url-imagen:  "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1zIIaNp1Bh3ydFAp8u5Dm92pNWCS_tjEa"
 url-cancion: "https://drive.google.com/file/d/1mMd8H3_TYS3wutNy0ZSGrAVhnhk0zV48"
-web-video:   "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/index2"
+web-video:   "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/index2?t=a&v=1"
 info:        "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonicos
               La lluvia recuerda nombres antiguos olvidados.
               Caminamos buscando una luz oculta entre las sombras.
@@ -1149,14 +1155,15 @@ info:        "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonic
               La tormenta no era el enemigo, sino el olvido de lo esencial.
               Más allá del humo y el cambio, la Luz permanece"
 
--------------------------------------------------------------------------------------
-91- Retorno al recuerdo -(Ritorna al Ricordo)
----------------------------------------------
-                            
+--------------------------------------------------------------------------------------------
+91- Retorno al Recuerdo_(Ritorna al Ricordo)
+--------------------------------------------
+
 url-imagen:  "https://lucksys.github.io/canciones/retorno_al_recuerdo/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1qUOb35IygQIStiA_QkLm3AjbhBc3Q4Xu/view"
 url-cancion: "https://drive.google.com/file/d/1n1lPk7K818ov40Fvqhg2UborvJ3Sr-bF/view"
-web-video:   "https://lucksys.github.io/canciones/retorno_al_recuerdo/index1"
+web-video:   "https://lucksys.github.io/canciones/retorno_al_recuerdo/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index1?t=a&v=1"
 info:        "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimicas 
               de C.R. y en la cancion Napolitana Torna a Suriento.
               Cuenta la histori a de un alma que atraviesa pruebas para recordar quién 
@@ -1170,14 +1177,15 @@ info:        "Composición cantada en: Itaiano Florentino. Basadas en las Bodas 
               La unión alquímica (matrimono Alquímico) transforma la herida en 
               conocimiento. El regreso final no es a un lugar, sino al origen."
 
--------------------------------------------------------------------------------------
-92- Retorno al recuerdo EPYC -(Ritorna al Ricordo-EPYC-LEO)
------------------------------------------------------------
-                            
+--------------------------------------------------------------------------------------------
+92- Retorno al Recuerdo_(- EPYC - Ritorna al Ricordo-EPYC-LEO)
+--------------------------------------------------------------
+
 url-imagen:  "https://lucksys.github.io/canciones/retorno_al_recuerdo/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1o4_dRBGBUa2ISMS2JTykofWaGAZZ6Al-/view"
 url-cancion: "https://drive.google.com/file/d/17tJbIV3xY920RnZgt97PqsqTexN8nuDu/view"
-web-video:   "https://lucksys.github.io/canciones/retorno_al_recuerdo/index2"
+web-video:   "https://lucksys.github.io/canciones/retorno_al_recuerdo/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/retorno_al_recuerdo/index2?t=a&v=1"
 info:        "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimicas 
               de C.R. y en la cancion Napolitana Torna a Suriento.
               Cuenta la historia de un alma que atraviesa pruebas para recordar quién 
@@ -1191,32 +1199,37 @@ info:        "Composición cantada en: Itaiano Florentino. Basadas en las Bodas 
               La unión alquímica (matrimono Alquímico) transforma la herida en 
               conocimiento. El regreso final no es a un lugar, sino al origen."
 
--------------------------------------------------------------------------------------
-93- sabiduria,_fuerza_y_belleza(Sappienza, Forza e Bellezza)
-------------------------------------------------------------
-                            
+--------------------------------------------------------------------------------------------
+93- Sabiduria, Fuerza y Belleza_(Sappienza, Forza e Bellezza)
+-------------------------------------------------------------
+
 url-imagen:  "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1EfynQRyHdEry86q_GAP4r3LahutP-LiZ/view"
 url-cancion: "https://drive.google.com/file/d/1ODxeuPhaZwhlYC-o1Kucw8KNvV2v0O7S/view"
-web-video:   "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/index"
-info:        "Composición cantada en: Itaiano Florentino.La letra cuenta sobre el camino 
-              interior guiado por la luz y la verdad.
-              La sabiduría aparece como una guía serena para avanzar.
-              La fuerza se presenta como la capacidad de resistir y levantarse.
-              La belleza une el alma con lo sagrado y lo humano.
-              Cada símbolo conduce a una transformación espiritual.
-              El silencio se vuelve maestro y refugio.
-              El amor y la memoria sostienen el viaje.
-              Al final, las tres luces se funden en una sola eternidad."
+web-video:   "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/index?t=a&v=1"
+info:        "Composición cantada en: Itaiano Florentino. Basadas en las Bodas Alquimicas 
+              de C.R. y en la cancion Napolitana Torna a Suriento.
+              Cuenta la historia de un alma que atraviesa pruebas para recordar quién 
+              era antes del olvido. La rosa y la piedra guardan un nombre perdido. 
+              la rosa mistica floreciendo simboliza el despertar del alma humana,
+              la piedra (o la cruz de piedra) representa la estabilidad del Pleroma.
+              Las muertes simbólicas revelan una memoria antigua.
+              El templo buscado afuera aparece dentro del corazón.
+              La separación era solo una ilusión del sueño.
+              El recuerdo devuelve la luz olvidada.
+              La unión alquímica (matrimono Alquímico) transforma la herida en 
+              conocimiento. El regreso final no es a un lugar, sino al origen."
 
--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 94- El_UNO,_Lo_Diverso-(L'UNO,il diverso)
 -----------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/el_uno,_lo_diverso/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/15tM5fl2tpohGUdaKeLyCtZ-1rdRn0_TM/view"
 url-cancion: "https://drive.google.com/file/d/1Op7bn1G5IvCor4CTPbZiIr_J6eFuyLAb/view"
-web-video:   "https://lucksys.github.io/canciones/el_uno,_lo_diverso/index1"
+web-video:   "https://lucksys.github.io/canciones/el_uno,_lo_diverso/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_uno,_lo_diverso/index1?t=a&v=1"
 info:        "Cantada en Italiano Florentino. La canción habla de la unidad escondida en
               todo ser. Nos Recuerda que la multiplicidad nace de la Fuente inefable. 
               Cada alma es una chispa del mismo origen. El espíritu añora volver a la Luz. 
@@ -1232,7 +1245,8 @@ info:        "Cantada en Italiano Florentino. La canción habla de la unidad esc
 url-imagen:  "https://lucksys.github.io/canciones/el_uno,_lo_diverso/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1OrYah3v6afMduzU5LxnOTQLNUGYQUQGB/view"
 url-cancion: "https://drive.google.com/file/d/16XtRQvTQvhmMKoLMcPtI0DLQFItFp00a/view"
-web-video:   "https://lucksys.github.io/canciones/el_uno,_lo_diverso/index2"
+web-video:   "https://lucksys.github.io/canciones/el_uno,_lo_diverso/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_uno,_lo_diverso/index2?t=a&v"
 info:        "Cantada en Italiano Florentino. La canción habla de la unidad escondida 
               en todo ser. Nos Recuerda que la multiplicidad nace de la Fuente 
               inefable. 
@@ -1244,13 +1258,14 @@ info:        "Cantada en Italiano Florentino. La canción habla de la unidad esc
               celebra la unión con el UNO."
 
 -------------------------------------------------------------------------------------
-96- Reggae_de_la_Eleccion_y_la_Perserverancia
+96- Reggae de la Eleccion y la Perserverancia
 ---------------------------------------------
-                            
+
 url-imagen:  "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1YiCFJ0uzYnGt5nlNBoTsDlj7CBkfpGcc/view"
 url-cancion: "https://drive.google.com/file/d/1SjEDKCkhAOhTEc8hWsf9PJLPtHTTNkhL/view"
-web-video:   "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index"
+web-video:   "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index?t=a&v=1"
 info:        "Una obra sobre el poder de elegir el propio sendero.
               La perseverancia transforma las caídas en aprendizaje.
               Cada decisión moldea el destino y la verdad interior.
@@ -1260,14 +1275,15 @@ info:        "Una obra sobre el poder de elegir el propio sendero.
               Cada intento reafirma el compromiso de no abandonar.
               El verdadero Templo se construye dentro del alma."
 
--------------------------------------------------------------------------------------
-97- Reggae_de_la_Eleccion_y_la_Perserverancia-EPYC)
----------------------------------------------------
-                            
+--------------------------------------------------------------------------------------------
+97- Reggae_de_la_Eleccion_y_la_Perserverancia_(-EPYC-)
+------------------------------------------------------
+
 url-imagen:  "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1LW9ZyNund76KATrAuREEFGBRFSn24Tgw/view"
 url-cancion: "https://drive.google.com/file/d/1Q-vvc6Qx9gBc8O-V9Eotx92UUvmZOj2S/view"
-web-video:   "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index2"
+web-video:   "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index2?t=a&v=1"
 info:        "Una obra sobre el poder de elegir el propio sendero.
               La perseverancia transforma las caídas en aprendizaje.
               Cada decisión moldea el destino y la verdad interior.
@@ -1277,14 +1293,15 @@ info:        "Una obra sobre el poder de elegir el propio sendero.
               Cada intento reafirma el compromiso de no abandonar.
               El verdadero Templo se construye dentro del alma."
 
--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 98- Así_se_Creó_El_Mundo-(Sic_Mundus_Creatus_Est)
 -------------------------------------------------
                             
-url-imagen:  "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1KlBPiT_jm3tjXd7gndYDNxksunJz5_IE/view"
 url-cancion: "https://drive.google.com/file/d/1QqZXpTqfDxl7A0Fn0CBnO3YqPbgkP9mP/view"
-web-video:   "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/index"
+web-video:   "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/index1?t=a&v=1"
 info:        "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
               La memoria ancestral permanece oculta en el alma esperando ser recordada.
               La luz y la sombra se enfrentan para iniciar la transmutación interior. 
@@ -1296,13 +1313,14 @@ info:        "Una chispa divina despierta dentro de un mundo de alta densidad y 
               conciencia."
 
 -------------------------------------------------------------------------------------
-99- Así_se_Creó_El_Mundo-EPYC-(Sic_Mundus_Creatus_Est)
-------------------------------------------------------
+99- Así_se_Creó_El_Mundo_(-EPYC-, Sic_Mundus_Creatus_Est)
+---------------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1oLyMG3Und7V52tPzvy6o9tFonVooL7o7/view"
 url-cancion: "https://drive.google.com/file/d/1WYo5H0CYd6zJZFO19wNnlWr1_Jmx_ngm"
-web-video:   "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/index2"
+web-video:   "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/index2?t=a&v=
 info:        "Una chispa divina despierta dentro de un mundo de alta densidad y olvido.
               La memoria ancestral permanece oculta en el alma esperando ser recordada.
               La luz y la sombra se enfrentan para iniciar la transmutación interior. 
