@@ -526,7 +526,7 @@ info:        "Compósición en idioma: ingles, con subtitulos en español. Versi
 
 url-imagen:  "https://lucksys.github.io/canciones/la_lampara_interior/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/view"
-url-cancion: "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/view"
+url-cancion: "https://drive.google.com/file/d/1H4D96QE2aZ6INvAZzZM266DgvsXjeGpB/view"
 web-video:   "https://lucksys.github.io/canciones/la_lampara_interior/index1?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
