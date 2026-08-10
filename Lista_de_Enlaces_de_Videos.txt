@@ -820,15 +820,15 @@ info:        "Composición en idioma: Español Neutro. Adoración Gnostica
               NA"
 
 --------------------------------------------------------------------------------------------
-71- 13_arrepentimietos_y_un_clamor_desesperado
+71- 13 Arrepentimietos y un Clamor Desesperado
 ----------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/portada.jpg"
 url-video:   "https://drive.google.com/file/d/10GaeoYgNiznzF-7fWQBKEzoct-YgRmzg/view"
 url-cancion: "https://drive.google.com/file/d/1YsSDF7TggRE5vTBDM5cguxmNo2ht-WK0/view"
-web-video:   "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/index"
-info:        "Composición en idioma: Español Neutro. Adoración Gnóstica.
-              Los 13 Arrepentimientos de: Pistis Sophia "
+web-video:   "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/index?t=a&v=1"
+info:        "Composición en idioma: Español Neutro. Adoración Gnóstica."
 
 --------------------------------------------------------------------------------------------
 72- retorno_y_despertar_a_la_luz
