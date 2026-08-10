@@ -521,25 +521,26 @@ info:        "Compósición en idioma: ingles, con subtitulos en español. Versi
               Homenaje al Patriarca Enoc (Arcangel Metatron)"
 
 --------------------------------------------------------------------------------------------
-46- la_lámpara_interior
+46- La Lampara Interior
 -----------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_lampara_interior/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/view"
-url-cancion: "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/view?usp=sharing"
-web-video:   "https://lucksys.github.io/canciones/la_lampara_interior1/index1"
-info:        "Compósición en idioma: español neutro.                    "
+url-cancion: "https://drive.google.com/file/d/1LRPJfTLdTcyEqmm8UwBDji0838N3BKn7/view"
+web-video:   "https://lucksys.github.io/canciones/la_lampara_interior/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index1?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-47- la_lámpara_interior_Acoustic
---------------------------------
+47- La Lámpara Interior (- Acoustic -)
+--------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_lampara_interior/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1Om-sp4-uBVSP8OuB_gGVmg6L7gKOWSdU/view"
 url-cancion: "https://drive.google.com/file/d/1XHSTQnU0OX2z-StxTzHsHZTeUV5e2KaH/view"
-web-video : "https://lucksys.github.io/canciones/la_lampara_interior/index2"
-web-url-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index2"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/la_lampara_interior/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index2?t=a&v=1"
+info:        "Compósición en idioma: español neutro. "
 
 --------------------------------------------------------------------------------------------
 48- El_Camino_la_Virtud_y_el_Cayado
