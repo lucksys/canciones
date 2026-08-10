@@ -420,15 +420,15 @@ web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inicia
 info:        "Compósición en idioma: español neutro y Frases en Latín."
 
 --------------------------------------------------------------------------------------------
-37- la_trascendencia
---------------------
+37- El Umbral de la Trascendencia
+---------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/la_trascendencia/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/el_umbral_de_la_trascendencia/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1SUc6FVxZDisg4W5hOQFyMynzBSW_KojB/view"
 url-cancion: "https://drive.google.com/file/d/1zkeDe_ArafpjJO1uH4YctE0e0QRLhu1v/view"
-web-video:   "https://lucksys.github.io/canciones/la_trascendencia/index"
-info:        "Compósición en idioma: español neutro.                    "
-
+web-video:   "https://lucksys.github.io/canciones/el_umbral_de_la_trascendencia/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_umbral_de_la_trascendencia/index?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 --------------------------------------------------------------------------------------------
 38- la_elección_y_la_perseverancia
 ----------------------------------
