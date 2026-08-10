@@ -379,20 +379,22 @@ info:        "Compósición en idioma: español neutro. N.A."
 33- himno_de_la_luz_velada
 --------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/19UFKaAr4KEM4vdxcSBNtoy4yzJo0N6yW/view"
 url-cancion: "https://drive.google.com/file/d/10pvYubqPfUy8FHEbMZh-4iSsDYH2YSH5/view"
-web-video:   "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index1"
-info:        "Compósición en idioma: español neutro.                    "
+web-video:   "https://lucksys.github.io/canciones/ne_plus_ultra/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/ne_plus_ultra/index1?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
 34- himno_de_la_luz_velada (Versión Epica)
 ------------------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1xuzqtjdkb_8u2BoZxDGivLh2QQ_MiMAX/view"
 url-cancion: "https://drive.google.com/file/d/1JXyMZcxx_qHw8gsWUE7zpBecLJKve9py/view"
-web-video:   "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index2"
+web-video:   "https://lucksys.github.io/canciones/ne_plus_ultra/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/ne_plus_ultra/index2?t=a&v=1"
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
