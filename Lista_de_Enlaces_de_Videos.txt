@@ -1004,29 +1004,14 @@ info:        "La composición narra la historia de un buscador que se adentra en
               la plenitud a través de la disciplina y la búsqueda de la luz."
 
 -------------------------------------------------------------------------------------------
-82- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamnesis) (Italiano)
+82- El Verbo Olvidado Que No Se Perdio (Anamnesis)_(Italiano)
 -------------------------------------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada1.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamnesis)/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1GErZ03LUV5__qBcHnCNAd8o5JaKPPove/view"
 url-cancion: "https://drive.google.com/file/d/1wxg3oyRlOwqOZ1Bls5JXSN2xrYctXbm2/view"
-web-video:   "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/index1"
-info:        "Composicion cntada en : Italiano Florentino .La composición nos cuenta la 
-              historia de una memoria espiritual perdida, donde el alma busca su origen
-              verdadero. Y La Palabra no desaparece, solo se olvida. La Monada aparece 
-              como fuente primera. La Luz y el Logos son el centro del regreso. Hiram 
-              simboliza la prueba y el silencio interior. El templo verdadero nace dentro
-              del ser. La Anamnesis es el acto de recordar. Recordar es volver a la 
-              sustancia del Inefable. El final celebra la unión con la Fuente."
-
--------------------------------------------------------------------------------------------
-83- El_Verbo_Olvidado_Que_No_Se_Perdió_(Anamnésis) (EPYC-LEO-Italiano)
-----------------------------------------------------------------------
-                            
-url-imagen:  "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/portada2.jpg"
-url-video:   "https://drive.google.com/file/d/1HlkBgWt0MNpEnWoQAx1DlYkKmzFicdzh/view"
-url-cancion: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
-web-video:   "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamesis)/index2"
+web-video:   "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamnesis)/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamnesis)/index1?t=a&v=1"
 info:        "Composicion cantada en : Italiano Florentino .La composición nos cuenta la 
               historia de una memoria espiritual perdida, donde el alma busca su origen
               verdadero. Y La Palabra no desaparece, solo se olvida. La Monada aparece 
@@ -1035,14 +1020,32 @@ info:        "Composicion cantada en : Italiano Florentino .La composición nos 
               del ser. La Anamnesis es el acto de recordar. Recordar es volver a la 
               sustancia del Inefable. El final celebra la unión con la Fuente."
 
--------------------------------------------------------------------------------------------
-84- Lady_of_My_Life (English-Country-Balada by:LEO)
----------------------------------------------------
-                            
-url-imagen:  "https://lucksys.github.io/canciones/Lady_of_My_Life/portada.jpg"
+--------------------------------------------------------------------------------------------
+83- El Verbo Olvidado Que No se Perdio (Anamnesis)_(EPYC-LEO-Italiano)
+----------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamnesis)/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1HlkBgWt0MNpEnWoQAx1DlYkKmzFicdzh/view"
+url-cancion: "https://drive.google.com/file/d/1JMnRtAd_2Q79slLsl59E1BlsuY2N-pbD/view"
+web-video:   "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamnesis)/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamnesis)/index2?t=a&v=1"
+info:        "Composicion cantada en : Italiano Florentino .La composición nos cuenta la 
+              historia de una memoria espiritual perdida, donde el alma busca su origen
+              verdadero. Y La Palabra no desaparece, solo se olvida. La Monada aparece 
+              como fuente primera. La Luz y el Logos son el centro del regreso. Hiram 
+              simboliza la prueba y el silencio interior. El templo verdadero nace dentro
+              del ser. La Anamnesis es el acto de recordar. Recordar es volver a la 
+              sustancia del Inefable. El final celebra la unión con la Fuente."
+
+--------------------------------------------------------------------------------------------
+84- Lady of My Life_(English-Country-Balada by: LEO)
+----------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/lady_of_my_life/portada.jpg"
 url-video:   "https://drive.google.com/file/d/12IxEla0pTSLD2O2DdKF0kuxdluvtTIOq/view"
 url-cancion: "https://drive.google.com/file/d/18wMebDzqE_2yEIfKIFE-IjqWsVx-Wpt8/view"
-web-video:   "https://lucksys.github.io/canciones/Lady_of_My_Life/index"
+web-video:   "https://lucksys.github.io/canciones/lady_of_my_life/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/lady_of_my_life/index?t=a&v=1"
 info:        "Composicion cantada en : Ingles. Un hombre ha esperado durante años encontrar
               a la mujer destinada para su alma. La presencia de ella le brinda paz, 
               refugio y seguridad interior. Sus ojos le recuerdan cielos claros y tiempos
@@ -1054,7 +1057,7 @@ info:        "Composicion cantada en : Ingles. Un hombre ha esperado durante añ
               La unión entre ambos representa un hogar sagrado y permanente.
               La canción expresa una devoción profunda hacia el amor de toda una vida."
 
--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 85- Ave_Maria-gNoStIKa (Schuber lyric- Cantante Italian:LEO)
 -------------------------------------------------------------
                             
