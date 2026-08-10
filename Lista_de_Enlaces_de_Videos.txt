@@ -404,19 +404,19 @@ info:        "Compósición en idioma: español neutro.                    "
 url-imagen:  "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1czU6AVL8c3HYC7qVDg9aFGI4KxIUvijd/view"
 url-cancion: "https://drive.google.com/file/d/1ozX6jfwnaFkb_xiAoffGFG1uTMhUeyuO/view"
-web-video:   "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index1?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index1?t=a&v=1"
+web-video:   "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_iniciatico_por_el_alma/index1?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_iniciatico_por_el_alma/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro y Frases en Latín."
 
 --------------------------------------------------------------------------------------------
 36- XIII_maximas_y_un_grito_iniciatico_por_el_alma-EPYC-(LEO)
 -------------------------------------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/portada2.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_iniciatico_por_el_alma/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1XCygt9ba7oF8M_uFye78qc8MntrqXuOc/view"
 url-cancion: "https://drive.google.com/file/d/1hLz7oXIitoWVxE_bl-fyuk-ZaPZkhB8y/view"
-web-video:   "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index2?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inciatico_por_el_alma/index2?t=a&v=1"
+web-video:   "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_iniciatico_por_el_alma/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_iniciatico_por_el_alma/index2?t=a&v=1"
 info:        "Compósición en idioma: español neutro y Frases en Latín."
 
 --------------------------------------------------------------------------------------------
