@@ -2237,7 +2237,7 @@ info:        "Composión en español neutro .balada iniciática
               La música entrelaza fuerza, misterio y contemplación.
               La tradición primordial susurra entre cada verso y cada nota.
               Déjate llevar por este viaje de transformación y memoria.
-              Bienvenido/a *La Voz del Mandil Blanco* ."
+              Bienvenido/a *La Voz del Mandil Blanco* . "
 
 --------------------------------------------------------------------------------------------
 
