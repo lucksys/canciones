@@ -7,7 +7,7 @@ url-video:   "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69
 url-cancion: "https://drive.google.com/drive/folders/1EafnVCZ5XJ-7z3ogrukDbL7_69mr1TxD?usp=sharing"
 web-video:   "https://lucksys.github.io/canciones/index"
 web-canción: "https://lucksys.github.io/canciones/index"
-info:        "Indice Geberal de Composicines Musicales"
+info:        "Indice General de Composicines Musicales"
 
 --------------------------------------------------------------------------------------------
 1- Vinculo_Sagrado 
@@ -2246,8 +2246,8 @@ info:        "Composión en español neutro .balada iniciática
 url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada.jpg"
 url-video:   "https://drive.google.com/file/d/19Dln2IujG5SJyvleCzPBTtUp2LL7-0Gk/view"
 url-cancion: "https://drive.google.com/file/d/1XU8hedHMNdkD8d1ShwupHFfJEFwYX88G/view"
-web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index?t=p"
-web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index1t=a"
+web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index1t=a&v=1"
 info:        "Composión en Italiano Florentino.balada iniciática.En el silencio interior
               comienza la búsqueda de una verdad antigua.
               El camino hacia la eternidad nace entre la oscuridad y la luz.
@@ -2257,6 +2257,30 @@ info:        "Composión en Italiano Florentino.balada iniciática.En el silenci
               La virtud eterna permanece como luz en medio de la creación.
               De la oscuridad nacemos y hacia el universo nos elevamos.
               Al final comprendemos que luz y sombra son un solo ser."
+
+--------------------------------------------------------------------------------------------
+144- Este Amor Inconmensurable (Ingles - This_Unfathomable_Love - )
+-------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/unfathomable_love/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1MnEVyyhFHFYpX8fpF-PrBbSJhvGKQkFB/view"
+url-cancion: "https://drive.google.com/file/d/12bQD_b7j0VI6nyteIKDi3n7-6UkpYlvC/view"
+web-video:   "https://lucksys.github.io/canciones/unfathomable_love/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/unfathomable_love/indext=a&v=1"
+info:        "Composión en Ingles Ameocano.balada Gospel e iniciática.Esta composición 
+              contempla el misterio del Amor Insondable del UNO como origen de toda 
+existencia.
+              La Mente Suprema crea el orden cósmico mediante una geometría sagrada.
+              El Logos surge de la Luz invisible como puente hacia la libertad 
+              espiritual.
+              El alma descubre en la Palabra Sagrada una llamada hacia lo divino.
+              El sacrificio del LOGOS y la Obra Alquímica que transforman la materia 
+              y revelan la Luz eterna.
+              El fuego divino consume la oscuridad y permite la ascensión del alma.
+              La culminación representa la unión entre lo humano, lo sagrado y la 
+              Vida Eterna.
+              Todo desemboca en una celebración de asombro ante el Amor Insondable 
+              del UNO que une a todos."
 
 --------------------------------------------------------------------------------------------
 
