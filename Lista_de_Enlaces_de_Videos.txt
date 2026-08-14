@@ -2269,7 +2269,7 @@ web-video:   "https://lucksys.github.io/canciones/unfathomable_love/index?t=p&v=
 web-cancion: "https://lucksys.github.io/canciones/unfathomable_love/indext=a&v=1"
 info:        "Composión en Ingles Ameocano.balada Gospel e iniciática.Esta composición 
               contempla el misterio del Amor Insondable del UNO como origen de toda 
-existencia.
+              existencia.
               La Mente Suprema crea el orden cósmico mediante una geometría sagrada.
               El Logos surge de la Luz invisible como puente hacia la libertad 
               espiritual.
