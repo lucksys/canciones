@@ -2247,7 +2247,7 @@ url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/por
 url-video:   "https://drive.google.com/file/d/19Dln2IujG5SJyvleCzPBTtUp2LL7-0Gk/view"
 url-cancion: "https://drive.google.com/file/d/1XU8hedHMNdkD8d1ShwupHFfJEFwYX88G/view"
 web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index?t=p&v=1"
-web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index1t=a&v=1"
+web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index?t=a&v=1"
 info:        "Composión en Italiano Florentino.balada iniciática.En el silencio interior
               comienza la búsqueda de una verdad antigua.
               El camino hacia la eternidad nace entre la oscuridad y la luz.
@@ -2259,28 +2259,24 @@ info:        "Composión en Italiano Florentino.balada iniciática.En el silenci
               Al final comprendemos que luz y sombra son un solo ser."
 
 --------------------------------------------------------------------------------------------
-144- Este Amor Inconmensurable (Ingles - This_Unfathomable_Love - )
--------------------------------------------------------------------
+145- Mi Alma
+------------
 
-url-imagen:  "https://lucksys.github.io/canciones/unfathomable_love/portada.jpg"
-url-video:   "https://drive.google.com/file/d/1MnEVyyhFHFYpX8fpF-PrBbSJhvGKQkFB/view"
-url-cancion: "https://drive.google.com/file/d/12bQD_b7j0VI6nyteIKDi3n7-6UkpYlvC/view"
-web-video:   "https://lucksys.github.io/canciones/unfathomable_love/index?t=p&v=1"
-web-cancion: "https://lucksys.github.io/canciones/unfathomable_love/indext=a&v=1"
-info:        "Composión en Ingles Ameocano.balada Gospel e iniciática.Esta composición 
-              contempla el misterio del Amor Insondable del UNO como origen de toda 
-              existencia.
-              La Mente Suprema crea el orden cósmico mediante una geometría sagrada.
-              El Logos surge de la Luz invisible como puente hacia la libertad 
-              espiritual.
-              El alma descubre en la Palabra Sagrada una llamada hacia lo divino.
-              El sacrificio del LOGOS y la Obra Alquímica que transforman la materia 
-              y revelan la Luz eterna.
-              El fuego divino consume la oscuridad y permite la ascensión del alma.
-              La culminación representa la unión entre lo humano, lo sagrado y la 
-              Vida Eterna.
-              Todo desemboca en una celebración de asombro ante el Amor Insondable 
-              del UNO que une a todos."
+url-imagen:  "https://lucksys.github.io/canciones/mi_alma/portada.jpg"
+url-video:   ""
+url-cancion: "https://drive.google.com/file/d/14v1kt9EghrfvsJeUmhOq0khyDk24N244/view"
+web-video:   "https://lucksys.github.io/canciones/mi_alma/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/mi_alma/index?t=a&v=1"
+info:        "Una presencia regresa sin revelar su identidad.
+              Su mirada despierta un recuerdo imposible de explicar.
+              La protagonista reconoce en distintos rostros una misma esencia.
+              Siente una sed espiritual que atraviesa el tiempo y la memoria.
+              Se pregunta si ambos se han amado en otras vidas.
+              Comprende que los cuerpos cambian, pero algo permanece y vuelve a r
+              econocerse.
+              Una antigua llama le confirma que el corazón puede recordar lo que la 
+              mente olvida.
+              Y al final, su alma comprende que quizá siempre haya sido ella."
 
 --------------------------------------------------------------------------------------------
 
