@@ -2265,7 +2265,7 @@ info:        "Composión en Italiano Florentino.balada iniciática.En el silenci
 url-imagen:  "https://lucksys.github.io/canciones/mi_alma/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1ETKa1o0_At4tGOR4pf0fHwOqOD2lybUo/view"
 url-cancion: "https://drive.google.com/file/d/14v1kt9EghrfvsJeUmhOq0khyDk24N244/view"
-web-video:   "https://lucksys.github.io/canciones/mi_alma/index?t=p&v=1"
+web-video:   "https://lucksys.github.io/canciones/mi_alma/index?t=p&v=3"
 web-cancion: "https://lucksys.github.io/canciones/mi_alma/index?t=a&v=1"
 info:        "Una presencia regresa sin revelar su identidad.
               Su mirada despierta un recuerdo imposible de explicar.
