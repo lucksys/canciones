@@ -2259,6 +2259,34 @@ info:        "Composión en Italiano Florentino.balada iniciática.En el silenci
               Al final comprendemos que luz y sombra son un solo ser."
 
 --------------------------------------------------------------------------------------------
+144- Este Amor Inconmensurable (Ingles - This_Unfathomable_Love - )
+-------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/unfathomable_love/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1MnEVyyhFHFYpX8fpF-PrBbSJhvGKQkFB/view
+url-cancion: "https://drive.google.com/file/d/12bQD_b7j0VI6nyteIKDi3n7-6UkpYlvC/view"
+web-video:   "https://lucksys.github.io/canciones/unfathomable_love/index?t=p&v=3"
+web-cancion: "https://lucksys.github.io/canciones/unfathomable_love/index?t=a&v=1"
+info:        "Composcon en Ingles El misterio del Amor Inconmesurable del UNO como 
+              origen de toda existencia. Es la obra y el tratado de Magia más 
+              poderoso de toda la Creación. 
+              La MENTE Suprema del UNO crea el orden cósmico mediante una geometría
+              sagrada.
+              El LOGOS surge de la Luz invisible como puente hacia nuestra libertad 
+              espiritual.
+              El alma descubre en la PALABRA Sagrada LA LLAMADA hacia lo divino.
+              En el sacrificio del LOGOS y su Obra Alquímica Magna, transforman la 
+              materia, revelando la Luz eterna.
+              El fuego divino consume la oscuridad permitiendo la ascensión del alma.
+              La culminación representa la unión entre lo humano, lo sagrado y la Vida
+              Eterna.
+              Todo desemboca en una celebración de asombro ante el AMOR INCONMENSURABLE
+              del UNO que nos une a todos. Al amar al Prójimo como tu reflejo estámos 
+              celebrando este AMOR.
+              EL AMOR INCONENSURABLE: El mayor del los ARCANOS ."
+
+--------------------------------------------------------------------------------------------
+
 145- Mi Alma
 ------------
 
