@@ -2306,7 +2306,7 @@ info:        "Una presencia regresa sin revelar su identidad.
               Y al final, su alma comprende que quizá siempre haya sido ella."
 
 --------------------------------------------------------------------------------------------
-146- El Propósito
+146- El Proposito
 -----------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_proposito/portada.jpg"
