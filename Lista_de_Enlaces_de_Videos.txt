@@ -2333,5 +2333,3 @@ info:        "Antes del gesto y del rito, existe una intención que da nacimient
 
 --------------------------------------------------------------------------------------------
 
-
-
