@@ -2312,7 +2312,7 @@ info:        "Una presencia regresa sin revelar su identidad.
 url-imagen:  "https://lucksys.github.io/canciones/el_proposito/portada.jpg"
 url-video:   "https://drive.google.com/file/d/16TB9xxSh-BzwEAvZaMX2sHpcI_SD6WLA/view"
 url-cancion: "https://drive.google.com/file/d/1315WUWZg5YjtWD0ix0bxUMvKG7ixgZ0z/view"
-web-video:   "https://lucksys.github.io/canciones/el_proposito/index?t=p&v=3"
+web-video:   "https://lucksys.github.io/canciones/el_proposito/index?t=p&v=1"
 web-cancion: "https://lucksys.github.io/canciones/el_proposito/index?t=a&v=1"
 info:        "Antes del gesto y del rito, existe una intención que da nacimiento  
               a toda Obra. 
