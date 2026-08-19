@@ -2286,7 +2286,6 @@ info:        "Composcon en Ingles El misterio del Amor Inconmesurable del UNO co
               EL AMOR INCONENSURABLE: El mayor del los ARCANOS ."
 
 --------------------------------------------------------------------------------------------
-
 145- Mi Alma
 ------------
 
@@ -2307,4 +2306,32 @@ info:        "Una presencia regresa sin revelar su identidad.
               Y al final, su alma comprende que quizá siempre haya sido ella."
 
 --------------------------------------------------------------------------------------------
+146- El Propósito
+-----------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_proposito/portada.jpg"
+url-video:   "https://drive.google.com/file/d/16TB9xxSh-BzwEAvZaMX2sHpcI_SD6WLA/view"
+url-cancion: "https://drive.google.com/file/d/1315WUWZg5YjtWD0ix0bxUMvKG7ixgZ0z/view"
+web-video:   "https://lucksys.github.io/canciones/el_proposito/index?t=p&v=3"
+web-cancion: "https://lucksys.github.io/canciones/el_proposito/index?t=a&v=1"
+info:        "Antes del gesto y del rito, existe una intención que da nacimiento  
+              a toda Obra. 
+              Pensar es encender en el alma una tarea que busca tomar forma y  
+              convertirse en realidad.  
+              El Propósito es la llama que orienta la voluntad, da sentido al  
+              símbolo y dirige cada paso.  
+              Un rito sin conciencia puede convertirse en forma vacía, y una 
+              forma sin propósito puede transformarse en cadena. 
+              No basta obedecer lo aprendido: es necesario comprender quién 
+              eligió el camino y hacia dónde conduce.
+              Toda verdadera Obra comienza en su fundamento: la intención que  
+              sostiene el pensamiento y guía la acción.
+              Buscar la verdad permite recuperar la propia voluntad y distinguir  
+              entre un destino elegido y una dirección impuesta. 
+              Cuando el Propósito nace de la verdad, el rito deja de ser cadena,  
+              se convierte en conciencia y la Obra revela su verdadero sentido." 
+
+--------------------------------------------------------------------------------------------
+
+
 
