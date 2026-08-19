@@ -2332,4 +2332,29 @@ info:        "Antes del gesto y del rito, existe una intención que da nacimient
               se convierte en conciencia y la Obra revela su verdadero sentido." 
 
 --------------------------------------------------------------------------------------------
+147- El Proposito - EPYC -
+--------------------------
 
+url-imagen:  "https://lucksys.github.io/canciones/el_proposito/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1F5PzR0cKRcyYLOvrwf7tBBtR7hR1--_g/view"
+url-cancion: "https://drive.google.com/file/d/1315WUWZg5YjtWD0ix0bxUMvKG7ixgZ0z/view"
+web-video:   "https://lucksys.github.io/canciones/el_proposito/index2?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_proposito/index2?t=a&v=1"
+info:        "Antes del gesto y del rito, existe una intención que da nacimiento  
+              a toda Obra. 
+              Pensar es encender en el alma una tarea que busca tomar forma y  
+              convertirse en realidad.  
+              El Propósito es la llama que orienta la voluntad, da sentido al  
+              símbolo y dirige cada paso.  
+              Un rito sin conciencia puede convertirse en forma vacía, y una 
+              forma sin propósito puede transformarse en cadena. 
+              No basta obedecer lo aprendido: es necesario comprender quién 
+              eligió el camino y hacia dónde conduce.
+              Toda verdadera Obra comienza en su fundamento: la intención que  
+              sostiene el pensamiento y guía la acción.
+              Buscar la verdad permite recuperar la propia voluntad y distinguir  
+              entre un destino elegido y una dirección impuesta. 
+              Cuando el Propósito nace de la verdad, el rito deja de ser cadena,  
+              se convierte en conciencia y la Obra revela su verdadero sentido." 
+
+--------------------------------------------------------------------------------------------
