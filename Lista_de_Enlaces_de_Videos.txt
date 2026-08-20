@@ -2358,3 +2358,23 @@ info:        "Antes del gesto y del rito, existe una intención que da nacimient
               se convierte en conciencia y la Obra revela su verdadero sentido." 
 
 --------------------------------------------------------------------------------------------
+148- El Drama Ritual - La Palabra que se Vive
+---------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_drama_ritual-la_palabra_que_se_vive/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1IZh_thK4NubyIKVmnAB_O2DoXXue44gW/view"
+url-cancion: "https://drive.google.com/file/d/14ZA1Xt9aGCpMyKlpYyl3MYtS0RVVwcPr/view"
+web-video:   "https://lucksys.github.io/canciones/el_drama_ritual-la_palabra_que_se_vive/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_drama_ritual-la_palabra_que_se_vive/index?t=a&v=1"
+info:        "La canción invita a comprender que todo rito nace de una intención interior.
+              Cuestiona una práctica centrada en la forma, los símbolos y las palabras vacías.
+              Afirma que la verdadera Obra se construye mediante la transformación de la propia vida.
+              Presenta el servicio, la perseverancia y el renacimiento interior como verdadera nobleza.
+              Advierte sobre el peligro de convertir la autoridad y los grados en instrumentos de dominio.
+              Invita al buscador a cuestionar el camino recibido y a recuperar su libertad de conciencia.
+              Sostiene que ninguna iniciación auténtica puede exigir renunciar a la propia verdad.
+              Finalmente, proclama que el verdadero altar está en la conciencia y la verdadera luz,
+              en el corazón." 
+
+--------------------------------------------------------------------------------------------
+
