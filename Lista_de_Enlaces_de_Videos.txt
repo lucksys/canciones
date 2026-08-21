@@ -2377,4 +2377,22 @@ info:        "La canción invita a comprender que todo rito nace de una intenci�
               en el corazón." 
 
 --------------------------------------------------------------------------------------------
+149- El Sesgo de una Sombra
+---------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1F_A1cM6MgsIgh4i7PNMG4NNYXGuukXNS/view"
+url-cancion: "https://drive.google.com/file/d/18sDV59yWIz7IqklyNtYoFmSVLONTbowy/view"
+web-video:   "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/index?t=a&v=1"
+info:        "La sombra revela aquello que el ser humano intenta ocultar.
+              El conflicto nace entre la verdad interior y las máscaras que mostramos.
+              Cada reflejo enfrenta al individuo con sus propias contradicciones.
+              La oscuridad simboliza aquello que aún no ha sido comprendido.
+              Aceptar la sombra permite transformar el miedo en conciencia.
+              La verdad aparece cuando dejamos de huir de nosotros mismos.
+              La integración de lo oculto abre un camino hacia la libertad interior.
+              Al reconocer la sombra, el ser descubre finalmente quién es." 
+
+--------------------------------------------------------------------------------------------
 
