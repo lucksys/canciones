@@ -660,7 +660,7 @@ url-imagen:  "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguad
 url-video:   "https://drive.google.com/file/d/1VPhq2PPdX8AKaOE1bcGitN6ZKekcyf1d/view"
 url-cancion: "https://drive.google.com/file/d/1IV09nPsxvpPQ1lmpxEOua4oQ-ZP1uguV/view"
 web-video:   "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index2?t=k&v=1"
-web-cancion: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index2t=a&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/index2?t=a&v=1"
 info:        "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba)."
 
 --------------------------------------------------------------------------------------------
