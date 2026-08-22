@@ -2395,4 +2395,22 @@ info:        "La sombra revela aquello que el ser humano intenta ocultar.
               Al reconocer la sombra, el ser descubre finalmente quién es." 
 
 --------------------------------------------------------------------------------------------
+150- El Sesgo de una Sombra - EPYC-
+-----------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1papS_plwXYEgIieqRzwNpo8kf1uLLQag/view"
+url-cancion: "https://drive.google.com/file/d/1BkTZkOcpsQAiWma5mFftYYaDA_xejVdA/view"
+web-video:   "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/index2?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/index2?t=a&v=1"
+info:        "La sombra revela aquello que el ser humano intenta ocultar.
+              El conflicto nace entre la verdad interior y las máscaras que mostramos.
+              Cada reflejo enfrenta al individuo con sus propias contradicciones.
+              La oscuridad simboliza aquello que aún no ha sido comprendido.
+              Aceptar la sombra permite transformar el miedo en conciencia.
+              La verdad aparece cuando dejamos de huir de nosotros mismos.
+              La integración de lo oculto abre un camino hacia la libertad interior.
+              Al reconocer la sombra, el ser descubre finalmente quién es." 
+
+--------------------------------------------------------------------------------------------
 
