@@ -2451,13 +2451,13 @@ info:        "La apariencia externa oculta la verdadera naturaleza de las cosas.
               El templo simboliza la expansión de la conciencia y del ser.
               No existen fronteras entre lo exterior y lo interior.
               La Monada se revela en perfecta unidad e integración.
-              <br>    
+                                                                                            
               Kama:  (Sánscrito) Representa e deseo, la pasión y la naturaleza inferior de 
-                     lo material.
-              Manas: (Sánscrito) Representala menteo intelecto actuando como puente entre 
-                      materia y espíritu.
-              Buddhi: (Sánscrito) La intuicion , ama espiritual o mente superior.
-              Atman: (Sánscrito) El espiritu o YO supremo.
+                     lo material.                                                          
+              Manas: (Sánscrito) Representala menteo intelecto actuando como puente entre  
+                      materia y espíritu.                                                  
+              Buddhi: (Sánscrito) La intuicion , ama espiritual o mente superior.         
+              Atman: (Sánscrito) El espiritu o YO supremo.                                 
               Dzyan: (Sánscrito) Meditación , Dhyäna (tibetano)."
               
 --------------------------------------------------------------------------------------------
