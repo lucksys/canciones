@@ -2451,7 +2451,7 @@ info:        "La apariencia externa oculta la verdadera naturaleza de las cosas.
               El templo simboliza la expansión de la conciencia y del ser.
               No existen fronteras entre lo exterior y lo interior.
               La Monada se revela en perfecta unidad e integración.
-
+              <br>    
               Kama:  (Sánscrito) Representa e deseo, la pasión y la naturaleza inferior de 
                      lo material.
               Manas: (Sánscrito) Representala menteo intelecto actuando como puente entre 
