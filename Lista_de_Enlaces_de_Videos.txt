@@ -2435,4 +2435,31 @@ info:        "La sombra revela aquello que el ser humano intenta ocultar.
               Al reconocer la sombra, el ser descubre finalmente quién es." 
 
 --------------------------------------------------------------------------------------------
+154- Las Estancias Interiores
+-----------------------------
 
+url-imagen:  "https://lucksys.github.io/canciones/las_estancias_interiores/portada1.jpg"
+url-video:   "https://drive.google.com/file/d/1jyu-k3lccd9W5Y0uyitbxH8pKIdHFm31/view"
+url-cancion: "https://drive.google.com/file/d/1kqw0bA1LHNyPxhoR73FGOmAnNQjquxiE/view"
+web-video:   "https://lucksys.github.io/canciones/las_estancias_interiores/index1?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/las_estancias_interiores/index1?t=a&v=1"
+info:        "La apariencia externa oculta la verdadera naturaleza de las cosas.
+              El conocimiento revela que continente y contenido son una sola realidad.
+              La mente crea separaciones que alimentan la ilusión del observador.
+              Buddhi y Atman convergen cuando cae el velo de la dualidad.
+              La misma luz atraviesa cada plano y cada estancia interior.
+              El templo simboliza la expansión de la conciencia y del ser.
+              No existen fronteras entre lo exterior y lo interior.
+              La Monada se revela en perfecta unidad e integración.
+              ..............................................................................................
+              Kama:  (Sánscrito) Representa e deseo, la pasión y la naturaleza inferior de 
+                     lo material.
+              Manas: (Sánscrito) Representala menteo intelecto actuando como puente entre 
+                      materia y espíritu.
+              Buddhi: (Sánscrito) La intuicion , ama espiritual o mente superior.
+              Atman: (Sánscrito) El espiritu o YO supremo.
+              Dzyan: (Sánscrito) Meditación , Dhyäna (tibetano). 
+              .............................................................................................."
+              
+--------------------------------------------------------------------------------------------
+  
