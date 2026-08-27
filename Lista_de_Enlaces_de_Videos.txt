@@ -2265,11 +2265,30 @@ info:        "Composión en español neutro .balada iniciática
 146- Misericordia y Gratitud_(Italiano- Misericordia e Gratitudine)
 -------------------------------------------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/19Dln2IujG5SJyvleCzPBTtUp2LL7-0Gk/view"
 url-cancion: "https://drive.google.com/file/d/1XU8hedHMNdkD8d1ShwupHFfJEFwYX88G/view"
-web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index?t=p&v=1"
-web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index?t=a&v=1"
+web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index2?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index2?t=a&v=1"
+info:        "Composión en Italiano Florentino.balada iniciática.En el silencio interior
+              comienza la búsqueda de una verdad antigua.
+              El camino hacia la eternidad nace entre la oscuridad y la luz.
+              Cada paso revela la ley de causa y efecto. La materia y el alma se unen en
+              una profunda transmutación.
+              El corazón refleja una verdad oculta por la iniciación.
+              La virtud eterna permanece como luz en medio de la creación.
+              De la oscuridad nacemos y hacia el universo nos elevamos.
+              Al final comprendemos que luz y sombra son un solo ser."
+
+--------------------------------------------------------------------------------------------
+147- Misericordia y Gratitud- version-ANDREA- (Italiano- Misericordia e Gratitudine)
+------------------------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1Xdl8abTtK5n44qf9s74DqB8EDHOR6Hms/view"
+url-cancion: "https://drive.google.com/file/d/1lRyVFwfu0aTTpVdG9FMgBIZzPc4BuU4V/view"
+web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index2?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index2?t=a&v=1"
 info:        "Composión en Italiano Florentino.balada iniciática.En el silencio interior
               comienza la búsqueda de una verdad antigua.
               El camino hacia la eternidad nace entre la oscuridad y la luz.
