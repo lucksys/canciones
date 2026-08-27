@@ -2461,8 +2461,8 @@ info:        "La apariencia externa oculta la verdadera naturaleza de las cosas.
               Dzyan: (Sánscrito) Meditación , Dhyäna (tibetano)."
               
 --------------------------------------------------------------------------------------------
-154- La camara interior (The Chamber Within)
---------------------------------------------
+154- La camara interior - Ingles (The Chamber Within)
+-----------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/the_chamber_within/portada1.jpg"
 url-video:   "https://drive.google.com/file/d/1hOT8pDMst7_Y1a1F-D8STAAR9kfbI9xw/view"
