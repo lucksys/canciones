@@ -2461,4 +2461,22 @@ info:        "La apariencia externa oculta la verdadera naturaleza de las cosas.
               Dzyan: (Sánscrito) Meditación , Dhyäna (tibetano)."
               
 --------------------------------------------------------------------------------------------
-  
+154- La camara interior (The Chamber Within)
+--------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/the_chamber_within/portada1.jpg"
+url-video:   "https://drive.google.com/file/d/1hOT8pDMst7_Y1a1F-D8STAAR9kfbI9xw/view"
+url-cancion: "https://drive.google.com/file/d/1Yk6l7EM3c-zPcd7SibpCpdD6QFGYjl2G/view"
+web-video:   "https://lucksys.github.io/canciones/the_chamber_within/index1?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/the_chamber_within/index1?t=a&v=1"
+info:        "El recipendiario atraviesa la oscuridad en busca de una verdad perdida.
+              las sombras y las heridas revelan aquello que ocultaba de sí mismo.
+              Al cruzar el umbral, descubre que los muros nunca fueron una prisión.
+              La piedra simboliza la memoria, el compromiso y la verdad que permanece.
+              La búsqueda exterior fracasa hasta que entra en la cámara interior.
+              Allí comprende que el buscador y el secreto existen bajo una misma Luz.
+              El templo interior se revela como el espacio de transformación y libertad.
+              Finalmente, deja de huir de la noche y comienza a caminar hacia la Luz eterna."
+              
+-------------------------------------------------------------------------------------------
+ 
