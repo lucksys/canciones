@@ -2284,7 +2284,7 @@ info:        "Composión en Italiano Florentino.balada iniciática.En el silenci
 147- Misericordia y Gratitud- version-ANDREA- (Italiano- Misericordia e Gratitudine)
 ------------------------------------------------------------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1Xdl8abTtK5n44qf9s74DqB8EDHOR6Hms/view"
 url-cancion: "https://drive.google.com/file/d/1lRyVFwfu0aTTpVdG9FMgBIZzPc4BuU4V/view"
 web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index2?t=p&v=1"
@@ -2300,7 +2300,7 @@ info:        "Composión en Italiano Florentino.balada iniciática.En el silenci
               Al final comprendemos que luz y sombra son un solo ser."
 
 --------------------------------------------------------------------------------------------
-147- Este Amor Inconmensurable (Ingles - This_Unfathomable_Love - )
+148- Este Amor Inconmensurable (Ingles - This_Unfathomable_Love - )
 -------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/unfathomable_love/portada.jpg"
@@ -2327,7 +2327,7 @@ info:        "Composcon en Ingles El misterio del Amor Inconmesurable del UNO co
               EL AMOR INCONENSURABLE: El mayor del los ARCANOS ."
 
 --------------------------------------------------------------------------------------------
-148- Mi Alma
+149- Mi Alma
 ------------
 
 url-imagen:  "https://lucksys.github.io/canciones/mi_alma/portada.jpg"
@@ -2347,7 +2347,7 @@ info:        "Una presencia regresa sin revelar su identidad.
               Y al final, su alma comprende que quizá siempre haya sido ella."
 
 --------------------------------------------------------------------------------------------
-149- El Proposito
+150- El Proposito
 -----------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_proposito/portada.jpg"
@@ -2373,7 +2373,7 @@ info:        "Antes del gesto y del rito, existe una intención que da nacimient
               se convierte en conciencia y la Obra revela su verdadero sentido." 
 
 --------------------------------------------------------------------------------------------
-150- El Proposito - EPYC -
+151- El Proposito - EPYC -
 --------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_proposito/portada2.jpg"
@@ -2399,7 +2399,7 @@ info:        "Antes del gesto y del rito, existe una intención que da nacimient
               se convierte en conciencia y la Obra revela su verdadero sentido." 
 
 --------------------------------------------------------------------------------------------
-151- El Drama Ritual - La Palabra que se Vive
+152- El Drama Ritual - La Palabra que se Vive
 ---------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_drama_ritual-la_palabra_que_se_vive/portada.jpg"
@@ -2418,7 +2418,7 @@ info:        "La canción invita a comprender que todo rito nace de una intenci�
               en el corazón." 
 
 --------------------------------------------------------------------------------------------
-152- El Sesgo de una Sombra
+153- El Sesgo de una Sombra
 ---------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/portada.jpg"
@@ -2436,7 +2436,7 @@ info:        "La sombra revela aquello que el ser humano intenta ocultar.
               Al reconocer la sombra, el ser descubre finalmente quién es." 
 
 --------------------------------------------------------------------------------------------
-153- El Sesgo de una Sombra - EPYC-
+154- El Sesgo de una Sombra - EPYC-
 -----------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/portada2.jpg"
@@ -2454,7 +2454,7 @@ info:        "La sombra revela aquello que el ser humano intenta ocultar.
               Al reconocer la sombra, el ser descubre finalmente quién es." 
 
 --------------------------------------------------------------------------------------------
-154- Las Estancias Interiores
+155- Las Estancias Interiores
 -----------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/las_estancias_interiores/portada1.jpg"
@@ -2480,7 +2480,7 @@ info:        "La apariencia externa oculta la verdadera naturaleza de las cosas.
               Dzyan: (Sánscrito) Meditación , Dhyäna (tibetano)."
               
 --------------------------------------------------------------------------------------------
-155- La Cámara Interior - Ingles (The Chamber Within)
+156- La Cámara Interior - Ingles (The Chamber Within)
 -----------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/the_chamber_within/portada1.jpg"
