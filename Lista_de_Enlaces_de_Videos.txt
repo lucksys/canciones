@@ -2265,11 +2265,11 @@ info:        "Composión en español neutro .balada iniciática
 146- Misericordia y Gratitud_(Italiano- Misericordia e Gratitudine)
 -------------------------------------------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada2.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada.jpg"
 url-video:   "https://drive.google.com/file/d/19Dln2IujG5SJyvleCzPBTtUp2LL7-0Gk/view"
 url-cancion: "https://drive.google.com/file/d/1XU8hedHMNdkD8d1ShwupHFfJEFwYX88G/view"
-web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index2?t=p&v=1"
-web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index2?t=a&v=1"
+web-video:   "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/misericordia_e_gratitudine/index?t=a&v=1"
 info:        "Composión en Italiano Florentino.balada iniciática.En el silencio interior
               comienza la búsqueda de una verdad antigua.
               El camino hacia la eternidad nace entre la oscuridad y la luz.
