@@ -2504,7 +2504,7 @@ info:        "El recipendiario atraviesa la oscuridad en busca de una verdad per
 url-imagen:  "https://lucksys.github.io/canciones/el_fruto_de_la_luz/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1BbzkAwaTj26sB5m4TXesIxTIMdLKA8dn/view"
 url-cancion: "https://drive.google.com/file/d/18ZHLAvBVHQx2R9YvrxoRl1qteiDLzsJ_/view"
-web-video:   "https://lucksys.github.io/canciones/el_fruto_de_la_luz/index?t=p&v=1"
+web-video:   "https://lucksys.github.io/canciones/el_fruto_de_la_luz/index?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/el_fruto_de_la_luz/index?t=a&v=1"
 info:        "La búsqueda de la luz comienza tras una promesa y un ideal.
               La sombra revela que no todo noble sentir conduce a la verdad.
@@ -2516,4 +2516,23 @@ info:        "La búsqueda de la luz comienza tras una promesa y un ideal.
               Ser uno en el acto es alcanzar la libertad de caminar bajo la luz."
               
 -------------------------------------------------------------------------------------------
+158- El Fruto de la Luz - ANDREA -
+----------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_fruto_de_la_luz/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1BbzkAwaTj26sB5m4TXesIxTIMdLKA8dn/view"
+url-cancion: "https://drive.google.com/file/d/18ZHLAvBVHQx2R9YvrxoRl1qteiDLzsJ_/view"
+web-video:   "https://lucksys.github.io/canciones/el_fruto_de_la_luz/index2?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_fruto_de_la_luz/index2?t=a&v=1"
+info:        "La búsqueda de la luz comienza tras una promesa y un ideal.
+              La sombra revela que no todo noble sentir conduce a la verdad.
+              La razón y el discernimiento rompen los velos del engaño.
+              El fruto de la obra demuestra la verdadera coherencia interior.
+              La piedra y la plomada simbolizan aquello que nunca puede mentir.
+              La transformación exige abandonar dogmas, miedo y formas vacías.
+              El verdadero templo nace dentro de quien transmuta la duda en conciencia.
+              Ser uno en el acto es alcanzar la libertad de caminar bajo la luz."
+              
+-------------------------------------------------------------------------------------------
+ 
   
