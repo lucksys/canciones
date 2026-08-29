@@ -2534,5 +2534,22 @@ info:        "La búsqueda de la luz comienza tras una promesa y un ideal.
               Ser uno en el acto es alcanzar la libertad de caminar bajo la luz."
               
 -------------------------------------------------------------------------------------------
- 
-  
+159- La Piedra Libre
+--------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/la_piedra_libre/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1CtnG7IA9uEBCM-uI3nQr9rmd9rWTOX6w/view"
+url-cancion: "https://drive.google.com/file/d/1trXvIY5VWpSnYUGQJYscmzly2TVGhdOn/view"
+web-video:   "https://lucksys.github.io/canciones/la_piedra_libre/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_piedra_libre/index?t=a&v=1"
+info:        "Frente a los rituales externos, la protagonista elige preservar su libertad interior.
+              Rechaza los grados, títulos y honores cuando exigen renunciar a su propia esencia.
+              Entiende la masonería como una búsqueda viva de verdad, conciencia y acción.
+              El Karma representa las consecuencias de cada paso recorrido.
+              El Dharma simboliza la luz que orienta hacia el equilibrio y el amor.
+              Ante la presión del templo, decide caminar libre y seguir su brújula interior.
+              Prefiere la verdad y la libertad antes que el estatus o la obediencia ciega.
+              Permanece en el atrio, sirviendo y caminando hacia la verdad de su alma."
+              
+------------------------------------------------------------------------------------------- 
+   
