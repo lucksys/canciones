@@ -2552,4 +2552,21 @@ info:        "Frente a los rituales externos, la protagonista elige preservar su
               Permanece en el atrio, sirviendo y caminando hacia la verdad de su alma."
               
 ------------------------------------------------------------------------------------------- 
-   
+160- Sublime Gracia - Ingles(-Amazing Grace -)
+----------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/sublime_gracia/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1iZ8ecHSeyXZane4RWSQSvGUnqEfBYPWu/view"
+url-cancion: "https://drive.google.com/file/d/1N_MVMxP4k2v7HSox1Ai-DG7UUFTFtKTT/view"
+web-video:   "https://lucksys.github.io/canciones/sublime_gracia/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/sublime_gracia/index?t=a&v=1"
+info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad marina 
+              despertó su conciencia dormida. Esa crisis inició su regeneración 
+              espiritual escribió el poema o letra de lo que seria este himno. 
+              Abandonó las sombras para buscar la luz,  arrepintiendose del trafico 
+              humano. De ese despertar nació este poderoso himno. La obra encarna la 
+              fuerza del Logos y la transmutación. Simbolizando el paso de la ceguera 
+              a la visión espiritual. Y la Proclama el retorno hacia la Armonía Suprema."
+              
+------------------------------------------------------------------------------------------- 
+ 
