@@ -2561,13 +2561,14 @@ url-cancion: "https://drive.google.com/file/d/1N_MVMxP4k2v7HSox1Ai-DG7UUFTFtKTT/
 web-video:   "https://lucksys.github.io/canciones/sublime_gracia/index?t=p&v=1"
 web-cancion: "https://lucksys.github.io/canciones/sublime_gracia/index?t=a&v=1"
 info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad marina 
-              que lo llevó a limite despertando su Fe en el LOGOS y su conciencia 
+              lo llevó a limite despertando su Fe en el LOGOS y su conciencia 
               dormida. Esa crisis inició su regeneración espiritual escribió el poema 
               o letra de lo que sería este himno. 
               Abandonó las sombras para buscar la luz, arrepintiendose del trafico 
               humano. Y de ese despertar nació este poderoso himno. La obra encarna la 
               fuerza del LOGOS y la transmutación. Simbolizando el paso de la ceguera 
-              a la visión espiritual. Y la Proclama el retorno hacia la Armonía Suprema."
+              a la visión espiritual. Este himno Proclama el retorno hacia la Armonía
+              Suprema."
               
 ------------------------------------------------------------------------------------------- 
  
