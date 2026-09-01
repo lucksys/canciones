@@ -2586,12 +2586,14 @@ info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra 
               Runyan le puso música, creando un himno que se popularizó masivamente 
               a través del Instituto Bíblico Moody y las cruzadas de Billy Graham. 
               En los años 50, el pastor mexicano Honorato T. Reza adaptó la métrica 
-              al español conservando la melodía original, dando origen al conocido 
-              himno «Grande es tu fidelidad» (u «Oh, Dios eterno»)."
+              y reaizó algunas modificaciones a la letra para a version protestante 
+              en idioma español conservando la melodía original, dando origen al 
+              conocido himno protestante : «Grande es tu fidelidad» 
+              (u «Oh, Dios eterno»)."
               
 -------------------------------------------------------------------------------------------
-162- Es tu Fidelidad - Ingles - version Iniciatica(- Great is Thy faithfulness -)
----------------------------------------------------------------------------------
+162- Es tu Fidelidad - Ingles - version Iniciatica (- Great is Thy faithfulness -)
+----------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/es_tu_fidelidad/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/16bgWzCWcmtGhDP71vYpoZYzwGa3aehLt/view"
@@ -2605,8 +2607,9 @@ info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra 
               Runyan le puso música, creando un himno que se popularizó masivamente 
               a través del Instituto Bíblico Moody y las cruzadas de Billy Graham. 
               En los años 50, el pastor mexicano Honorato T. Reza adaptó la métrica 
-              al español conservando la melodía original, dando origen al conocido 
-              himno «Grande es tu fidelidad» (u «Oh, Dios eterno»)."
+              al español conservando la melodía original, esta version mantiene la 
+              traduccion fiel y po+etica del himno orginal «Grande es tu fidelidad»
+              (u «Oh, Dios eterno»)."
               
 -------------------------------------------------------------------------------------------
   
