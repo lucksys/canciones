@@ -2552,8 +2552,8 @@ info:        "Frente a los rituales externos, la protagonista elige preservar su
               Permanece en el atrio, sirviendo y caminando hacia la verdad de su alma."
               
 ------------------------------------------------------------------------------------------- 
-160- Sublime Gracia - Ingles(-Amazing Grace -)
-----------------------------------------------
+160- Sublime Gracia - Ingles(- Amazing Grace -)
+-----------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/sublime_gracia/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1iZ8ecHSeyXZane4RWSQSvGUnqEfBYPWu/view"
@@ -2570,5 +2570,43 @@ info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad ma
               a la visión espiritual. Este himno Proclama el retorno hacia la Armonía
               Suprema."
               
-------------------------------------------------------------------------------------------- 
- 
+-------------------------------------------------------------------------------------------
+161- Es tu Fidelidad - Ingles - version-iglesia (- Great is Thy faithfulness -)
+-------------------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/es_tu_fidelidad/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1erFbtIs4VKTlbYa2xwe0sWIbf392R-Pc/view"
+url-cancion: "https://drive.google.com/file/d/16hYPdChFlyTNuQpuf16zhyCwiUoGHmZ7/view"
+web-video:   "https://lucksys.github.io/canciones/es_tu_fidelidad/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/es_tu_fidelidad/index?t=a&v=1"
+info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra del 
+              himno : "Great is Thy faithfulness" en 1923 inspirado en Lamentaciones 
+              3:22-23, reflejando gratitud por la fidelidad diaria de Dios en medio 
+              de su frágil salud y dificultades económicas. Su amigo William M. 
+              Runyan le puso música, creando un himno que se popularizó masivamente 
+              a través del Instituto Bíblico Moody y las cruzadas de Billy Graham. 
+              En los años 50, el pastor mexicano Honorato T. Reza adaptó la métrica 
+              al español conservando la melodía original, dando origen al conocido 
+              himno «Grande es tu fidelidad» (u «Oh, Dios eterno»)."
+              
+-------------------------------------------------------------------------------------------
+162- Es tu Fidelidad - Ingles - version Iniciatica(- Great is Thy faithfulness -)
+---------------------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/es_tu_fidelidad/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/16bgWzCWcmtGhDP71vYpoZYzwGa3aehLt/view"
+url-cancion: "https://drive.google.com/file/d/17cPPSOBpsVQgO7McScvamfNiBQ6CaLfL/view"
+web-video:   "https://lucksys.github.io/canciones/es_tu_fidelidad/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/es_tu_fidelidad/index2?t=a&v=1"
+info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra del 
+              himno : "Great is Thy faithfulness" en 1923 inspirado en Lamentaciones 
+              3:22-23, reflejando gratitud por la fidelidad diaria de Dios en medio 
+              de su frágil salud y dificultades económicas. Su amigo William M. 
+              Runyan le puso música, creando un himno que se popularizó masivamente 
+              a través del Instituto Bíblico Moody y las cruzadas de Billy Graham. 
+              En los años 50, el pastor mexicano Honorato T. Reza adaptó la métrica 
+              al español conservando la melodía original, dando origen al conocido 
+              himno «Grande es tu fidelidad» (u «Oh, Dios eterno»)."
+              
+-------------------------------------------------------------------------------------------
+  
