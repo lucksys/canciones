@@ -2571,7 +2571,7 @@ info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad ma
               Suprema."
               
 -------------------------------------------------------------------------------------------
-161- Es tu Fidelidad - Ingles - version-iglesia (- Great is Thy faithfulness -)
+161- Es tu Fidelidad - Ingles - version Iglesia (- Great is Thy faithfulness -)
 -------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/es_tu_fidelidad/portada.jpg"
