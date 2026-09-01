@@ -2608,7 +2608,7 @@ info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra 
               a través del Instituto Bíblico Moody y las cruzadas de Billy Graham. 
               En los años 50, el pastor mexicano Honorato T. Reza adaptó la métrica 
               al español conservando la melodía original, esta version mantiene la 
-              traduccion fiel y po+etica del himno orginal «Grande es tu fidelidad»
+              traduccion fiel y poética del himno orginal «Grande es tu fidelidad»
               (u «Oh, Dios eterno»)."
               
 -------------------------------------------------------------------------------------------
