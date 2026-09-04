@@ -2634,7 +2634,7 @@ info:        "La letra expresa una profunda gratitud por el amor y la gracia rec
 --------------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/portada2.jpg"
-url-video:   "https://drive.google.com/file/d/1llEcvYCcErcLpSyZtddwvCiKB_fOmO0R/view"
+url-video:   "https://drive.google.com/file/d/1tl4XTM6fGoXoZivR5tL2dyi8ssY7bItM/view"
 url-cancion: "https://drive.google.com/file/d/1xXhIM4NXFg9K5IsEzC4QFeGhmQPHUOul/view"
 web-video:   "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/index2?t=p&v=1"
 web-cancion: "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/index2?t=a&v=1"
