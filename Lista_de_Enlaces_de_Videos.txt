@@ -2612,4 +2612,41 @@ info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra 
               (u «Oh, Dios eterno»)."
               
 -------------------------------------------------------------------------------------------
-  
+163- A Dios sea la Gloria - Ingles - version de Culto (- To God be the Glory - CULT -)
+--------------------------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1FT9NA7czMOpXvrbQvc0zXuLQFJhVnTsi/view"
+url-cancion: "https://drive.google.com/file/d/19OEb0MOmcMLAeUS38KgU2coD3hbiXPeC/view"
+web-video:   "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/index?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/index?t=a&v=1"
+info:        "La letra expresa una profunda gratitud por el amor y la gracia recibidos.
+              Reconoce que todo cuanto somos y esperamos ser proviene de lo Alto.
+              La voz humana se muestra pequeña ante la inmensidad de esa gratitud.
+              La salvación y la transformación interior aparecen como dones divinos.
+              El alma renuncia a buscar para sí misma toda gloria o reconocimiento.
+              Cada acto de alabanza es ofrecido simbólicamente ante la Cruz de Calvario.
+              a vida se plantea como un camino de entrega, humildad y consagración.
+              Todo culmina en una proclamación: a Dios pertenece toda la gloria."
+              
+-------------------------------------------------------------------------------------------
+163- A Dios sea la Gloria - Ingles - version Epica (- To God be the Glory - EPYC -)
+--------------------------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1llEcvYCcErcLpSyZtddwvCiKB_fOmO0R/view"
+url-cancion: "https://drive.google.com/file/d/1xXhIM4NXFg9K5IsEzC4QFeGhmQPHUOul/view"
+web-video:   "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/index2?t=a&v=1"
+info:        "La letra expresa una profunda gratitud por el amor y la gracia recibidos.
+              Reconoce que todo cuanto somos y esperamos ser proviene de lo Alto.
+              La voz humana se muestra pequeña ante la inmensidad de esa gratitud.
+              La salvación y la transformación interior aparecen como dones divinos.
+              El alma renuncia a buscar para sí misma toda gloria o reconocimiento.
+              Cada acto de alabanza es ofrecido simbólicamente ante la Cruz de Calvario.
+              a vida se plantea como un camino de entrega, humildad y consagración.
+              Todo culmina en una proclamación: a Dios pertenece toda la gloria."
+              
+-------------------------------------------------------------------------------------------
+ 
+    
