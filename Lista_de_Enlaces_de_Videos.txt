@@ -2648,5 +2648,26 @@ info:        "La letra expresa una profunda gratitud por el amor y la gracia rec
               Todo culmina en una proclamación: a Dios pertenece toda la gloria."
               
 -------------------------------------------------------------------------------------------
- 
-    
+165- Expresale a El 
+-------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/expresale_e_el/portada.jpg"
+url-video:   "https://drive.google.com/file/d/138PR4SCOnV_TQtOdrG1Aiq6G3PVxR9Hi/view"
+url-cancion: "https://drive.google.com/file/d/10fQIAgG0V1gAMp0KiXm6djyqfyYu2ibZ/view"
+web-video:   "https://lucksys.github.io/canciones/expresale_e_el/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/expresale_e_el/index?t=a&v=1"
+info:        "La canción expresa el temor de revelar lo que se siente y la valentía de 
+              enfrentarlo.
+              Una Luz interior guía al protagonista hacia la verdad y le impide volver 
+              atrás.
+              El silencio le revela que aquello que buscaba siempre estuvo dentro de sí.
+              La llama que despierta representa una conciencia nueva, viva y transformadora.
+              La entrega sincera del miedo, la verdad y el corazón abre el camino hacia Él.
+              Al caer los velos, la verdad y el amor permiten reconocer la Luz interior.
+              La fe y la entrega alimentan esa llama hasta convertirla en una fuerza 
+              liberadora.
+              Al final, la verdad es el camino, el amor la llave y la Luz permanece viva 
+              en mí."
+              
+-------------------------------------------------------------------------------------------
+      
