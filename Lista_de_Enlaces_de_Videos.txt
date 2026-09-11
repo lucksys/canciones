@@ -576,7 +576,18 @@ web-cancion: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayad
 info:        "Compósición en idioma: Italiano, con subtitulos e español."
 
 --------------------------------------------------------------------------------------------
-51- Bajo la Ley de la Luz
+51- El Camino la Virtud y el Cayado_(Acoustic-Duet-Remastered)
+--------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada4.jpg"
+url-video:   "https://drive.google.com/file/d/133Ba8W542tJNRj_0WeHr_cELbDBSDu0x/view"
+url-cancion: "https://drive.google.com/file/d/1oZc_HiFzUWqmHmmvAFkccCBNPNqSAfM0/view"
+web-video:   "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/index4?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/index4?t=a&v=1"
+info:        "Compósición en idioma: Italiano, con subtitulos e español."
+
+--------------------------------------------------------------------------------------------
+52- Bajo la Ley de la Luz
 -------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/bajo_la_ley_de_la_luz/portada.jpg"
@@ -587,7 +598,7 @@ web-cancion: "https://lucksys.github.io/canciones/bajo_la_ley_de_la_luz/index?t=
 info:        "Compósición en idioma: Italiano Florentino.EPYC"
 
 --------------------------------------------------------------------------------------------
-52- No te duermas
+53- No te duermas
 -----------------
 
 url-imagen:  "https://lucksys.github.io/canciones/no_te_duermas/portada1.jpg"
@@ -598,7 +609,7 @@ web-cancion: "https://lucksys.github.io/canciones/no_te_duermas/index1?t=a&v=1"
 info:        "Compósición en idioma: Italiano Florentino.EPYC"
 
 --------------------------------------------------------------------------------------------
-53- No_te_duermas_(EPYC)
+54- No_te_duermas_(EPYC)
 ------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/no_te_duermas/portada2.jpg"
@@ -609,7 +620,7 @@ web-cancion: "https://lucksys.github.io/canciones/no_te_duermas/index2?t=a&v=1"
 info:        "Compósición en idioma: Italiano Florentino.EPYC"
 
 --------------------------------------------------------------------------------------------
-54- Nacida_bajo_el_signo_de_la_luz_(Español)
+55- Nacida_bajo_el_signo_de_la_luz_(Español)
 --------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada1.jpg"
@@ -620,7 +631,7 @@ web-cancion: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz
 info:        "Compósición en idioma: español neutro ."
 
 --------------------------------------------------------------------------------------------
-55- Nacida_bajo_el_signo_de_la_luz_(Italiano)
+56- Nacida_bajo_el_signo_de_la_luz_(Italiano)
 ---------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz/portada2.jpg"
@@ -631,7 +642,7 @@ web-cancion: "https://lucksys.github.io/canciones/nacida_bajo_el_signo_de_la_luz
 info:        "Compósición en idioma: Italiano Florentino."
 
 --------------------------------------------------------------------------------------------
-56- Signo_Palabra_y_Toque_(Italiano)
+57- Signo_Palabra_y_Toque_(Italiano)
 ------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/signo_palabra_y_toque/portada1.jpg"
@@ -642,7 +653,7 @@ web-cancion: "https://lucksys.github.io/canciones/signo_palabra_y_toque/index1?t
 info:        "Compósición en idioma: Italiano Florentino."
 
 --------------------------------------------------------------------------------------------
-57- el_camino_de_la_libertad_iguadad_y_la_fraternidad_(SON Salsa Cubana)
+58- el_camino_de_la_libertad_iguadad_y_la_fraternidad_(SON Salsa Cubana)
 ------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/portada.jpg"
@@ -653,7 +664,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguad
 info:        "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba)."
 
 --------------------------------------------------------------------------------------------
-58- El Camino de la Libertad Iguadad y la Fraternidad - EPYC - (SON Salsa Cubana)
+59- El Camino de la Libertad Iguadad y la Fraternidad - EPYC - (SON Salsa Cubana)
 ---------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/portada2.jpg"
@@ -664,7 +675,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguad
 info:        "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba)."
 
 --------------------------------------------------------------------------------------------
-59- El Camino de la Libertad Iguadad y la Fraternidad - EPYC II - (SON Salsa Cubana)
+60- El Camino de la Libertad Iguadad y la Fraternidad - EPYC II - (SON Salsa Cubana)
 ------------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguadad_y_la_fraternidad/portada3.jpg"
@@ -675,7 +686,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_camino_de_la_libertad_iguad
 info:        "Compósición en idioma: Español Neutro Clave de: SON (Salsa y Timba)."
 
 --------------------------------------------------------------------------------------------
-60- alter-tango_(Tango)
+61- alter-tango_(Tango)
 -----------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/alter-tango/portada.jpg"
@@ -686,7 +697,7 @@ web-cancion: "https://lucksys.github.io/canciones/alter-tango/index?t=a&v=1"
 info:        "Compósición en idioma: Español Neutro. Tango."
 
 --------------------------------------------------------------------------------------------
-61- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno)
+62- La_luz_que_no_se_apaga_(Cancion_para_el_responso_eterno)
 ------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/portada.jpg"
@@ -697,7 +708,7 @@ web-cancion: "https://lucksys.github.io/canciones/la_luz_que_no_se_apaga/index?t
 info:        "Compósición en idioma: Español Neutro. Cancion_para_el_responso"
 
 --------------------------------------------------------------------------------------------
-62- Herederos_de_Arte_Real(Rock-Classic) 
+63- Herederos_de_Arte_Real(Rock-Classic) 
 ------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/herederos_del_arte_real/portada1.jpg"
@@ -708,7 +719,7 @@ web-cancion: "https://lucksys.github.io/canciones/herederos_del_arte_real/index1
 info:        "Compósición en idioma: Español Neutro. Rock Classic del Arte Real."
 
 --------------------------------------------------------------------------------------------
-63- Herederos_de_Arte_Real(Rock-Metal-Strong) 
+64- Herederos_de_Arte_Real(Rock-Metal-Strong) 
 -----------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/herederos_del_arte_real/portada2.jpg"
@@ -720,7 +731,7 @@ info:        "Composición en idioma: Español Neutro. Hard- Rock Metal Strong
               del Arte Real."
 
 --------------------------------------------------------------------------------------------
-64- Las Herramientas del/a Aprendiz (Gli attezu dell'apprendista) 
+65- Las Herramientas del/a Aprendiz (Gli attezu dell'apprendista) 
 -----------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/herramientas_del_aprendiz/portada.jpg"
@@ -731,7 +742,7 @@ web-cancion: "https://lucksys.github.io/canciones/las_herramientas_del_aprendiz/
 info:        "Composición en idioma: Italiano Flolentino. Herramientas del Aprendiz." 
 
 --------------------------------------------------------------------------------------------
-65- Primer Muerte Alquímica_(Primer Muerte Alquimica-Español)
+66- Primer Muerte Alquímica_(Primer Muerte Alquimica-Español)
 -------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada1.jpg"
@@ -742,7 +753,7 @@ web-cancion: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index
 info:        "Composición en idioma: Español neutro. La primer Muerte Alquímica."
 
 --------------------------------------------------------------------------------------------
-66- Primer Muerte Alquímica_(Prima Morte Alchemica)
+67- Primer Muerte Alquímica_(Prima Morte Alchemica)
 ---------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/primer_muerte_alquímica/portada2.jpg"
@@ -753,7 +764,7 @@ web-cancion: "https://lucksys.github.io/canciones/primer_muerte_alquímica/index
 info:        "Composición en idioma: Italiano Flolentino. La primer Muerte Alquímica."
 
 --------------------------------------------------------------------------------------------
-67- Fuego_y_Forma
+68- Fuego_y_Forma
 -----------------
 
 url-imagen:  "https://lucksys.github.io/canciones/fuego_y_forma/portada.jpg"
@@ -764,7 +775,7 @@ web-cancion: "https://lucksys.github.io/canciones/fuego_y_forma/index?t=a&v=1"
 info:        "Composición en idioma: Español Neutro. Fuego y Forma."
 
 --------------------------------------------------------------------------------------------
-68- Reina de la Noche
+69- Reina de la Noche
 ---------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/reina_de_la_noche/portada.jpg"
@@ -791,7 +802,7 @@ info:        "Composición en idioma: Español Neutro. reina_de_la_noche. Basada
               precisión matemática."
 
 --------------------------------------------------------------------------------------------
-69- Silencio Vacio y Fuego_(Italiano)
+70- Silencio Vacio y Fuego_(Italiano)
 -------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/silencio_vacio_y_fuego/portada1.jpg"
@@ -804,7 +815,7 @@ info:        "Composición en idioma: Italiano Florentino. SPresencia extendida 
               ser: LUZ, LOGOS Y VERBO ENCARNADO."
               
 --------------------------------------------------------------------------------------------
-70- Silencio Vacio y fuego_(Español)
+71- Silencio Vacio y fuego_(Español)
 ------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/silencio_vacio_y_fuego/portada2.jpg"
@@ -818,7 +829,7 @@ info:        "Composición en idioma: Español Neutro. Silencio_vacio_y_fuego.Ba
               Y VERBO ENCARNADO."
 
 --------------------------------------------------------------------------------------------
-71- Proclama con fuerza nuestra_alegría_(Español)
+72- Proclama con fuerza nuestra_alegría_(Español)
 -------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/proclama_con_fuerza_nuestra_alegría/portada.jpg"
@@ -830,7 +841,7 @@ info:        "Composición en idioma: Español Neutro. Himno Masóńico: QUE NUE
               PROCLAMADA K.623 (1791) Wolfgang A. Mozart"
 
 --------------------------------------------------------------------------------------------
-72- luz en lo Profundo-(EPYC)
+73- luz en lo Profundo-(EPYC)
 -----------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/luz_en_lo_profundo/portada.jpg"
@@ -842,7 +853,7 @@ info:        "Composición en idioma: Español Neutro. Adoración Gnostica
               NA"
 
 --------------------------------------------------------------------------------------------
-73- 13 Arrepentimietos y un Clamor Desesperado
+74- 13 Arrepentimietos y un Clamor Desesperado
 ----------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor_desesperado/portada.jpg"
@@ -853,7 +864,7 @@ web-cancion: "https://lucksys.github.io/canciones/13_arrepentimietos_y_un_clamor
 info:        "Composición en idioma: Español Neutro. Adoración Gnóstica."
 
 --------------------------------------------------------------------------------------------
-74- retorno_y_despertar_a_la_luz
+75- retorno_y_despertar_a_la_luz
 --------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/portada.jpg"
@@ -864,7 +875,7 @@ web-cancion: "https://lucksys.github.io/canciones/retorno_y_despertar_a_la_luz/i
 info:        "Composición en idioma: Español Neutro. Adoración Gnóstica."
 
 --------------------------------------------------------------------------------------------
-75- Aún en Silencio_(Still in Silence)
+76- Aún en Silencio_(Still in Silence)
 --------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/still_in_silence/portada.jpg"
@@ -886,7 +897,7 @@ info:        "Composición en idioma: Ingles. “Still In Silence”
               fuerza en el interior para seguir viviendo."
 
 --------------------------------------------------------------------------------------------
-76- Cuando cae la Noche_(When Night Falls)
+77- Cuando cae la Noche_(When Night Falls)
 ------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/cuando_cae_la_noche/portada.jpg"
@@ -903,7 +914,7 @@ info:        "Esa Composición nos cuenta la historia de dos almas separadas por
               Al final, el amor vence al olvido y a la despedida."
 
 --------------------------------------------------------------------------------------------
-77- La Estrella Helada_(The_Frozen_star)
+78- La Estrella Helada_(The_Frozen_star)
 ----------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_estrella_helada/portada.jpg"
@@ -919,7 +930,7 @@ info:        "Un alma errante busca respuestas en el silencio interior.
               final… y se vuelve inicio."
 
 --------------------------------------------------------------------------------------------
-78- No_fue_la_luz_lo_que_dolio
+79- No_fue_la_luz_lo_que_dolio
 ------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada1.jpg"
@@ -939,7 +950,7 @@ info:        "Idioma español neutro, Esta composición narra una relidad muy si
               Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
 --------------------------------------------------------------------------------------------
-79- No_fue_la_luz_lo_que_dolio_(EPYC)
+80- No_fue_la_luz_lo_que_dolio_(EPYC)
 -------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/no_fue_la_luz_lo_que_dolio/portada2.jpg"
@@ -959,7 +970,7 @@ info:        "Idioma español neutro, Esta composición narra una relidad muy si
               Aun con dolor, el protagonista permanece fiel a su verdad interior."
 
 --------------------------------------------------------------------------------------------
-80- Gloria_Honor_y_Fraternidad
+81- Gloria_Honor_y_Fraternidad
 ------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/gloria_honor_y_fraternidad/portada.jpg"
@@ -974,7 +985,7 @@ info:        "Idioma español neutro, Los miembros de la Hermanadad atraviesan j
               fuerza. La luz de su unión nunca se apagará."
 
 --------------------------------------------------------------------------------------------
-81- Despues_de_la_Tormenta
+82- Despues_de_la_Tormenta
 --------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/despues_de_la_tormenta/portada.jpg"
@@ -993,7 +1004,7 @@ info:        "Idioma español neutro, La canción habla de atravesar el dolor y
               El mensaje final es que el espíritu verdadero nunca se apaga."
 
 --------------------------------------------------------------------------------------------
-82- Lealtad Redención y Linaje_(Historia de Ruth)
+83- Lealtad Redención y Linaje_(Historia de Ruth)
 -------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/lealtad_redención_y_linaje/portada.jpg"
@@ -1008,7 +1019,7 @@ info:        "Idioma español neutro, Rut deja su tierra por amor. Y acompaña a
               hasta David."
 
 --------------------------------------------------------------------------------------------
-83- 12_Columnas_(Del Tempĺo)
+84- 12_Columnas_(Del Tempĺo)
 ----------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/12_columnas/portada.jpg"
@@ -1026,7 +1037,7 @@ info:        "La composición narra la historia de un buscador que se adentra en
               la plenitud a través de la disciplina y la búsqueda de la luz."
 
 -------------------------------------------------------------------------------------------
-84- El Verbo Olvidado Que No Se Perdio (Anamnesis)_(Italiano)
+85- El Verbo Olvidado Que No Se Perdio (Anamnesis)_(Italiano)
 -------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamnesis)/portada1.jpg"
@@ -1043,7 +1054,7 @@ info:        "Composicion cantada en : Italiano Florentino .La composición nos 
               sustancia del Inefable. El final celebra la unión con la Fuente."
 
 --------------------------------------------------------------------------------------------
-85- El Verbo Olvidado Que No se Perdio (Anamnesis)_(EPYC-LEO-Italiano)
+86- El Verbo Olvidado Que No se Perdio (Anamnesis)_(EPYC-LEO-Italiano)
 ----------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_verbo_olvidado_que_no_se_perdio_(anamnesis)/portada2.jpg"
@@ -1060,7 +1071,7 @@ info:        "Composicion cantada en : Italiano Florentino .La composición nos 
               sustancia del Inefable. El final celebra la unión con la Fuente."
 
 --------------------------------------------------------------------------------------------
-86- Lady of My Life_(English-Country-Balada by: LEO)
+87- Lady of My Life_(English-Country-Balada by: LEO)
 ----------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/lady_of_my_life/portada.jpg"
@@ -1080,7 +1091,7 @@ info:        "Composicion cantada en : Ingles. Un hombre ha esperado durante añ
               La canción expresa una devoción profunda hacia el amor de toda una vida."
 
 --------------------------------------------------------------------------------------------
-87 Ave_Maria-gNoStIKa (Schuber lyric- Cantante Italian:LEO)
+88 Ave_Maria-gNoStIKa (Schuber lyric- Cantante Italian:LEO)
 -------------------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/ave_maria/portada.jpg"
@@ -1092,7 +1103,7 @@ info:        "Composición cantada en: Italiano Florentino por el Barítono Spin
               Banda de Rock Sinfónico Gnóstico."
 
 -------------------------------------------------------------------------------------------
-88- Latido de la Patria_(-EPYC - LEO)
+89- Latido de la Patria_(-EPYC - LEO)
 -------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/latido_de_la_patria/portada.jpg"
@@ -1106,7 +1117,7 @@ info:        "Composición cantada en: Español neutro por el Barítono Spinto: 
               Banda de Rock Sinfónico Gnóstico."
 
 --------------------------------------------------------------------------------------------
-89- Pasaje a La Luz_(Passaggio alla Luce- EPYC - LEO)
+90- Pasaje a La Luz_(Passaggio alla Luce- EPYC - LEO)
 -----------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/pasaje_a_la_luz/portada.jpg"
@@ -1124,7 +1135,7 @@ info:        "Composición cantada en: Italiano Florentino por el Barítono Spin
               El final celebra el nacimiento de una conciencia renovada."
 
 --------------------------------------------------------------------------------------------
-90- Havel-Havalim_hakol_hável_(DUO)
+91- Havel-Havalim_hakol_hável_(DUO)
 -----------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/havel-havalim_hakol_hável/portada.jpg"
@@ -1136,7 +1147,7 @@ info:        "Composición cantada en: Español . Ultimas palabras de rey Salomo
               de Vacuidades, humo de humos. Todo es Vacuidad"
 
 --------------------------------------------------------------------------------------------
-91- Bajo Sombreros y Paraguas Masonicos_(DUO)
+92- Bajo Sombreros y Paraguas Masonicos_(DUO)
 ---------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/portada1.jpg"
@@ -1157,7 +1168,7 @@ info:        "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonic
               Más allá del humo y el cambio, la Luz permanece"
 
 --------------------------------------------------------------------------------------------
-92- Bajo Sombreros y Paraguas Masonicos_(-EPYC-)
+93- Bajo Sombreros y Paraguas Masonicos_(-EPYC-)
 ------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/bajo_sombreros_y_paraguas_masonicos/portada2.jpg"
@@ -1178,7 +1189,7 @@ info:        "Composición cantada en: Ingles. bajo_sombreros_y_paraguas_masonic
               Más allá del humo y el cambio, la Luz permanece"
 
 --------------------------------------------------------------------------------------------
-93- Retorno al Recuerdo_(Ritorna al Ricordo)
+94- Retorno al Recuerdo_(Ritorna al Ricordo)
 --------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/retorno_al_recuerdo/portada1.jpg"
@@ -1200,7 +1211,7 @@ info:        "Composición cantada en: Itaiano Florentino. Basadas en las Bodas 
               conocimiento. El regreso final no es a un lugar, sino al origen."
 
 --------------------------------------------------------------------------------------------
-94- Retorno al Recuerdo_(- EPYC - Ritorna al Ricordo-EPYC-LEO)
+95- Retorno al Recuerdo_(- EPYC - Ritorna al Ricordo-EPYC-LEO)
 --------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/retorno_al_recuerdo/portada2.jpg"
@@ -1222,7 +1233,7 @@ info:        "Composición cantada en: Itaiano Florentino. Basadas en las Bodas 
               conocimiento. El regreso final no es a un lugar, sino al origen."
 
 --------------------------------------------------------------------------------------------
-95- Sabiduria, Fuerza y Belleza_(Sappienza, Forza e Bellezza)
+96- Sabiduria, Fuerza y Belleza_(Sappienza, Forza e Bellezza)
 -------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/sabiduria,_fuerza_y_belleza/portada.jpg"
@@ -1244,7 +1255,7 @@ info:        "Composición cantada en: Itaiano Florentino. Basadas en las Bodas 
               conocimiento. El regreso final no es a un lugar, sino al origen."
 
 --------------------------------------------------------------------------------------------
-96- El_UNO,_Lo_Diverso-(L'UNO,il diverso)
+97- El_UNO,_Lo_Diverso-(L'UNO,il diverso)
 -----------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/el_uno,_lo_diverso/portada1.jpg"
@@ -1261,7 +1272,7 @@ info:        "Cantada en Italiano Florentino. La canción habla de la unidad esc
               unión con el UNO."
 
 -------------------------------------------------------------------------------------
-97- El_UNO,_Lo_Diverso-EPYC-(L'UNO,il diverso-EPYC-LEO)
+98- El_UNO,_Lo_Diverso-EPYC-(L'UNO,il diverso-EPYC-LEO)
 -------------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/el_uno,_lo_diverso/portada2.jpg"
@@ -1280,7 +1291,7 @@ info:        "Cantada en Italiano Florentino. La canción habla de la unidad esc
               celebra la unión con el UNO."
 
 -------------------------------------------------------------------------------------
-98- Reggae de la Eleccion y la Perserverancia
+99- Reggae de la Eleccion y la Perserverancia
 ---------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/portada.jpg"
@@ -1298,7 +1309,7 @@ info:        "Una obra sobre el poder de elegir el propio sendero.
               El verdadero Templo se construye dentro del alma."
 
 --------------------------------------------------------------------------------------------
-99- Reggae_de_la_Eleccion_y_la_Perserverancia_(-EPYC-)
+100- Reggae_de_la_Eleccion_y_la_Perserverancia_(-EPYC-)
 ------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/portada2.jpg"
@@ -1316,7 +1327,7 @@ info:        "Una obra sobre el poder de elegir el propio sendero.
               El verdadero Templo se construye dentro del alma."
 
 --------------------------------------------------------------------------------------------
-100- Así_se_Creó_El_Mundo-(Sic_Mundus_Creatus_Est)
+101- Así_se_Creó_El_Mundo-(Sic_Mundus_Creatus_Est)
 -------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/portada1.jpg"
@@ -1335,7 +1346,7 @@ info:        "Una chispa divina despierta dentro de un mundo de alta densidad y 
               conciencia."
 
 -------------------------------------------------------------------------------------
-101- Así_se_Creó_El_Mundo_(-EPYC-, Sic_Mundus_Creatus_Est)
+102- Así_se_Creó_El_Mundo_(-EPYC-, Sic_Mundus_Creatus_Est)
 ---------------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/asi_se_creo_el_mundo/portada2.jpg"
@@ -1354,7 +1365,7 @@ info:        "Una chispa divina despierta dentro de un mundo de alta densidad y 
               conciencia."
 
 -------------------------------------------------------------------------------------
-102- Tracendencia Cosmica: Siglo XXI-(Cosmic Transcendence:Twenty-First Century) 
+103- Tracendencia Cosmica: Siglo XXI-(Cosmic Transcendence:Twenty-First Century) 
 --------------------------------------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/trascendencia_cosmica/portada1.jpg"
@@ -1373,7 +1384,7 @@ info:        "Antes de que existiera el tiempo, una vibración infinita dio orig
               que se contempla a sí misma en el eterno presente."
 
 -------------------------------------------------------------------------------------
-103- Tracendencia Cosmica: Siglo XXI-EPYC-(Cosmic Transcendence:Twenty-First Century-EPYC) 
+104- Tracendencia Cosmica: Siglo XXI-EPYC-(Cosmic Transcendence:Twenty-First Century-EPYC) 
 ------------------------------------------------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.jpg"
@@ -1392,7 +1403,7 @@ info:        "Antes de que existiera el tiempo, una vibración infinita dio orig
               que se contempla a sí misma en el eterno presente."
 
 -------------------------------------------------------------------------------------
-104- Tracendencia Cosmica: Siglo XXI-PUBLIC-(Cosmic Transcendence:Twenty-First Century-PUBLIC) 
+105- Tracendencia Cosmica: Siglo XXI-PUBLIC-(Cosmic Transcendence:Twenty-First Century-PUBLIC) 
 ----------------------------------------------------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/trascendencia_cosmica/portada2.jpg"
@@ -1412,7 +1423,7 @@ info:        "Composición en Ingles, Antes de que existiera el tiempo, una vibr
               que se contempla a sí misma en el eterno presente."
 
 -------------------------------------------------------------------------------------
-105- L'Eco_dell'Invisibile (El Eco de lo Invisivible)
+106- L'Eco_dell'Invisibile (El Eco de lo Invisivible)
 -----------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada.jpg"
@@ -1431,7 +1442,7 @@ info:        "Composición en : Italiano  Florentino, La letra invoca el encuent
               Y en ese abrazo primordial nace una sola llama eterna."
 
 -------------------------------------------------------------------------------------
-106- L'Eco_dell'Invisibile -PUBLIC- (El Eco de lo Invisivible)
+107- L'Eco_dell'Invisibile -PUBLIC- (El Eco de lo Invisivible)
 --------------------------------------------------------------
                             
 url-imagen:  "https://lucksys.github.io/canciones/l_eco_dell_invisibile/portada2.jpg"
@@ -1450,7 +1461,7 @@ info:        "Composición en : Italiano  Florentino, La letra invoca el encuent
               Y en ese abrazo primordial nace una sola llama eterna."
 
 -------------------------------------------------------------------------------------
-107- Esclavos de un sol ciego 
+108- Esclavos de un sol ciego 
 -----------------------------
                
 url-imagen:  "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/portada.jpg"
@@ -1471,7 +1482,7 @@ info:        "Composición en : Esppañol Cubano, La letra nos recuerda a un hom
               recuerda su herencia divina y encuentra el sendero hacia la verdad."
 
 -------------------------------------------------------------------------------------
-108- Esclavos de un sol ciego (Public)
+109- Esclavos de un sol ciego (Public)
 --------------------------------------
                
 url-imagen:  "https://lucksys.github.io/canciones/esclavos_de_un_sol_ciego/portada2.jpg"
@@ -1492,7 +1503,7 @@ info:        "Composición en : Esppañol Cubano, La letra nos recuerda a un hom
               recuerda su herencia divina y encuentra el sendero hacia la verdad."
 
 -------------------------------------------------------------------------------------
-109- Amore, Alterità e Coerenza (Presenza estesa) - Classic
+110- Amore, Alterità e Coerenza (Presenza estesa) - Classic
 -----------------------------------------------------------
                
 url-imagen:  "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada.jpg"
@@ -1510,7 +1521,7 @@ info:        "Composición en : Italiano Florentino, Composición Musical en Ita
               vuelve el corazón a su casa."
 
 -------------------------------------------------------------------------------------
-110- Amore, Alterità e Coerenza (Presenza estesa) - Classic- Public
+111- Amore, Alterità e Coerenza (Presenza estesa) - Classic- Public
 -------------------------------------------------------------------
                
 url-imagen:  "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada.jpg"
@@ -1528,7 +1539,7 @@ info:        "Composición en : Italiano Florentino, Composición Musical en Ita
               vuelve el corazón a su casa."
 
 -------------------------------------------------------------------------------------
-111- Amore, Alterità e Coerenza (Presenza estesa) - EPYC
+112- Amore, Alterità e Coerenza (Presenza estesa) - EPYC
 --------------------------------------------------------
                
 url-imagen:  "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada2.jpg"
@@ -1546,7 +1557,7 @@ info:        "Composición en : Italiano Florentino, Composición Musical en Ita
               Unidad. La canción vuelve el corazón a su casa."
 
 -------------------------------------------------------------------------------------
-112- Amore, Alterità e Coerenza (Presenza estesa) - EPYC - Public
+113- Amore, Alterità e Coerenza (Presenza estesa) - EPYC - Public
 -----------------------------------------------------------------
                
 url-imagen:  "https://lucksys.github.io/canciones/amore_alterita_e_coerenza/portada2.jpg"
@@ -1564,7 +1575,7 @@ info:        "Composición en : Italiano Florentino, Composición Musical en Ita
               vuelve el corazón a su casa."
 
 -------------------------------------------------------------------------------------
-113- Luce, Legge e Fratellanza (Le Costituzioni della Luce)
+114- Luce, Legge e Fratellanza (Le Costituzioni della Luce)
 -----------------------------------------------------------
                
 url-imagen:  "https://lucksys.github.io/canciones/luz_ley_y_hermandad/portada.jpg"
@@ -1586,7 +1597,7 @@ info:        "Composición en : Italiano Florentino, La composición celebra la 
               y fraternidad."
 
 -------------------------------------------------------------------------------------
-114- Llamado Masónico de Antigua Estirpe (Call of the Ancient Masonic Lineage)
+115- Llamado Masónico de Antigua Estirpe (Call of the Ancient Masonic Lineage)
 ------------------------------------------------------------------------------
       
 url-imagen:  "https://lucksys.github.io/canciones/llamado_masonico_de_antigua_estirpe/portada.jpg"
@@ -1606,7 +1617,7 @@ info:        "Composición en : Ingles , La composición Soñé con un llamado a
               tiempo."
 
 -------------------------------------------------------------------------------------
-115- La Llama Doble
+116- La Llama Doble
 -------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
@@ -1627,7 +1638,7 @@ info:        "Composicion en español neutro , Dos llamas se buscan a través de
               eterna."
 
 -------------------------------------------------------------------------------------
-116- La Llama Doble - Public
+117- La Llama Doble - Public
 ----------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/la_llama_doble/portada.jpg"
@@ -1648,7 +1659,7 @@ info:        "Composicion en español neutro , Dos llamas se buscan a través de
               eterna."
 
 -------------------------------------------------------------------------------------
-117- La Taverna del Orden 
+118- La Taverna del Orden 
 -------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/la_taverna_del_orden/portada.jpg"
@@ -1669,7 +1680,7 @@ info:        "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los 
               movimiento"
 
 -------------------------------------------------------------------------------------
-118- La Taverna del Orden (Public)
+119- La Taverna del Orden (Public)
 ----------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/la_taverna_del_orden/portada2.jpg"
@@ -1690,8 +1701,8 @@ info:        "El 26 de octubre de 1863 en la Freemasons' Tavern (Taberna de los 
               movimiento"
 
 -------------------------------------------------------------------------------------
-119- No Camino Sola 
---------------------
+120- No Camino Sola 
+-------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/no-camino_sola/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1DnjBTjvqGostYLhNfCTITQHXaUgcdy6G/view"
@@ -1706,7 +1717,7 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
               hasta el final."
 
 -------------------------------------------------------------------------------------
-120- No Camino Sola Public
+121- No Camino Sola Public
 --------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/no-camino_sola/portada2.jpg"
@@ -1722,7 +1733,7 @@ info:        "La mujer avanza aunque la noche la rodee. El temor intenta frenarl
               hasta el final."
 
 -------------------------------------------------------------------------------------
-121- El Laberinto del Reencuentro 
+122- El Laberinto del Reencuentro 
 ---------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada1.jpg"
@@ -1744,7 +1755,7 @@ info:        "Español neutro,balada sinfónica que explora el viaje del alma a 
               interior permanece cuando todo lo demás desaparece."
 
 -------------------------------------------------------------------------------------
-122- El Laberinto del Reencuentro_(- Public -)
+123- El Laberinto del Reencuentro_(- Public -)
 ----------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/el_laberinto_del_reencuentro/portada2.jpg"
@@ -1766,7 +1777,7 @@ info:        "Español neutro,balada sinfónica que explora el viaje del alma a 
               interior permanece cuando todo lo demás desapare."
 
 -------------------------------------------------------------------------------------
-123- La Palabra Olvidada 
+124- La Palabra Olvidada 
 ------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/la_palabra_olvidada/portada.jpg"
@@ -1786,7 +1797,7 @@ info:        "Un antiguo herrero del bronce deja su huella entre el fuego, el ma
               palabra olvidada."
 
 -------------------------------------------------------------------------------------
-124- Del Silencio al Vacio
+125- Del Silencio al Vacio
 --------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada.jpg"
@@ -1808,7 +1819,7 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
               Eternidad. "
 
 -------------------------------------------------------------------------------------
-125- Del Silencio al Vacio_(-Public-)
+126- Del Silencio al Vacio_(-Public-)
 -------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada.jpg"
@@ -1830,7 +1841,7 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
               Eternidad. "
 
 -------------------------------------------------------------------------------------
-126- Sacred Shadow - (Sombra Sagrada)
+127- Sacred Shadow - (Sombra Sagrada)
 -------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/sombra_sagrada/portada.jpg"
@@ -1852,7 +1863,7 @@ info:        "Esta compsicion incorpora de forma simbólica, los principios de :
               Inspirada en el Libro de Isaias 45:7."
 
 -------------------------------------------------------------------------------------
-127- You are my Home - (Tu eres mi Hogar)
+128- You are my Home - (Tu eres mi Hogar)
 -----------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/tu_eres_mi_hogar/portada1.jpg"
@@ -1875,7 +1886,7 @@ info:        "Composición en inglés. Un alma atraviesa un largo camino de bús
               estuvo en la Luz divina."
 
 -------------------------------------------------------------------------------------
-128- You are my Home EPYC- (Tu eres mi Hogar-epico)
+129- You are my Home EPYC- (Tu eres mi Hogar-epico)
 ---------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/tu_eres_mi_hogar/portada2.jpg"
@@ -1898,7 +1909,7 @@ info:        "Composición en inglés. Un alma atraviesa un largo camino de bús
               estuvo en la Luz divina."
 
 -------------------------------------------------------------------------------------
-129- Catarsis Transmutacion Iluminacion
+130- Catarsis Transmutacion Iluminacion
 ---------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/catarsis_transmutacion_iluminacion/portada.jpg"
@@ -1918,7 +1929,7 @@ info:        "Composición en Español neutro .La canción narra un viaje interi
               Luz eterna."
 
 -------------------------------------------------------------------------------------
-130- Cuerpo de Gloria, Magnum Opus
+131- Cuerpo de Gloria, Magnum Opus
 ----------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/portada1.jpg"
@@ -1938,7 +1949,7 @@ info:        "Composición en Español neutro. La composicion narra La canción 
               himno de esperanza, renacimiento y realización espiritual."
 
 -------------------------------------------------------------------------------------
-131- Cuerpo de Gloria, Magnum Opus_(- EPYC -)
+132- Cuerpo de Gloria, Magnum Opus_(- EPYC -)
 ---------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuerpo_de_gloria_magnum_opus/portada2.jpg"
@@ -1958,7 +1969,7 @@ info:        "Composición en Español neutro. La composicion narra La canción 
               himno de esperanza, renacimiento y realización espiritual."
 
 -------------------------------------------------------------------------------------
-132- Hieros Gamos_(Matrimonio Sagrado)
+133- Hieros Gamos_(Matrimonio Sagrado)
 --------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/hieros_gamos/portada.jpg"
@@ -1979,7 +1990,7 @@ info:        "Composición en italiano Florentino. Esta balada mística narra el
               hacia la plenitud eterna del Pleroma."
 
 -------------------------------------------------------------------------------------
-133- Alquimia - Vanguardia - Liberacion
+134- Alquimia - Vanguardia - Liberacion
 ----------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/alquimia-vanguardia-liberacion/portada.jpg"
@@ -2003,7 +2014,7 @@ info:        "Composición en Español Neutro. balada muy lenta es un diálogo �
               despierta."
 
 -------------------------------------------------------------------------------------
-134- El Arco y la Lyra
+135- El Arco y la Lyra
 -----------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/el_arco_y_la_lyra/portada.jpg"
@@ -2024,7 +2035,7 @@ info:        "Composición en Español Neutro. balada, basada en la Metafora de 
               La vida es esa cuerda tensada en el punto justo."
 
 -------------------------------------------------------------------------------------
-135- Cuando nuestras Luces se encontraron_( - DUO - When Your Light Found Mine)
+136- Cuando nuestras Luces se encontraron_( - DUO - When Your Light Found Mine)
 -------------------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada.jpg"
@@ -2046,7 +2057,7 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
               la luz y el regreso al origen."
 
 --------------------------------------------------------------------------------------------
-136- Cuando nuestras Luces se encontraron_(- SOLO - When Your Light Found Mine)
+137- Cuando nuestras Luces se encontraron_(- SOLO - When Your Light Found Mine)
 -------------------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/cuando_nuestras_luces_se_encontraron/portada2.jpg"
@@ -2068,7 +2079,7 @@ info:        "Composición en Ingles Esta composición relata la búsqueda de un
               la luz y el regreso al origen."
 
 --------------------------------------------------------------------------------------------
-137- Más alla del Nombre_(Beyond the Name)
+138- Más alla del Nombre_(Beyond the Name)
 ------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/mas_alla-del-nombre/portada1.jpg"
@@ -2090,7 +2101,7 @@ info:        "Composicion musical en Ingles, En el silencio del corazón nace un
               en una sola."
 
 --------------------------------------------------------------------------------------------
-138- Más alla del Nombre EPICO_(Beyond the Name - EPYC -)
+139- Más alla del Nombre EPICO_(Beyond the Name - EPYC -)
 ---------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/mas_alla-del-nombre/portada2.jpg"
@@ -2112,7 +2123,7 @@ info:        "Composicion musical en Ingles, En el silencio del corazón nace un
               en una sola."
 
 --------------------------------------------------------------------------------------------
-139- Canto de Ecos Ancestrales_(Ancient Shadow Sing) 
+140- Canto de Ecos Ancestrales_(Ancient Shadow Sing) 
 ----------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/canto_de_ecos_ancestrales/portada1.jpg"
@@ -2131,7 +2142,7 @@ info:        "Composicion en idioma Ingles. Sombras ancestrales despiertan recue
               esas voces del pasado siguen cantando en el presente."
 
 --------------------------------------------------------------------------------------------
-140- Las Chispas de Saint-Germain_(The sparks at Saint-Germain) 
+141- Las Chispas de Saint-Germain_(The sparks at Saint-Germain) 
 ---------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/the_sparks_at_saint-germain/portada1.jpg"
@@ -2152,7 +2163,7 @@ info:        "Composiónn en ingles, cuenta a travez de una emotiva balada ochen
               se expandiría por todo el mundo."
 
 --------------------------------------------------------------------------------------------
-141- La Ilusión y La Luz_(L'ingano e la Luce, guardami negli occhi) 
+142- La Ilusión y La Luz_(L'ingano e la Luce, guardami negli occhi) 
 -------------------------------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/la_ilusion_y_la_Luz/portada1.jpg"
@@ -2175,7 +2186,7 @@ info:        "Composiónn en Italiano Napolitano Un velo de sombra y olvido nos 
               del Pleroma."
 
 --------------------------------------------------------------------------------------------
-142- El_Velo_de_la_Dyada_(La Ilusion de los Opuestos )
+143- El_Velo_de_la_Dyada_(La Ilusion de los Opuestos )
 ------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_velo_de_la_dyada/portada1.jpg"
@@ -2197,7 +2208,7 @@ info:        "Composión en españolneutro .La mente levanta un velo que aparent
               Unidad primordial del Ser."
 
 --------------------------------------------------------------------------------------------
-143- Yo Soy ... el que Soy
+144- Yo Soy ... el que Soy
 --------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/yo_soy/portada1.jpg"
@@ -2219,7 +2230,7 @@ info:        "Composión en español neutro .Sofía engendra un velo que aprisio
               Finalmente, el ser reconoce en el amor eterno su naturaleza divina."
 
 --------------------------------------------------------------------------------------------
-144- Recuerda tu Luz interior_(Remember the Light Within)
+145- Recuerda tu Luz interior_(Remember the Light Within)
 ---------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/recuerda_tu_luz_interior/portada1.jpg"
@@ -2243,7 +2254,7 @@ info:        "Composión en español neutro .balada iniciática sobre el despert
               habitó dentro."
 
 --------------------------------------------------------------------------------------------
-145- La Voz del Mandil Blanco
+146- La Voz del Mandil Blanco
 -----------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_voz_del_mandil_blanco/portada1.jpg"
@@ -2262,7 +2273,7 @@ info:        "Composión en español neutro .balada iniciática
               Bienvenido/a *La Voz del Mandil Blanco* . "
 
 --------------------------------------------------------------------------------------------
-146- Misericordia y Gratitud_(Italiano- Misericordia e Gratitudine)
+147- Misericordia y Gratitud_(Italiano- Misericordia e Gratitudine)
 -------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada.jpg"
@@ -2281,7 +2292,7 @@ info:        "Composión en Italiano Florentino.balada iniciática.En el silenci
               Al final comprendemos que luz y sombra son un solo ser."
 
 --------------------------------------------------------------------------------------------
-147- Misericordia y Gratitud- version-ANDREA- (Italiano- Misericordia e Gratitudine)
+148- Misericordia y Gratitud- version-ANDREA- (Italiano- Misericordia e Gratitudine)
 ------------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/misericordia_e_gratitudine/portada2.jpg"
@@ -2300,7 +2311,7 @@ info:        "Composión en Italiano Florentino.balada iniciática.En el silenci
               Al final comprendemos que luz y sombra son un solo ser."
 
 --------------------------------------------------------------------------------------------
-148- Este Amor Inconmensurable (Ingles - This_Unfathomable_Love - )
+149- Este Amor Inconmensurable (Ingles - This_Unfathomable_Love - )
 -------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/unfathomable_love/portada.jpg"
@@ -2327,7 +2338,7 @@ info:        "Composcon en Ingles El misterio del Amor Inconmesurable del UNO co
               EL AMOR INCONENSURABLE: El mayor del los ARCANOS ."
 
 --------------------------------------------------------------------------------------------
-149- Mi Alma
+150- Mi Alma
 ------------
 
 url-imagen:  "https://lucksys.github.io/canciones/mi_alma/portada.jpg"
@@ -2347,7 +2358,7 @@ info:        "Una presencia regresa sin revelar su identidad.
               Y al final, su alma comprende que quizá siempre haya sido ella."
 
 --------------------------------------------------------------------------------------------
-150- El Proposito
+151- El Proposito
 -----------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_proposito/portada.jpg"
@@ -2373,7 +2384,7 @@ info:        "Antes del gesto y del rito, existe una intención que da nacimient
               se convierte en conciencia y la Obra revela su verdadero sentido." 
 
 --------------------------------------------------------------------------------------------
-151- El Proposito - EPYC -
+152- El Proposito - EPYC -
 --------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_proposito/portada2.jpg"
@@ -2399,7 +2410,7 @@ info:        "Antes del gesto y del rito, existe una intención que da nacimient
               se convierte en conciencia y la Obra revela su verdadero sentido." 
 
 --------------------------------------------------------------------------------------------
-152- El Drama Ritual - La Palabra que se Vive
+153- El Drama Ritual - La Palabra que se Vive
 ---------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_drama_ritual-la_palabra_que_se_vive/portada.jpg"
@@ -2418,7 +2429,7 @@ info:        "La canción invita a comprender que todo rito nace de una intenci�
               en el corazón." 
 
 --------------------------------------------------------------------------------------------
-153- El Sesgo de una Sombra
+154- El Sesgo de una Sombra
 ---------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/portada.jpg"
@@ -2436,7 +2447,7 @@ info:        "La sombra revela aquello que el ser humano intenta ocultar.
               Al reconocer la sombra, el ser descubre finalmente quién es." 
 
 --------------------------------------------------------------------------------------------
-154- El Sesgo de una Sombra - EPYC-
+155- El Sesgo de una Sombra - EPYC-
 -----------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_sesgo_de_una_sombra/portada2.jpg"
@@ -2454,7 +2465,7 @@ info:        "La sombra revela aquello que el ser humano intenta ocultar.
               Al reconocer la sombra, el ser descubre finalmente quién es." 
 
 --------------------------------------------------------------------------------------------
-155- Las Estancias Interiores
+156- Las Estancias Interiores
 -----------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/las_estancias_interiores/portada1.jpg"
@@ -2480,7 +2491,7 @@ info:        "La apariencia externa oculta la verdadera naturaleza de las cosas.
               Dzyan: (Sánscrito) Meditación , Dhyäna (tibetano)."
               
 --------------------------------------------------------------------------------------------
-156- La Cámara Interior - Ingles (The Chamber Within)
+157- La Cámara Interior - Ingles (The Chamber Within)
 -----------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/the_chamber_within/portada1.jpg"
@@ -2498,7 +2509,7 @@ info:        "El recipendiario atraviesa la oscuridad en busca de una verdad per
               Finalmente, deja de huir de la noche y comienza a caminar hacia la Luz eterna."
               
 -------------------------------------------------------------------------------------------
-157- El Fruto de la Luz 
+158- El Fruto de la Luz 
 -----------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_fruto_de_la_luz/portada.jpg"
@@ -2516,7 +2527,7 @@ info:        "La búsqueda de la luz comienza tras una promesa y un ideal.
               Ser uno en el acto es alcanzar la libertad de caminar bajo la luz."
               
 -------------------------------------------------------------------------------------------
-158- El Fruto de la Luz - ANDREA -
+159- El Fruto de la Luz - ANDREA -
 ----------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_fruto_de_la_luz/portada2.jpg"
@@ -2534,7 +2545,7 @@ info:        "La búsqueda de la luz comienza tras una promesa y un ideal.
               Ser uno en el acto es alcanzar la libertad de caminar bajo la luz."
               
 -------------------------------------------------------------------------------------------
-159- La Piedra Libre
+160- La Piedra Libre
 --------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_piedra_libre/portada.jpg"
@@ -2552,7 +2563,7 @@ info:        "Frente a los rituales externos, la protagonista elige preservar su
               Permanece en el atrio, sirviendo y caminando hacia la verdad de su alma."
               
 ------------------------------------------------------------------------------------------- 
-160- Sublime Gracia - Ingles(- Amazing Grace -)
+161- Sublime Gracia - Ingles(- Amazing Grace -)
 -----------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/sublime_gracia/portada.jpg"
@@ -2571,7 +2582,7 @@ info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad ma
               Suprema."
               
 -------------------------------------------------------------------------------------------
-161- Es tu Fidelidad - Ingles - version Iglesia (- Great is Thy faithfulness -)
+162- Es tu Fidelidad - Ingles - version Iglesia (- Great is Thy faithfulness -)
 -------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/es_tu_fidelidad/portada.jpg"
@@ -2592,7 +2603,7 @@ info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra 
               (u «Oh, Dios eterno»)."
               
 -------------------------------------------------------------------------------------------
-162- Es tu Fidelidad - Ingles - version Iniciatica (- Great is Thy faithfulness -)
+163- Es tu Fidelidad - Ingles - version Iniciatica (- Great is Thy faithfulness -)
 ----------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/es_tu_fidelidad/portada2.jpg"
@@ -2612,7 +2623,7 @@ info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra 
               (u «Oh, Dios eterno»)."
               
 -------------------------------------------------------------------------------------------
-163- A Dios sea la Gloria - Ingles - version de Culto (- To God be the Glory - CULT -)
+164- A Dios sea la Gloria - Ingles - version de Culto (- To God be the Glory - CULT -)
 --------------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/portada.jpg"
@@ -2630,7 +2641,7 @@ info:        "La letra expresa una profunda gratitud por el amor y la gracia rec
               Todo culmina en una proclamación: a Dios pertenece toda la gloria."
               
 -------------------------------------------------------------------------------------------
-164- A Dios sea la Gloria - Ingles - version Epica (- To God be the Glory - EPYC -)
+165- A Dios sea la Gloria - Ingles - version Epica (- To God be the Glory - EPYC -)
 --------------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/portada2.jpg"
@@ -2648,7 +2659,7 @@ info:        "La letra expresa una profunda gratitud por el amor y la gracia rec
               Todo culmina en una proclamación: a Dios pertenece toda la gloria."
               
 -------------------------------------------------------------------------------------------
-165- Expresale a El 
+166- Expresale a El 
 -------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/expresale_e_el/portada.jpg"
