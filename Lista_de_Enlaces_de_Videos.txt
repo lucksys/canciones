@@ -2681,4 +2681,29 @@ info:        "La canción expresa el temor de revelar lo que se siente y la vale
               en mí."
               
 -------------------------------------------------------------------------------------------
-      
+  166- Cuán Grade es EL - Ingles ( How_great_Thou_Art )
+-------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/cuan_grande_es_EL/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1uknylmHp62TBz4B7MUYzHm2QLzc0uRHH/view"
+url-cancion: "https://drive.google.com/file/d/1bufSLoZrERbMMP407bvJQqpRlcazLOkM/view"
+web-video:   "https://lucksys.github.io/canciones/cuan_grande_es_EL/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/cuan_grande_es_EL/index?t=a&v=1"
+info:        "Esta composicion musical contempla la grandeza infinita de Dios ante la 
+              inmensidad de la creación.
+              El alma percibe las estrellas, el trueno y el poder divino manifestado 
+              en el universo. Ante esa visión, el corazón proclama con asombro cuán 
+              grande es Dios.
+              La reflexión sobre Cristo revela el sacrificio de Dios al entregar a su
+              Hijo por la humanidad.
+              Jesús carga con el peso del pecado y entrega su vida en la cruz para 
+              redimir al ser humano.
+              La esperanza se eleva hacia el regreso glorioso de Cristo y la promesa 
+              de ser llevado al hogar celestial.
+              Ante esa revelación, el creyente se inclina con humildad, adoración y 
+              profunda gratitud. Finalmente, toda el alma proclama una y otra vez 
+              la grandeza eterna de Dios."
+              
+-------------------------------------------------------------------------------------------
+   
+ 
