@@ -2681,7 +2681,7 @@ info:        "La canción expresa el temor de revelar lo que se siente y la vale
               en mí."
               
 -------------------------------------------------------------------------------------------
-167- Cuán Grade es EL - Ingles ( How_great_Thou_Art )
+167- Cuán Grande es EL - Ingles ( How_great_Thou_Art )
 -------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/cuan_grande_es_EL/portada.jpg"
