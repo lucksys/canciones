@@ -2708,11 +2708,11 @@ info:        "Esta composicion musical contempla la grandeza infinita de Dios an
 168- Mas alla del velo de la Noche - Italiano ( Oltre il Velo della Notte )
 ---------------------------------------------------------------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/mas_alla_del_velo_de_la_Noche/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/mas_alla_del_velo_de_la_noche/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1qqXe8F_YM1RRJRcvF_lAuGhVMOJw0Mdy/view"
 url-cancion: "https://drive.google.com/file/d/1jHHwHmqwPX0nQfJzB-d0xCE8ISFI5Gg9/view"
-web-video:   "https://lucksys.github.io/canciones/mas_alla_del_velo_de_la_Noche/index?t=p&v=1"
-web-cancion: "https://lucksys.github.io/canciones/mas_alla_del_velo_de_la_Noche/index?t=a&v=1"
+web-video:   "https://lucksys.github.io/canciones/mas_alla_del_velo_de_la_noche/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/mas_alla_del_velo_de_la_noche/index?t=a&v=1"
 info:        "La protagonista atraviesa la oscuridad buscando una verdad más profunda.
               Descubre que cada caída y cada herida pueden ser una puerta hacia la 
               transformación.
