@@ -2726,5 +2726,4 @@ info:        "La protagonista atraviesa la oscuridad buscando una verdad más pr
               de sí."
               
 -------------------------------------------------------------------------------------------
- 
-  
+   
