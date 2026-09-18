@@ -2726,4 +2726,14 @@ info:        "La protagonista atraviesa la oscuridad buscando una verdad más pr
               de sí."
               
 -------------------------------------------------------------------------------------------
-   
+169- Padre Nuestro - Arameo antiguo (Abba d'beshmaya)
+-----------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/padre_nuestro/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1hY0ACmShZNIWFLJMdLKGMnv2O4cjdWEW/view"
+url-cancion: "https://drive.google.com/file/d/1qLruwi_dibFl06ffrhtfKc_JdwB16pl1/view"
+web-video:   "https://lucksys.github.io/canciones/padre_nuestro/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/padre_nuestro/index?t=a&v=1"
+info:        "El Padre Nuestro e Arameo Antiguo"
+              
+-------------------------------------------------------------------------------------------  
