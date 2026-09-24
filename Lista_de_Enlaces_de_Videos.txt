@@ -2760,4 +2760,22 @@ web-cancion: "https://lucksys.github.io/canciones/padre_nuestro/index?t=a&v=1"
 info:        "El Padre Nuestro e Arameo Antiguo"
               
 -------------------------------------------------------------------------------------------  
- 
+171- A la Luz_de la Llama - Italiano (Alla_Luce_della_Fiamma)
+-------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/a_la_luz_de_la_llama/portada.jpg"
+url-video:   "https://drive.google.com/file/d/12JP_9ise1JTvYzZd7Rgo4vZ1sQiIMW5H/view"
+url-cancion: "https://drive.google.com/file/d/1rhmGn0ewkD68YdFZlwuO9ymKSCWtG7bB/view"
+web-video:   "https://lucksys.github.io/canciones/a_la_luz_de_la_llama/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/a_la_luz_de_la_llama/index?t=a&v=1"
+info:        "Composicion en Italiano Florentino. La separación es solo un velo ante 
+              la verdad interior. Recuerda quién eres y la promesa que habita en ti.
+              Transforma el sufrimiento en fuego de conciencia. Camina sin posesión y 
+              custodia tu propósito. Ama, deja ir y reconoce la unidad del alma y el 
+              espíritu.
+              Más allá de las dualidades existe un orden más antiguo.
+              Purifica tu voluntad, libera el apego y obra con coherencia.
+              Sigue la llama hacia la luz, hasta la Unión."
+              
+------------------------------------------------------------------------------------------- 
+  
