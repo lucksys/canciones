@@ -355,6 +355,17 @@ web-cancion: "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index?t=a
 info:        "Compósición en idioma: español neutro. N.A."
 
 --------------------------------------------------------------------------------------------
+30- El_eco_de_un_secreto - EPYC -
+---------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_eco_de_un_secreto/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1N4xfzy2oD0za8gcFOcWkaqC0y6hF9zfr/view"
+url-cancion: "https://drive.google.com/file/d/12NuaLwD3n5--hBCqgWerbya0docUCiup/view"
+web-video:   "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index2?t=a&v=1"
+info:        "Compósición en idioma: español neutro. N.A."
+
+--------------------------------------------------------------------------------------------
 30- El Viaje Alquimico del Ser a la Iluminacion
 -----------------------------------------------
 
