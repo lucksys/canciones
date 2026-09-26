@@ -366,7 +366,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_eco_de_un_secreto/index2?t=
 info:        "Compósición en idioma: español neutro. N.A."
 
 --------------------------------------------------------------------------------------------
-30- El Viaje Alquimico del Ser a la Iluminacion
+31- El Viaje Alquimico del Ser a la Iluminacion
 -----------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_la_iluminacion/portada.jpg"
@@ -377,7 +377,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_viaje_alquimico_del_ser_a_l
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-31- El Aguila Bicefala
+32- El Aguila Bicefala
 ----------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_aguila_bicefala/portada.jpg"
@@ -388,7 +388,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_aguila_bicefala/index?t=a&v
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-32- Ne_Plus_Ultra
+33- Ne_Plus_Ultra
 ------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/ne_plus_ultra/portada1.jpg"
@@ -399,7 +399,7 @@ web-cancion: "https://lucksys.github.io/canciones/ne_plus_ultra/index1?t=a&v=1"
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-33- Ne_Plus_Ultra (-EPYC-)
+34- Ne_Plus_Ultra (-EPYC-)
 --------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/ne_plus_ultra/portada2.jpg"
@@ -410,7 +410,7 @@ web-cancion: "https://lucksys.github.io/canciones/ne_plus_ultra/index2?t=a&v=1"
 info:        "Compósición en idioma: español neutro. N.A."
 
 --------------------------------------------------------------------------------------------
-34- himno_de_la_luz_velada
+35- himno_de_la_luz_velada
 --------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada1.jpg"
@@ -421,7 +421,7 @@ web-cancion: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index1?
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-35- himno_de_la_luz_velada (Versión Epica)
+36- himno_de_la_luz_velada (Versión Epica)
 ------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/himno_de_la_luz_velada/portada2.jpg"
@@ -432,7 +432,7 @@ web-cancion: "https://lucksys.github.io/canciones/himno_de_la_luz_velada/index2?
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
-36- XIII_maximas_y_un_grito_iniciatico_por_el_alma
+37- XIII_maximas_y_un_grito_iniciatico_por_el_alma
 --------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_iniciatico_por_el_alma/portada1.jpg"
@@ -443,7 +443,7 @@ web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inicia
 info:        "Compósición en idioma: español neutro y Frases en Latín."
 
 --------------------------------------------------------------------------------------------
-37- XIII_maximas_y_un_grito_iniciatico_por_el_alma-EPYC-(LEO)
+38- XIII_maximas_y_un_grito_iniciatico_por_el_alma-EPYC-(LEO)
 -------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_iniciatico_por_el_alma/portada2.jpg"
@@ -454,7 +454,7 @@ web-cancion: "https://lucksys.github.io/canciones/xiii_maximas_y_un_grito_inicia
 info:        "Compósición en idioma: español neutro y Frases en Latín."
 
 --------------------------------------------------------------------------------------------
-38- El Umbral de la Trascendencia
+39- El Umbral de la Trascendencia
 ---------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_umbral_de_la_trascendencia/portada.jpg"
@@ -465,7 +465,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_umbral_de_la_trascendencia/
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-39- La Elección y La Perseverancia
+40- La Elección y La Perseverancia
 ----------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/portada.jpg"
@@ -476,7 +476,7 @@ web-cancion: "https://lucksys.github.io/canciones/la_elección_y_la_perseveranci
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-40- La Piedra en Bruto y La Piedra Cubica
+41- La Piedra en Bruto y La Piedra Cubica
 ------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra_cubica/portada.jpg"
@@ -487,7 +487,7 @@ web-cancion: "https://lucksys.github.io/canciones/la_piedra_en_bruto_y_la_piedra
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-41- Quedate a mi Lado
+42- Quedate a mi Lado
 ---------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/quedate_a_mi_lado/portada.jpg"
@@ -498,7 +498,7 @@ web-cancion: "https://lucksys.github.io/canciones/quedate_a_mi_lado/index?t=a&v=
 info:        "Compósición en idioma: ingles con subtituulos en español."
 
 --------------------------------------------------------------------------------------------
-42- Escalera Caracol
+43- Escalera Caracol
 --------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/escalera_caracol/portada.jpg"
@@ -509,7 +509,7 @@ web-cancion: "https://lucksys.github.io/canciones/escalera_caracol/index?t=a&v=1
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-43- Resurrección de La Palabra
+44- Resurrección de La Palabra
 ------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada1.jpg"
@@ -520,7 +520,7 @@ web-cancion: "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/ind
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
-44- Resurrección de La Palabra ( - Acoustic - Epyc - )
+45- Resurrección de La Palabra ( - Acoustic - Epyc - )
 ------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/portada2.jpg"
@@ -531,7 +531,7 @@ web-video:   "https://lucksys.github.io/canciones/resurreccion_de_la_palabra/ind
 info:        "Compósición en idioma: español neutro.                    "
 
 --------------------------------------------------------------------------------------------
-45- Throne_of_the_Pleroma
+46- Throne_of_the_Pleroma
 -------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada1.jpg"
@@ -543,7 +543,7 @@ info:        "Compósición en idioma: ingles, con subtitulos en español Homena
               Patriarca Enoc (Arcangel Metatron)"
               
 --------------------------------------------------------------------------------------------
-46- Throne_of_the_Pleroma (- EpYc -)
+47- Throne_of_the_Pleroma (- EpYc -)
 ------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/throne_of_the_pleroma/portada2.jpg"
@@ -555,7 +555,7 @@ info:        "Compósición en idioma: ingles, con subtitulos en español. Versi
               Homenaje al Patriarca Enoc (Arcangel Metatron)"
 
 --------------------------------------------------------------------------------------------
-47- La Lampara Interior
+48- La Lampara Interior
 -----------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_lampara_interior/portada1.jpg"
@@ -566,7 +566,7 @@ web-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index1?t=a
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-48- La Lámpara Interior (- Acoustic -)
+49- La Lámpara Interior (- Acoustic -)
 --------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_lampara_interior/portada2.jpg"
@@ -577,7 +577,7 @@ web-cancion: "https://lucksys.github.io/canciones/la_lampara_interior/index2?t=a
 info:        "Compósición en idioma: español neutro. "
 
 --------------------------------------------------------------------------------------------
-49- El Camino la Virtud y el Cayado
+50- El Camino la Virtud y el Cayado
 -----------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada1.jpg"
@@ -588,7 +588,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayad
 info:        "Compósición en idioma: Italiano, con subtitulos e español."
 
 --------------------------------------------------------------------------------------------
-50- El Camino la Virtud y el Cayado_(Acoustic-Duet)
+51- El Camino la Virtud y el Cayado_(Acoustic-Duet)
 ---------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada2.jpg"
@@ -599,7 +599,7 @@ web-cancion: "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayad
 info:        "Compósición en idioma: Italiano, con subtitulos e español."
 
 --------------------------------------------------------------------------------------------
-51- El Camino la Virtud y el Cayado_(Acoustic-Duet-Public)
+52- El Camino la Virtud y el Cayado_(Acoustic-Duet-Public)
 ----------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/el_camino_la_virtud_y_el_cayado/portada3.jpg"
