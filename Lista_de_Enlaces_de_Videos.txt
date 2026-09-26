@@ -2789,4 +2789,23 @@ info:        "Composicion en Italiano Florentino. La separación es solo un velo
               Sigue la llama hacia la luz, hasta la Unión."
               
 ------------------------------------------------------------------------------------------- 
+173- A la Luz_de la Llama - EPYC - Italiano (Alla_Luce_della_Fiamma - EPYC -)
+-----------------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/a_la_luz_de_la_llama/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1szCgf5glo_buUFqMf313cTJC2-c3edEl/view"
+url-cancion: "https://drive.google.com/file/d/19ZvPs603hAk77_WSd29ud8QPUVNH9nDH/view"
+web-video:   "https://lucksys.github.io/canciones/a_la_luz_de_la_llama/index2?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/a_la_luz_de_la_llama/index2?t=a&v=1"
+info:        "Composicion en Italiano Florentino. La separación es solo un velo ante 
+              la verdad interior. Recuerda quién eres y la promesa que habita en ti.
+              Transforma el sufrimiento en fuego de conciencia. Camina sin posesión y 
+              custodia tu propósito. Ama, deja ir y reconoce la unidad del alma y el 
+              espíritu.
+              Más allá de las dualidades existe un orden más antiguo.
+              Purifica tu voluntad, libera el apego y obra con coherencia.
+              Sigue la llama hacia la luz, hasta la Unión."
+              
+------------------------------------------------------------------------------------------- 
+ 
   
