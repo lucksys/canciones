@@ -2622,7 +2622,7 @@ info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad ma
 url-imagen:  "https://lucksys.github.io/canciones/sublime_gracia/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1ZBERDsCqWB-W9SWxzhBXSDmbDJCZn5Fd/view"
 url-cancion: "https://drive.google.com/file/d/1EY8sHUB-4aU8rmicqbH6E188k16wOhpG/view"
-web-video:   "https://lucksys.github.io/canciones/sublime_gracia/index2?t=p&v=1"
+web-video:   "https://lucksys.github.io/canciones/sublime_gracia/index2?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/sublime_gracia/index2?t=a&v=1"
 info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad marina 
               lo llevó a limite despertando su Fe en el LOGOS y su conciencia 
