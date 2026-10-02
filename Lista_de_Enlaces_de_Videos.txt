@@ -2616,7 +2616,26 @@ info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad ma
               Suprema."
               
 -------------------------------------------------------------------------------------------
-164- Es tu Fidelidad - Ingles - version Iglesia (- Great is Thy faithfulness -)
+164- Sublime Gracia - EPYC - Ingles(- Amazing Grace - EPYC -)
+-------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/sublime_gracia/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1ZBERDsCqWB-W9SWxzhBXSDmbDJCZn5Fd/view"
+url-cancion: "https://drive.google.com/file/d/1EY8sHUB-4aU8rmicqbH6E188k16wOhpG/view"
+web-video:   "https://lucksys.github.io/canciones/sublime_gracia/index2?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/sublime_gracia/index2?t=a&v=1"
+info:        "John Newton fue un traficante de esclavos Ingles. Una tempestad marina 
+              lo llevó a limite despertando su Fe en el LOGOS y su conciencia 
+              dormida. Esa crisis inició su regeneración espiritual escribió el poema 
+              o letra de lo que sería este himno. 
+              Abandonó las sombras para buscar la luz, arrepintiendose del trafico 
+              humano. Y de ese despertar nació este poderoso himno. La obra encarna la 
+              fuerza del LOGOS y la transmutación. Simbolizando el paso de la ceguera 
+              a la visión espiritual. Este himno Proclama el retorno hacia la Armonía
+              Suprema."
+              
+-------------------------------------------------------------------------------------------
+165- Es tu Fidelidad - Ingles - version Iglesia (- Great is Thy faithfulness -)
 -------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/es_tu_fidelidad/portada.jpg"
@@ -2637,7 +2656,7 @@ info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra 
               (u «Oh, Dios eterno»)."
               
 -------------------------------------------------------------------------------------------
-165- Es tu Fidelidad - Ingles - version Iniciatica (- Great is Thy faithfulness -)
+166- Es tu Fidelidad - Ingles - version Iniciatica (- Great is Thy faithfulness -)
 ----------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/es_tu_fidelidad/portada2.jpg"
@@ -2657,7 +2676,7 @@ info:        "El pastor metodista y poeta Thomas O. Chisholm escribió la letra 
               (u «Oh, Dios eterno»)."
               
 -------------------------------------------------------------------------------------------
-166- A Dios sea la Gloria - Ingles - version de Culto (- To God be the Glory - CULT -)
+167- A Dios sea la Gloria - Ingles - version de Culto (- To God be the Glory - CULT -)
 --------------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/portada.jpg"
@@ -2675,7 +2694,7 @@ info:        "La letra expresa una profunda gratitud por el amor y la gracia rec
               Todo culmina en una proclamación: a Dios pertenece toda la gloria."
               
 -------------------------------------------------------------------------------------------
-167- A Dios sea la Gloria - Ingles - version Epica (- To God be the Glory - EPYC -)
+168- A Dios sea la Gloria - Ingles - version Epica (- To God be the Glory - EPYC -)
 --------------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/a_dios_sea_la_gloria/portada2.jpg"
@@ -2693,7 +2712,7 @@ info:        "La letra expresa una profunda gratitud por el amor y la gracia rec
               Todo culmina en una proclamación: a Dios pertenece toda la gloria."
               
 -------------------------------------------------------------------------------------------
-168- Expresale a El 
+169- Expresale a El 
 -------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/expresale_e_el/portada.jpg"
@@ -2715,7 +2734,7 @@ info:        "La canción expresa el temor de revelar lo que se siente y la vale
               en mí."
               
 -------------------------------------------------------------------------------------------
-169- Cuán Grande es EL - Ingles ( How_great_Thou_Art )
+170- Cuán Grande es EL - Ingles ( How_great_Thou_Art )
 -------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/cuan_grande_es_EL/portada.jpg"
@@ -2739,7 +2758,7 @@ info:        "Esta composicion musical contempla la grandeza infinita de Dios an
               la grandeza eterna de Dios."
               
 -------------------------------------------------------------------------------------------
-170- Mas alla del velo de la Noche - Italiano ( Oltre il Velo della Notte )
+171- Mas alla del velo de la Noche - Italiano ( Oltre il Velo della Notte )
 ---------------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/mas_alla_del_velo_de_la_noche/portada.jpg"
@@ -2760,7 +2779,7 @@ info:        "La protagonista atraviesa la oscuridad buscando una verdad más pr
               de sí."
               
 -------------------------------------------------------------------------------------------
-171- Padre Nuestro - Arameo antiguo (Abba d'beshmaya)
+172- Padre Nuestro - Arameo antiguo (Abba d'beshmaya)
 -----------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/padre_nuestro/portada.jpg"
@@ -2771,7 +2790,7 @@ web-cancion: "https://lucksys.github.io/canciones/padre_nuestro/index?t=a&v=1"
 info:        "El Padre Nuestro e Arameo Antiguo"
               
 -------------------------------------------------------------------------------------------  
-172- A la Luz_de la Llama - Italiano (Alla_Luce_della_Fiamma)
+173- A la Luz_de la Llama - Italiano (Alla_Luce_della_Fiamma)
 -------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/a_la_luz_de_la_llama/portada.jpg"
@@ -2789,7 +2808,7 @@ info:        "Composicion en Italiano Florentino. La separación es solo un velo
               Sigue la llama hacia la luz, hasta la Unión."
               
 ------------------------------------------------------------------------------------------- 
-173- A la Luz_de la Llama - EPYC - Italiano (Alla_Luce_della_Fiamma - EPYC -)
+174- A la Luz_de la Llama - EPYC - Italiano (Alla_Luce_della_Fiamma - EPYC -)
 -----------------------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/a_la_luz_de_la_llama/portada2.jpg"
@@ -2807,5 +2826,4 @@ info:        "Composicion en Italiano Florentino. La separación es solo un velo
               Sigue la llama hacia la luz, hasta la Unión."
               
 ------------------------------------------------------------------------------------------- 
- 
   
