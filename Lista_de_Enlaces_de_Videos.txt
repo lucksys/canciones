@@ -2826,4 +2826,18 @@ info:        "Composicion en Italiano Florentino. La separación es solo un velo
               Sigue la llama hacia la luz, hasta la Unión."
               
 ------------------------------------------------------------------------------------------- 
-  
+175- La_Verdad_me_hara_Libre Ingles (The Truth Shall Make Me Free)
+------------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/la_verdad_me_hara_libre/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1w8R1sM_UPrWqgFX-P8VNWGZQWqHk3H8Y/view"
+url-cancion: "https://drive.google.com/file/d/1Ts_VxBynuY4hz0wEbhUPYBbaIfxSGfUn/view"
+web-video:   "https://lucksys.github.io/canciones/la_verdad_me_hara_libre/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_verdad_me_hara_libre/index?t=a&v=1"
+info:        "Composicion en Ingles Antiguo. Libro de Juan Cap. 8 Vers.:  31 y 32: Dijo
+              entonces Jesús a los judíos que habían creído en él: Si vosotros permaneciereis
+              en mi palabra, seréis verdaderamente mis discípulos; y conoceréis la verdad, y
+              la verdad os hará libres."
+              
+-------------------------------------------------------------------------------------------
+   
