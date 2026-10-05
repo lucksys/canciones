@@ -476,6 +476,17 @@ web-cancion: "https://lucksys.github.io/canciones/la_elección_y_la_perseveranci
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
+40- La Elección y La Perseverancia - EPYC -
+-------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1OWBrYLSV2zZ621BirZkU2QNWsNpA4WmB/view"
+url-cancion: "https://drive.google.com/file/d/1o5IMMEnosUqTxW9oJz8M2IxZyZrThEcD/view"
+web-video:   "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/index2?t=k&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_elección_y_la_perseverancia/index2?t=a&v=1"
+info:        "Compósición en idioma: español neutro."
+
+--------------------------------------------------------------------------------------------
 41- La Piedra en Bruto y La Piedra Cubica
 ------------------------------------------
 
