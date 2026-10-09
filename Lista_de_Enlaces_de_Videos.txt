@@ -2871,7 +2871,7 @@ info:        "Composicion en Ingles Antiguo. Libro de Juan Cap. 8 Vers.:  31 y 3
               la verdad os hará libres."
               
 -------------------------------------------------------------------------------------------
-177- Obra, Creacion y Carro (Ma'asé, Bereshit,Maásé Merkavá)
+178- Obra, Creacion y Carro (Ma'asé, Bereshit,Maásé Merkavá)
 ------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/obra_creacion_y_carro/portada.jpg"
