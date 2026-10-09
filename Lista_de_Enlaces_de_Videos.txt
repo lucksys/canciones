@@ -2871,4 +2871,29 @@ info:        "Composicion en Ingles Antiguo. Libro de Juan Cap. 8 Vers.:  31 y 3
               la verdad os hará libres."
               
 -------------------------------------------------------------------------------------------
-   
+177- Obra, Creacion y Carro (Ma'asé, Bereshit,Maásé Merkavá)
+------------------------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/obra_creacion_y_carro/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1iXQFQH1s3jv7l1CJWnKl01ZxJuMYEoKP/view"
+url-cancion: "https://drive.google.com/file/d/1aY6GvGVD6YcE8Q_gy49zehDkiHj-dKla/view"
+web-video:   "https://lucksys.github.io/canciones/obra_creacion_y_carro/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/obra_creacion_y_carro/index?t=a&v=1"
+info:        "Composicion en español neutro. Antes de la luz, un rayo divino desciende 
+              desde el Vacío y da origen a la Creación.
+              El Kav traza el camino desde la Corona hasta el Reino terrenal.
+              La materia recibe la luz sagrada y busca despertar su esencia espiritual.
+              Las diez luces , mas una oculta Da'at (cnocimiento) entre Jojmá(sabiduría) 
+              y Biná (entedimiento) dibujan el mapa de la existencia.
+              La Luna y el Sol representan fuerzas complementarias que proyectan la vida.
+              El Karma refleja nuestras acciones y el Dharma ilumina nuestro camino.
+              Belleza, Sabiduría y Fuerza sostienen el equilibrio de los tres pilares.
+              La transformación alquímica convierte el plomo interior en plata y luz.
+              desde Malkuth (nigredo) a Keter(Rubedo) o cuerpo de drado o Carro Sagrado 
+              o Merkavá. El iniciado asciende por el eje central hacia Tiferet, la Unidad 
+              y el Amor sin velos.
+              El Carro de Fuego retorna al silencio del Origen, donde la Verdad revela la 
+              Unidad eterna."
+              
+-------------------------------------------------------------------------------------------
+     
