@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Del Silencio al Vacio -EPYC (Italiano)</title>
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="video.other">
+    <meta property="og:site_name" content="Google Drive">
+    <meta property="og:title" content="Del Silencio al Vacio -EPYC (Italiano)">
+    <meta property="og:description" content="Haz clic para ver o escuchar la obra completa.">
+
+    <meta property="og:image" content="https://lucksys.github.io/canciones/del_silencio_al_vacio/portada2.jpg">
+    <meta property="og:image:secure_url" content="https://lucksys.github.io/canciones/del_silencio_al_vacio/portada2.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="1168">
+    <meta property="og:image:height" content="784">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Del Silencio al Vacio -EPYC (Italiano)">
+    <meta name="twitter:description" content="Haz clic para ver o escuchar la obra completa.">
+    <meta name="twitter:image" content="https://lucksys.github.io/canciones/del_silencio_al_vacio/portada2.jpg">
+
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background-color: #1a1a1a;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background: #222;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+
+        video, audio {
+            width: 100%;
+            max-height: 70vh;
+            border-radius: 8px;
+            outline: none;
+            background: #000;
+        }
+
+        .fallback {
+            margin-top: 15px;
+            font-size: 0.9rem;
+        }
+
+        a {
+            color: #00ffcc;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container" id="player-container">
+        <h2>Cargando contenido...</h2>
+    </div>
+
+    <script>
+        const medias = {
+            k: "https://drive.google.com/file/d/1dDqQcUiciZ44hcCHuf8jeXgzdogZ96-X/view",
+            p: "https://drive.google.com/file/d/1dDqQcUiciZ44hcCHuf8jeXgzdogZ96-X/view",
+            a: "https://drive.google.com/file/d/1_Csj-tulDLQDaCNHpnTSelnc_KV7I4iI/view"
+        };
+
+        const params = new URLSearchParams(window.location.search);
+        // Leemos 't' en minúsculas por seguridad
+        const tipo = (params.get("t") || "k").toLowerCase();
+
+        // Seleccionamos la URL según el tipo (por defecto 'k' si no viene nada o es inválido)
+        const urlDrive = medias[tipo] || medias.k;
+
+        // Función para extraer el ID de Google Drive y armar el enlace de descarga/streaming directo
+        function obtenerUrlDirecta(url) {
+            let match = url.match(/\/d\/([a-zA-Z0-9_-]+)/);
+            if (match && match[1]) {
+                return `https://drive.google.com/uc?export=download&id=${match[1]}`;
+            }
+            return url;
+        }
+
+        const urlDirecta = obtenerUrlDirecta(urlDrive);
+        const container = document.getElementById("player-container");
+
+        // Renderizamos dinámicamente según sea video (k, p) o audio (a)
+        if (tipo === 'a') {
+            container.innerHTML = `
+                <h2>Del Silencio al Vacio (Audio)</h2>
+                <audio controls autoplay preload="metadata">
+                    <source src="${urlDirecta}" type="audio/mp4">
+                    Tu navegador no soporta la reproducción de audio.
+                </audio>
+                <div class="fallback">
+                    <p>Si el reproductor no inicia, <a href="${urlDirecta}" target="_blank">descarga el archivo aquí</a>.</p>
+                </div>
+            `;
+        } else {
+            // Para 'k' o 'p'
+            let tipoVideoLabel = (tipo === 'k') ? 'Versión Masónica' : 'Versión Pública';
+            container.innerHTML = `
+                <h2>Del Silencio al Vacio (${tipoVideoLabel})</h2>
+                <video controls autoplay preload="metadata" playsinline>
+                    <source src="${urlDirecta}" type="video/mp4">
+                    Tu navegador no soporta video HTML5.
+                </video>
+                <div class="fallback">
+                    <p>Si el video no carga directamente, <a href="${urlDirecta}" target="_blank">descarga el archivo original aquí</a>.</p>
+                </div>
+            `;
+        }
+    </script>
+
+</body>
+</html>
