@@ -1906,7 +1906,7 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
               Eternidad. "
 
 -------------------------------------------------------------------------------------
-130- Del Silencio al Vacio -EPYC (Italiano)
+131- Del Silencio al Vacio -EPYC (Italiano)
 -------------------------------------------
             
 url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada2.jpg"
