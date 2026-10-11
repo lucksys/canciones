@@ -1906,6 +1906,29 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
               Eternidad. "
 
 -------------------------------------------------------------------------------------
+130- Del Silencio al Vacio -EPYC (Italiano)
+-------------------------------------------
+            
+url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada2.jpg"
+url-video:   "https://drive.google.com/file/d/1dDqQcUiciZ44hcCHuf8jeXgzdogZ96-X/view"
+url-cancion: "https://drive.google.com/file/d/1_Csj-tulDLQDaCNHpnTSelnc_KV7I4iI/view"
+web-video:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/inde2x?t=p"
+web-cancion: "https://lucksys.github.io/canciones/del_silencio_al_vacio/index2?t=a"
+info:        "Composicion em Italiano Florentino, En el silencio interior comienza 
+              el descenso hacia la verdad oculta.
+              El V.I.T.R.I.O.L. revela la piedra secreta escondida en el alma.
+              Las Columnas de Hércules quedan atrás cuando el iniciado atraviesa el 
+              Ne Plus Ultra.
+              El Vacío deja de ser ausencia para convertirse en el umbral de la Luz.
+              El Solve et Coagula transmuta la muerte simbólica en renacimiento 
+              espiritual.
+              Del Albedo al Rubedo, la Gran Obra despierta el fuego inmortal del 
+              espíritu.
+              El Magnum Opus consagra la unión entre el ser humano y su esencia 
+              eterna. Del Silencio al Vacío nace la llama que conduce al Uno y a la
+              Eternidad. "
+
+-------------------------------------------------------------------------------------
 131- Sacred Shadow - (Sombra Sagrada)
 -------------------------------------
             
