@@ -52,9 +52,26 @@
             font-size: 1.5rem;
         }
 
-        video, audio {
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%; /* Relación de aspecto 16:9 */
+            height: 0;
+            overflow: hidden;
+            border-radius: 8px;
+            background: #000;
+        }
+
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 100%;
-            max-height: 70vh;
+            height: 100%;
+            border: 0;
+        }
+
+        audio {
+            width: 100%;
             border-radius: 8px;
             outline: none;
             background: #000;
@@ -84,20 +101,29 @@
 
     <script>
         const medias = {
-            k: "https://drive.google.com/file/d/1dDqQcUiciZ44hcCHuf8jeXgzdogZ96-X/view",
-            p: "https://drive.google.com/file/d/1dDqQcUiciZ44hcCHuf8jeXgzdogZ96-X/view",
-            a: "https://drive.google.com/file/d/1_Csj-tulDLQDaCNHpnTSelnc_KV7I4iI/view"
+            k: "https://drive.google.com/file/d/1dDqQcUiciZ44hcCHuf8jeXgzdogZ96-X/view?usp=drive_link",
+            p: "https://drive.google.com/file/d/1dDqQcUiciZ44hcCHuf8jeXgzdogZ96-X/view?usp=drive_link",
+            a: "https://drive.google.com/file/d/1_Csj-tulDLQDaCNHpnTSelnc_KV7I4iI/view?usp=drive_link"
         };
 
         const params = new URLSearchParams(window.location.search);
-        // Leemos 't' en minúsculas por seguridad
+        // Leemos 't' en minúsculas por seguridad ('k', 'p' o 'a')
         const tipo = (params.get("t") || "k").toLowerCase();
 
-        // Seleccionamos la URL según el tipo (por defecto 'k' si no viene nada o es inválido)
+        // Seleccionamos la URL según el tipo
         const urlDrive = medias[tipo] || medias.k;
 
-        // Función para extraer el ID de Google Drive y armar el enlace de descarga/streaming directo
-        function obtenerUrlDirecta(url) {
+        // Función para extraer el ID de Google Drive y armar el enlace de previsualización limpia
+        function obtenerUrlPreview(url) {
+            let match = url.match(/\/d\/([a-zA-Z0-9_-]+)/);
+            if (match && match[1]) {
+                return `https://drive.google.com/file/d/${match[1]}/preview`;
+            }
+            return url;
+        }
+
+        // Función auxiliar para obtener el enlace de descarga directa por si acaso
+        function obtenerUrlDescarga(url) {
             let match = url.match(/\/d\/([a-zA-Z0-9_-]+)/);
             if (match && match[1]) {
                 return `https://drive.google.com/uc?export=download&id=${match[1]}`;
@@ -105,7 +131,8 @@
             return url;
         }
 
-        const urlDirecta = obtenerUrlDirecta(urlDrive);
+        const urlPreview = obtenerUrlPreview(urlDrive);
+        const urlDescarga = obtenerUrlDescarga(urlDrive);
         const container = document.getElementById("player-container");
 
         // Renderizamos dinámicamente según sea video (k, p) o audio (a)
@@ -113,24 +140,23 @@
             container.innerHTML = `
                 <h2>Del Silencio al Vacio (Audio)</h2>
                 <audio controls autoplay preload="metadata">
-                    <source src="${urlDirecta}" type="audio/mp4">
+                    <source src="${urlDescarga}" type="audio/mp4">
                     Tu navegador no soporta la reproducción de audio.
                 </audio>
                 <div class="fallback">
-                    <p>Si el reproductor no inicia, <a href="${urlDirecta}" target="_blank">descarga el archivo aquí</a>.</p>
+                    <p>Si el reproductor no inicia, <a href="${urlDrive}" target="_blank">abrir archivo original aquí</a>.</p>
                 </div>
             `;
         } else {
-            // Para 'k' o 'p'
+            // Para 'k' o 'p' (Video)
             let tipoVideoLabel = (tipo === 'k') ? 'Versión Masónica' : 'Versión Pública';
             container.innerHTML = `
                 <h2>Del Silencio al Vacio (${tipoVideoLabel})</h2>
-                <video controls autoplay preload="metadata" playsinline>
-                    <source src="${urlDirecta}" type="video/mp4">
-                    Tu navegador no soporta video HTML5.
-                </video>
+                <div class="video-wrapper">
+                    <iframe src="${urlPreview}" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
                 <div class="fallback">
-                    <p>Si el video no carga directamente, <a href="${urlDirecta}" target="_blank">descarga el archivo original aquí</a>.</p>
+                    <p>Si el video no carga correctamente, <a href="${urlDrive}" target="_blank">abrir archivo original aquí</a>.</p>
                 </div>
             `;
         }
