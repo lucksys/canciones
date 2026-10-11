@@ -1912,7 +1912,7 @@ info:        "En el silencio interior comienza el descenso hacia la verdad ocult
 url-imagen:  "https://lucksys.github.io/canciones/del_silencio_al_vacio/portada2.jpg"
 url-video:   "https://drive.google.com/file/d/1dDqQcUiciZ44hcCHuf8jeXgzdogZ96-X/view"
 url-cancion: "https://drive.google.com/file/d/1_Csj-tulDLQDaCNHpnTSelnc_KV7I4iI/view"
-web-video:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/inde2x?t=p"
+web-video:   "https://lucksys.github.io/canciones/del_silencio_al_vacio/index2?t=p"
 web-cancion: "https://lucksys.github.io/canciones/del_silencio_al_vacio/index2?t=a"
 info:        "Composicion em Italiano Florentino, En el silencio interior comienza 
               el descenso hacia la verdad oculta.
