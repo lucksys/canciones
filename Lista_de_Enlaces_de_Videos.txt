@@ -2919,4 +2919,23 @@ info:        "Composicion en español neutro. Antes de la luz, un rayo divino de
               Unidad eterna."
               
 -------------------------------------------------------------------------------------------
-  
+180- HaKadosk Baruch Hu (La reintegracion)
+------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/HaKadosh_Baruch_Hu/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1VxnhU1vCtZn81oidzxYLyuQC5E-moTGH/view"
+url-cancion: "https://drive.google.com/file/d/1GiPgcBt5bBX5kmNngYKq7uLgrf2Jo5QB/view"
+web-video:   "https://lucksys.github.io/canciones/HaKadosh_Baruch_Hu/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/HaKadosh_Baruch_Hu/index?t=a&v=1"
+info:        "Composicion en español neutro. La creación nace de la unidad divina y
+              retorna a su origen.
+              La luz sagrada guía a las almas hacia la reintegración.
+              El amor trasciende las divisiones y reconcilia los opuestos.
+              La sabiduría revela la armonía entre espíritu y materia.
+              La música eleva la conciencia y une los corazones.
+              La humanidad redescubre su vínculo con lo eterno.
+              Cada ser participa del orden profundo de la creación.
+              En la unidad con el Santo, toda existencia encuentra plenitud."
+              
+-------------------------------------------------------------------------------------------
+    
