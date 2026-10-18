@@ -1377,7 +1377,7 @@ info:        "Una obra sobre el poder de elegir el propio sendero.
 
 url-imagen:  "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/portada3.jpg"
 url-video:   "https://drive.google.com/file/d/1zLeYliCgNxDFn4Mib0avrax3EJToGP-U/view"
-url-cancion: "https://drive.google.com/file/d/1SjEDKCkhAOhTEc8hWsf9PJLPtHTTNkhL/view"
+url-cancion: "https://drive.google.com/file/d/1MwNPJe_96-vkuHVnjuXahaUZLlpJCDhq/view"
 web-video:   "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index3?t=k&v=1"
 web-cancion: "https://lucksys.github.io/canciones/reggae_de_la_eleccion_y_la_perserverancia/index3?t=a&v=1"
 info:        "Una obra sobre el poder de elegir el propio sendero.
