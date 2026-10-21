@@ -2955,4 +2955,21 @@ info:        "Composicion en español neutro. La creación nace de la unidad div
               En la unidad con el Santo, toda existencia encuentra plenitud."
               
 -------------------------------------------------------------------------------------------
-    
+182- El Peregrino ( - Candombe - )
+----------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/el_peregrino/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1s7z-MTmtivouM06uKesE9qSrQ3WxsrXC/view"
+url-cancion: "https://drive.google.com/file/d/1ofx6Rc3Rny9iU13jMR-3rqw-t4vl2rIu/view"
+web-video:   "https://lucksys.github.io/canciones/el_peregrino/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_peregrino/index?t=a&v=1"
+info:        "Composicion en español Uruguayo. El Peregrino regresa una y otra vez a 
+              la vida para cumplir su propósito. Cada existencia le revela fragmentos 
+              de una memoria ancestral. Recorre el Árbol de la Vida en busca de su 
+              origen. Las sefirot iluminan su camino hacia la conciencia superior.
+              Transforma el plomo de su alma en el oro del espíritu.
+              Aprende a servir, amar y transmutar su propia sombra.
+              Comprende que tras muchas vidas late una única esencia.
+              Del Uno proviene y al Uno retorna."
+              
+-------------------------------------------------------------------------------------------    
