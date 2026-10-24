@@ -2911,8 +2911,8 @@ info:        "Composicion en Ingles Antiguo. Libro de Juan Cap. 8 Vers.:  31 y 3
               la verdad os hará libres."
               
 -------------------------------------------------------------------------------------------
-180- Obra, Creacion y Carro (Ma'asé, Bereshit,Maásé Merkavá)
-------------------------------------------------------------
+180- Obra, Creacion y Carro (Ma'asé, Bereshit,Ma'asé Merkavá)
+-------------------------------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/obra_creacion_y_carro/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1iXQFQH1s3jv7l1CJWnKl01ZxJuMYEoKP/view"
@@ -2971,5 +2971,22 @@ info:        "Composicion en español Uruguayo. El Peregrino regresa una y otra 
               Aprende a servir, amar y transmutar su propia sombra.
               Comprende que tras muchas vidas late una única esencia.
               Del Uno proviene y al Uno retorna."
+              
+-------------------------------------------------------------------------------------------
+1823- 4 Arboles, 44 Senderos 
+----------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/4_arboles_44_senderos/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1YOeTx09vLu_XPOv2p-Bcr-HCu34lNnxe/view"
+url-cancion: "https://drive.google.com/file/d/1E6YHhiV2TwhkreZQLjEcj4Fbzf0oxEvj/view"
+web-video:   "https://lucksys.github.io/canciones/4_arboles_44_senderos/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/4_arboles_44_senderos/index?t=a&v=1"
+info:        "Composicion en español neutro. Cuatro árboles sostienen la estructura 
+              sagrada de la existencia. Cuarenta y cuatro senderos conducen hacia el 
+              conocimiento interior. La materia da forma a la realidad visible. Las 
+              emociones fluyen y unen las almas. La mente construye la arquitectura de 
+              la luz. Las diez sefirot elevan la conciencia hacia Kéter. El karma revela 
+              las huellas del camino y el dharma ilumina el destino. En la Causa Primera, 
+              toda sombra regresa a la unidad eterna."
               
 -------------------------------------------------------------------------------------------    
