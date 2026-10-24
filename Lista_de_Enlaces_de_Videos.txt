@@ -2973,7 +2973,7 @@ info:        "Composicion en español Uruguayo. El Peregrino regresa una y otra 
               Del Uno proviene y al Uno retorna."
               
 -------------------------------------------------------------------------------------------
-1823- 4 Arboles, 44 Senderos 
+183- 4 Arboles, 44 Senderos 
 ----------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/4_arboles_44_senderos/portada.jpg"
