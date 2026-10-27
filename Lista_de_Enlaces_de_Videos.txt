@@ -2989,4 +2989,23 @@ info:        "Composicion en español neutro. Cuatro árboles sostienen la estru
               las huellas del camino y el dharma ilumina el destino. En la Causa Primera, 
               toda sombra regresa a la unidad eterna."
               
--------------------------------------------------------------------------------------------    
+-------------------------------------------------------------------------------------------
+184- De_la_Turbulencia_al_Resplandor 
+------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/de_la_turbulencia_al_resplandor/portada.jpg"
+url-video:   "https://drive.google.com/file/d/10gQKLTJ92x-EXLj9CJ4FozvowRe3RQm1/view"
+url-cancion: "https://drive.google.com/file/d/1ULy4yjlJhUyIbnCbl7Ku1h7porsvmcKM/view"
+web-video:   "https://lucksys.github.io/canciones/de_la_turbulencia_al_resplandor/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/de_la_turbulencia_al_resplandor/index?t=a&v=1"
+info:        "Composicion en español neutro.En la turbulencia de la vida se revela la luz del Creador.
+              Del caos emerge el orden y una verdad superior. La sabiduría nace de la experiencia 
+              interior.
+              Las tormentas desafían la razón y despiertan nuevas virtudes. En el centro del abismo 
+              habita el silencio profundo.
+              Da’at se abre como portal hacia la luz de Atzilut. La ilusión desaparece y la conciencia 
+              alcanza una nueva dimensión. El alma trasciende la oscuridad y encuentra su resplandor 
+              eterno."
+              
+-------------------------------------------------------------------------------------------  
+    
