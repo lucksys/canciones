@@ -3008,4 +3008,24 @@ info:        "Composicion en español neutro.En la turbulencia de la vida se rev
               eterno."
               
 -------------------------------------------------------------------------------------------  
+185- Refexiones... 
+------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/reflexiones/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1_mTS1zHtMvZu-VpM1sHjaJhi4QCUega6/view"
+url-cancion: "https://drive.google.com/file/d/1W2lbAJ_hIBS5Q_rl4DyjU7gn8o7-dZxP/view"
+web-video:   "https://lucksys.github.io/canciones/reflexiones/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/reflexiones/index?t=a&v=1"
+info:        "Composicion en español neutro.La vida vale más por los abrazos y 
+              los amigos que por las cosas materiales.
+              No todas las batallas merecen lucharse ni todas las discusiones ganar.
+              El tiempo vuela y enseña a distinguir lo esencial de lo innecesario.
+              La verdadera grandeza está en la gratitud, la lealtad y el corazón.
+              El amor sincero y la amistad valen más que cualquier riqueza.
+              Pedir perdón, cambiar y aprender también son formas de crecer.
+              La madurez enseña a vivir despacio, sin orgullo ni necesidad de 
+              aprobación.
+              Al final, lo único que realmente perdura es el amor que supimos dar."
+              
+------------------------------------------------------------------------------------------- 
     
