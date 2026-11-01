@@ -3066,7 +3066,7 @@ info:        "Composicion en español neutro.La verdad esencial no se encuentra 
               trampa.
               Quien busca elevarse sobre otros termina tropezando con su propia sombra.
               Al caer la cáscara de la ilusión, la esencia despierta y el templo interior 
-              florece en paz.."
+              florece en paz."
               
 -------------------------------------------------------------------------------------------  
     
