@@ -3047,5 +3047,26 @@ info:        "Composicion en español neutro.La vida vale más por los abrazos y
               aprobación.
               Al final, lo único que realmente perdura es el amor que supimos dar."
               
+------------------------------------------------------------------------------------------- 
+187- La_Cascara_del_Templo_Invisible  
+------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/la_cascara_del_templo_invisible/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1bOFBQJln4q1trMrIf58_f75HXmsKh7-W/view"
+url-cancion: "https://drive.google.com/file/d/1cDLruIvcOqreKfjzXHnw2xFQ0sBqht2g/view"
+web-video:   "https://lucksys.github.io/canciones/la_cascara_del_templo_invisible/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_cascara_del_templo_invisible/index?t=a&v=1"
+info:        "Composicion en español neutro.La verdad esencial no se encuentra en las 
+              formas externas ni en los títulos humanos.
+              El brillo del poder y los honores ocultan la luz que habita en el alma.
+              Ningún decreto puede medir la esencia ni encerrar la sabiduría en símbolos.
+              El templo invisible florece en el silencio de una conciencia despierta.
+              El Verbo fluye libre, revelando sus misterios a la mente abierta.
+              La vanidad y la falsa superioridad convierten el camino espiritual en una 
+              trampa.
+              Quien busca elevarse sobre otros termina tropezando con su propia sombra.
+              Al caer la cáscara de la ilusión, la esencia despierta y el templo interior 
+              florece en paz.."
+              
 -------------------------------------------------------------------------------------------  
     
