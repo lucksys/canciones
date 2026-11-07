@@ -3074,7 +3074,7 @@ info:        "Composicion en español neutro.La verdad esencial no se encuentra 
 
 url-imagen:  "https://lucksys.github.io/canciones/la_reforma_del_alma/portada.jpg"
 url-video:   "https://drive.google.com/file/d/1LN2KjUn4Y1LNuRpJv4XrWX9d3ryBRaOr/view"
-url-cancion: "https://drive.google.com/file/d/1_UQvVAmngziaK818a5D0ofQ2Q9LJmQ6R/view"
+url-cancion: "https://drive.google.com/file/d/1-CpMs1bdYxVbVQawAM_BAUc8o8Yc1IDY/view"
 web-video:   "https://lucksys.github.io/canciones/la_reforma_del_alma/index?t=p&v=1"
 web-cancion: "https://lucksys.github.io/canciones/la_reforma_del_alma/index?t=a&v=1"
 info:        "Composicion en español neutro.El alma busca sosiego al cruzar las puertas
