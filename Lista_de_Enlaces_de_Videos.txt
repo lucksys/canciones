@@ -2949,7 +2949,7 @@ info:        "Composicion en español neutro. La creación nace de la unidad div
               La luz sagrada guía a las almas hacia la reintegración.
               El amor trasciende las divisiones y reconcilia los opuestos.
               La sabiduría revela la armonía entre espíritu y materia.
-              La música eleva la conciencia y une los corazones.
+              La música eleva la conciencia y une los corazones.f
               La humanidad redescubre su vínculo con lo eterno.
               Cada ser participa del orden profundo de la creación.
               En la unidad con el Santo, toda existencia encuentra plenitud."
@@ -3069,4 +3069,23 @@ info:        "Composicion en español neutro.La verdad esencial no se encuentra 
               florece en paz."
               
 -------------------------------------------------------------------------------------------  
+188- La_Reforma_del_Alma  
+------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/la_reforma_del_alma/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1LN2KjUn4Y1LNuRpJv4XrWX9d3ryBRaOr/view"
+url-cancion: "https://drive.google.com/file/d/1_UQvVAmngziaK818a5D0ofQ2Q9LJmQ6R/view"
+web-video:   "https://lucksys.github.io/canciones/la_reforma_del_alma/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_reforma_del_alma/index?t=a&v=1"
+info:        "Composicion en español neutro.El alma busca sosiego al cruzar las puertas
+              del taller.
+              La promesa de igualdad brilla como principio de luz.
+              La jerarquía desvirtúa el trabajo cuando se convierte en poder.
+              Ningún hermano debe someterse a un nuevo capataz.
+              La base sostiene la obra y merece el mismo respeto.
+              La verdadera autoridad nace del servicio y la fraternidad.
+              Es tiempo de derribar las sombras y recuperar el origen.
+              La reforma del alma reconstruye el templo en igualdad y paz."
+              
+------------------------------------------------------------------------------------------- 
     
