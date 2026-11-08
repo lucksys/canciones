@@ -3088,4 +3088,23 @@ info:        "Composicion en español neutro.El alma busca sosiego al cruzar las
               La reforma del alma reconstruye el templo en igualdad y paz."
               
 ------------------------------------------------------------------------------------------- 
+ 189- Cuba  
+----------
+
+url-imagen:  "https://lucksys.github.io/canciones/Cuba/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1ypkQ8qIeAWIDhIIlh1Qh9bDcBFefjGPS/view"
+url-cancion: "https://drive.google.com/file/d/1salBfofUIuO1un4UZyt9s-SldUr1stUG/view"
+web-video:   "https://lucksys.github.io/canciones/Cuba/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/Cuba/index?t=a&v=1"
+info:        "Composicion en español neutro.Cuba es una tierra de ríos, tabaco y 
+              cañaverales.
+              Su gente lleva en la sangre el orgullo de sus raíces.
+              La distancia no consigue borrar el amor por la patria.
+              La nostalgia revive los paisajes, los amigos y las tradiciones.
+              La música mantiene vivo el recuerdo de la tierra querida.
+              La identidad cubana atraviesa generaciones y fronteras.
+              El corazón sueña con regresar a sus calles y al Malecón.
+              Porque quien ama a Cuba jamás deja de llevarla dentro de sí."  
+              
+-------------------------------------------------------------------------------------------  
     
