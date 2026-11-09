@@ -3107,4 +3107,18 @@ info:        "Composicion en español neutro.Cuba es una tierra de ríos, tabaco
               Porque quien ama a Cuba jamás deja de llevarla dentro de sí."  
               
 -------------------------------------------------------------------------------------------  
-    
+ 190- Rio de Arena  
+------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/rio_de_arena/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1PRKkKtbXkcFUsamreuLWO3ge0Pyrve0K/view"
+url-cancion: "https://drive.google.com/file/d/1mJlHTP5Rov7vzfXq34gHK1AKQnU-EsEJ/view"
+web-video:   "https://lucksys.github.io/canciones/rio_de_arena/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/rio_de_arena/index?t=a&v=1"
+info:        "Composicion en español neutro.Inspirada en la simbología poética y 
+              filosófica de Jorge Luis Borges en El hacedor (1960). 
+              Una reflexión sobre la fugacidad del tiempo y el destino a través 
+              de las metáforas del reloj de arena y el río de Heráclito.."  
+              
+-------------------------------------------------------------------------------------------  
+      
