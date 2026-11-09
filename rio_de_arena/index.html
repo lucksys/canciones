@@ -1,104 +1,89 @@
-
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
-
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>Rio de Arena</title>
 
-<!-- OPEN GRAPH: WHATSAPP Y REDES SOCIALES -->
-
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Rio de Arena">
+<meta property="og:type" content="video.other">
+<meta property="og:site_name" content="Google Drive">
 <meta property="og:title" content="Rio de Arena">
-<meta property="og:description"
-content="Haz clic para ver o escuchar la obra completa.">
-
-<meta property="og:url"
-content="https://lucksys.github.io/canciones/rio_de_arena/">
-
-<meta property="og:image"
-content="https://lucksys.github.io/canciones/rio_de_arena/portada.jpg">
-
-<meta property="og:image:secure_url"
-content="https://lucksys.github.io/canciones/rio_de_arena/portada.jpg">
-
+<meta property="og:description" content="Haz clic para ver o escuchar la obra completa">
+<meta property="og:image" content="https://lucksys.github.io/canciones/rio_de_arena/portada.jpg">
+<meta property="og:image:secure_url" content="https://lucksys.github.io/canciones/rio_de_arena/portada.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1168">
 <meta property="og:image:height" content="784">
 
-<!-- TWITTER -->
-
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Rio de Arena">
-<meta name="twitter:description"
-content="Haz clic para ver o escuchar la obra completa.">
-<meta name="twitter:image"
-content="https://lucksys.github.io/canciones/rio_de_arena/portada.jpg">
+<meta name="twitter:description" content="Haz clic para ver o escuchar la obra completa.">
+<meta name="twitter:image" content="https://lucksys.github.io/canciones/rio_de_arena/portada.jpg">
+
+<script>
+const medias = {
+  k: "https://drive.google.com/file/d/1PRKkKtbXkcFUsamreuLWO3ge0Pyrve0K/view",
+  p: "https://drive.google.com/file/d/1PRKkKtbXkcFUsamreuLWO3ge0Pyrve0K/view",
+  a: "https://drive.google.com/file/d/1mJlHTP5Rov7vzfXq34gHK1AKQnU-EsEJ/view"
+};
+
+const params = new URLSearchParams(window.location.search);
+const tipo = params.get("t");
+const destino = medias[tipo] || medias.k || "";
+
+if (destino) {
+  window.location.replace(destino);
+}
+</script>
 
 <style>
-
 body {
-  font-family: Arial, sans-serif;
+  font-family: sans-serif;
   text-align: center;
-  padding: 80px 20px;
+  padding-top: 100px;
   background-color: #1a1a1a;
   color: #ffffff;
 }
 
-a {
-  display: inline-block;
-  margin-top: 25px;
-  padding: 15px 25px;
-  background-color: #00bfa5;
-  color: #ffffff;
-  text-decoration: none;
-  font-weight: bold;
-  border-radius: 8px;
+.loader {
+  border: 4px solid #333;
+  border-top: 4px solid #00ffcc;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin: 20px auto;
 }
 
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+a {
+  color: #00ffcc;
+  text-decoration: none;
+  font-weight: bold;
+}
 </style>
 
 </head>
 
 <body>
 
-<h2>Rio de Arena</h2>
+<h2>Redirigiendo...</h2>
 
-<p>La obra completa está disponible aquí:</p>
+<div class="loader"></div>
 
-<a id="enlace"
-href="https://drive.google.com/file/d/1PRKkKtbXkcFUsamreuLWO3ge0Pyrve0K/view">
-
-VER / ESCUCHAR LA OBRA
-
-</a>
-
-<script>
-
-const medias = {
-
-  k: "https://drive.google.com/file/d/1PRKkKtbXkcFUsamreuLWO3ge0Pyrve0K/view",
-
-  p: "https://drive.google.com/file/d/1PRKkKtbXkcFUsamreuLWO3ge0Pyrve0K/view",
-
-  a: "https://drive.google.com/file/d/1mJlHTP5Rov7vzfXq34gHK1AKQnU-EsEJ/view"
-
-};
-
-const params = new URLSearchParams(window.location.search);
-
-const tipo = params.get("t");
-
-const destino = medias[tipo] || medias.k;
-
-document.getElementById("enlace").href = destino;
-
-</script>
+<p>
+  Si la redirección no funciona,
+  <a href="https://drive.google.com/file/d/1PRKkKtbXkcFUsamreuLWO3ge0Pyrve0K/view">haz clic aquí</a>.
+</p>
 
 </body>
 </html>
-
