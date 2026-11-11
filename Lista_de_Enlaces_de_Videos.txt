@@ -3121,4 +3121,21 @@ info:        "Composicion en español neutro.Inspirada en la simbología poétic
               de las metáforas del reloj de arena y el río de Heráclito.."  
               
 -------------------------------------------------------------------------------------------  
+191- Upon This Rock, ingles (Sobre Esta Roca)  
+---------------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/Upon_This_Rock/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1wY6g5pAY44dMMNj0l2ry2l8re551-0Nm/view"
+url-cancion: "https://drive.google.com/file/d/1V-lspBsDEsOjaWjlGcTQ3MfY4bihZlXt/view"
+web-video:   "https://lucksys.github.io/canciones/Upon_This_Rock/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/Upon_This_Rock/index?t=a&v=1"
+info:        "Composicion en español neutro.Inspirada en Evangelio de Mateo 16:18 . 
+              Sobre esta Roca edificaré mi iglesia .
+              La fe verdadera permite ver las verdades eternas más allá de las apariencias.
+              La Roca simboliza el fundamento inquebrantable de la Iglesia de Cristo.
+              Ninguna fuerza de la oscuridad podrá destruir la verdad divina.
+              La humildad, el sacrificio y la entrega conducen al Reino espiritual.
+              Sobre esta Roca perdura la esperanza y la promesa de eternidad."  
+              
+-------------------------------------------------------------------------------------------
       
