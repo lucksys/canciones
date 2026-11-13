@@ -3144,8 +3144,8 @@ info:        "Composicion en español neutro.Inspirada en Evangelio de Mateo 16:
 url-imagen:  "https://lucksys.github.io/canciones/el_perdon_y_la expiacion/portada.jpg"
 url-video:   "https://drive.google.com/file/d/12ltgH8LbX2B7q1o9TQJaXqGauQPmtusT/view"
 url-cancion: "https://drive.google.com/file/d/1AkZpKVtQD3fYizWKUm5LJZ6mlDx5q17i/view"
-web-video:   "https://lucksys.github.io/canciones/el_perdon_y_la expiacion/index?t=p&v=1"
-web-cancion: "https://lucksys.github.io/canciones/el_perdon_y_la expiacion/index?t=a&v=1"
+web-video:   "https://lucksys.github.io/canciones/el_perdon_y_la_expiacion/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/el_perdon_y_la_expiacion/index?t=a&v=1"
 info:        "El perdón nos permite sanar las heridas que el pasado dejó en el alma.
               La expiación transforma el dolor y repara aquello que se ha quebrado.
               Perdonar libera las cadenas del rencor y disuelve las condenas.
