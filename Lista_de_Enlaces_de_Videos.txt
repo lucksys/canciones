@@ -3141,7 +3141,7 @@ info:        "Composicion en español neutro.Inspirada en Evangelio de Mateo 16:
 192- El_Perdon_y_la Expiacion
 -----------------------------
 
-url-imagen:  "https://lucksys.github.io/canciones/el_perdon_y_la expiacion/portada.jpg"
+url-imagen:  "https://lucksys.github.io/canciones/el_perdon_y_la_expiacion/portada.jpg"
 url-video:   "https://drive.google.com/file/d/12ltgH8LbX2B7q1o9TQJaXqGauQPmtusT/view"
 url-cancion: "https://drive.google.com/file/d/1AkZpKVtQD3fYizWKUm5LJZ6mlDx5q17i/view"
 web-video:   "https://lucksys.github.io/canciones/el_perdon_y_la_expiacion/index?t=p&v=1"
