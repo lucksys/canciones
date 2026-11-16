@@ -3160,10 +3160,15 @@ url-video:   "https://drive.google.com/file/d/1lh8ZD0B_Ts8j3vFNQMlOuVFIqClNqslI/
 url-cancion: "https://drive.google.com/file/d/1gcXRBwowxALX10k1FfDVo6_ruEZJfGAP/view"
 web-video:   "https://lucksys.github.io/canciones/siete_vasijas_rotas/index?t=p&v=1"
 web-cancion: "https://lucksys.github.io/canciones/siete_vasijas_rotas/index?t=a&v=1"
-info:        "El perdón nos permite sanar las heridas que el pasado dejó en el alma.
-              La expiación transforma el dolor y repara aquello que se ha quebrado.
-              Perdonar libera las cadenas del rencor y disuelve las condenas.
-              Al reconciliarnos con nuestra historia, renacemos en la esperanza y la luz."  
+info:        "Composición en ingles Americano. Desde la Kabalah Lurianica Antes de la 
+              creación, una luz infinita dio origen a siete vasijas destinadas a 
+              contener el fuego eterno.
+              Al quebrarse, sus fragmentos dispersaron chispas de luz en la oscuridad, 
+              ocultando en cada una un poder secreto.
+              Pero el alma, al recordar su esencia divina, transforma la caída en 
+              fuerza y el plomo en oro viviente.
+              Así, lo que está arriba despierta abajo, los velos se desgarran y el 
+              fuego sagrado regresa a su origen"  
               
 -------------------------------------------------------------------------------------------
    
