@@ -3190,4 +3190,21 @@ info:        "Composición en espanol neutro. Una invitación a cuestionar Las I
               Un despertar hacia la Libertad, la Conciencia y la Verdad."  
               
 -------------------------------------------------------------------------------------------
-     
+195- Franquicia de Las Formas Vacías
+------------------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/La_franquicia_de_las_formas_vacias/portada.jpg"
+url-video:   "https://drive.google.com/file/d/12F-1BP00wZd0_oj-I-5LOyL2VSHyaJAA/view"
+url-cancion: "https://drive.google.com/file/d/1arYjhWIV56-VWM6JxZn4Cyk65-3ziR66/view"
+web-video:   "https://lucksys.github.io/canciones/La_franquicia_de_las_formas_vacias/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/La_franquicia_de_las_formas_vacias/index?t=a&v=1"
+info:        "Composición en espanol neutro. La canción denuncia cómo las tradiciones espirituales se  
+              convierten en franquicias que comercializan rituales, grados y falsas promesas de 
+             iluminación, atrapando a quienes buscan paz y conocimiento en dogmas, jerarquías y 
+             apariencias vacías. Los símbolos dejan de ser herramientas de comprensión y se transforman 
+             en ídolos y cadenas que destruyen la identidad y la claridad interior, hasta que el 
+             protagonista rompe el molde, abandona el falso altar y recupera su libertad, comprendiendo
+             que la verdad y el despertar no pueden comprarse ni franquiciarse."  
+              
+-------------------------------------------------------------------------------------------
+        
