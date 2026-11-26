@@ -34,7 +34,7 @@ web-cancion: "https://lucksys.github.io/canciones/personalidad_y_esencia/index1?
 info:        "Compósición en idioma: español neutro."
 
 --------------------------------------------------------------------------------------------
-3- Personalidad_y_Esencia_(EPIC)
+3- Personalidad_y_Esencia_(EPYC)
 --------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/personalidad_y_esencia/portada2.jpg"
@@ -3173,6 +3173,18 @@ info:        "Composición en ingles Americano. Desde la Kabalah Lurianica Antes
               Guevurá (Fuerza/Rigor), Tiféret (Belleza/Armonía), Nétzaj (Victoria/
               Perseverancia), Hod (Esplendor/Humildad), Yesod (Fundamento), Maljut 
               (Reino/Acción), cuaternario inferior y ternario inferior"  
+              
+-------------------------------------------------------------------------------------------
+194- Culpa_Pecado_y_Poder
+-------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/culpa_pecado_y_poder/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1l_B5Av6SZ8P8RLAH9WqwUpN5QfC6DGnV/view"
+url-cancion: "https://drive.google.com/file/d/1aSOcUS30Hpg-xoUf9uS4pC6xhtD18-9C/view"
+web-video:   "https://lucksys.github.io/canciones/culpa_pecado_y_poder/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/culpa_pecado_y_poder/index?t=a&v=1"
+info:        "Composición en espanol neutro. Esta composicion nos hablan de las Ilusiones
+              la Culpa , el Pecado y las dinamicas de Poder"  
               
 -------------------------------------------------------------------------------------------
    
