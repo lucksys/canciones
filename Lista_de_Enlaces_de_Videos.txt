@@ -3216,6 +3216,7 @@ url-cancion: "https://drive.google.com/file/d/1tEFMbaLTEio_ZqWAHWXtZ1lGs24lkGxL/
 web-video:   "https://lucksys.github.io/canciones/la_alquimia_del_acto/index?t=p&v=1"
 web-cancion: "https://lucksys.github.io/canciones/la_alquimia_del_acto/index?t=a&v=1"
 info:        "Composición en espanol neutro. Mateo 7:16: Por sus frutos los conoceréis... 
+              Y te conocerás.              
               Las promesas vacías debilitan la confianza en uno mismo y alimentan la 
               expectativa de volver a fracasar. El escriba o contador es nuestro 
               subconciente. Y La verdadera transformación no nace de las palabras ni de 
