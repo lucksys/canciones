@@ -3190,7 +3190,7 @@ info:        "Composición en espanol neutro. Una invitación a cuestionar Las I
               Un despertar hacia la Libertad, la Conciencia y la Verdad."  
               
 -------------------------------------------------------------------------------------------
-195- La Franquicia de Las Formas Vacías
+195- La_Franquicia_de_Las_Formas_Vacías
 ---------------------------------------
 
 url-imagen:  "https://lucksys.github.io/canciones/la_franquicia_de_las_formas_vacias/portada.jpg"
@@ -3205,6 +3205,23 @@ info:        "Composición en espanol neutro. La canción denuncia cómo las tra
              en ídolos y cadenas que destruyen la identidad y la claridad interior, hasta que el 
              protagonista rompe el molde, abandona el falso altar y recupera su libertad, comprendiendo
              que la verdad y el despertar no pueden comprarse ni franquiciarse."  
+              
+-------------------------------------------------------------------------------------------
+196- La_Alquimia_del_Acto
+-------------------------
+
+url-imagen:  "https://lucksys.github.io/canciones/la_alquimia_del_acto/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1AKC_tUTNmjMsqd8YfXcQfRnaWQBjqwgT/view"
+url-cancion: "https://drive.google.com/file/d/1tEFMbaLTEio_ZqWAHWXtZ1lGs24lkGxL/view"
+web-video:   "https://lucksys.github.io/canciones/la_alquimia_del_acto/index?t=p&v=1"
+web-cancion: "https://lucksys.github.io/canciones/la_alquimia_del_acto/index?t=a&v=1"
+info:        "Composición en espanol neutro. Mateo 7:16 : Por sus frutos los conoceréis ... 
+              Las promesas vacías debilitan la confianza en uno mismo y alimentan la 
+              expectativa de volver a fracasar. La verdadera transformación no nace de
+              las palabras ni de las ilusiones, sino de los actos concretos. Cada pequeño 
+              compromiso cumplido convierte el esfuerzo en fuerza y el plomo interior en oro. 
+              Cuando la voluntad se vuelve acción, renace la identidad y se construye un 
+              templo interior inmortal."  
               
 -------------------------------------------------------------------------------------------
         
