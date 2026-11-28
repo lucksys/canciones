@@ -3215,11 +3215,11 @@ url-video:   "https://drive.google.com/file/d/1AKC_tUTNmjMsqd8YfXcQfRnaWQBjqwgT/
 url-cancion: "https://drive.google.com/file/d/1tEFMbaLTEio_ZqWAHWXtZ1lGs24lkGxL/view"
 web-video:   "https://lucksys.github.io/canciones/la_alquimia_del_acto/index?t=p&v=1"
 web-cancion: "https://lucksys.github.io/canciones/la_alquimia_del_acto/index?t=a&v=1"
-info:        "Composición en espanol neutro. Mateo 7:16 : Por sus frutos los conoceréis ... 
+info:        "Composición en espanol neutro. Mateo 7:16: Por sus frutos los conoceréis... 
               Las promesas vacías debilitan la confianza en uno mismo y alimentan la 
               expectativa de volver a fracasar. El escriba o contador es nuestro 
-              subconciente. Y La verdadera transformación no nace de las palabras ni de las 
-              ilusiones, sino de los actos concretos. Cada pequeño compromiso cumplido 
+              subconciente. Y La verdadera transformación no nace de las palabras ni de 
+              las ilusiones, sino de los actos concretos.Cada pequeño compromiso cumplido 
               convierte el esfuerzo en fuerza y el plomo interior en oro. 
               Cuando la voluntad se vuelve acción, renace la identidad y se construye un 
               templo interior inmortal."  
